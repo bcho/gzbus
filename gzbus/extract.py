@@ -7,6 +7,8 @@
     Extract Guangzhou bus routines.
 '''
 
+from __future__ import unicode_literals
+
 import re
 from pyquery import PyQuery as pq
 
