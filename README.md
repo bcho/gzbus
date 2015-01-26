@@ -1,6 +1,7 @@
 # gzbus
 
 [![Build Status](https://travis-ci.org/bcho/gzbus.svg)](https://travis-ci.org/bcho/gzbus)
+![Version](https://img.shields.io/pypi/v/gzbus.svg)
 
 
 Guangzhou bus routine realtime tracking.
@@ -45,6 +46,12 @@ Guangzhou bus routine realtime tracking.
                                               '市国家档案馆(大学城)总站']}}}]
 ```
 
+
+## Installation
+
+```shell
+$ pip install gzbus
+```
 
 
 ## License
