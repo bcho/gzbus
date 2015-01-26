@@ -20,13 +20,19 @@ CURRENT_ROUTINE_PATTERN = re.compile('.*下一趟开往\[(.*)\]的.*\[(\d*)\]站
 
 
 def extract_routine_name(page):
-    '''Extract routine name from routine page.'''
+    '''Extract routine name from routine page.
+
+    :param page: crawled page.
+    '''
     text = _(page('.Bus_box h5').text())
     return ROUTINE_NAME_PATTERN.findall(text)[0]
 
 
 def extract_stations(page):
-    '''Extract bus stations from routine page.'''
+    '''Extract bus stations from routine page.
+
+    :param page: crawled page.
+    '''
     stations = [_(station.value) for station in page('.stateName')]
     return {
         'terminal': {
@@ -38,7 +44,11 @@ def extract_stations(page):
 
 
 def extract_current_routine(page, stations):
-    '''Extract current routine information from page.'''
+    '''Extract current routine information from page.
+
+    :param page: crawled page.
+    :param stations: bus stations list. See `~extract_stations`.
+    '''
     current_routines = CURRENT_ROUTINE_PATTERN.findall(page.text())
     if not current_routines:
         return
@@ -62,7 +72,10 @@ def extract_current_routine(page, stations):
 
 
 def extract_bus_routine(page):
-    '''Extract bus routine information from page.'''
+    '''Extract bus routine information from page.
+
+    :param page: crawled page.
+    '''
     if not isinstance(page, pq):
         page = pq(page)
 
