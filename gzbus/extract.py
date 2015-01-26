@@ -41,8 +41,10 @@ def extract_current_routine(page, stations):
     if not current_routines:
         return
 
-    viewpoint = current_routines[0]
-    terminal_station, distance = _(viewpoint[0]), int(viewpoint[1])
+    terminal_station = stations['stations'][-1]
+    for routine in current_routines:
+        if _(routine[0]) == terminal_station:
+            distance = int(routine[1])
     stations_to_this_dir = stations['terminal'][terminal_station]
 
     waiting_station = _(page('.now .stateName').val())

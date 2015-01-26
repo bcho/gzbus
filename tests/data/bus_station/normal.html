@@ -1,0 +1,488 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=7" />
+    
+  <meta name="Author" content="万户网络设计制作" />
+<title>羊羊网-广州综合交通信息门户</title>
+<meta name="keywords" content="羊羊网,交通信息,实时公交,实时路况,智能交通广州交通视频,广州航班延误,广州火车到站时间" />
+<meta name="Description" content="羊羊网,交通信息,汽车票,综合交通信息门户,智能交通" />
+
+
+<script src="/Scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="/Scripts/QueryHelp.js" type="text/javascript"></script>
+<script src="/Scripts/Cookie.js" type="text/javascript"></script>
+   <link href="/css/css_whir.css" rel="stylesheet" type="text/css" />
+
+    
+</head>
+<body>
+    <form name="form1" method="post" action="Bus_station.aspx?bid=10000221&amp;bn=%u5927%u5b66%u57ce2%u7ebf&amp;sn=%u79d1%u5b66%u9662%u5730%u5316%u6240%u7ad9&amp;spn=%u5927%u5b66%u57ce(%u5e7f%u4e2d%u533b)%u603b%u7ad9" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlMiVlNyViYSViZiZzbj0lZTUlOGQlOGUlZTUlYjclYTUlZTclOTQlOWYlZTYlYjQlYmIlZTUlOGMlYmElZTclYWIlOTkmc3BuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZSglZTUlYjklYmYlZTQlYjglYWQlZTUlOGMlYmIpJWU2JTgwJWJiJWU3JWFiJTk5JykiID7ljY7lt6XnlJ/mtLvljLrnq5k8L2E+4oaSPGEgb25jbGljaz0ic2hvd2luZm8oJ0J1c19zdGF0aW9uLmFzcHg/YmlkPTEwMDAwMjIxJmJuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZTIlZTclYmElYmYmc249JWU1JThkJThlJWU1JWI3JWE1JWU3JWFiJTk5JnNwbj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUoJWU1JWI5JWJmJWU0JWI4JWFkJWU1JThjJWJiKSVlNiU4MCViYiVlNyVhYiU5OScpIiA+5Y2O5bel56uZPC9hPuKGkjxhIG9uY2xpY2s9InNob3dpbmZvKCdCdXNfc3RhdGlvbi5hc3B4P2JpZD0xMDAwMDIyMSZibj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUyJWU3JWJhJWJmJnNuPSVlNyViYiViYyVlNSU5MCU4OCVlNSU5NSU4NiVlNCViOCU5YSVlNSU4ZCU5NyVlNSU4YyViYSVlNyVhYiU5OSZzcG49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlKCVlNSViOSViZiVlNCViOCVhZCVlNSU4YyViYiklZTYlODAlYmIlZTclYWIlOTknKSIgPue7vOWQiOWVhuS4muWNl+WMuuermTwvYT7ihpI8YSBvbmNsaWNrPSJzaG93aW5mbygnQnVzX3N0YXRpb24uYXNweD9iaWQ9MTAwMDAyMjEmYm49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlMiVlNyViYSViZiZzbj0lZTUlYjklYmYlZTUlYjclYTUlZTclYWIlOTkmc3BuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZSglZTUlYjklYmYlZTQlYjglYWQlZTUlOGMlYmIpJWU2JTgwJWJiJWU3JWFiJTk5JykiID7lub/lt6Xnq5k8L2E+4oaSPGEgb25jbGljaz0ic2hvd2luZm8oJ0J1c19zdGF0aW9uLmFzcHg/YmlkPTEwMDAwMjIxJmJuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZTIlZTclYmElYmYmc249JWU0JWI4JWFkJWU3JThlJWFmJWU4JWE1JWJmJWU4JWI3JWFmJWU3JWFiJTk5JnNwbj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUoJWU1JWI5JWJmJWU0JWI4JWFkJWU1JThjJWJiKSVlNiU4MCViYiVlNyVhYiU5OScpIiA+5Lit546v6KW/6Lev56uZPC9hPuKGkjxhIG9uY2xpY2s9InNob3dpbmZvKCdCdXNfc3RhdGlvbi5hc3B4P2JpZD0xMDAwMDIyMSZibj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUyJWU3JWJhJWJmJnNuPSVlNyViZSU4ZSVlNiU5YyVhZiVlNSVhZCVhNiVlOSU5OSVhMiVlNyVhYiU5OSZzcG49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlKCVlNSViOSViZiVlNCViOCVhZCVlNSU4YyViYiklZTYlODAlYmIlZTclYWIlOTknKSIgPue+juacr+WtpumZouermTwvYT7ihpI8YSBvbmNsaWNrPSJzaG93aW5mbygnQnVzX3N0YXRpb24uYXNweD9iaWQ9MTAwMDAyMjEmYm49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlMiVlNyViYSViZiZzbj0lZTUlYjglODIlZTUlOWIlYmQlZTUlYWUlYjYlZTYlYTElYTMlZTYlYTElODglZTklYTYlODYlZTUlOGQlOTcoJWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlKSVlNyVhYiU5OSZzcG49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlKCVlNSViOSViZiVlNCViOCVhZCVlNSU4YyViYiklZTYlODAlYmIlZTclYWIlOTknKSIgPuW4guWbveWutuaho+ahiOmmhuWNlyjlpKflrabln44p56uZPC9hPuKGkjxhIG9uY2xpY2s9InNob3dpbmZvKCdCdXNfc3RhdGlvbi5hc3B4P2JpZD0xMDAwMDIyMSZibj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUyJWU3JWJhJWJmJnNuPSVlOCVhNSViZiVlNCViYSU5NCVlOCViNyVhZiglZTQlYjglYWQlZTklODMlYTglZTYlOWUlYTIlZTclYmElYmQpJWU3JWFiJTk5JnNwbj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUoJWU1JWI5JWJmJWU0JWI4JWFkJWU1JThjJWJiKSVlNiU4MCViYiVlNyVhYiU5OScpIiA+6KW/5LqU6LevKOS4remDqOaeoue6vSnnq5k8L2E+4oaSPGEgb25jbGljaz0ic2hvd2luZm8oJ0J1c19zdGF0aW9uLmFzcHg/YmlkPTEwMDAwMjIxJmJuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZTIlZTclYmElYmYmc249JWU1JThkJThlJWU1JWI4JTg4JWU3JWFiJTk5JnNwbj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUoJWU1JWI5JWJmJWU0JWI4JWFkJWU1JThjJWJiKSVlNiU4MCViYiVlNyVhYiU5OScpIiA+5Y2O5biI56uZPC9hPuKGkjxhIG9uY2xpY2s9InNob3dpbmZvKCdCdXNfc3RhdGlvbi5hc3B4P2JpZD0xMDAwMDIyMSZibj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUyJWU3JWJhJWJmJnNuPSVlNiU5OCU5ZiVlNiViNSViNyVlNSVhZCVhNiVlOSU5OSVhMiVlNyVhYiU5OSZzcG49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlKCVlNSViOSViZiVlNCViOCVhZCVlNSU4YyViYiklZTYlODAlYmIlZTclYWIlOTknKSIgPuaYn+a1t+WtpumZouermTwvYT7ihpI8YSBvbmNsaWNrPSJzaG93aW5mbygnQnVzX3N0YXRpb24uYXNweD9iaWQ9MTAwMDAyMjEmYm49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlMiVlNyViYSViZiZzbj0lZTUlOWMlYjAlZTklOTMlODElZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUlZTUlOGMlOTclZTclYWIlOTkmc3BuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZSglZTUlYjklYmYlZTQlYjglYWQlZTUlOGMlYmIpJWU2JTgwJWJiJWU3JWFiJTk5JykiID7lnLDpk4HlpKflrabln47ljJfnq5k8L2E+4oaSPGEgb25jbGljaz0ic2hvd2luZm8oJ0J1c19zdGF0aW9uLmFzcHg/YmlkPTEwMDAwMjIxJmJuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZTIlZTclYmElYmYmc249JWU0JWJiJTkxJWU1JWE0JWI0JWU3JWFiJThiJWU0JWJhJWE0JWU3JWFiJTk5JnNwbj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUoJWU1JWI5JWJmJWU0JWI4JWFkJWU1JThjJWJiKSVlNiU4MCViYiVlNyVhYiU5OScpIiA+5LuR5aS056uL5Lqk56uZPC9hPuKGkjxhIG9uY2xpY2s9InNob3dpbmZvKCdCdXNfc3RhdGlvbi5hc3B4P2JpZD0xMDAwMDIyMSZibj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUyJWU3JWJhJWJmJnNuPSVlNyU5MCViNiVlNiViNCViMiVlNSVhNCVhNyVlNiVhMSVhNSVlNSU4YyU5NyVlNyVhYiU5OSZzcG49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlKCVlNSViOSViZiVlNCViOCVhZCVlNSU4YyViYiklZTYlODAlYmIlZTclYWIlOTknKSIgPueQtua0suWkp+ahpeWMl+ermTwvYT7ihpI8YSBvbmNsaWNrPSJzaG93aW5mbygnQnVzX3N0YXRpb24uYXNweD9iaWQ9MTAwMDAyMjEmYm49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlMiVlNyViYSViZiZzbj0lZTclYTclOTElZTklOWYlYjUlZTglYjclYWYlZTclYWIlOTkmc3BuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZSglZTUlYjklYmYlZTQlYjglYWQlZTUlOGMlYmIpJWU2JTgwJWJiJWU3JWFiJTk5JykiID7np5Hpn7Xot6/nq5k8L2E+4oaSPGEgb25jbGljaz0ic2hvd2luZm8oJ0J1c19zdGF0aW9uLmFzcHg/YmlkPTEwMDAwMjIxJmJuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZTIlZTclYmElYmYmc249JWU3JWE3JTkxJWU5JTlmJWI1JWU4JWI3JWFmJWU2JWEzJWEwJWU1JWFlJTg5JWU4JWI3JWFmJWU1JThmJWEzJWU3JWFiJTk5JnNwbj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUoJWU1JWI5JWJmJWU0JWI4JWFkJWU1JThjJWJiKSVlNiU4MCViYiVlNyVhYiU5OScpIiA+56eR6Z+16Lev5qOg5a6J6Lev5Y+j56uZPC9hPuKGkjxhIG9uY2xpY2s9InNob3dpbmZvKCdCdXNfc3RhdGlvbi5hc3B4P2JpZD0xMDAwMDIyMSZibj0lZTUlYTQlYTclZTUlYWQlYTYlZTUlOWYlOGUyJWU3JWJhJWJmJnNuPSVlNyVhNyU5MSVlOSU5ZiViNSVlNyVhYiU4YiVlNCViYSVhNCVlOCVhNSViZiVlNyVhYiU5OSZzcG49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlKCVlNSViOSViZiVlNCViOCVhZCVlNSU4YyViYiklZTYlODAlYmIlZTclYWIlOTknKSIgPuenkemfteeri+S6pOilv+ermTwvYT7ihpI8YSBvbmNsaWNrPSJzaG93aW5mbygnQnVzX3N0YXRpb24uYXNweD9iaWQ9MTAwMDAyMjEmYm49JWU1JWE0JWE3JWU1JWFkJWE2JWU1JTlmJThlMiVlNyViYSViZiZzbj0lZTclYTclOTElZTUlYWQlYTYlZTklOTklYTIlZTUlOWMlYjAlZTUlOGMlOTYlZTYlODklODAlZTclYWIlOTkmc3BuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZSglZTUlYjklYmYlZTQlYjglYWQlZTUlOGMlYmIpJWU2JTgwJWJiJWU3JWFiJTk5JykiID7np5HlrabpmaLlnLDljJbmiYDnq5k8L2E+4oaSPGEgb25jbGljaz0ic2hvd2luZm8oJ0J1c19zdGF0aW9uLmFzcHg/YmlkPTEwMDAwMjIxJmJuPSVlNSVhNCVhNyVlNSVhZCVhNiVlNSU5ZiU4ZTIlZTclYmElYmYmc249JWU3JTljJTgxJWU1JTg2JTljJWU1JWI5JWIyJWU3JWE3JTkxJWU1JWI5JWIyJWU5JTk5JWEyJWU3JWFiJTk5JnNwbj0lZTUlYTQlYTclZTUlYWQlYTYl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" />
+</div>
+
+    
+<div id="divMark" class="Coverlayer" style="display:none;"></div>
+
+   <div class="header">
+    <!--logo start-->
+    <div class="logo">
+        <a href="/index.aspx">
+            <img src="/images/logo.jpg" /></a></div>
+    <!--logo end-->
+    <div class="top_notice">
+        <span>
+        
+                        
+                       足不出户即可掌握城市交通动态，绿色出行，幸福出行！!
+                       
+               
+                        
+                        
+        
+</span></div>
+    <div class="top_nav">
+        <a onclick="SetHome(this,window.location.href);" href="#">设为首页</a><a href="#" onclick="AddFavorite();">加入收藏</a><a style="" href="/YYDF.aspx">软件下载</a></div>
+            <div class="Weather" style="color:Black;">
+    <script>var d =new Date();
+    var root='/';
+    var weekday=new Array(7);
+ weekday[0]="星期日" ;
+ weekday[1]="星期一";
+ weekday[2]="星期二";
+ weekday[3]="星期三";
+ weekday[4]="星期四";
+ weekday[5]="星期五";
+ weekday[6]="星期六";
+
+
+    
+    document.write(d.getFullYear()+'年'+(d.getMonth()+1)+'月'+d.getDate()+'日&nbsp;&nbsp;'+weekday[d.getDay()])</script>
+
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+<!-- 菜单 start-->
+<div class="mainnav">
+   <div>
+    <ul class="menu_list">
+        <li id="mainnav_1"><a href="/index.aspx" id="tag1">首页</a></li>
+        <li id="mainnav_2"><a href="/news.aspx" id="tag2">资 讯</a>
+            <div class="subnav">
+            <p>
+                <a href="/news.aspx?tid=1388" id="menuset1">交通新闻</a><a href="/news.aspx?tid=1389" id="menuset2">公共交通</a><a href="/news.aspx?tid=1390">城际出行</a>
+                 <a  href="/blognews.aspx?tid=1392" id="menuset4">出行提示</a>
+                </p>
+            </div>
+        </li>
+        <li id="mainnav_3"><a href="/Taxi_Service.aspx" id="tag3">出行查询</a>
+            <div class="subnav">
+    <p>
+  <a href="/Traffic_check.aspx">路况查询</a><a href="/Traffic_video.aspx">交通视频</a><a href="/BusTransfer.aspx">公交信息服务</a>
+  <a href="/Taxi_Service.aspx">出租车空车查询</a><a style="display:none;" href="/Taxi_booking.aspx">出租车预约</a><a href="/Bus_booking.aspx">客运汽车票查询</a><a href="/Parking_service.aspx">停车场信息服务</a><a href="/Flight_Query.aspx">航班动态</a><a href="/Train_Query.aspx">列车动态</a><a href="/Subway.aspx">地铁信息查询</a>
+   </p>
+            </div>
+            
+        </li>
+        <li  id="mainnav_4"><a target="_blank" href="/bbs/index.aspx" id="tag4">羊羊社区</a></li>
+    </ul>
+    </div>
+    <div class="subnav_top">
+    <table width="530" border="0" align="right" cellpadding="0" cellspacing="0" id="login_out">
+  <tr>
+    <td>用户名：</td>
+    <td><input name="" id="uno" type="text" class="l_input" maxlength="30" style="width:100px;" /></td>
+    <td>密  码：</td>
+    <td><input name="" id="pwd" type="password"  class="l_input" maxlength="20" style="width:100px;" /></td>
+    <td><input name="" id="lin" type="button" value="登录" class="l_btn" /></td>
+    <td><p><a href="/Member/findPWD.aspx">找密码</a>|<a href="/Member/register.aspx">注册</a></p></td>
+  </tr>
+</table>
+    <div class="login_txt" id="login_in" style="display:none;"><span id="logN"></span>欢迎你登录【<a href="/member/member.aspx">会员中心</a>】【<a href="/member/logout.aspx">退出</a>】<a href="/member/help.aspx">帮助信息</a></div>
+  </div>
+</div>
+<!-- 菜单 end-->
+
+<script src="/Scripts/checkData.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+try{
+ document.getElementById("tag" + tagid).className= "aon";
+  document.getElementById("menuset" + menuset).className= "aon";
+
+ }catch(ex){}
+ 
+ 
+     $(".menu_list li").bind("mouseover",function(){
+        jQuery(this).find("a").attr("class","aon");
+        jQuery(this).find(".subnav").show();
+    })
+    $(".menu_list li").bind("mouseleave",function(){
+        jQuery(this).find(".subnav").hide();
+        jQuery(this).find("a").attr("class","");
+    })
+ 
+function enterPressExecuteLinkButtonAction(textBoxID, buttonID) {
+
+        if (event.keyCode == 13) {
+
+            var func = new Function(document.getElementById(buttonID).href.slice(11));
+
+            func();
+
+            event.returnValue = false;
+
+        }
+
+    }
+
+function AddFavorite() 
+{ 
+    var sURL=window.location.href;
+
+    var sTitle=document.title;
+    try 
+    { 
+    
+
+        window.external.addFavorite(sURL, sTitle); 
+    } 
+    catch (e) 
+    { 
+        try 
+        { 
+            window.sidebar.addPanel(sTitle, sURL, ""); 
+        } 
+        catch (e) 
+        { 
+            alert("加入收藏失败，请使用Ctrl+D进行添加"); 
+        } 
+    } 
+} 
+
+function SetHome(obj,vrl){ 
+        try{ 
+                obj.style.behavior='url(#default#homepage)';obj.setHomePage(vrl); 
+        } 
+        catch(e){ 
+                if(window.netscape) { 
+                        try { 
+                                netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect"); 
+                        } 
+                        catch (e) { 
+                                alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]的值设置为'true',双击即可。"); 
+                        } 
+                        var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch); 
+                        prefs.setCharPref('browser.startup.homepage',vrl); 
+                 } 
+        }
+    }
+
+</script>
+    <div class="contain">
+        <div class="sidebar">
+            
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<div class="sidetitle"><span>交通新闻</span></div>
+<div class="sidemenu">
+<ul class="diji_list">
+
+<li><a target="_blank" title="小长假结束返程小拥堵 " href="/news_info.aspx?id=3500&cid=0">小长假结束返程小拥堵 </a></li>
+
+<li><a target="_blank" title="水巴快过公交 你出街可会帮衬？" href="/news_info.aspx?id=2876&cid=0">水巴快过公交 你出街可会帮...</a></li>
+
+<li><a target="_blank" title="北方暴雪部分机场关闭" href="/news_info.aspx?id=2872&cid=0">北方暴雪部分机场关闭</a></li>
+
+<li><a target="_blank" title="北方暴雪部分机场关闭" href="/news_info.aspx?id=2873&cid=0">北方暴雪部分机场关闭</a></li>
+
+<li><a target="_blank" title="北方暴雪部分机场关闭" href="/news_info.aspx?id=2874&cid=0">北方暴雪部分机场关闭</a></li>
+
+<li><a target="_blank" title="地铁APM今起7时起运营" href="/news_info.aspx?id=2848&cid=0">地铁APM今起7时起运营</a></li>
+
+<li><a target="_blank" title="地铁APM今起7时起运营" href="/news_info.aspx?id=2849&cid=0">地铁APM今起7时起运营</a></li>
+
+<li><a target="_blank" title="地铁APM今起7时起运营" href="/news_info.aspx?id=2850&cid=0">地铁APM今起7时起运营</a></li>
+
+
+</ul>
+<div class="adv_w200x217">
+<a href="http://maipiao.96900.com.cn/" target="_blank"><img src='/uploadfiles/20111219112239796.jpg'  onerror="this.src='/images/nopic.gif'"  /></a></div>
+<div class="adv_w200x149">
+<a href="http://www.gzyyjt.com/Bus_Ser_station.aspx?bn=%E8%BE%93%E5%85%A5%E7%BA%BF%E8%B7%AF&schtype=2" target="_blank"><img src='/uploadfiles/20111219041930203.jpg'  onerror="this.src='/images/nopic.gif'"  /></a></div>
+
+</div>
+<div class="sidebottom"></div>
+
+        </div>
+        <div class="main">
+            <div class="main_top">
+            </div>
+            <div class="maincontent">
+                <div class="Bus_station">
+                    <div style="margin-bottom:20px;"><input name="txtbusKey" type="text" value="大学城2线" id="txtbusKey" class="b_input" /><input type="submit" name="btnSearbusLine" value="搜索" id="btnSearbusLine" class="btn_02" /><span class="bus_txt"></span>
+                    
+                    </div>
+                      
+                    
+                          <div class="Bus_box">
+                            <h5>
+                                
+                                    大学城2线(大学城(广中医)总站
+                                    →
+                                    华工大总站①)<input type="hidden" id="starP" value="大学城(广中医)总站" /></h5>
+                                    <div class="show_businfo">
+                            <ul>
+                                <li style="color:Red;">想知道下一班车距离多远? 选择您所在的站点吧!&nbsp;<img src="images/bus2.jpg" />表示离所选站点最近的下一班车</li>
+                            </ul>
+                            <div class="lines">
+                                <b>途径站点</b>
+                                <a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >大学城(广中医)总站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e4%b8%9c%e4%b8%89%e8%b7%af%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >东三路站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e5%8d%8e%e5%b7%a5%e7%94%9f%e6%b4%bb%e5%8c%ba%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >华工生活区站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e5%8d%8e%e5%b7%a5%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >华工站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e7%bb%bc%e5%90%88%e5%95%86%e4%b8%9a%e5%8d%97%e5%8c%ba%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >综合商业南区站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e5%b9%bf%e5%b7%a5%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >广工站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e4%b8%ad%e7%8e%af%e8%a5%bf%e8%b7%af%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >中环西路站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e7%be%8e%e6%9c%af%e5%ad%a6%e9%99%a2%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >美术学院站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e5%b8%82%e5%9b%bd%e5%ae%b6%e6%a1%a3%e6%a1%88%e9%a6%86%e5%8d%97(%e5%a4%a7%e5%ad%a6%e5%9f%8e)%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >市国家档案馆南(大学城)站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e8%a5%bf%e4%ba%94%e8%b7%af(%e4%b8%ad%e9%83%a8%e6%9e%a2%e7%ba%bd)%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >西五路(中部枢纽)站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e5%8d%8e%e5%b8%88%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >华师站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e6%98%9f%e6%b5%b7%e5%ad%a6%e9%99%a2%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >星海学院站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e5%9c%b0%e9%93%81%e5%a4%a7%e5%ad%a6%e5%9f%8e%e5%8c%97%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >地铁大学城北站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e4%bb%91%e5%a4%b4%e7%ab%8b%e4%ba%a4%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >仑头立交站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e7%90%b6%e6%b4%b2%e5%a4%a7%e6%a1%a5%e5%8c%97%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >琶洲大桥北站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e7%a7%91%e9%9f%b5%e8%b7%af%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >科韵路站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e7%a7%91%e9%9f%b5%e8%b7%af%e6%a3%a0%e5%ae%89%e8%b7%af%e5%8f%a3%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >科韵路棠安路口站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e7%a7%91%e9%9f%b5%e7%ab%8b%e4%ba%a4%e8%a5%bf%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >科韵立交西站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e7%a7%91%e5%ad%a6%e9%99%a2%e5%9c%b0%e5%8c%96%e6%89%80%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >科学院地化所站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e7%9c%81%e5%86%9c%e5%b9%b2%e7%a7%91%e5%b9%b2%e9%99%a2%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >省农干科干院站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e5%86%9c%e7%a7%91%e9%99%a2%e7%ab%99&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >农科院站</a>→<a onclick="showinfo('Bus_station.aspx?bid=10000221&bn=%e5%a4%a7%e5%ad%a6%e5%9f%8e2%e7%ba%bf&sn=%e5%8d%8e%e5%b7%a5%e5%a4%a7%e6%80%bb%e7%ab%99%e2%91%a0&spn=%e5%a4%a7%e5%ad%a6%e5%9f%8e(%e5%b9%bf%e4%b8%ad%e5%8c%bb)%e6%80%bb%e7%ab%99')" >华工大总站①</a>
+                                <font>（22站）</font>
+                            </div>
+                          </div>
+                          </div>
+                        
+                    
+
+                 
+
+                  
+                    <div id="messdiv">
+                    </div>
+                    <div class="bus_iframe">
+                    <div class="bus_par">
+                    <div id="panelInfo" class="station">
+	
+                        
+                        <table cellpadding="0" cellspacing="0">
+                        <tr>
+                            
+                                    <td id="sta8767" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="大学城(广中医)总站" /><font>大学城(广中医)总站</font></td>
+                                
+                                    <td id="sta10096" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="东三路站" /><font>东三路站</font></td>
+                                
+                                    <td id="sta2066" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="华工生活区站" /><font>华工生活区站</font></td>
+                                
+                                    <td id="sta2067" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="华工站" /><font>华工站</font></td>
+                                
+                                    <td id="sta2068" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="综合商业南区站" /><font>综合商业南区站</font></td>
+                                
+                                    <td id="sta2003" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="广工站" /><font>广工站</font></td>
+                                
+                                    <td id="sta2004" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="中环西路站" /><font>中环西路站</font></td>
+                                
+                                    <td id="sta2072" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="美术学院站" /><font>美术学院站</font></td>
+                                
+                                    <td id="sta3063" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="市国家档案馆南(大学城)站" /><font>市国家档案馆南(大学城)站</font></td>
+                                
+                                    <td id="sta8686" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="西五路(中部枢纽)站" /><font>西五路(中部枢纽)站</font></td>
+                                
+                                    <td id="sta1829" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="华师站" /><font>华师站</font></td>
+                                
+                                    <td id="sta1830" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="星海学院站" /><font>星海学院站</font></td>
+                                
+                                    <td id="sta1877" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="地铁大学城北站" /><font>地铁大学城北站</font></td>
+                                
+                                    <td id="sta1831" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="仑头立交站" /><font>仑头立交站</font></td>
+                                
+                                    <td id="sta1250" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="琶洲大桥北站" /><font>琶洲大桥北站</font></td>
+                                
+                                    <td id="sta1251" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="科韵路站" /><font>科韵路站</font></td>
+                                
+                                    <td id="sta3899" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="科韵路棠安路口站" /><font>科韵路棠安路口站</font></td>
+                                
+                                    <td id="sta6088" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="科韵立交西站" /><font>科韵立交西站</font></td>
+                                
+                                    <td id="sta2149" class='now' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="科学院地化所站" /><font>科学院地化所站</font></td>
+                                
+                                    <td id="sta2150" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="省农干科干院站" /><font>省农干科干院站</font></td>
+                                
+                                    <td id="sta2151" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="农科院站" /><font>农科院站</font></td>
+                                
+                                    <td id="sta9617" class='' valign="top" width="20">
+                                        <input type="hidden" class='stateName' value="华工大总站①" /><font>华工大总站①</font></td>
+                                
+                            </tr>
+                        </table>
+
+                        <script type="text/javascript">
+                   var min=100;
+                        </script>
+
+                        
+
+                                <script type="text/javascript">
+                                 jQuery(".show_businfo").show();
+                                  jQuery(".bus_iframe").show();
+
+                                if(jQuery("#starP").val()=='华工大总站①'&&3<=min)
+                                {    
+                                    min =3;
+                                    var xxx=jQuery(".stateName[value='科学院地化所站']:first").parent();
+                                  
+                                    for(var i=0;i<3;i++)
+                                    {
+                                            xxx=jQuery(xxx).prev();
+                                            
+                                    }
+                                   jQuery(xxx).attr("class","car");
+                                   
+                                   jQuery("#messdiv").html('下一趟开往[大学城(广中医)总站]的大学城2线公交车,距离本站还有[3]站');
+                                }
+                                </script>
+
+                            
+
+                                <script type="text/javascript">
+                                 jQuery(".show_businfo").show();
+                                  jQuery(".bus_iframe").show();
+
+                                if(jQuery("#starP").val()=='大学城(广中医)总站'&&8<=min)
+                                {    
+                                    min =8;
+                                    var xxx=jQuery(".stateName[value='科学院地化所站']:first").parent();
+                                  
+                                    for(var i=0;i<8;i++)
+                                    {
+                                            xxx=jQuery(xxx).prev();
+                                            
+                                    }
+                                   jQuery(xxx).attr("class","car");
+                                   
+                                   jQuery("#messdiv").html('下一趟开往[华工大总站①]的大学城2线公交车,距离本站还有[8]站');
+                                }
+                                </script>
+
+                            
+                        <div class="clear">
+                        </div>
+                        
+                        <script type="text/javascript">
+                        setTimeout(function(){
+                        window.location.reload();
+                        },30000);
+                         </script>
+                    
+</div>
+                    </div>
+                    </div>
+                    <div class="clear"></div>
+                    <table cellpadding="3" cellspacing="0" style="margin-top:20px;">
+                       <tr>
+                       <td><input type="submit" name="btnReturn" value="返回上一级" id="btnReturn" class="btn_01" /></td>
+                       <td><input type="button" name="button" id="button1" onclick="window.location.reload()" value="刷新" class="btn_02" /></td>
+                       </tr>
+                    </table>
+                    </div>
+                    
+                    
+                    
+                </div>
+            <div class="main_bottom">
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    
+    <div  style="display: none" id="mydiv" class="buscode_box">
+                    <div class="send_title">
+                        <span>验证码</span></div>
+                    <div class="send_cont">
+<div class="phone_send02">
+                            请输入验证码：
+                             <input name="txtSelCode" type="text" id="txtSelCode" class="p_input" style="width:120px;" />
+     <em><img alt="看不清楚，请点击换一张." align="absmiddle" src="/ajax/VerifyCode.aspx?cn=sel" style="cursor: pointer"
+                            onclick="this.src='/ajax/VerifyCode.aspx?cn=sel&d='+new Date().getMilliseconds()" />
+                            <input name="selUrl" type="text" id="selUrl" style="display:none;" />
+                            <input type="submit" name="btnSend" value="确认" onclick="return vcheck();" id="btnSend" class="btn_02" />
+                        <input id="Button2" type="button" value="关闭" class="btn_02" onclick="jQuery('#mydiv').hide();" /></div>
+                    </div>
+       </div>
+    
+    
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<div class="footer">
+    <p>
+        <a href="/index.aspx">首页</a>|<a href="/ahelp.aspx">帮助中心</a>|<a href="/about.aspx">关于我们</a>|<a href="/contact.aspx">联系方式</a>|<a href="/map.aspx">网站地图</a>|<a href="/links.aspx">友情链接</a>|<a href="/feedback.aspx">意见反馈</a>|<script src="http://s23.cnzz.com/stat.php?id=3687618&web_id=3687618&show=pic1" language="JavaScript"></script>
+</p>
+    <p>
+        Copyright © 2011 广州交通信息化建设投资营运有限公司. All Rights Reserved.   ICP备案号:<a href="http://www.miibeian.gov.cn" target="_blank">粤B2-20040454号-5</a></p>
+</div>
+
+
+    </form>
+</body>
+</html>
+<script type="text/javascript">
+
+
+function showinfo(url)
+{
+    jQuery("#selUrl").val(url);
+    jQuery("#mydiv").show();
+}
+
+function vcheck()
+{
+    if(jQuery.trim(jQuery("#txtSelCode").val())=="")
+    {
+        alert("请输入验证码");
+        return false;
+    }
+    
+    return true;
+}
+
+function selvcheck()
+{
+    if(GetCookie("vcodeBus_station"))
+    {
+         if(GetCookie("vcodeBus_station").toLocaleLowerCase()!=jQuery("#txtCodeBus_station").val().toLocaleLowerCase())
+        {
+            alert("验证码错误！");
+            return false;
+        }
+    }else
+    {
+     alert("当前验证码已过期，请单击验证码获取新验证码！")
+         return false;
+    } 
+    
+  return true;
+}
+
+   jQuery(".Bus_box h5").bind("click",function(){
+       jQuery(".show_businfo").hide();
+       jQuery(this).next(".show_businfo").show();
+   })
+   //var w=jQuery(".station table").width()+30;//2012.6.13  xp修改
+   var w=jQuery(".station table").width()+130;
+   jQuery(".bus_par").css("width",w);
+</script>
