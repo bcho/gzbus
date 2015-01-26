@@ -12,8 +12,8 @@ __all__ = ['buses']
 
 buses = {
     '高峰快线27': {
-        "name": '高峰快线27',
-        "bid": '10002761',
+        'name': '高峰快线27',
+        'bid': '10002761',
         'starting_station': '同德围泽德花园总站',
         'terminal_station': '大新路口',
         'stations': [
@@ -32,8 +32,8 @@ buses = {
         ]
     },
     '263路': {
-        "name": '263路',
-        "bid": '10026300',
+        'name': '263路',
+        'bid': '10026300',
         'starting_station': '广州火车东站总站④a',
         'terminal_station': '盈丰路总站',
         'stations': [
@@ -59,8 +59,8 @@ buses = {
         ]
     },
     '449路': {
-        "name": '449路',
-        "bid": '10044901',
+        'name': '449路',
+        'bid': '10044901',
         'starting_station': '八斗村站',
         'terminal_station': '黄陂社区总站',
         'stations': [
@@ -79,8 +79,8 @@ buses = {
         ]
     },
     '64路': {
-        "name": '64路',
-        "bid": '10006400',
+        'name': '64路',
+        'bid': '10006400',
         'starting_station': '广卫路总站',
         'terminal_station': '东沙工业园总站',
         'stations': [
@@ -107,8 +107,8 @@ buses = {
         ]
     },
     '132路': {
-        "name": '132路',
-        "bid": '10013201',
+        'name': '132路',
+        'bid': '10013201',
         'starting_station': '白天鹅花园总站',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -127,8 +127,8 @@ buses = {
         ]
     },
     '43路': {
-        "name": '43路',
-        "bid": '10004301',
+        'name': '43路',
+        'bid': '10004301',
         'starting_station': '丰乐南路总站',
         'terminal_station': '广州火车东站总站⑤b',
         'stations': [
@@ -166,8 +166,8 @@ buses = {
         ]
     },
     '204路': {
-        "name": '204路',
-        "bid": '10020400',
+        'name': '204路',
+        'bid': '10020400',
         'starting_station': '中山八路总站①',
         'terminal_station': '珠江帝景苑总站',
         'stations': [
@@ -199,8 +199,8 @@ buses = {
         ]
     },
     '科学城环线1': {
-        "name": '科学城环线1',
-        "bid": '10000570',
+        'name': '科学城环线1',
+        'bid': '10000570',
         'starting_station': '科学城路口总站',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -221,8 +221,8 @@ buses = {
         ]
     },
     '夜17': {
-        "name": '夜17',
-        "bid": '10001710',
+        'name': '夜17',
+        'bid': '10001710',
         'starting_station': '珠村站',
         'terminal_station': '广州火车东站总站②a',
         'stations': [
@@ -247,8 +247,8 @@ buses = {
         ]
     },
     '地铁10A路': {
-        "name": '地铁10A路',
-        "bid": '10710241',
+        'name': '地铁10A路',
+        'bid': '10710241',
         'starting_station': '祈福新村总站',
         'terminal_station': '地铁汉溪长隆站总站①',
         'stations': [
@@ -268,8 +268,8 @@ buses = {
         ]
     },
     '广275路': {
-        "name": '广275路',
-        "bid": '10027500',
+        'name': '广275路',
+        'bid': '10027500',
         'starting_station': '平洲总站',
         'terminal_station': '广州火车站总站n',
         'stations': [
@@ -310,8 +310,8 @@ buses = {
         ]
     },
     '477路': {
-        "name": '477路',
-        "bid": '10047700',
+        'name': '477路',
+        'bid': '10047700',
         'starting_station': '西洲北路(增槎路口)总站',
         'terminal_station': '西洲北路(增槎路口)总站',
         'stations': [
@@ -323,8 +323,8 @@ buses = {
         ]
     },
     '468路': {
-        "name": '468路',
-        "bid": '10046801',
+        'name': '468路',
+        'bid': '10046801',
         'starting_station': '土华总站',
         'terminal_station': '滨江东路总站',
         'stations': [
@@ -359,8 +359,8 @@ buses = {
         ]
     },
     'B20路': {
-        "name": 'B20路',
-        "bid": '10802000',
+        'name': 'B20路',
+        'bid': '10802000',
         'starting_station': '广州火车东站总站①a',
         'terminal_station': '吉山总站',
         'stations': [
@@ -389,8 +389,8 @@ buses = {
         ]
     },
     '328线': {
-        "name": '328线',
-        "bid": '10032800',
+        'name': '328线',
+        'bid': '10032800',
         'starting_station': '丰乐南路总站',
         'terminal_station': '石化生活区南总站',
         'stations': [
@@ -405,8 +405,8 @@ buses = {
         ]
     },
     '番190': {
-        "name": '番190',
-        "bid": '10719000',
+        'name': '番190',
+        'bid': '10719000',
         'starting_station': '地铁大石站总站',
         'terminal_station': '地铁大石站总站',
         'stations': [
@@ -427,8 +427,8 @@ buses = {
         ]
     },
     '422路': {
-        "name": '422路',
-        "bid": '10042201',
+        'name': '422路',
+        'bid': '10042201',
         'starting_station': '大埔村总站',
         'terminal_station': '新市墟总站',
         'stations': [
@@ -445,8 +445,8 @@ buses = {
         ]
     },
     '830路': {
-        "name": '830路',
-        "bid": '10083000',
+        'name': '830路',
+        'bid': '10083000',
         'starting_station': '金沙洲码头总站',
         'terminal_station': '石马总站',
         'stations': [
@@ -484,8 +484,8 @@ buses = {
         ]
     },
     '811路': {
-        "name": '811路',
-        "bid": '10081100',
+        'name': '811路',
+        'bid': '10081100',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '天河公交场总站',
         'stations': [
@@ -522,8 +522,8 @@ buses = {
         ]
     },
     '地铁9路': {
-        "name": '地铁9路',
-        "bid": '10700940',
+        'name': '地铁9路',
+        'bid': '10700940',
         'starting_station': '地铁汉溪长隆站总站①',
         'terminal_station': '南村剑桥郡总站',
         'stations': [
@@ -546,8 +546,8 @@ buses = {
         ]
     },
     '南沙51路': {
-        "name": '南沙51路',
-        "bid": '10605101',
+        'name': '南沙51路',
+        'bid': '10605101',
         'starting_station': '万洲水闸总站',
         'terminal_station': '马克村总站',
         'stations': [
@@ -571,8 +571,8 @@ buses = {
         ]
     },
     '564路': {
-        "name": '564路',
-        "bid": '10056401',
+        'name': '564路',
+        'bid': '10056401',
         'starting_station': '天河客运站总站④',
         'terminal_station': '黄埔村总站',
         'stations': [
@@ -622,8 +622,8 @@ buses = {
         ]
     },
     '188路': {
-        "name": '188路',
-        "bid": '10018801',
+        'name': '188路',
+        'bid': '10018801',
         'starting_station': '广轩大厦总站(南天商业城)',
         'terminal_station': '黄沙总站①',
         'stations': [
@@ -656,8 +656,8 @@ buses = {
         ]
     },
     '商务专线3': {
-        "name": '商务专线3',
-        "bid": '10014331',
+        'name': '商务专线3',
+        'bid': '10014331',
         'starting_station': '沙涌南总站',
         'terminal_station': '站前路(西郊大厦)总站',
         'stations': [
@@ -677,8 +677,8 @@ buses = {
         ]
     },
     '741环线': {
-        "name": '741环线',
-        "bid": '10074101',
+        'name': '741环线',
+        'bid': '10074101',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -705,8 +705,8 @@ buses = {
         ]
     },
     '361路': {
-        "name": '361路',
-        "bid": '10036100',
+        'name': '361路',
+        'bid': '10036100',
         'starting_station': '市国家档案馆(大学城)总站',
         'terminal_station': '黄船文化中心总站',
         'stations': [
@@ -730,8 +730,8 @@ buses = {
         ]
     },
     '夜39': {
-        "name": '夜39',
-        "bid": '10003911',
+        'name': '夜39',
+        'bid': '10003911',
         'starting_station': '恒宝广场总站',
         'terminal_station': '科韵路总站',
         'stations': [
@@ -769,8 +769,8 @@ buses = {
         ]
     },
     '337路': {
-        "name": '337路',
-        "bid": '10033700',
+        'name': '337路',
+        'bid': '10033700',
         'starting_station': '萝岗香雪公园总站',
         'terminal_station': '东鹏大道总站',
         'stations': [
@@ -796,8 +796,8 @@ buses = {
         ]
     },
     '723路': {
-        "name": '723路',
-        "bid": '10072301',
+        'name': '723路',
+        'bid': '10072301',
         'starting_station': '峡石村总站',
         'terminal_station': '江高(江村墟)总站',
         'stations': [
@@ -828,8 +828,8 @@ buses = {
         ]
     },
     '403路': {
-        "name": '403路',
-        "bid": '10040301',
+        'name': '403路',
+        'bid': '10040301',
         'starting_station': '奥林匹克体育中心总站',
         'terminal_station': '大淋岗总站',
         'stations': [
@@ -845,8 +845,8 @@ buses = {
         ]
     },
     '192路': {
-        "name": '192路',
-        "bid": '10019200',
+        'name': '192路',
+        'bid': '10019200',
         'starting_station': '水荫路总站',
         'terminal_station': '珠江医院总站①',
         'stations': [
@@ -873,8 +873,8 @@ buses = {
         ]
     },
     '236路': {
-        "name": '236路',
-        "bid": '10023600',
+        'name': '236路',
+        'bid': '10023600',
         'starting_station': '滘口客运站总站①',
         'terminal_station': '天河客运站总站②',
         'stations': [
@@ -908,8 +908,8 @@ buses = {
         ]
     },
     '84S线': {
-        "name": '84S线',
-        "bid": '10008430',
+        'name': '84S线',
+        'bid': '10008430',
         'starting_station': '动物园总站',
         'terminal_station': '渔沙坦(渔中路)总站',
         'stations': [
@@ -940,8 +940,8 @@ buses = {
         ]
     },
     '823路': {
-        "name": '823路',
-        "bid": '10082301',
+        'name': '823路',
+        'bid': '10082301',
         'starting_station': '流花车站总站①',
         'terminal_station': '逸景翠园总站',
         'stations': [
@@ -974,8 +974,8 @@ buses = {
         ]
     },
     '661路': {
-        "name": '661路',
-        "bid": '10066100',
+        'name': '661路',
+        'bid': '10066100',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -1002,8 +1002,8 @@ buses = {
         ]
     },
     '254路': {
-        "name": '254路',
-        "bid": '10025401',
+        'name': '254路',
+        'bid': '10025401',
         'starting_station': '石井红星村总站',
         'terminal_station': '广州火车站总站a',
         'stations': [
@@ -1028,8 +1028,8 @@ buses = {
         ]
     },
     '101路': {
-        "name": '101路',
-        "bid": '10010100',
+        'name': '101路',
+        'bid': '10010100',
         'starting_station': '海印桥总站①',
         'terminal_station': '机场路总站④',
         'stations': [
@@ -1049,8 +1049,8 @@ buses = {
         ]
     },
     '高峰快线271A': {
-        "name": '高峰快线271A',
-        "bid": '10027161',
+        'name': '高峰快线271A',
+        'bid': '10027161',
         'starting_station': '石井(滘心村)总站',
         'terminal_station': '流花车站总站①',
         'stations': [
@@ -1076,8 +1076,8 @@ buses = {
         ]
     },
     '南沙52路': {
-        "name": '南沙52路',
-        "bid": '10605200',
+        'name': '南沙52路',
+        'bid': '10605200',
         'starting_station': '东涌地铁站总站',
         'terminal_station': '鱼窝头二中总站',
         'stations': [
@@ -1112,8 +1112,8 @@ buses = {
         ]
     },
     '414路': {
-        "name": '414路',
-        "bid": '10041400',
+        'name': '414路',
+        'bid': '10041400',
         'starting_station': '芳村葵蓬总站',
         'terminal_station': '芳村合兴苑站',
         'stations': [
@@ -1129,8 +1129,8 @@ buses = {
         ]
     },
     '305支线': {
-        "name": '305支线',
-        "bid": '10030530',
+        'name': '305支线',
+        'bid': '10030530',
         'starting_station': '锦绣半岛总站',
         'terminal_station': '罗冲围总站1③',
         'stations': [
@@ -1166,8 +1166,8 @@ buses = {
         ]
     },
     '976路': {
-        "name": '976路',
-        "bid": '10097601',
+        'name': '976路',
+        'bid': '10097601',
         'starting_station': '太和镇总站',
         'terminal_station': '竹料总站①',
         'stations': [
@@ -1191,8 +1191,8 @@ buses = {
         ]
     },
     '326路': {
-        "name": '326路',
-        "bid": '10032601',
+        'name': '326路',
+        'bid': '10032601',
         'starting_station': '科学城(天泰二路)总站',
         'terminal_station': '黄埔港总站',
         'stations': [
@@ -1215,8 +1215,8 @@ buses = {
         ]
     },
     '508路': {
-        "name": '508路',
-        "bid": '10050801',
+        'name': '508路',
+        'bid': '10050801',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '广州火车东站总站⑦b',
         'stations': [
@@ -1259,8 +1259,8 @@ buses = {
         ]
     },
     'B8路': {
-        "name": 'B8路',
-        "bid": '10800800',
+        'name': 'B8路',
+        'bid': '10800800',
         'starting_station': '棠下小区总站①',
         'terminal_station': '宝岗大道总站①',
         'stations': [
@@ -1299,8 +1299,8 @@ buses = {
         ]
     },
     '449路': {
-        "name": '449路',
-        "bid": '10044900',
+        'name': '449路',
+        'bid': '10044900',
         'starting_station': '黄陂社区总站',
         'terminal_station': '八斗村天麓湖总站',
         'stations': [
@@ -1319,8 +1319,8 @@ buses = {
         ]
     },
     '129路': {
-        "name": '129路',
-        "bid": '10012900',
+        'name': '129路',
+        'bid': '10012900',
         'starting_station': '南国奥林匹克花园总站',
         'terminal_station': '锦城花园(东风东)总站④',
         'stations': [
@@ -1356,8 +1356,8 @@ buses = {
         ]
     },
     '夜99': {
-        "name": '夜99',
-        "bid": '10009910',
+        'name': '夜99',
+        'bid': '10009910',
         'starting_station': '康王路(上下九)总站(总站)',
         'terminal_station': '大坦沙(市1中)总站',
         'stations': [
@@ -1375,8 +1375,8 @@ buses = {
         ]
     },
     '252路': {
-        "name": '252路',
-        "bid": '10025200',
+        'name': '252路',
+        'bid': '10025200',
         'starting_station': '天河客运站总站①',
         'terminal_station': '外环西路(北亭广场)总站',
         'stations': [
@@ -1415,8 +1415,8 @@ buses = {
         ]
     },
     '926路': {
-        "name": '926路',
-        "bid": '10092600',
+        'name': '926路',
+        'bid': '10092600',
         'starting_station': '永兴庄总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -1448,8 +1448,8 @@ buses = {
         ]
     },
     '番152路': {
-        "name": '番152路',
-        "bid": '10715201',
+        'name': '番152路',
+        'bid': '10715201',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '东涌励业路总站',
         'stations': [
@@ -1477,8 +1477,8 @@ buses = {
         ]
     },
     '356路': {
-        "name": '356路',
-        "bid": '10035600',
+        'name': '356路',
+        'bid': '10035600',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '汇彩路总站',
         'stations': [
@@ -1501,8 +1501,8 @@ buses = {
         ]
     },
     '423路': {
-        "name": '423路',
-        "bid": '10042301',
+        'name': '423路',
+        'bid': '10042301',
         'starting_station': '夏茅客运站总站②',
         'terminal_station': '小坪桥口总站',
         'stations': [
@@ -1517,8 +1517,8 @@ buses = {
         ]
     },
     '792路': {
-        "name": '792路',
-        "bid": '10079200',
+        'name': '792路',
+        'bid': '10079200',
         'starting_station': '新庄总站',
         'terminal_station': '新庄总站',
         'stations': [
@@ -1542,8 +1542,8 @@ buses = {
         ]
     },
     '270路': {
-        "name": '270路',
-        "bid": '10027000',
+        'name': '270路',
+        'bid': '10027000',
         'starting_station': '土华总站',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -1587,8 +1587,8 @@ buses = {
         ]
     },
     '夜92路': {
-        "name": '夜92路',
-        "bid": '10009211',
+        'name': '夜92路',
+        'bid': '10009211',
         'starting_station': '花都狮岭五金龙头市场总站',
         'terminal_station': '人和墟总站',
         'stations': [
@@ -1634,8 +1634,8 @@ buses = {
         ]
     },
     '夜40路': {
-        "name": '夜40路',
-        "bid": '10004011',
+        'name': '夜40路',
+        'bid': '10004011',
         'starting_station': '广园新村总站②',
         'terminal_station': '琶洲大桥北美林东门总',
         'stations': [
@@ -1669,8 +1669,8 @@ buses = {
         ]
     },
     '732路': {
-        "name": '732路',
-        "bid": '10073201',
+        'name': '732路',
+        'bid': '10073201',
         'starting_station': '竹料总站①',
         'terminal_station': '竹料大道站',
         'stations': [
@@ -1682,8 +1682,8 @@ buses = {
         ]
     },
     '番92B路': {
-        "name": '番92B路',
-        "bid": '10709231',
+        'name': '番92B路',
+        'bid': '10709231',
         'starting_station': '石基地铁站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -1718,8 +1718,8 @@ buses = {
         ]
     },
     '南沙6路': {
-        "name": '南沙6路',
-        "bid": '10600600',
+        'name': '南沙6路',
+        'bid': '10600600',
         'starting_station': '麒麟中学总站',
         'terminal_station': '金洲地铁站',
         'stations': [
@@ -1738,8 +1738,8 @@ buses = {
         ]
     },
     '490路': {
-        "name": '490路',
-        "bid": '10049000',
+        'name': '490路',
+        'bid': '10049000',
         'starting_station': '上社牌坊总站',
         'terminal_station': '荷光路口总站',
         'stations': [
@@ -1753,8 +1753,8 @@ buses = {
         ]
     },
     '660路': {
-        "name": '660路',
-        "bid": '10066001',
+        'name': '660路',
+        'bid': '10066001',
         'starting_station': '外语外贸大学公开学院总站',
         'terminal_station': '外语学院总站',
         'stations': [
@@ -1780,8 +1780,8 @@ buses = {
         ]
     },
     '361路': {
-        "name": '361路',
-        "bid": '10036101',
+        'name': '361路',
+        'bid': '10036101',
         'starting_station': '黄船文化中心总站',
         'terminal_station': '市国家档案馆(大学城)总站',
         'stations': [
@@ -1804,8 +1804,8 @@ buses = {
         ]
     },
     '339路': {
-        "name": '339路',
-        "bid": '10033901',
+        'name': '339路',
+        'bid': '10033901',
         'starting_station': '地铁鱼珠站总站',
         'terminal_station': '萝岗街总站',
         'stations': [
@@ -1833,8 +1833,8 @@ buses = {
         ]
     },
     '番3路': {
-        "name": '番3路',
-        "bid": '10700300',
+        'name': '番3路',
+        'bid': '10700300',
         'starting_station': '华侨城总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -1866,8 +1866,8 @@ buses = {
         ]
     },
     '夜61': {
-        "name": '夜61',
-        "bid": '10006110',
+        'name': '夜61',
+        'bid': '10006110',
         'starting_station': '广州南站总站',
         'terminal_station': '体育中心站1①',
         'stations': [
@@ -1892,8 +1892,8 @@ buses = {
         ]
     },
     '番6路': {
-        "name": '番6路',
-        "bid": '10700600',
+        'name': '番6路',
+        'bid': '10700600',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '沙湾总站',
         'stations': [
@@ -1930,8 +1930,8 @@ buses = {
         ]
     },
     '199路': {
-        "name": '199路',
-        "bid": '10019901',
+        'name': '199路',
+        'bid': '10019901',
         'starting_station': '水荫路总站',
         'terminal_station': '齐富路总站',
         'stations': [
@@ -1959,8 +1959,8 @@ buses = {
         ]
     },
     '105路': {
-        "name": '105路',
-        "bid": '10010501',
+        'name': '105路',
+        'bid': '10010501',
         'starting_station': '棠安路总站',
         'terminal_station': '文化公园总站①',
         'stations': [
@@ -1989,8 +1989,8 @@ buses = {
         ]
     },
     '夜3路': {
-        "name": '夜3路',
-        "bid": '10000310',
+        'name': '夜3路',
+        'bid': '10000310',
         'starting_station': '凰岗总站①',
         'terminal_station': '石溪总站',
         'stations': [
@@ -2023,8 +2023,8 @@ buses = {
         ]
     },
     '264A路': {
-        "name": '264A路',
-        "bid": '10026421',
+        'name': '264A路',
+        'bid': '10026421',
         'starting_station': '珠影总站',
         'terminal_station': '仑头总站',
         'stations': [
@@ -2045,8 +2045,8 @@ buses = {
         ]
     },
     '391路': {
-        "name": '391路',
-        "bid": '10039101',
+        'name': '391路',
+        'bid': '10039101',
         'starting_station': '萝岗香雪公园总站',
         'terminal_station': '联和(惠联路)总站',
         'stations': [
@@ -2082,8 +2082,8 @@ buses = {
         ]
     },
     '246路': {
-        "name": '246路',
-        "bid": '10024601',
+        'name': '246路',
+        'bid': '10024601',
         'starting_station': '动物园总站',
         'terminal_station': '太和总站(丰泰小区)',
         'stations': [
@@ -2126,8 +2126,8 @@ buses = {
         ]
     },
     '980线': {
-        "name": '980线',
-        "bid": '10098000',
+        'name': '980线',
+        'bid': '10098000',
         'starting_station': '汇侨新城总站①',
         'terminal_station': '汇侨新城总站①',
         'stations': [
@@ -2157,8 +2157,8 @@ buses = {
         ]
     },
     '122路': {
-        "name": '122路',
-        "bid": '10012201',
+        'name': '122路',
+        'bid': '10012201',
         'starting_station': '广州火车东站总站⑦b',
         'terminal_station': '奥林匹克花园总站',
         'stations': [
@@ -2187,8 +2187,8 @@ buses = {
         ]
     },
     '997路': {
-        "name": '997路',
-        "bid": '10099701',
+        'name': '997路',
+        'bid': '10099701',
         'starting_station': '南天商业城总站',
         'terminal_station': '南天商业城总站',
         'stations': [
@@ -2209,8 +2209,8 @@ buses = {
         ]
     },
     '夜94路': {
-        "name": '夜94路',
-        "bid": '10009411',
+        'name': '夜94路',
+        'bid': '10009411',
         'starting_station': '人和安置区总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -2263,8 +2263,8 @@ buses = {
         ]
     },
     '125路': {
-        "name": '125路',
-        "bid": '10012501',
+        'name': '125路',
+        'bid': '10012501',
         'starting_station': '花园酒店站',
         'terminal_station': '丽江花园总站',
         'stations': [
@@ -2288,8 +2288,8 @@ buses = {
         ]
     },
     'B6线': {
-        "name": 'B6线',
-        "bid": '10800600',
+        'name': 'B6线',
+        'bid': '10800600',
         'starting_station': '汇彩路总站',
         'terminal_station': '同和路(蓝山花园)总站',
         'stations': [
@@ -2333,8 +2333,8 @@ buses = {
         ]
     },
     '483路': {
-        "name": '483路',
-        "bid": '10048301',
+        'name': '483路',
+        'bid': '10048301',
         'starting_station': '淘金北路总站',
         'terminal_station': '淘金北路总站',
         'stations': [
@@ -2353,8 +2353,8 @@ buses = {
         ]
     },
     '785路': {
-        "name": '785路',
-        "bid": '10078501',
+        'name': '785路',
+        'bid': '10078501',
         'starting_station': '地铁梅花园站总站',
         'terminal_station': '天平架总站③a',
         'stations': [
@@ -2368,8 +2368,8 @@ buses = {
         ]
     },
     '高峰快线81': {
-        "name": '高峰快线81',
-        "bid": '10008160',
+        'name': '高峰快线81',
+        'bid': '10008160',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '天河公交场总站',
         'stations': [
@@ -2403,8 +2403,8 @@ buses = {
         ]
     },
     '番201': {
-        "name": '番201',
-        "bid": '10720101',
+        'name': '番201',
+        'bid': '10720101',
         'starting_station': '大学城(体育中心)总站',
         'terminal_station': '大学城(穗石村)总站',
         'stations': [
@@ -2434,8 +2434,8 @@ buses = {
         ]
     },
     '夜95路': {
-        "name": '夜95路',
-        "bid": '10009511',
+        'name': '夜95路',
+        'bid': '10009511',
         'starting_station': '南方医院总站',
         'terminal_station': '河沙总站',
         'stations': [
@@ -2478,8 +2478,8 @@ buses = {
         ]
     },
     '709路': {
-        "name": '709路',
-        "bid": '10070900',
+        'name': '709路',
+        'bid': '10070900',
         'starting_station': '花都北兴汽车总站',
         'terminal_station': '太和文化广场总站',
         'stations': [
@@ -2508,8 +2508,8 @@ buses = {
         ]
     },
     '番21路': {
-        "name": '番21路',
-        "bid": '10702101',
+        'name': '番21路',
+        'bid': '10702101',
         'starting_station': '蔡三村总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -2533,8 +2533,8 @@ buses = {
         ]
     },
     '85路': {
-        "name": '85路',
-        "bid": '10008501',
+        'name': '85路',
+        'bid': '10008501',
         'starting_station': '天平架总站⑥b',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -2563,8 +2563,8 @@ buses = {
         ]
     },
     '762路': {
-        "name": '762路',
-        "bid": '10076200',
+        'name': '762路',
+        'bid': '10076200',
         'starting_station': '黄埔村总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -2587,8 +2587,8 @@ buses = {
         ]
     },
     '夜29路': {
-        "name": '夜29路',
-        "bid": '10002911',
+        'name': '夜29路',
+        'bid': '10002911',
         'starting_station': '江海大道中(赤岗)总站',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -2617,8 +2617,8 @@ buses = {
         ]
     },
     '251路': {
-        "name": '251路',
-        "bid": '10025100',
+        'name': '251路',
+        'bid': '10025100',
         'starting_station': '黄沙总站①',
         'terminal_station': '七星岗(广东省煤炭地质局)总站',
         'stations': [
@@ -2657,8 +2657,8 @@ buses = {
         ]
     },
     '975路': {
-        "name": '975路',
-        "bid": '10097500',
+        'name': '975路',
+        'bid': '10097500',
         'starting_station': '云城南二路总站',
         'terminal_station': '同德围(鹅掌坦)总站',
         'stations': [
@@ -2680,8 +2680,8 @@ buses = {
         ]
     },
     '番21B线': {
-        "name": '番21B线',
-        "bid": '10702130',
+        'name': '番21B线',
+        'bid': '10702130',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '新市桥汽车站总站',
         'stations': [
@@ -2707,8 +2707,8 @@ buses = {
         ]
     },
     '花86路': {
-        "name": '花86路',
-        "bid": '10508601',
+        'name': '花86路',
+        'bid': '10508601',
         'starting_station': '金碧御水山庄总站',
         'terminal_station': '花都湖总站',
         'stations': [
@@ -2751,8 +2751,8 @@ buses = {
         ]
     },
     '夜73路': {
-        "name": '夜73路',
-        "bid": '10007311',
+        'name': '夜73路',
+        'bid': '10007311',
         'starting_station': '埔南路(翡翠绿洲)总站',
         'terminal_station': '地铁文冲站总站',
         'stations': [
@@ -2786,8 +2786,8 @@ buses = {
         ]
     },
     '790路': {
-        "name": '790路',
-        "bid": '10079000',
+        'name': '790路',
+        'bid': '10079000',
         'starting_station': '悦峰三街总站',
         'terminal_station': '后海村总站',
         'stations': [
@@ -2810,8 +2810,8 @@ buses = {
         ]
     },
     '436路': {
-        "name": '436路',
-        "bid": '10043600',
+        'name': '436路',
+        'bid': '10043600',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -2832,8 +2832,8 @@ buses = {
         ]
     },
     '757路': {
-        "name": '757路',
-        "bid": '10075701',
+        'name': '757路',
+        'bid': '10075701',
         'starting_station': '金信路(金信花园)总站',
         'terminal_station': '马岗(广大服装城)总站',
         'stations': [
@@ -2855,8 +2855,8 @@ buses = {
         ]
     },
     '709路': {
-        "name": '709路',
-        "bid": '10070901',
+        'name': '709路',
+        'bid': '10070901',
         'starting_station': '太和文化广场总站',
         'terminal_station': '花都北兴汽车总站',
         'stations': [
@@ -2885,8 +2885,8 @@ buses = {
         ]
     },
     '130路': {
-        "name": '130路',
-        "bid": '10013000',
+        'name': '130路',
+        'bid': '10013000',
         'starting_station': '赤岗大塘总站',
         'terminal_station': '华景新城总站⑤',
         'stations': [
@@ -2912,8 +2912,8 @@ buses = {
         ]
     },
     '69路': {
-        "name": '69路',
-        "bid": '10006900',
+        'name': '69路',
+        'bid': '10006900',
         'starting_station': '赤岗大塘总站',
         'terminal_station': '汾水小区总站①',
         'stations': [
@@ -2941,8 +2941,8 @@ buses = {
         ]
     },
     '380路': {
-        "name": '380路',
-        "bid": '10038000',
+        'name': '380路',
+        'bid': '10038000',
         'starting_station': '大学城(广中医)总站',
         'terminal_station': '大学城(广中医)总站',
         'stations': [
@@ -2968,8 +2968,8 @@ buses = {
         ]
     },
     '夜58': {
-        "name": '夜58',
-        "bid": '10005811',
+        'name': '夜58',
+        'bid': '10005811',
         'starting_station': '沙面新城总站',
         'terminal_station': '中山八路总站',
         'stations': [
@@ -2987,8 +2987,8 @@ buses = {
         ]
     },
     '707路': {
-        "name": '707路',
-        "bid": '10070700',
+        'name': '707路',
+        'bid': '10070700',
         'starting_station': '人和商业中心总站',
         'terminal_station': '神山总站',
         'stations': [
@@ -3023,8 +3023,8 @@ buses = {
         ]
     },
     '夜42路': {
-        "name": '夜42路',
-        "bid": '10004210',
+        'name': '夜42路',
+        'bid': '10004210',
         'starting_station': '珠江帝景苑总站',
         'terminal_station': '金宇花园总站',
         'stations': [
@@ -3050,8 +3050,8 @@ buses = {
         ]
     },
     '193路': {
-        "name": '193路',
-        "bid": '10019301',
+        'name': '193路',
+        'bid': '10019301',
         'starting_station': '汾水小区总站③',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -3075,8 +3075,8 @@ buses = {
         ]
     },
     '夜10路': {
-        "name": '夜10路',
-        "bid": '10001010',
+        'name': '夜10路',
+        'bid': '10001010',
         'starting_station': '龙洞(广东金融学院)总站',
         'terminal_station': '东山口总站',
         'stations': [
@@ -3114,8 +3114,8 @@ buses = {
         ]
     },
     '464路': {
-        "name": '464路',
-        "bid": '10046400',
+        'name': '464路',
+        'bid': '10046400',
         'starting_station': '赤岗大塘总站',
         'terminal_station': '墩和路总站',
         'stations': [
@@ -3129,8 +3129,8 @@ buses = {
         ]
     },
     '359路': {
-        "name": '359路',
-        "bid": '10035901',
+        'name': '359路',
+        'bid': '10035901',
         'starting_station': '天泰二路总站',
         'terminal_station': '天泰二路',
         'stations': [
@@ -3163,8 +3163,8 @@ buses = {
         ]
     },
     '189路': {
-        "name": '189路',
-        "bid": '10018900',
+        'name': '189路',
+        'bid': '10018900',
         'starting_station': '机场路总站⑨',
         'terminal_station': '华保花园(军医学院)总站',
         'stations': [
@@ -3192,8 +3192,8 @@ buses = {
         ]
     },
     '428路': {
-        "name": '428路',
-        "bid": '10042800',
+        'name': '428路',
+        'bid': '10042800',
         'starting_station': '江夏牌坊总站',
         'terminal_station': '江夏北二路总站',
         'stations': [
@@ -3208,8 +3208,8 @@ buses = {
         ]
     },
     '650路': {
-        "name": '650路',
-        "bid": '10065000',
+        'name': '650路',
+        'bid': '10065000',
         'starting_station': '龙归地铁站总站',
         'terminal_station': '九佛总站',
         'stations': [
@@ -3248,8 +3248,8 @@ buses = {
         ]
     },
     '185路': {
-        "name": '185路',
-        "bid": '10018501',
+        'name': '185路',
+        'bid': '10018501',
         'starting_station': '同德围泽德花园总站',
         'terminal_station': '广州火车东站总站⑧a',
         'stations': [
@@ -3278,8 +3278,8 @@ buses = {
         ]
     },
     '446路': {
-        "name": '446路',
-        "bid": '10044600',
+        'name': '446路',
+        'bid': '10044600',
         'starting_station': '长平村总站',
         'terminal_station': '永和(崇和花园)总站',
         'stations': [
@@ -3307,8 +3307,8 @@ buses = {
         ]
     },
     '花89路': {
-        "name": '花89路',
-        "bid": '10508900',
+        'name': '花89路',
+        'bid': '10508900',
         'starting_station': '金碧御水山庄总站',
         'terminal_station': '罗屋村总站',
         'stations': [
@@ -3338,8 +3338,8 @@ buses = {
         ]
     },
     '394路': {
-        "name": '394路',
-        "bid": '10039401',
+        'name': '394路',
+        'bid': '10039401',
         'starting_station': '甘竹山公园总站',
         'terminal_station': '甘竹山公园总站',
         'stations': [
@@ -3365,8 +3365,8 @@ buses = {
         ]
     },
     '番61路': {
-        "name": '番61路',
-        "bid": '10706101',
+        'name': '番61路',
+        'bid': '10706101',
         'starting_station': '广汽传祺东五门',
         'terminal_station': '新造地铁站总站',
         'stations': [
@@ -3396,8 +3396,8 @@ buses = {
         ]
     },
     '14路': {
-        "name": '14路',
-        "bid": '10001401',
+        'name': '14路',
+        'bid': '10001401',
         'starting_station': '广卫路总站',
         'terminal_station': '赤沙(广东商学院)总站',
         'stations': [
@@ -3428,8 +3428,8 @@ buses = {
         ]
     },
     '高峰快线32': {
-        "name": '高峰快线32',
-        "bid": '10003260',
+        'name': '高峰快线32',
+        'bid': '10003260',
         'starting_station': '玉树新村工业园总站',
         'terminal_station': '体育西路总站',
         'stations': [
@@ -3467,8 +3467,8 @@ buses = {
         ]
     },
     '广260路': {
-        "name": '广260路',
-        "bid": '10026000',
+        'name': '广260路',
+        'bid': '10026000',
         'starting_station': '站南路站',
         'terminal_station': '穗盐路(雍景豪园)总站',
         'stations': [
@@ -3502,8 +3502,8 @@ buses = {
         ]
     },
     '南沙28路': {
-        "name": '南沙28路',
-        "bid": '10602800',
+        'name': '南沙28路',
+        'bid': '10602800',
         'starting_station': '万顷沙渡口总站',
         'terminal_station': '冯马一村总站',
         'stations': [
@@ -3524,8 +3524,8 @@ buses = {
         ]
     },
     '231快线': {
-        "name": '231快线',
-        "bid": '10023161',
+        'name': '231快线',
+        'bid': '10023161',
         'starting_station': '里水客运站总站',
         'terminal_station': '流花车站总站②',
         'stations': [
@@ -3557,8 +3557,8 @@ buses = {
         ]
     },
     '南沙16路': {
-        "name": '南沙16路',
-        "bid": '10601601',
+        'name': '南沙16路',
+        'bid': '10601601',
         'starting_station': '红洋村总站',
         'terminal_station': '保丰围总站',
         'stations': [
@@ -3578,8 +3578,8 @@ buses = {
         ]
     },
     '408A路': {
-        "name": '408A路',
-        "bid": '10040831',
+        'name': '408A路',
+        'bid': '10040831',
         'starting_station': '汇景新城东',
         'terminal_station': '汇景新城东总站',
         'stations': [
@@ -3596,8 +3596,8 @@ buses = {
         ]
     },
     '535路': {
-        "name": '535路',
-        "bid": '10053501',
+        'name': '535路',
+        'bid': '10053501',
         'starting_station': '联和(惠联路)总站',
         'terminal_station': '白云路总站',
         'stations': [
@@ -3639,8 +3639,8 @@ buses = {
         ]
     },
     '南沙17路': {
-        "name": '南沙17路',
-        "bid": '10601701',
+        'name': '南沙17路',
+        'bid': '10601701',
         'starting_station': '横沥农庄渡口总站',
         'terminal_station': '新兴村总站',
         'stations': [
@@ -3657,8 +3657,8 @@ buses = {
         ]
     },
     '215路': {
-        "name": '215路',
-        "bid": '10021501',
+        'name': '215路',
+        'bid': '10021501',
         'starting_station': '同德围(教师村)总站',
         'terminal_station': '东山(龟岗)总站',
         'stations': [
@@ -3689,8 +3689,8 @@ buses = {
         ]
     },
     'B25路': {
-        "name": 'B25路',
-        "bid": '10802500',
+        'name': 'B25路',
+        'bid': '10802500',
         'starting_station': '大学城(中部枢纽)总站②',
         'terminal_station': '体育中心总站',
         'stations': [
@@ -3715,8 +3715,8 @@ buses = {
         ]
     },
     '653路': {
-        "name": '653路',
-        "bid": '10065300',
+        'name': '653路',
+        'bid': '10065300',
         'starting_station': '地铁沙贝总站',
         'terminal_station': '地铁沙贝总站',
         'stations': [
@@ -3742,8 +3742,8 @@ buses = {
         ]
     },
     '46路': {
-        "name": '46路',
-        "bid": '10004600',
+        'name': '46路',
+        'bid': '10004600',
         'starting_station': '罗冲围总站1①',
         'terminal_station': '中科院化学所总站',
         'stations': [
@@ -3780,8 +3780,8 @@ buses = {
         ]
     },
     '南沙10路': {
-        "name": '南沙10路',
-        "bid": '10601001',
+        'name': '南沙10路',
+        'bid': '10601001',
         'starting_station': '万顷沙总站',
         'terminal_station': '横沥中学总站',
         'stations': [
@@ -3806,8 +3806,8 @@ buses = {
         ]
     },
     '656线': {
-        "name": '656线',
-        "bid": '10065600',
+        'name': '656线',
+        'bid': '10065600',
         'starting_station': '龙归地铁站总站',
         'terminal_station': '地铁嘉禾望岗总站',
         'stations': [
@@ -3828,8 +3828,8 @@ buses = {
         ]
     },
     '229路': {
-        "name": '229路',
-        "bid": '10022900',
+        'name': '229路',
+        'bid': '10022900',
         'starting_station': '罗冲围总站1④',
         'terminal_station': '琶洲石基村(黄埔古港)总站',
         'stations': [
@@ -3871,8 +3871,8 @@ buses = {
         ]
     },
     '994路': {
-        "name": '994路',
-        "bid": '10099400',
+        'name': '994路',
+        'bid': '10099400',
         'starting_station': '地铁坦尾总站',
         'terminal_station': '地铁坦尾总站',
         'stations': [
@@ -3891,8 +3891,8 @@ buses = {
         ]
     },
     '大学城2线': {
-        "name": '大学城2线',
-        "bid": '10000221',
+        'name': '大学城2线',
+        'bid': '10000221',
         'starting_station': '大学城(广中医)总站',
         'terminal_station': '华工大总站①',
         'stations': [
@@ -3921,8 +3921,8 @@ buses = {
         ]
     },
     '748线': {
-        "name": '748线',
-        "bid": '10074801',
+        'name': '748线',
+        'bid': '10074801',
         'starting_station': '槎溪南路总站',
         'terminal_station': '同德围(阳光花园)总站',
         'stations': [
@@ -3935,8 +3935,8 @@ buses = {
         ]
     },
     '197路': {
-        "name": '197路',
-        "bid": '10019700',
+        'name': '197路',
+        'bid': '10019700',
         'starting_station': '汇景北路总站',
         'terminal_station': '昌岗路总站',
         'stations': [
@@ -3965,8 +3965,8 @@ buses = {
         ]
     },
     '番2路': {
-        "name": '番2路',
-        "bid": '10700200',
+        'name': '番2路',
+        'bid': '10700200',
         'starting_station': '蔡边村总站',
         'terminal_station': '新力总站',
         'stations': [
@@ -3996,8 +3996,8 @@ buses = {
         ]
     },
     '番81路': {
-        "name": '番81路',
-        "bid": '10708101',
+        'name': '番81路',
+        'bid': '10708101',
         'starting_station': '金山村委总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -4023,8 +4023,8 @@ buses = {
         ]
     },
     '番186路': {
-        "name": '番186路',
-        "bid": '10718601',
+        'name': '番186路',
+        'bid': '10718601',
         'starting_station': '南村汽车站总站',
         'terminal_station': '广州碧桂园总站',
         'stations': [
@@ -4063,8 +4063,8 @@ buses = {
         ]
     },
     '大学城4线': {
-        "name": '大学城4线',
-        "bid": '10000420',
+        'name': '大学城4线',
+        'bid': '10000420',
         'starting_station': '天平架总站⑥a',
         'terminal_station': '大学城(广大)总站',
         'stations': [
@@ -4100,8 +4100,8 @@ buses = {
         ]
     },
     '夜48路': {
-        "name": '夜48路',
-        "bid": '10004811',
+        'name': '夜48路',
+        'bid': '10004811',
         'starting_station': '体育中心站1④',
         'terminal_station': '大学城(中部枢纽)总站②',
         'stations': [
@@ -4119,8 +4119,8 @@ buses = {
         ]
     },
     '72路': {
-        "name": '72路',
-        "bid": '10007201',
+        'name': '72路',
+        'bid': '10007201',
         'starting_station': '天健广场总站',
         'terminal_station': '动物园总站1①b',
         'stations': [
@@ -4144,8 +4144,8 @@ buses = {
         ]
     },
     '522路': {
-        "name": '522路',
-        "bid": '10052200',
+        'name': '522路',
+        'bid': '10052200',
         'starting_station': '白云公园总站',
         'terminal_station': '江高(广东技术师范学院)总站',
         'stations': [
@@ -4185,8 +4185,8 @@ buses = {
         ]
     },
     '南沙49路': {
-        "name": '南沙49路',
-        "bid": '10604901',
+        'name': '南沙49路',
+        'bid': '10604901',
         'starting_station': '江南路总站',
         'terminal_station': '潭洲车站总站',
         'stations': [
@@ -4237,8 +4237,8 @@ buses = {
         ]
     },
     '287路': {
-        "name": '287路',
-        "bid": '10028701',
+        'name': '287路',
+        'bid': '10028701',
         'starting_station': '动物园南门总站①',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -4260,8 +4260,8 @@ buses = {
         ]
     },
     '782路': {
-        "name": '782路',
-        "bid": '10078200',
+        'name': '782路',
+        'bid': '10078200',
         'starting_station': '安南大街总站',
         'terminal_station': '芳村码头总站',
         'stations': [
@@ -4282,8 +4282,8 @@ buses = {
         ]
     },
     '506路': {
-        "name": '506路',
-        "bid": '10050600',
+        'name': '506路',
+        'bid': '10050600',
         'starting_station': '永和开发区总站',
         'terminal_station': '天河公交场总站①',
         'stations': [
@@ -4360,8 +4360,8 @@ buses = {
         ]
     },
     '176路': {
-        "name": '176路',
-        "bid": '10017601',
+        'name': '176路',
+        'bid': '10017601',
         'starting_station': '黄沙总站①',
         'terminal_station': '同德围(阳光花园)总站',
         'stations': [
@@ -4388,8 +4388,8 @@ buses = {
         ]
     },
     '夜9': {
-        "name": '夜9',
-        "bid": '10000911',
+        'name': '夜9',
+        'bid': '10000911',
         'starting_station': '黄石路总站',
         'terminal_station': '车陂总站①',
         'stations': [
@@ -4434,8 +4434,8 @@ buses = {
         ]
     },
     '商务专线7': {
-        "name": '商务专线7',
-        "bid": '10011730',
+        'name': '商务专线7',
+        'bid': '10011730',
         'starting_station': '逸景路(长江轻纺城)总站',
         'terminal_station': '站南路总站',
         'stations': [
@@ -4447,8 +4447,8 @@ buses = {
         ]
     },
     '69路': {
-        "name": '69路',
-        "bid": '10006901',
+        'name': '69路',
+        'bid': '10006901',
         'starting_station': '汾水小区总站①',
         'terminal_station': '赤岗大塘总站',
         'stations': [
@@ -4480,8 +4480,8 @@ buses = {
         ]
     },
     '高峰快线74': {
-        "name": '高峰快线74',
-        "bid": '10007460',
+        'name': '高峰快线74',
+        'bid': '10007460',
         'starting_station': '武警医院站',
         'terminal_station': '新滘中路(龙潭)站',
         'stations': [
@@ -4504,8 +4504,8 @@ buses = {
         ]
     },
     '夜74': {
-        "name": '夜74',
-        "bid": '10007410',
+        'name': '夜74',
+        'bid': '10007410',
         'starting_station': '广州火车东站总站',
         'terminal_station': '太和总站(丰泰小区)',
         'stations': [
@@ -4555,8 +4555,8 @@ buses = {
         ]
     },
     '番103路': {
-        "name": '番103路',
-        "bid": '10710301',
+        'name': '番103路',
+        'bid': '10710301',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '榄核公交总站',
         'stations': [
@@ -4593,8 +4593,8 @@ buses = {
         ]
     },
     '923路': {
-        "name": '923路',
-        "bid": '10092300',
+        'name': '923路',
+        'bid': '10092300',
         'starting_station': '翠竹园总站',
         'terminal_station': '翠竹园总站',
         'stations': [
@@ -4613,8 +4613,8 @@ buses = {
         ]
     },
     '523快': {
-        "name": '523快',
-        "bid": '10052361',
+        'name': '523快',
+        'bid': '10052361',
         'starting_station': '江高小塘总站',
         'terminal_station': '市客运站总站',
         'stations': [
@@ -4631,8 +4631,8 @@ buses = {
         ]
     },
     '地铁10B路': {
-        "name": '地铁10B路',
-        "bid": '10701041',
+        'name': '地铁10B路',
+        'bid': '10701041',
         'starting_station': '祈福新村总站',
         'terminal_station': '地铁汉溪长隆站总站①',
         'stations': [
@@ -4644,8 +4644,8 @@ buses = {
         ]
     },
     '番55路': {
-        "name": '番55路',
-        "bid": '10705501',
+        'name': '番55路',
+        'bid': '10705501',
         'starting_station': '好又多总站',
         'terminal_station': '富豪山庄总站',
         'stations': [
@@ -4675,8 +4675,8 @@ buses = {
         ]
     },
     '夜30路': {
-        "name": '夜30路',
-        "bid": '10003011',
+        'name': '夜30路',
+        'bid': '10003011',
         'starting_station': '罗冲围总站1④',
         'terminal_station': '南天商业城总站',
         'stations': [
@@ -4714,8 +4714,8 @@ buses = {
         ]
     },
     '80路': {
-        "name": '80路',
-        "bid": '10008000',
+        'name': '80路',
+        'bid': '10008000',
         'starting_station': '逸景翠园总站',
         'terminal_station': '金德苑(同德围)总站',
         'stations': [
@@ -4751,8 +4751,8 @@ buses = {
         ]
     },
     '518路': {
-        "name": '518路',
-        "bid": '10051800',
+        'name': '518路',
+        'bid': '10051800',
         'starting_station': '站前路(西郊大厦)总站',
         'terminal_station': '棠下小区总站①',
         'stations': [
@@ -4792,8 +4792,8 @@ buses = {
         ]
     },
     'B2A线': {
-        "name": 'B2A线',
-        "bid": '10800220',
+        'name': 'B2A线',
+        'bid': '10800220',
         'starting_station': '广州火车站总站f',
         'terminal_station': '汇彩路总站',
         'stations': [
@@ -4820,8 +4820,8 @@ buses = {
         ]
     },
     '夜87路': {
-        "name": '夜87路',
-        "bid": '10008711',
+        'name': '夜87路',
+        'bid': '10008711',
         'starting_station': '广州北站总站',
         'terminal_station': '机场路总站②',
         'stations': [
@@ -4866,8 +4866,8 @@ buses = {
         ]
     },
     '389路': {
-        "name": '389路',
-        "bid": '10038900',
+        'name': '389路',
+        'bid': '10038900',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -4884,8 +4884,8 @@ buses = {
         ]
     },
     '番6路': {
-        "name": '番6路',
-        "bid": '10700601',
+        'name': '番6路',
+        'bid': '10700601',
         'starting_station': '沙湾总站',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -4926,8 +4926,8 @@ buses = {
         ]
     },
     'B30路': {
-        "name": 'B30路',
-        "bid": '10803001',
+        'name': 'B30路',
+        'bid': '10803001',
         'starting_station': '茅岗新村总站',
         'terminal_station': '康南路北总站',
         'stations': [
@@ -4961,8 +4961,8 @@ buses = {
         ]
     },
     '482路': {
-        "name": '482路',
-        "bid": '10048201',
+        'name': '482路',
+        'bid': '10048201',
         'starting_station': '广东电视台站',
         'terminal_station': '太和岗路口总站',
         'stations': [
@@ -4978,8 +4978,8 @@ buses = {
         ]
     },
     '783路': {
-        "name": '783路',
-        "bid": '10078300',
+        'name': '783路',
+        'bid': '10078300',
         'starting_station': '大坦沙(市1中)总站',
         'terminal_station': '大坦沙(市1中)总站',
         'stations': [
@@ -5008,8 +5008,8 @@ buses = {
         ]
     },
     '182路': {
-        "name": '182路',
-        "bid": '10018201',
+        'name': '182路',
+        'bid': '10018201',
         'starting_station': '逸景翠园总站',
         'terminal_station': '云苑新村总站',
         'stations': [
@@ -5040,8 +5040,8 @@ buses = {
         ]
     },
     '南沙53路': {
-        "name": '南沙53路',
-        "bid": '10605301',
+        'name': '南沙53路',
+        'bid': '10605301',
         'starting_station': '南沙儿童公园总站',
         'terminal_station': '虎门渡口总站',
         'stations': [
@@ -5072,8 +5072,8 @@ buses = {
         ]
     },
     '番148路': {
-        "name": '番148路',
-        "bid": '10714801',
+        'name': '番148路',
+        'bid': '10714801',
         'starting_station': '沙南村总站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -5118,8 +5118,8 @@ buses = {
         ]
     },
     '南沙18路': {
-        "name": '南沙18路',
-        "bid": '10601800',
+        'name': '南沙18路',
+        'bid': '10601800',
         'starting_station': '南沙湾总站',
         'terminal_station': '南沙湾总站',
         'stations': [
@@ -5164,8 +5164,8 @@ buses = {
         ]
     },
     '南沙35路': {
-        "name": '南沙35路',
-        "bid": '10603500',
+        'name': '南沙35路',
+        'bid': '10603500',
         'starting_station': '东涌地铁站总站',
         'terminal_station': '大稳村水上绿道总站',
         'stations': [
@@ -5188,8 +5188,8 @@ buses = {
         ]
     },
     '107路': {
-        "name": '107路',
-        "bid": '10010701',
+        'name': '107路',
+        'bid': '10010701',
         'starting_station': '中山八路总站⑦',
         'terminal_station': '花城广场西总站',
         'stations': [
@@ -5215,8 +5215,8 @@ buses = {
         ]
     },
     '885路': {
-        "name": '885路',
-        "bid": '10088500',
+        'name': '885路',
+        'bid': '10088500',
         'starting_station': '中山八路总站⑤',
         'terminal_station': '白沙(中海金沙湾)总站',
         'stations': [
@@ -5237,8 +5237,8 @@ buses = {
         ]
     },
     '572路': {
-        "name": '572路',
-        "bid": '10057200',
+        'name': '572路',
+        'bid': '10057200',
         'starting_station': '西基总站',
         'terminal_station': '埔南路总站',
         'stations': [
@@ -5269,8 +5269,8 @@ buses = {
         ]
     },
     '番101路': {
-        "name": '番101路',
-        "bid": '10710100',
+        'name': '番101路',
+        'bid': '10710100',
         'starting_station': '都那村总站',
         'terminal_station': '石壁小学站',
         'stations': [
@@ -5296,8 +5296,8 @@ buses = {
         ]
     },
     '番163路': {
-        "name": '番163路',
-        "bid": '10716301',
+        'name': '番163路',
+        'bid': '10716301',
         'starting_station': '地铁汉溪长隆站总站①',
         'terminal_station': '地铁汉溪长隆站总站①',
         'stations': [
@@ -5331,8 +5331,8 @@ buses = {
         ]
     },
     '221路': {
-        "name": '221路',
-        "bid": '10022100',
+        'name': '221路',
+        'bid': '10022100',
         'starting_station': '动物园南门总站②',
         'terminal_station': '沥滘村总站',
         'stations': [
@@ -5365,8 +5365,8 @@ buses = {
         ]
     },
     '11路': {
-        "name": '11路',
-        "bid": '10001101',
+        'name': '11路',
+        'bid': '10001101',
         'starting_station': '天平架总站③a',
         'terminal_station': '海琴湾(下渡路)总站',
         'stations': [
@@ -5395,8 +5395,8 @@ buses = {
         ]
     },
     '742线': {
-        "name": '742线',
-        "bid": '10074200',
+        'name': '742线',
+        'bid': '10074200',
         'starting_station': '石井鸦岗总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -5428,8 +5428,8 @@ buses = {
         ]
     },
     '夜69': {
-        "name": '夜69',
-        "bid": '10006910',
+        'name': '夜69',
+        'bid': '10006910',
         'starting_station': '桥中总站',
         'terminal_station': '天河客运站总站②',
         'stations': [
@@ -5464,8 +5464,8 @@ buses = {
         ]
     },
     '496路': {
-        "name": '496路',
-        "bid": '10049601',
+        'name': '496路',
+        'bid': '10049601',
         'starting_station': '科韵路总站',
         'terminal_station': '科学城(天泰二路)总站',
         'stations': [
@@ -5499,8 +5499,8 @@ buses = {
         ]
     },
     '番148B路': {
-        "name": '番148B路',
-        "bid": '10714830',
+        'name': '番148B路',
+        'bid': '10714830',
         'starting_station': '打捞局总站',
         'terminal_station': '地铁海傍站总站',
         'stations': [
@@ -5533,8 +5533,8 @@ buses = {
         ]
     },
     '524路': {
-        "name": '524路',
-        "bid": '10052401',
+        'name': '524路',
+        'bid': '10052401',
         'starting_station': '长红村总站',
         'terminal_station': '市客运站总站',
         'stations': [
@@ -5576,8 +5576,8 @@ buses = {
         ]
     },
     '244路': {
-        "name": '244路',
-        "bid": '10024401',
+        'name': '244路',
+        'bid': '10024401',
         'starting_station': '黄石东(白云尚城)总站',
         'terminal_station': '江南大道南总站',
         'stations': [
@@ -5615,8 +5615,8 @@ buses = {
         ]
     },
     '南沙18路': {
-        "name": '南沙18路',
-        "bid": '10601801',
+        'name': '南沙18路',
+        'bid': '10601801',
         'starting_station': '南沙湾总站',
         'terminal_station': '南沙湾总站',
         'stations': [
@@ -5661,8 +5661,8 @@ buses = {
         ]
     },
     '714路': {
-        "name": '714路',
-        "bid": '10071401',
+        'name': '714路',
+        'bid': '10071401',
         'starting_station': '钟落潭总站',
         'terminal_station': '花都北兴汽车总站',
         'stations': [
@@ -5683,8 +5683,8 @@ buses = {
         ]
     },
     '55路': {
-        "name": '55路',
-        "bid": '10005500',
+        'name': '55路',
+        'bid': '10005500',
         'starting_station': '金沙洲总站',
         'terminal_station': '桥东小区总站',
         'stations': [
@@ -5710,8 +5710,8 @@ buses = {
         ]
     },
     '474路': {
-        "name": '474路',
-        "bid": '10047401',
+        'name': '474路',
+        'bid': '10047401',
         'starting_station': '江高南岗村总站',
         'terminal_station': '长岗村总站',
         'stations': [
@@ -5734,8 +5734,8 @@ buses = {
         ]
     },
     '217路': {
-        "name": '217路',
-        "bid": '10021701',
+        'name': '217路',
+        'bid': '10021701',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -5762,8 +5762,8 @@ buses = {
         ]
     },
     '495路': {
-        "name": '495路',
-        "bid": '10049501',
+        'name': '495路',
+        'bid': '10049501',
         'starting_station': '地铁车陂南站总站',
         'terminal_station': '玉树新村总站',
         'stations': [
@@ -5787,8 +5787,8 @@ buses = {
         ]
     },
     'B6线': {
-        "name": 'B6线',
-        "bid": '10800601',
+        'name': 'B6线',
+        'bid': '10800601',
         'starting_station': '同和路(蓝山花园)总站',
         'terminal_station': '汇彩路总站',
         'stations': [
@@ -5830,8 +5830,8 @@ buses = {
         ]
     },
     '456路': {
-        "name": '456路',
-        "bid": '10045601',
+        'name': '456路',
+        'bid': '10045601',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '长庚村总站',
         'stations': [
@@ -5848,8 +5848,8 @@ buses = {
         ]
     },
     '833路': {
-        "name": '833路',
-        "bid": '10083301',
+        'name': '833路',
+        'bid': '10083301',
         'starting_station': '太和总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -5897,8 +5897,8 @@ buses = {
         ]
     },
     '番109路': {
-        "name": '番109路',
-        "bid": '10710901',
+        'name': '番109路',
+        'bid': '10710901',
         'starting_station': '屏一村总站',
         'terminal_station': '地铁汉溪长隆站总站①',
         'stations': [
@@ -5921,8 +5921,8 @@ buses = {
         ]
     },
     '93路': {
-        "name": '93路',
-        "bid": '10009301',
+        'name': '93路',
+        'bid': '10009301',
         'starting_station': '赤岗总站',
         'terminal_station': '景泰坑总站',
         'stations': [
@@ -5957,8 +5957,8 @@ buses = {
         ]
     },
     '90路': {
-        "name": '90路',
-        "bid": '10009001',
+        'name': '90路',
+        'bid': '10009001',
         'starting_station': '星河湾半岛',
         'terminal_station': '五羊新城总站',
         'stations': [
@@ -5981,8 +5981,8 @@ buses = {
         ]
     },
     '710路': {
-        "name": '710路',
-        "bid": '10071000',
+        'name': '710路',
+        'bid': '10071000',
         'starting_station': '太和文化广场总站',
         'terminal_station': '花都推广汽车站总站',
         'stations': [
@@ -6017,8 +6017,8 @@ buses = {
         ]
     },
     '番96路': {
-        "name": '番96路',
-        "bid": '10709600',
+        'name': '番96路',
+        'bid': '10709600',
         'starting_station': '市桥汽车站',
         'terminal_station': '大石中学总站',
         'stations': [
@@ -6050,8 +6050,8 @@ buses = {
         ]
     },
     '番63路': {
-        "name": '番63路',
-        "bid": '10706301',
+        'name': '番63路',
+        'bid': '10706301',
         'starting_station': '沙亭总站',
         'terminal_station': '化龙车站总站',
         'stations': [
@@ -6063,8 +6063,8 @@ buses = {
         ]
     },
     '511路': {
-        "name": '511路',
-        "bid": '10051101',
+        'name': '511路',
+        'bid': '10051101',
         'starting_station': '神山总站',
         'terminal_station': '机场路总站①',
         'stations': [
@@ -6114,8 +6114,8 @@ buses = {
         ]
     },
     '552路': {
-        "name": '552路',
-        "bid": '10055200',
+        'name': '552路',
+        'bid': '10055200',
         'starting_station': '广州火车站总站',
         'terminal_station': '芳村客运站总站①',
         'stations': [
@@ -6147,8 +6147,8 @@ buses = {
         ]
     },
     '76路': {
-        "name": '76路',
-        "bid": '10007601',
+        'name': '76路',
+        'bid': '10007601',
         'starting_station': '东山总站',
         'terminal_station': '集贤苑教师新村总站',
         'stations': [
@@ -6186,8 +6186,8 @@ buses = {
         ]
     },
     '756路': {
-        "name": '756路',
-        "bid": '10075601',
+        'name': '756路',
+        'bid': '10075601',
         'starting_station': '唐阁村总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -6212,8 +6212,8 @@ buses = {
         ]
     },
     '283班车': {
-        "name": '283班车',
-        "bid": '10028320',
+        'name': '283班车',
+        'bid': '10028320',
         'starting_station': '冼村站',
         'terminal_station': '白沙(中海金沙湾)总站',
         'stations': [
@@ -6242,8 +6242,8 @@ buses = {
         ]
     },
     '447路': {
-        "name": '447路',
-        "bid": '10044701',
+        'name': '447路',
+        'bid': '10044701',
         'starting_station': '笔村总站',
         'terminal_station': '西区公交总站',
         'stations': [
@@ -6267,8 +6267,8 @@ buses = {
         ]
     },
     '769路': {
-        "name": '769路',
-        "bid": '10076901',
+        'name': '769路',
+        'bid': '10076901',
         'starting_station': '洛溪新城总站',
         'terminal_station': '芳村客运站总站①',
         'stations': [
@@ -6294,8 +6294,8 @@ buses = {
         ]
     },
     '494路': {
-        "name": '494路',
-        "bid": '10049400',
+        'name': '494路',
+        'bid': '10049400',
         'starting_station': '科学城(天泰二路)总站',
         'terminal_station': '天河客运站总站③',
         'stations': [
@@ -6346,8 +6346,8 @@ buses = {
         ]
     },
     '夜55路': {
-        "name": '夜55路',
-        "bid": '10005511',
+        'name': '夜55路',
+        'bid': '10005511',
         'starting_station': '小洲总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -6387,8 +6387,8 @@ buses = {
         ]
     },
     '796线': {
-        "name": '796线',
-        "bid": '10079601',
+        'name': '796线',
+        'bid': '10079601',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '石马总站',
         'stations': [
@@ -6416,8 +6416,8 @@ buses = {
         ]
     },
     '963路': {
-        "name": '963路',
-        "bid": '10096301',
+        'name': '963路',
+        'bid': '10096301',
         'starting_station': '革新路(光大花园)总站',
         'terminal_station': '南箕路总站②',
         'stations': [
@@ -6438,8 +6438,8 @@ buses = {
         ]
     },
     '569路': {
-        "name": '569路',
-        "bid": '10056901',
+        'name': '569路',
+        'bid': '10056901',
         'starting_station': '西区第一体育中心总站',
         'terminal_station': '萝岗香雪公园总站',
         'stations': [
@@ -6475,8 +6475,8 @@ buses = {
         ]
     },
     '921路': {
-        "name": '921路',
-        "bid": '10092100',
+        'name': '921路',
+        'bid': '10092100',
         'starting_station': '景泰直街总站',
         'terminal_station': '金信路(云山锦绣家园)总站',
         'stations': [
@@ -6493,8 +6493,8 @@ buses = {
         ]
     },
     '番131路': {
-        "name": '番131路',
-        "bid": '10713100',
+        'name': '番131路',
+        'bid': '10713100',
         'starting_station': '亚运文化村总站',
         'terminal_station': '胜洲村总站',
         'stations': [
@@ -6521,8 +6521,8 @@ buses = {
         ]
     },
     '309A路': {
-        "name": '309A路',
-        "bid": '10030920',
+        'name': '309A路',
+        'bid': '10030920',
         'starting_station': '广州南站总站',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -6555,8 +6555,8 @@ buses = {
         ]
     },
     '番55路': {
-        "name": '番55路',
-        "bid": '10705500',
+        'name': '番55路',
+        'bid': '10705500',
         'starting_station': '富豪山庄总站',
         'terminal_station': '好又多总站',
         'stations': [
@@ -6587,8 +6587,8 @@ buses = {
         ]
     },
     '732路': {
-        "name": '732路',
-        "bid": '10073200',
+        'name': '732路',
+        'bid': '10073200',
         'starting_station': '竹料大道站',
         'terminal_station': '竹料总站①',
         'stations': [
@@ -6600,8 +6600,8 @@ buses = {
         ]
     },
     '469路': {
-        "name": '469路',
-        "bid": '10046901',
+        'name': '469路',
+        'bid': '10046901',
         'starting_station': '江泰路地铁站总站',
         'terminal_station': '纸厂总站②',
         'stations': [
@@ -6619,8 +6619,8 @@ buses = {
         ]
     },
     '夜70': {
-        "name": '夜70',
-        "bid": '10007010',
+        'name': '夜70',
+        'bid': '10007010',
         'starting_station': '天河客运站总站①',
         'terminal_station': '北山总站',
         'stations': [
@@ -6654,8 +6654,8 @@ buses = {
         ]
     },
     '745线': {
-        "name": '745线',
-        "bid": '10074501',
+        'name': '745线',
+        'bid': '10074501',
         'starting_station': '彩滨北路(恒大御景半岛)总站',
         'terminal_station': '彩滨北路(恒大御景半岛)总站',
         'stations': [
@@ -6674,8 +6674,8 @@ buses = {
         ]
     },
     '南沙4路': {
-        "name": '南沙4路',
-        "bid": '10600400',
+        'name': '南沙4路',
+        'bid': '10600400',
         'starting_station': '蕉门地铁总站',
         'terminal_station': '天后宫东门总站',
         'stations': [
@@ -6706,8 +6706,8 @@ buses = {
         ]
     },
     '731路': {
-        "name": '731路',
-        "bid": '10073100',
+        'name': '731路',
+        'bid': '10073100',
         'starting_station': '田心西路总站',
         'terminal_station': '田心西路总站',
         'stations': [
@@ -6725,8 +6725,8 @@ buses = {
         ]
     },
     '夜33路': {
-        "name": '夜33路',
-        "bid": '10003310',
+        'name': '夜33路',
+        'bid': '10003310',
         'starting_station': '中山八路总站⑦',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -6757,8 +6757,8 @@ buses = {
         ]
     },
     '180路': {
-        "name": '180路',
-        "bid": '10018001',
+        'name': '180路',
+        'bid': '10018001',
         'starting_station': '沥滘(珠江御景湾)总站',
         'terminal_station': '广州火车站总站j',
         'stations': [
@@ -6793,8 +6793,8 @@ buses = {
         ]
     },
     '795路': {
-        "name": '795路',
-        "bid": '10079501',
+        'name': '795路',
+        'bid': '10079501',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -6823,8 +6823,8 @@ buses = {
         ]
     },
     '番75B': {
-        "name": '番75B',
-        "bid": '10707531',
+        'name': '番75B',
+        'bid': '10707531',
         'starting_station': '万达广场总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -6848,8 +6848,8 @@ buses = {
         ]
     },
     'B4A路': {
-        "name": 'B4A路',
-        "bid": '10800421',
+        'name': 'B4A路',
+        'bid': '10800421',
         'starting_station': '科学城(天泰二路)总站',
         'terminal_station': '广仁路总站',
         'stations': [
@@ -6891,8 +6891,8 @@ buses = {
         ]
     },
     '462路': {
-        "name": '462路',
-        "bid": '10046201',
+        'name': '462路',
+        'bid': '10046201',
         'starting_station': '海珠客运站总站',
         'terminal_station': '逸景路(长江轻纺城)总站',
         'stations': [
@@ -6910,8 +6910,8 @@ buses = {
         ]
     },
     '176路': {
-        "name": '176路',
-        "bid": '10017600',
+        'name': '176路',
+        'bid': '10017600',
         'starting_station': '同德围(阳光花园)总站',
         'terminal_station': '黄沙总站①',
         'stations': [
@@ -6939,8 +6939,8 @@ buses = {
         ]
     },
     '54路': {
-        "name": '54路',
-        "bid": '10005400',
+        'name': '54路',
+        'bid': '10005400',
         'starting_station': '东华南路(江湾桥脚)总站',
         'terminal_station': '中科院化学所总站',
         'stations': [
@@ -6977,8 +6977,8 @@ buses = {
         ]
     },
     '405路': {
-        "name": '405路',
-        "bid": '10040501',
+        'name': '405路',
+        'bid': '10040501',
         'starting_station': '五山路(广园快速路口)站',
         'terminal_station': '汇景北路总站',
         'stations': [
@@ -6991,8 +6991,8 @@ buses = {
         ]
     },
     '516路': {
-        "name": '516路',
-        "bid": '10051601',
+        'name': '516路',
+        'bid': '10051601',
         'starting_station': '永和开发区(树吓村)总站',
         'terminal_station': '保税区(酒博城)总站',
         'stations': [
@@ -7038,8 +7038,8 @@ buses = {
         ]
     },
     '752路': {
-        "name": '752路',
-        "bid": '10075201',
+        'name': '752路',
+        'bid': '10075201',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '上步总站',
         'stations': [
@@ -7059,8 +7059,8 @@ buses = {
         ]
     },
     '4路': {
-        "name": '4路',
-        "bid": '10000401',
+        'name': '4路',
+        'bid': '10000401',
         'starting_station': '白云路总站',
         'terminal_station': '富力桃园(增步村)总站',
         'stations': [
@@ -7084,8 +7084,8 @@ buses = {
         ]
     },
     '304路': {
-        "name": '304路',
-        "bid": '10030400',
+        'name': '304路',
+        'bid': '10030400',
         'starting_station': '长隆旅游度假区总站',
         'terminal_station': '棠下小区总站②',
         'stations': [
@@ -7114,8 +7114,8 @@ buses = {
         ]
     },
     '457路': {
-        "name": '457路',
-        "bid": '10045701',
+        'name': '457路',
+        'bid': '10045701',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '蟹庄村总站',
         'stations': [
@@ -7131,8 +7131,8 @@ buses = {
         ]
     },
     '766路': {
-        "name": '766路',
-        "bid": '10076600',
+        'name': '766路',
+        'bid': '10076600',
         'starting_station': '大干围(海珠创意产业园)总站',
         'terminal_station': '南洲北路总站',
         'stations': [
@@ -7148,8 +7148,8 @@ buses = {
         ]
     },
     '283路': {
-        "name": '283路',
-        "bid": '10028300',
+        'name': '283路',
+        'bid': '10028300',
         'starting_station': '广州火车东站总站⑤a',
         'terminal_station': '万科四季花城总站',
         'stations': [
@@ -7183,8 +7183,8 @@ buses = {
         ]
     },
     '989环线': {
-        "name": '989环线',
-        "bid": '10098901',
+        'name': '989环线',
+        'bid': '10098901',
         'starting_station': '南田路总站',
         'terminal_station': '南田路总站',
         'stations': [
@@ -7202,8 +7202,8 @@ buses = {
         ]
     },
     '580路': {
-        "name": '580路',
-        "bid": '10058001',
+        'name': '580路',
+        'bid': '10058001',
         'starting_station': '永和开发区总站',
         'terminal_station': '永和开发区总站',
         'stations': [
@@ -7237,8 +7237,8 @@ buses = {
         ]
     },
     '302路': {
-        "name": '302路',
-        "bid": '10030201',
+        'name': '302路',
+        'bid': '10030201',
         'starting_station': '广州火车东站总站③d',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -7269,8 +7269,8 @@ buses = {
         ]
     },
     '34路': {
-        "name": '34路',
-        "bid": '10003400',
+        'name': '34路',
+        'bid': '10003400',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '云霄路(五号停机坪)',
         'stations': [
@@ -7295,8 +7295,8 @@ buses = {
         ]
     },
     '761路': {
-        "name": '761路',
-        "bid": '10076101',
+        'name': '761路',
+        'bid': '10076101',
         'starting_station': '侨城花园总站',
         'terminal_station': '赤沙(广东商学院)总站',
         'stations': [
@@ -7320,8 +7320,8 @@ buses = {
         ]
     },
     '657线': {
-        "name": '657线',
-        "bid": '10065701',
+        'name': '657线',
+        'bid': '10065701',
         'starting_station': '西华村(西华寺)总站',
         'terminal_station': '金沙洲码头总站',
         'stations': [
@@ -7345,8 +7345,8 @@ buses = {
         ]
     },
     '南沙51路': {
-        "name": '南沙51路',
-        "bid": '10605100',
+        'name': '南沙51路',
+        'bid': '10605100',
         'starting_station': '马克村总站',
         'terminal_station': '万洲水闸总站',
         'stations': [
@@ -7370,8 +7370,8 @@ buses = {
         ]
     },
     'B21路': {
-        "name": 'B21路',
-        "bid": '10802100',
+        'name': 'B21路',
+        'bid': '10802100',
         'starting_station': '革新路总站',
         'terminal_station': '棠下小区总站①',
         'stations': [
@@ -7411,8 +7411,8 @@ buses = {
         ]
     },
     '837路': {
-        "name": '837路',
-        "bid": '10083700',
+        'name': '837路',
+        'bid': '10083700',
         'starting_station': '太和总站',
         'terminal_station': '江高小塘总站',
         'stations': [
@@ -7453,8 +7453,8 @@ buses = {
         ]
     },
     '21路': {
-        "name": '21路',
-        "bid": '10002101',
+        'name': '21路',
+        'bid': '10002101',
         'starting_station': '解放北路(应元路口)总站',
         'terminal_station': '平沙村(富力城)总站',
         'stations': [
@@ -7485,8 +7485,8 @@ buses = {
         ]
     },
     '夜70': {
-        "name": '夜70',
-        "bid": '10007011',
+        'name': '夜70',
+        'bid': '10007011',
         'starting_station': '北山总站',
         'terminal_station': '天河客运站总站①',
         'stations': [
@@ -7519,8 +7519,8 @@ buses = {
         ]
     },
     '175路': {
-        "name": '175路',
-        "bid": '10017501',
+        'name': '175路',
+        'bid': '10017501',
         'starting_station': '广州火车东站总站⑨a',
         'terminal_station': '同德围(阳光花园)总站',
         'stations': [
@@ -7557,8 +7557,8 @@ buses = {
         ]
     },
     '343路': {
-        "name": '343路',
-        "bid": '10034301',
+        'name': '343路',
+        'bid': '10034301',
         'starting_station': '凤尾村(佛公路)总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -7582,8 +7582,8 @@ buses = {
         ]
     },
     '番26路': {
-        "name": '番26路',
-        "bid": '10702601',
+        'name': '番26路',
+        'bid': '10702601',
         'starting_station': '番禺汽车客运站',
         'terminal_station': '大夫山森林公园总站',
         'stations': [
@@ -7624,8 +7624,8 @@ buses = {
         ]
     },
     '番71路': {
-        "name": '番71路',
-        "bid": '10707101',
+        'name': '番71路',
+        'bid': '10707101',
         'starting_station': '新造地铁站总站',
         'terminal_station': '新基村总站',
         'stations': [
@@ -7655,8 +7655,8 @@ buses = {
         ]
     },
     '926路': {
-        "name": '926路',
-        "bid": '10092601',
+        'name': '926路',
+        'bid': '10092601',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '永兴庄总站',
         'stations': [
@@ -7688,8 +7688,8 @@ buses = {
         ]
     },
     '番160路': {
-        "name": '番160路',
-        "bid": '10716000',
+        'name': '番160路',
+        'bid': '10716000',
         'starting_station': '北城公交总站',
         'terminal_station': '莲花山港总站',
         'stations': [
@@ -7734,8 +7734,8 @@ buses = {
         ]
     },
     '528路': {
-        "name": '528路',
-        "bid": '10052800',
+        'name': '528路',
+        'bid': '10052800',
         'starting_station': '广卫路总站',
         'terminal_station': '嘉禾长红村总站',
         'stations': [
@@ -7767,8 +7767,8 @@ buses = {
         ]
     },
     '723路': {
-        "name": '723路',
-        "bid": '10072300',
+        'name': '723路',
+        'bid': '10072300',
         'starting_station': '江高(江村墟)总站',
         'terminal_station': '峡石村总站',
         'stations': [
@@ -7799,8 +7799,8 @@ buses = {
         ]
     },
     '夜66路': {
-        "name": '夜66路',
-        "bid": '10006610',
+        'name': '夜66路',
+        'bid': '10006610',
         'starting_station': '珠江帝景苑总站',
         'terminal_station': '新洲总站①',
         'stations': [
@@ -7827,8 +7827,8 @@ buses = {
         ]
     },
     '516路': {
-        "name": '516路',
-        "bid": '10051600',
+        'name': '516路',
+        'bid': '10051600',
         'starting_station': '保税区(酒博城)总站',
         'terminal_station': '永和开发区(树吓村)总站',
         'stations': [
@@ -7874,8 +7874,8 @@ buses = {
         ]
     },
     '969路': {
-        "name": '969路',
-        "bid": '10096900',
+        'name': '969路',
+        'bid': '10096900',
         'starting_station': '五眼桥涌尾坊总站',
         'terminal_station': '中南花园总站',
         'stations': [
@@ -7897,8 +7897,8 @@ buses = {
         ]
     },
     '番181路': {
-        "name": '番181路',
-        "bid": '10718101',
+        'name': '番181路',
+        'bid': '10718101',
         'starting_station': '诜村总站',
         'terminal_station': '地铁厦滘站总站',
         'stations': [
@@ -7917,8 +7917,8 @@ buses = {
         ]
     },
     '705路': {
-        "name": '705路',
-        "bid": '10070500',
+        'name': '705路',
+        'bid': '10070500',
         'starting_station': '中山八路总站',
         'terminal_station': '站前路公交总站',
         'stations': [
@@ -7953,8 +7953,8 @@ buses = {
         ]
     },
     '748线': {
-        "name": '748线',
-        "bid": '10074800',
+        'name': '748线',
+        'bid': '10074800',
         'starting_station': '同德围(阳光花园)总站',
         'terminal_station': '槎溪南路总站',
         'stations': [
@@ -7967,8 +7967,8 @@ buses = {
         ]
     },
     '982线': {
-        "name": '982线',
-        "bid": '10098201',
+        'name': '982线',
+        'bid': '10098201',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '环滘(白云湖公园)总站',
         'stations': [
@@ -7997,8 +7997,8 @@ buses = {
         ]
     },
     '543路': {
-        "name": '543路',
-        "bid": '10054300',
+        'name': '543路',
+        'bid': '10054300',
         'starting_station': '越秀公园站',
         'terminal_station': '石井(庆丰纺织服装城)总站',
         'stations': [
@@ -8028,8 +8028,8 @@ buses = {
         ]
     },
     '番15路': {
-        "name": '番15路',
-        "bid": '10701500',
+        'name': '番15路',
+        'bid': '10701500',
         'starting_station': '珠宝产业园总站',
         'terminal_station': '雄峰商城总站',
         'stations': [
@@ -8066,8 +8066,8 @@ buses = {
         ]
     },
     '31路': {
-        "name": '31路',
-        "bid": '10003101',
+        'name': '31路',
+        'bid': '10003101',
         'starting_station': '南石西总站',
         'terminal_station': '广州火车站总站m',
         'stations': [
@@ -8096,8 +8096,8 @@ buses = {
         ]
     },
     '198路': {
-        "name": '198路',
-        "bid": '10019800',
+        'name': '198路',
+        'bid': '10019800',
         'starting_station': '罗冲围(东旺)总站',
         'terminal_station': '鹤龙一路总站',
         'stations': [
@@ -8126,8 +8126,8 @@ buses = {
         ]
     },
     '993': {
-        "name": '993',
-        "bid": '10099301',
+        'name': '993',
+        'bid': '10099301',
         'starting_station': '坑口公交场总站',
         'terminal_station': '广州花卉博览园总站',
         'stations': [
@@ -8149,8 +8149,8 @@ buses = {
         ]
     },
     '花83B线': {
-        "name": '花83B线',
-        "bid": '10508321',
+        'name': '花83B线',
+        'bid': '10508321',
         'starting_station': '旗岭市场总站',
         'terminal_station': '两龙汽车总站',
         'stations': [
@@ -8175,8 +8175,8 @@ buses = {
         ]
     },
     '175路': {
-        "name": '175路',
-        "bid": '10017500',
+        'name': '175路',
+        'bid': '10017500',
         'starting_station': '同德围(阳光花园)总站',
         'terminal_station': '广州火车东站总站⑨a',
         'stations': [
@@ -8212,8 +8212,8 @@ buses = {
         ]
     },
     '52路': {
-        "name": '52路',
-        "bid": '10005200',
+        'name': '52路',
+        'bid': '10005200',
         'starting_station': '东沙工业园总站',
         'terminal_station': '广州火车站总站k',
         'stations': [
@@ -8247,8 +8247,8 @@ buses = {
         ]
     },
     '25路': {
-        "name": '25路',
-        "bid": '10002500',
+        'name': '25路',
+        'bid': '10002500',
         'starting_station': '昌岗路总站',
         'terminal_station': '大坦沙(市1中)总站',
         'stations': [
@@ -8276,8 +8276,8 @@ buses = {
         ]
     },
     '842路': {
-        "name": '842路',
-        "bid": '10084201',
+        'name': '842路',
+        'bid': '10084201',
         'starting_station': '良田村委总站',
         'terminal_station': '人和总站',
         'stations': [
@@ -8307,8 +8307,8 @@ buses = {
         ]
     },
     '511石龙班车': {
-        "name": '511石龙班车',
-        "bid": '10051130',
+        'name': '511石龙班车',
+        'bid': '10051130',
         'starting_station': '机场路总站①',
         'terminal_station': '石龙总站',
         'stations': [
@@ -8356,8 +8356,8 @@ buses = {
         ]
     },
     '32路': {
-        "name": '32路',
-        "bid": '10003200',
+        'name': '32路',
+        'bid': '10003200',
         'starting_station': '黄石路总站',
         'terminal_station': '华工大总站①',
         'stations': [
@@ -8392,8 +8392,8 @@ buses = {
         ]
     },
     '番152路': {
-        "name": '番152路',
-        "bid": '10715200',
+        'name': '番152路',
+        'bid': '10715200',
         'starting_station': '东涌励业路总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -8422,8 +8422,8 @@ buses = {
         ]
     },
     '番72路': {
-        "name": '番72路',
-        "bid": '10707200',
+        'name': '番72路',
+        'bid': '10707200',
         'starting_station': '南村汽车站总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -8449,8 +8449,8 @@ buses = {
         ]
     },
     '番131路': {
-        "name": '番131路',
-        "bid": '10713101',
+        'name': '番131路',
+        'bid': '10713101',
         'starting_station': '胜洲村总站',
         'terminal_station': '亚运文化村总站',
         'stations': [
@@ -8477,8 +8477,8 @@ buses = {
         ]
     },
     '277路': {
-        "name": '277路',
-        "bid": '10027701',
+        'name': '277路',
+        'bid': '10027701',
         'starting_station': '沙面新城总站',
         'terminal_station': '西塱社区总站',
         'stations': [
@@ -8519,8 +8519,8 @@ buses = {
         ]
     },
     '560路': {
-        "name": '560路',
-        "bid": '10056001',
+        'name': '560路',
+        'bid': '10056001',
         'starting_station': '华景新城总站①',
         'terminal_station': '南湖游乐园总站',
         'stations': [
@@ -8549,8 +8549,8 @@ buses = {
         ]
     },
     '297路': {
-        "name": '297路',
-        "bid": '10029701',
+        'name': '297路',
+        'bid': '10029701',
         'starting_station': '乐意居花园总站',
         'terminal_station': '黄沙总站⑤',
         'stations': [
@@ -8587,8 +8587,8 @@ buses = {
         ]
     },
     '花63路': {
-        "name": '花63路',
-        "bid": '10506301',
+        'name': '花63路',
+        'bid': '10506301',
         'starting_station': '芙蓉度假村总站',
         'terminal_station': '花都客运站总站',
         'stations': [
@@ -8623,8 +8623,8 @@ buses = {
         ]
     },
     '番91路': {
-        "name": '番91路',
-        "bid": '10709100',
+        'name': '番91路',
+        'bid': '10709100',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '洛溪新城总站',
         'stations': [
@@ -8668,8 +8668,8 @@ buses = {
         ]
     },
     '801路': {
-        "name": '801路',
-        "bid": '10080101',
+        'name': '801路',
+        'bid': '10080101',
         'starting_station': '体育中心总站',
         'terminal_station': '大学城(科学中心)总站①',
         'stations': [
@@ -8694,8 +8694,8 @@ buses = {
         ]
     },
     '755路': {
-        "name": '755路',
-        "bid": '10075500',
+        'name': '755路',
+        'bid': '10075500',
         'starting_station': '园坛岭路(地质调查院)总站',
         'terminal_station': '园坛岭路(地质调查院)总站',
         'stations': [
@@ -8730,8 +8730,8 @@ buses = {
         ]
     },
     '922路': {
-        "name": '922路',
-        "bid": '10092200',
+        'name': '922路',
+        'bid': '10092200',
         'starting_station': '永泰新村口总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -8746,8 +8746,8 @@ buses = {
         ]
     },
     '番190': {
-        "name": '番190',
-        "bid": '10719001',
+        'name': '番190',
+        'bid': '10719001',
         'starting_station': '地铁大石站总站',
         'terminal_station': '地铁大石站总站',
         'stations': [
@@ -8768,8 +8768,8 @@ buses = {
         ]
     },
     '776': {
-        "name": '776',
-        "bid": '10077601',
+        'name': '776',
+        'bid': '10077601',
         'starting_station': '科学城路口总站',
         'terminal_station': '广州东站汽车站总站',
         'stations': [
@@ -8800,8 +8800,8 @@ buses = {
         ]
     },
     '492路': {
-        "name": '492路',
-        "bid": '10049200',
+        'name': '492路',
+        'bid': '10049200',
         'starting_station': '龙洞牌坊总站',
         'terminal_station': '渔沙坦(中山村)总站',
         'stations': [
@@ -8823,8 +8823,8 @@ buses = {
         ]
     },
     '571A路': {
-        "name": '571A路',
-        "bid": '10057120',
+        'name': '571A路',
+        'bid': '10057120',
         'starting_station': '萝岗村委总站',
         'terminal_station': '新塘(光华路口)总站',
         'stations': [
@@ -8865,8 +8865,8 @@ buses = {
         ]
     },
     '节假日专线12': {
-        "name": '节假日专线12',
-        "bid": '10001270',
+        'name': '节假日专线12',
+        'bid': '10001270',
         'starting_station': '黄埔军校总站',
         'terminal_station': '黄埔军校总站',
         'stations': [
@@ -8879,8 +8879,8 @@ buses = {
         ]
     },
     '广286路': {
-        "name": '广286路',
-        "bid": '10028600',
+        'name': '广286路',
+        'bid': '10028600',
         'starting_station': '广卫路总站',
         'terminal_station': '黄岐第一城总站',
         'stations': [
@@ -8904,8 +8904,8 @@ buses = {
         ]
     },
     '番162路': {
-        "name": '番162路',
-        "bid": '10716201',
+        'name': '番162路',
+        'bid': '10716201',
         'starting_station': '好又多总站',
         'terminal_station': '亚运城总站',
         'stations': [
@@ -8936,8 +8936,8 @@ buses = {
         ]
     },
     '番201': {
-        "name": '番201',
-        "bid": '10720100',
+        'name': '番201',
+        'bid': '10720100',
         'starting_station': '大学城(穗石村)总站',
         'terminal_station': '大学城(体育中心)总站',
         'stations': [
@@ -8967,8 +8967,8 @@ buses = {
         ]
     },
     '126路': {
-        "name": '126路',
-        "bid": '10012601',
+        'name': '126路',
+        'bid': '10012601',
         'starting_station': '天河客运站总站⑤',
         'terminal_station': '凰岗总站①',
         'stations': [
@@ -9006,8 +9006,8 @@ buses = {
         ]
     },
     '地铁接驳8线': {
-        "name": '地铁接驳8线',
-        "bid": '10000841',
+        'name': '地铁接驳8线',
+        'bid': '10000841',
         'starting_station': '七星岗公园(南村体育中心)总站',
         'terminal_station': '地铁大石站总站',
         'stations': [
@@ -9040,8 +9040,8 @@ buses = {
         ]
     },
     '928路': {
-        "name": '928路',
-        "bid": '10092800',
+        'name': '928路',
+        'bid': '10092800',
         'starting_station': '景泰直街总站',
         'terminal_station': '富悦街站',
         'stations': [
@@ -9053,8 +9053,8 @@ buses = {
         ]
     },
     '509路': {
-        "name": '509路',
-        "bid": '10050900',
+        'name': '509路',
+        'bid': '10050900',
         'starting_station': '江高南岗村总站',
         'terminal_station': '永泰客运站总站',
         'stations': [
@@ -9103,8 +9103,8 @@ buses = {
         ]
     },
     '667路': {
-        "name": '667路',
-        "bid": '10066700',
+        'name': '667路',
+        'bid': '10066700',
         'starting_station': '地铁江夏站总站',
         'terminal_station': '地铁江夏站总站',
         'stations': [
@@ -9127,8 +9127,8 @@ buses = {
         ]
     },
     '番75B': {
-        "name": '番75B',
-        "bid": '10707530',
+        'name': '番75B',
+        'bid': '10707530',
         'starting_station': '广州南站总站',
         'terminal_station': '万达广场总站',
         'stations': [
@@ -9148,8 +9148,8 @@ buses = {
         ]
     },
     'B8路': {
-        "name": 'B8路',
-        "bid": '10800801',
+        'name': 'B8路',
+        'bid': '10800801',
         'starting_station': '宝岗大道总站①',
         'terminal_station': '棠下小区总站①',
         'stations': [
@@ -9186,8 +9186,8 @@ buses = {
         ]
     },
     '广佛线': {
-        "name": '广佛线',
-        "bid": '10999860',
+        'name': '广佛线',
+        'bid': '10999860',
         'starting_station': '西朗',
         'terminal_station': '魁奇路',
         'stations': [
@@ -9208,8 +9208,8 @@ buses = {
         ]
     },
     '228路': {
-        "name": '228路',
-        "bid": '10022801',
+        'name': '228路',
+        'bid': '10022801',
         'starting_station': '石井庆丰总站',
         'terminal_station': '广州火车站总站o',
         'stations': [
@@ -9238,8 +9238,8 @@ buses = {
         ]
     },
     '995路': {
-        "name": '995路',
-        "bid": '10099500',
+        'name': '995路',
+        'bid': '10099500',
         'starting_station': '革新路(光大花园)总站',
         'terminal_station': '革新路(光大花园)总站',
         'stations': [
@@ -9270,8 +9270,8 @@ buses = {
         ]
     },
     '夜64路': {
-        "name": '夜64路',
-        "bid": '10006411',
+        'name': '夜64路',
+        'bid': '10006411',
         'starting_station': '地铁东圃站总站',
         'terminal_station': '地铁东圃站总站',
         'stations': [
@@ -9290,8 +9290,8 @@ buses = {
         ]
     },
     '18路': {
-        "name": '18路',
-        "bid": '10001801',
+        'name': '18路',
+        'bid': '10001801',
         'starting_station': '体育中心站1③',
         'terminal_station': '赤沙(广东商学院)总站',
         'stations': [
@@ -9313,8 +9313,8 @@ buses = {
         ]
     },
     '夜86': {
-        "name": '夜86',
-        "bid": '10008610',
+        'name': '夜86',
+        'bid': '10008610',
         'starting_station': '龙归地铁站总站',
         'terminal_station': '太和总站',
         'stations': [
@@ -9337,8 +9337,8 @@ buses = {
         ]
     },
     '35路': {
-        "name": '35路',
-        "bid": '10003501',
+        'name': '35路',
+        'bid': '10003501',
         'starting_station': '文德路总站',
         'terminal_station': '大学城(科学中心)站',
         'stations': [
@@ -9379,8 +9379,8 @@ buses = {
         ]
     },
     '番165路': {
-        "name": '番165路',
-        "bid": '10716500',
+        'name': '番165路',
+        'bid': '10716500',
         'starting_station': '番禺节能科技园总站',
         'terminal_station': '奥园广场总站',
         'stations': [
@@ -9409,8 +9409,8 @@ buses = {
         ]
     },
     '商务专线4': {
-        "name": '商务专线4',
-        "bid": '10040431',
+        'name': '商务专线4',
+        'bid': '10040431',
         'starting_station': '平洲玉器街总站',
         'terminal_station': '中山八路总站',
         'stations': [
@@ -9431,8 +9431,8 @@ buses = {
         ]
     },
     '番187路': {
-        "name": '番187路',
-        "bid": '10718700',
+        'name': '番187路',
+        'bid': '10718700',
         'starting_station': '地铁大石站总站',
         'terminal_station': '地铁会江站',
         'stations': [
@@ -9452,8 +9452,8 @@ buses = {
         ]
     },
     '488路': {
-        "name": '488路',
-        "bid": '10048800',
+        'name': '488路',
+        'bid': '10048800',
         'starting_station': '逸景路(长江轻纺城)总站',
         'terminal_station': '逸景路(长江轻纺城)总站',
         'stations': [
@@ -9472,8 +9472,8 @@ buses = {
         ]
     },
     '496路': {
-        "name": '496路',
-        "bid": '10049600',
+        'name': '496路',
+        'bid': '10049600',
         'starting_station': '科学城(天泰二路)总站',
         'terminal_station': '科韵路总站',
         'stations': [
@@ -9504,8 +9504,8 @@ buses = {
         ]
     },
     '941路': {
-        "name": '941路',
-        "bid": '10094100',
+        'name': '941路',
+        'bid': '10094100',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '小塱总站',
         'stations': [
@@ -9519,8 +9519,8 @@ buses = {
         ]
     },
     '夜25': {
-        "name": '夜25',
-        "bid": '10002511',
+        'name': '夜25',
+        'bid': '10002511',
         'starting_station': '东圃总站①',
         'terminal_station': '广州火车站总站e',
         'stations': [
@@ -9550,8 +9550,8 @@ buses = {
         ]
     },
     '220路': {
-        "name": '220路',
-        "bid": '10022000',
+        'name': '220路',
+        'bid': '10022000',
         'starting_station': '南箕路总站',
         'terminal_station': '动物园总站1②b',
         'stations': [
@@ -9582,8 +9582,8 @@ buses = {
         ]
     },
     '夜92路': {
-        "name": '夜92路',
-        "bid": '10009210',
+        'name': '夜92路',
+        'bid': '10009210',
         'starting_station': '人和墟总站',
         'terminal_station': '花都狮岭五金龙头市场总站',
         'stations': [
@@ -9628,8 +9628,8 @@ buses = {
         ]
     },
     '773路': {
-        "name": '773路',
-        "bid": '10077300',
+        'name': '773路',
+        'bid': '10077300',
         'starting_station': '岑村南街总站',
         'terminal_station': '瘦狗岭站',
         'stations': [
@@ -9658,8 +9658,8 @@ buses = {
         ]
     },
     '番51路': {
-        "name": '番51路',
-        "bid": '10705101',
+        'name': '番51路',
+        'bid': '10705101',
         'starting_station': '化龙车站总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -9707,8 +9707,8 @@ buses = {
         ]
     },
     '360路': {
-        "name": '360路',
-        "bid": '10036000',
+        'name': '360路',
+        'bid': '10036000',
         'starting_station': '笔岗新村总站',
         'terminal_station': '地铁文冲站总站',
         'stations': [
@@ -9722,8 +9722,8 @@ buses = {
         ]
     },
     '940路': {
-        "name": '940路',
-        "bid": '10094000',
+        'name': '940路',
+        'bid': '10094000',
         'starting_station': '康南路北总站',
         'terminal_station': '小塱总站',
         'stations': [
@@ -9749,8 +9749,8 @@ buses = {
         ]
     },
     '番27路': {
-        "name": '番27路',
-        "bid": '10702701',
+        'name': '番27路',
+        'bid': '10702701',
         'starting_station': '旧水坑村总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -9788,8 +9788,8 @@ buses = {
         ]
     },
     '525路': {
-        "name": '525路',
-        "bid": '10052501',
+        'name': '525路',
+        'bid': '10052501',
         'starting_station': '芳村合兴苑站',
         'terminal_station': '海中村总站',
         'stations': [
@@ -9808,8 +9808,8 @@ buses = {
         ]
     },
     '353路': {
-        "name": '353路',
-        "bid": '10035300',
+        'name': '353路',
+        'bid': '10035300',
         'starting_station': '地铁官洲站总站',
         'terminal_station': '地铁官洲站总站',
         'stations': [
@@ -9826,8 +9826,8 @@ buses = {
         ]
     },
     '972路': {
-        "name": '972路',
-        "bid": '10097200',
+        'name': '972路',
+        'bid': '10097200',
         'starting_station': '龙归地铁站总站',
         'terminal_station': '太和镇总站',
         'stations': [
@@ -9851,8 +9851,8 @@ buses = {
         ]
     },
     '395路': {
-        "name": '395路',
-        "bid": '10039501',
+        'name': '395路',
+        'bid': '10039501',
         'starting_station': '萝岗香雪公园总站',
         'terminal_station': '科学城南部公交场总站',
         'stations': [
@@ -9886,8 +9886,8 @@ buses = {
         ]
     },
     '番161路': {
-        "name": '番161路',
-        "bid": '10716100',
+        'name': '番161路',
+        'bid': '10716100',
         'starting_station': '高铁庆盛总站',
         'terminal_station': '番禺汽车客运站',
         'stations': [
@@ -9927,8 +9927,8 @@ buses = {
         ]
     },
     '38路': {
-        "name": '38路',
-        "bid": '10003800',
+        'name': '38路',
+        'bid': '10003800',
         'starting_station': '时代玫瑰园总站',
         'terminal_station': '南方大厦(文化公园)总站',
         'stations': [
@@ -9967,8 +9967,8 @@ buses = {
         ]
     },
     '夜36路': {
-        "name": '夜36路',
-        "bid": '10003611',
+        'name': '夜36路',
+        'bid': '10003611',
         'starting_station': '棠下小区总站①',
         'terminal_station': '芳村西塱总站①',
         'stations': [
@@ -10017,8 +10017,8 @@ buses = {
         ]
     },
     '441路': {
-        "name": '441路',
-        "bid": '10044101',
+        'name': '441路',
+        'bid': '10044101',
         'starting_station': '佛子庄总站',
         'terminal_station': '镇龙总站',
         'stations': [
@@ -10036,8 +10036,8 @@ buses = {
         ]
     },
     '523A线': {
-        "name": '523A线',
-        "bid": '10052321',
+        'name': '523A线',
+        'bid': '10052321',
         'starting_station': '大朗总站',
         'terminal_station': '市客运站总站',
         'stations': [
@@ -10064,8 +10064,8 @@ buses = {
         ]
     },
     '347路': {
-        "name": '347路',
-        "bid": '10034701',
+        'name': '347路',
+        'bid': '10034701',
         'starting_station': '奥林匹克体育中心总站',
         'terminal_station': '云埔一路(中一药业)总站',
         'stations': [
@@ -10092,8 +10092,8 @@ buses = {
         ]
     },
     '448路': {
-        "name": '448路',
-        "bid": '10044800',
+        'name': '448路',
+        'bid': '10044800',
         'starting_station': '东圃客运站总站',
         'terminal_station': '科林路总站',
         'stations': [
@@ -10125,8 +10125,8 @@ buses = {
         ]
     },
     '8路': {
-        "name": '8路',
-        "bid": '10000801',
+        'name': '8路',
+        'bid': '10000801',
         'starting_station': '逸景翠园总站',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -10160,8 +10160,8 @@ buses = {
         ]
     },
     '352路': {
-        "name": '352路',
-        "bid": '10035201',
+        'name': '352路',
+        'bid': '10035201',
         'starting_station': '佛塱山贝总站',
         'terminal_station': '佛塱山贝总站',
         'stations': [
@@ -10169,8 +10169,8 @@ buses = {
         ]
     },
     '493路': {
-        "name": '493路',
-        "bid": '10049300',
+        'name': '493路',
+        'bid': '10049300',
         'starting_station': '龙洞牌坊总站',
         'terminal_station': '龙洞牌坊总站',
         'stations': [
@@ -10195,8 +10195,8 @@ buses = {
         ]
     },
     '夜59路': {
-        "name": '夜59路',
-        "bid": '10005911',
+        'name': '夜59路',
+        'bid': '10005911',
         'starting_station': '同康路总站',
         'terminal_station': '中山八路总站⑥',
         'stations': [
@@ -10218,8 +10218,8 @@ buses = {
         ]
     },
     '106路': {
-        "name": '106路',
-        "bid": '10010600',
+        'name': '106路',
+        'bid': '10010600',
         'starting_station': '锦城花园(东风东)总站①',
         'terminal_station': '文化公园总站①',
         'stations': [
@@ -10241,8 +10241,8 @@ buses = {
         ]
     },
     '763路': {
-        "name": '763路',
-        "bid": '10076300',
+        'name': '763路',
+        'bid': '10076300',
         'starting_station': '赤岗大塘总站',
         'terminal_station': '车陂总站①',
         'stations': [
@@ -10265,8 +10265,8 @@ buses = {
         ]
     },
     '975路': {
-        "name": '975路',
-        "bid": '10097501',
+        'name': '975路',
+        'bid': '10097501',
         'starting_station': '同德围(鹅掌坦)总站',
         'terminal_station': '云城南二路总站',
         'stations': [
@@ -10288,8 +10288,8 @@ buses = {
         ]
     },
     '702路': {
-        "name": '702路',
-        "bid": '10070201',
+        'name': '702路',
+        'bid': '10070201',
         'starting_station': '花都永大新城总站',
         'terminal_station': '机场路总站⑨',
         'stations': [
@@ -10308,8 +10308,8 @@ buses = {
         ]
     },
     '522路': {
-        "name": '522路',
-        "bid": '10052201',
+        'name': '522路',
+        'bid': '10052201',
         'starting_station': '江高(广东技术师范学院)总站',
         'terminal_station': '白云公园总站',
         'stations': [
@@ -10350,8 +10350,8 @@ buses = {
         ]
     },
     'B22路': {
-        "name": 'B22路',
-        "bid": '10802200',
+        'name': 'B22路',
+        'bid': '10802200',
         'starting_station': '广州科学城(长安村)总站',
         'terminal_station': '五羊新城总站',
         'stations': [
@@ -10392,8 +10392,8 @@ buses = {
         ]
     },
     '311路': {
-        "name": '311路',
-        "bid": '10031101',
+        'name': '311路',
+        'bid': '10031101',
         'starting_station': '天河公交场总站',
         'terminal_station': '锦绣半岛总站',
         'stations': [
@@ -10419,8 +10419,8 @@ buses = {
         ]
     },
     '449延长线': {
-        "name": '449延长线',
-        "bid": '10044921',
+        'name': '449延长线',
+        'bid': '10044921',
         'starting_station': '天麓湖郊野公园总站',
         'terminal_station': '岭头总站',
         'stations': [
@@ -10447,8 +10447,8 @@ buses = {
         ]
     },
     '夜75': {
-        "name": '夜75',
-        "bid": '10007511',
+        'name': '夜75',
+        'bid': '10007511',
         'starting_station': '汇侨新城总站①',
         'terminal_station': '汇侨新城总站①',
         'stations': [
@@ -10477,8 +10477,8 @@ buses = {
         ]
     },
     '840路': {
-        "name": '840路',
-        "bid": '10084000',
+        'name': '840路',
+        'bid': '10084000',
         'starting_station': '广州火车站总站c',
         'terminal_station': '人和安置区总站',
         'stations': [
@@ -10531,8 +10531,8 @@ buses = {
         ]
     },
     '547路': {
-        "name": '547路',
-        "bid": '10054701',
+        'name': '547路',
+        'bid': '10054701',
         'starting_station': '广州体育馆总站',
         'terminal_station': '环场路(花花世界)总站',
         'stations': [
@@ -10582,8 +10582,8 @@ buses = {
         ]
     },
     'S13B路': {
-        "name": 'S13B路',
-        "bid": '20901321',
+        'name': 'S13B路',
+        'bid': '20901321',
         'starting_station': '南浦锦绣半岛码头(总站)',
         'terminal_station': '白蚬壳码头(总站)',
         'stations': [
@@ -10592,8 +10592,8 @@ buses = {
         ]
     },
     '940路': {
-        "name": '940路',
-        "bid": '10094001',
+        'name': '940路',
+        'bid': '10094001',
         'starting_station': '小塱总站',
         'terminal_station': '康南路北总站',
         'stations': [
@@ -10619,8 +10619,8 @@ buses = {
         ]
     },
     '夜96路': {
-        "name": '夜96路',
-        "bid": '10009610',
+        'name': '夜96路',
+        'bid': '10009610',
         'starting_station': '金沙洲总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -10638,8 +10638,8 @@ buses = {
         ]
     },
     '752A': {
-        "name": '752A',
-        "bid": '10075220',
+        'name': '752A',
+        'bid': '10075220',
         'starting_station': '上步总站',
         'terminal_station': '上步总站',
         'stations': [
@@ -10663,8 +10663,8 @@ buses = {
         ]
     },
     '番149路': {
-        "name": '番149路',
-        "bid": '10714900',
+        'name': '番149路',
+        'bid': '10714900',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '清流村总站',
         'stations': [
@@ -10703,8 +10703,8 @@ buses = {
         ]
     },
     '夜46': {
-        "name": '夜46',
-        "bid": '10004610',
+        'name': '夜46',
+        'bid': '10004610',
         'starting_station': '动物园总站1②a',
         'terminal_station': '石化路总站',
         'stations': [
@@ -10743,8 +10743,8 @@ buses = {
         ]
     },
     '广花快线': {
-        "name": '广花快线',
-        "bid": '10500761',
+        'name': '广花快线',
+        'bid': '10500761',
         'starting_station': '花都客运站总站',
         'terminal_station': '市客运站总站',
         'stations': [
@@ -10762,8 +10762,8 @@ buses = {
         ]
     },
     'S10路': {
-        "name": 'S10路',
-        "bid": '20901001',
+        'name': 'S10路',
+        'bid': '20901001',
         'starting_station': '长洲码头(总站)',
         'terminal_station': '鱼珠码头(总站)',
         'stations': [
@@ -10772,8 +10772,8 @@ buses = {
         ]
     },
     '花83B线': {
-        "name": '花83B线',
-        "bid": '10508320',
+        'name': '花83B线',
+        'bid': '10508320',
         'starting_station': '两龙汽车总站',
         'terminal_station': '旗岭市场总站',
         'stations': [
@@ -10798,8 +10798,8 @@ buses = {
         ]
     },
     '927路': {
-        "name": '927路',
-        "bid": '10092700',
+        'name': '927路',
+        'bid': '10092700',
         'starting_station': '嘉禾总站',
         'terminal_station': '白云花园总站',
         'stations': [
@@ -10816,8 +10816,8 @@ buses = {
         ]
     },
     '231快线': {
-        "name": '231快线',
-        "bid": '10023160',
+        'name': '231快线',
+        'bid': '10023160',
         'starting_station': '流花车站总站②',
         'terminal_station': '里水客运站总站',
         'stations': [
@@ -10848,8 +10848,8 @@ buses = {
         ]
     },
     '南沙21路': {
-        "name": '南沙21路',
-        "bid": '10602101',
+        'name': '南沙21路',
+        'bid': '10602101',
         'starting_station': '新垦总站',
         'terminal_station': '广州船坞总站',
         'stations': [
@@ -10866,8 +10866,8 @@ buses = {
         ]
     },
     '高峰快线73路': {
-        "name": '高峰快线73路',
-        "bid": '10007361',
+        'name': '高峰快线73路',
+        'bid': '10007361',
         'starting_station': '人和总站',
         'terminal_station': '花都自由人花园总站',
         'stations': [
@@ -10882,8 +10882,8 @@ buses = {
         ]
     },
     '552路': {
-        "name": '552路',
-        "bid": '10055201',
+        'name': '552路',
+        'bid': '10055201',
         'starting_station': '芳村客运站总站①',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -10913,8 +10913,8 @@ buses = {
         ]
     },
     '番125路': {
-        "name": '番125路',
-        "bid": '10712501',
+        'name': '番125路',
+        'bid': '10712501',
         'starting_station': '陈村客运站',
         'terminal_station': '地铁汉溪长隆站总站②',
         'stations': [
@@ -10947,8 +10947,8 @@ buses = {
         ]
     },
     '花80路': {
-        "name": '花80路',
-        "bid": '10508001',
+        'name': '花80路',
+        'bid': '10508001',
         'starting_station': '义山村委总站',
         'terminal_station': '雅瑶新村总站',
         'stations': [
@@ -10986,8 +10986,8 @@ buses = {
         ]
     },
     '421路': {
-        "name": '421路',
-        "bid": '10042101',
+        'name': '421路',
+        'bid': '10042101',
         'starting_station': '南航新村总站',
         'terminal_station': '白云文化广场总站',
         'stations': [
@@ -11013,8 +11013,8 @@ buses = {
         ]
     },
     '番85路': {
-        "name": '番85路',
-        "bid": '10708500',
+        'name': '番85路',
+        'bid': '10708500',
         'starting_station': '新造地铁站总站',
         'terminal_station': '广州医科大学',
         'stations': [
@@ -11026,8 +11026,8 @@ buses = {
         ]
     },
     '南沙29路': {
-        "name": '南沙29路',
-        "bid": '10602901',
+        'name': '南沙29路',
+        'bid': '10602901',
         'starting_station': '平安社区村委会总站',
         'terminal_station': '前哨队总站',
         'stations': [
@@ -11046,8 +11046,8 @@ buses = {
         ]
     },
     '324线': {
-        "name": '324线',
-        "bid": '10032400',
+        'name': '324线',
+        'bid': '10032400',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '广州科学城(长安村)总站',
         'stations': [
@@ -11080,8 +11080,8 @@ buses = {
         ]
     },
     '711路': {
-        "name": '711路',
-        "bid": '10071100',
+        'name': '711路',
+        'bid': '10071100',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '花都推广汽车站总站',
         'stations': [
@@ -11112,8 +11112,8 @@ buses = {
         ]
     },
     '夜26路': {
-        "name": '夜26路',
-        "bid": '10002611',
+        'name': '夜26路',
+        'bid': '10002611',
         'starting_station': '芳村客运站总站①',
         'terminal_station': '石井(庆丰纺织服装城)总站',
         'stations': [
@@ -11158,8 +11158,8 @@ buses = {
         ]
     },
     '番58路': {
-        "name": '番58路',
-        "bid": '10705800',
+        'name': '番58路',
+        'bid': '10705800',
         'starting_station': '地铁厦滘站总站',
         'terminal_station': '华南新城总站',
         'stations': [
@@ -11177,8 +11177,8 @@ buses = {
         ]
     },
     '367路': {
-        "name": '367路',
-        "bid": '10036701',
+        'name': '367路',
+        'bid': '10036701',
         'starting_station': '永和大道(中海誉城)总站',
         'terminal_station': '火村东总站',
         'stations': [
@@ -11208,8 +11208,8 @@ buses = {
         ]
     },
     '南沙27路': {
-        "name": '南沙27路',
-        "bid": '10602701',
+        'name': '南沙27路',
+        'bid': '10602701',
         'starting_station': '物流基地二期总站',
         'terminal_station': '蕉门地铁总站',
         'stations': [
@@ -11233,8 +11233,8 @@ buses = {
         ]
     },
     '番11路': {
-        "name": '番11路',
-        "bid": '10701100',
+        'name': '番11路',
+        'bid': '10701100',
         'starting_station': '新市桥汽车站总站',
         'terminal_station': '高铁庆盛总站',
         'stations': [
@@ -11273,8 +11273,8 @@ buses = {
         ]
     },
     '广286路': {
-        "name": '广286路',
-        "bid": '10028601',
+        'name': '广286路',
+        'bid': '10028601',
         'starting_station': '黄岐第一城总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -11298,8 +11298,8 @@ buses = {
         ]
     },
     '夜13路': {
-        "name": '夜13路',
-        "bid": '10001310',
+        'name': '夜13路',
+        'bid': '10001310',
         'starting_station': '锦城花园(东风东)总站②',
         'terminal_station': '吉山总站',
         'stations': [
@@ -11332,8 +11332,8 @@ buses = {
         ]
     },
     '831路': {
-        "name": '831路',
-        "bid": '10083101',
+        'name': '831路',
+        'bid': '10083101',
         'starting_station': '石井(市114中)总站',
         'terminal_station': '白云花园总站',
         'stations': [
@@ -11372,8 +11372,8 @@ buses = {
         ]
     },
     '133路': {
-        "name": '133路',
-        "bid": '10013300',
+        'name': '133路',
+        'bid': '10013300',
         'starting_station': '中山八路总站①',
         'terminal_station': '龙口西(穗园小区)总站①',
         'stations': [
@@ -11401,8 +11401,8 @@ buses = {
         ]
     },
     '91路': {
-        "name": '91路',
-        "bid": '10009100',
+        'name': '91路',
+        'bid': '10009100',
         'starting_station': '芳村茶叶市场总站',
         'terminal_station': '珠光路总站',
         'stations': [
@@ -11437,8 +11437,8 @@ buses = {
         ]
     },
     '659路': {
-        "name": '659路',
-        "bid": '10065901',
+        'name': '659路',
+        'bid': '10065901',
         'starting_station': '太和(沙亭岗村)总站',
         'terminal_station': '地铁嘉禾望岗总站',
         'stations': [
@@ -11468,8 +11468,8 @@ buses = {
         ]
     },
     '番79路': {
-        "name": '番79路',
-        "bid": '10707901',
+        'name': '番79路',
+        'bid': '10707901',
         'starting_station': '文边总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -11488,8 +11488,8 @@ buses = {
         ]
     },
     '中国(广东)自由贸易区南沙快线': {
-        "name": '中国(广东)自由贸易区南沙快线',
-        "bid": '10690300',
+        'name': '中国(广东)自由贸易区南沙快线',
+        'bid': '10690300',
         'starting_station': '蕉门公交总站',
         'terminal_station': '天河公交场',
         'stations': [
@@ -11509,8 +11509,8 @@ buses = {
         ]
     },
     '夜21': {
-        "name": '夜21',
-        "bid": '10002111',
+        'name': '夜21',
+        'bid': '10002111',
         'starting_station': '石井潭村总站',
         'terminal_station': '东山(龟岗)总站',
         'stations': [
@@ -11552,8 +11552,8 @@ buses = {
         ]
     },
     '331路': {
-        "name": '331路',
-        "bid": '10033101',
+        'name': '331路',
+        'bid': '10033101',
         'starting_station': '沧联总站',
         'terminal_station': '水南村(文体中心)总站',
         'stations': [
@@ -11567,8 +11567,8 @@ buses = {
         ]
     },
     '110路': {
-        "name": '110路',
-        "bid": '10011001',
+        'name': '110路',
+        'bid': '10011001',
         'starting_station': '文化公园总站①',
         'terminal_station': '天平架总站①b',
         'stations': [
@@ -11596,8 +11596,8 @@ buses = {
         ]
     },
     '66路': {
-        "name": '66路',
-        "bid": '10006601',
+        'name': '66路',
+        'bid': '10006601',
         'starting_station': '泮塘总站',
         'terminal_station': '东平总站',
         'stations': [
@@ -11642,8 +11642,8 @@ buses = {
         ]
     },
     '51路': {
-        "name": '51路',
-        "bid": '10005101',
+        'name': '51路',
+        'bid': '10005101',
         'starting_station': '万博中心总站',
         'terminal_station': '天平架总站⑤a',
         'stations': [
@@ -11678,8 +11678,8 @@ buses = {
         ]
     },
     '夜51': {
-        "name": '夜51',
-        "bid": '10005110',
+        'name': '夜51',
+        'bid': '10005110',
         'starting_station': '广州火车东站总站⑦b',
         'terminal_station': '萝岗街总站',
         'stations': [
@@ -11734,8 +11734,8 @@ buses = {
         ]
     },
     '182路': {
-        "name": '182路',
-        "bid": '10018200',
+        'name': '182路',
+        'bid': '10018200',
         'starting_station': '云苑新村总站',
         'terminal_station': '逸景翠园总站',
         'stations': [
@@ -11767,8 +11767,8 @@ buses = {
         ]
     },
     '755路': {
-        "name": '755路',
-        "bid": '10075501',
+        'name': '755路',
+        'bid': '10075501',
         'starting_station': '园坛岭路(地质调查院)总站',
         'terminal_station': '园坛岭路(地质调查院)总站',
         'stations': [
@@ -11803,8 +11803,8 @@ buses = {
         ]
     },
     '夜30路': {
-        "name": '夜30路',
-        "bid": '10003010',
+        'name': '夜30路',
+        'bid': '10003010',
         'starting_station': '南天商业城总站',
         'terminal_station': '罗冲围总站1④',
         'stations': [
@@ -11843,8 +11843,8 @@ buses = {
         ]
     },
     'B7快线': {
-        "name": 'B7快线',
-        "bid": '10800760',
+        'name': 'B7快线',
+        'bid': '10800760',
         'starting_station': '东圃客运站总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -11874,8 +11874,8 @@ buses = {
         ]
     },
     '44路': {
-        "name": '44路',
-        "bid": '10004400',
+        'name': '44路',
+        'bid': '10004400',
         'starting_station': '珠江医院总站①',
         'terminal_station': '车陂总站②',
         'stations': [
@@ -11914,8 +11914,8 @@ buses = {
         ]
     },
     '728路': {
-        "name": '728路',
-        "bid": '10072801',
+        'name': '728路',
+        'bid': '10072801',
         'starting_station': '良田村委总站',
         'terminal_station': '龙归地铁站总站',
         'stations': [
@@ -11941,8 +11941,8 @@ buses = {
         ]
     },
     '983线': {
-        "name": '983线',
-        "bid": '10098300',
+        'name': '983线',
+        'bid': '10098300',
         'starting_station': '夏茅(白云湖公园)总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -11966,8 +11966,8 @@ buses = {
         ]
     },
     '268路': {
-        "name": '268路',
-        "bid": '10026800',
+        'name': '268路',
+        'bid': '10026800',
         'starting_station': '陈家祠(中山七路)总站',
         'terminal_station': '白云花园总站',
         'stations': [
@@ -11997,8 +11997,8 @@ buses = {
         ]
     },
     '968路': {
-        "name": '968路',
-        "bid": '10096800',
+        'name': '968路',
+        'bid': '10096800',
         'starting_station': '海联路总站',
         'terminal_station': '海联路总站',
         'stations': [
@@ -12027,8 +12027,8 @@ buses = {
         ]
     },
     '901路': {
-        "name": '901路',
-        "bid": '10090100',
+        'name': '901路',
+        'bid': '10090100',
         'starting_station': '岑村教练场总站',
         'terminal_station': '岑村松岗小区总站',
         'stations': [
@@ -12042,8 +12042,8 @@ buses = {
         ]
     },
     '299路': {
-        "name": '299路',
-        "bid": '10029901',
+        'name': '299路',
+        'bid': '10029901',
         'starting_station': '员村(绢麻厂)总站',
         'terminal_station': '昌岗路总站',
         'stations': [
@@ -12077,8 +12077,8 @@ buses = {
         ]
     },
     '996路': {
-        "name": '996路',
-        "bid": '10099600',
+        'name': '996路',
+        'bid': '10099600',
         'starting_station': '茶滘路总站',
         'terminal_station': '茶滘路总站',
         'stations': [
@@ -12105,8 +12105,8 @@ buses = {
         ]
     },
     '962路': {
-        "name": '962路',
-        "bid": '10096200',
+        'name': '962路',
+        'bid': '10096200',
         'starting_station': '墩和(大塘西)总站',
         'terminal_station': '墩和(大塘西)总站',
         'stations': [
@@ -12131,8 +12131,8 @@ buses = {
         ]
     },
     '542路': {
-        "name": '542路',
-        "bid": '10054201',
+        'name': '542路',
+        'bid': '10054201',
         'starting_station': '瑞宝乡总站',
         'terminal_station': '员村一横路总站①',
         'stations': [
@@ -12164,8 +12164,8 @@ buses = {
         ]
     },
     '番183路': {
-        "name": '番183路',
-        "bid": '10718300',
+        'name': '番183路',
+        'bid': '10718300',
         'starting_station': '地铁厦滘站总站',
         'terminal_station': '西三村总站',
         'stations': [
@@ -12189,8 +12189,8 @@ buses = {
         ]
     },
     '夜28路': {
-        "name": '夜28路',
-        "bid": '10002811',
+        'name': '夜28路',
+        'bid': '10002811',
         'starting_station': '广州火车东站总站③a',
         'terminal_station': '丽江花园总站',
         'stations': [
@@ -12214,8 +12214,8 @@ buses = {
         ]
     },
     '832路': {
-        "name": '832路',
-        "bid": '10083201',
+        'name': '832路',
+        'bid': '10083201',
         'starting_station': '河沙总站',
         'terminal_station': '南方医院总站',
         'stations': [
@@ -12259,8 +12259,8 @@ buses = {
         ]
     },
     '742线': {
-        "name": '742线',
-        "bid": '10074201',
+        'name': '742线',
+        'bid': '10074201',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '石井鸦岗总站',
         'stations': [
@@ -12294,8 +12294,8 @@ buses = {
         ]
     },
     '34路': {
-        "name": '34路',
-        "bid": '10003401',
+        'name': '34路',
+        'bid': '10003401',
         'starting_station': '云霄路(五号停机坪)',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -12320,8 +12320,8 @@ buses = {
         ]
     },
     '花84路': {
-        "name": '花84路',
-        "bid": '10508400',
+        'name': '花84路',
+        'bid': '10508400',
         'starting_station': '广州北站总站',
         'terminal_station': '太平场总站',
         'stations': [
@@ -12379,8 +12379,8 @@ buses = {
         ]
     },
     'S04B路': {
-        "name": 'S04B路',
-        "bid": '20900421',
+        'name': 'S04B路',
+        'bid': '20900421',
         'starting_station': '鳌洲码头(总站)',
         'terminal_station': '西堤码头(总站)',
         'stations': [
@@ -12389,8 +12389,8 @@ buses = {
         ]
     },
     '962路': {
-        "name": '962路',
-        "bid": '10096201',
+        'name': '962路',
+        'bid': '10096201',
         'starting_station': '墩和(大塘西)总站',
         'terminal_station': '墩和(大塘西)总站',
         'stations': [
@@ -12415,8 +12415,8 @@ buses = {
         ]
     },
     '南沙5路': {
-        "name": '南沙5路',
-        "bid": '10600501',
+        'name': '南沙5路',
+        'bid': '10600501',
         'starting_station': '南沙湾站',
         'terminal_station': '蕉门地铁总站',
         'stations': [
@@ -12446,8 +12446,8 @@ buses = {
         ]
     },
     '番22路': {
-        "name": '番22路',
-        "bid": '10702201',
+        'name': '番22路',
+        'bid': '10702201',
         'starting_station': '茶东总站',
         'terminal_station': '北海村总站',
         'stations': [
@@ -12491,8 +12491,8 @@ buses = {
         ]
     },
     '458路': {
-        "name": '458路',
-        "bid": '10045801',
+        'name': '458路',
+        'bid': '10045801',
         'starting_station': '迳头二社总站',
         'terminal_station': '镇龙总站',
         'stations': [
@@ -12506,8 +12506,8 @@ buses = {
         ]
     },
     '209路': {
-        "name": '209路',
-        "bid": '10020900',
+        'name': '209路',
+        'bid': '10020900',
         'starting_station': '坦尾(柏悦湾)总站',
         'terminal_station': '广州火车东站总站⑤b',
         'stations': [
@@ -12540,8 +12540,8 @@ buses = {
         ]
     },
     '番5路': {
-        "name": '番5路',
-        "bid": '10700500',
+        'name': '番5路',
+        'bid': '10700500',
         'starting_station': '新市桥汽车站总站',
         'terminal_station': '太石工业区总站',
         'stations': [
@@ -12571,8 +12571,8 @@ buses = {
         ]
     },
     '花70路': {
-        "name": '花70路',
-        "bid": '10507000',
+        'name': '花70路',
+        'bid': '10507000',
         'starting_station': '人和商业中心总站',
         'terminal_station': '花都万科天景花园总站',
         'stations': [
@@ -12607,8 +12607,8 @@ buses = {
         ]
     },
     '夜67': {
-        "name": '夜67',
-        "bid": '10006711',
+        'name': '夜67',
+        'bid': '10006711',
         'starting_station': '黄岐镇政府总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -12636,8 +12636,8 @@ buses = {
         ]
     },
     '夜41路': {
-        "name": '夜41路',
-        "bid": '10004111',
+        'name': '夜41路',
+        'bid': '10004111',
         'starting_station': '保税区(酒博城)总站',
         'terminal_station': '广州火车站总站f',
         'stations': [
@@ -12699,8 +12699,8 @@ buses = {
         ]
     },
     '812路': {
-        "name": '812路',
-        "bid": '10081201',
+        'name': '812路',
+        'bid': '10081201',
         'starting_station': '江南大道南总站',
         'terminal_station': '东漖教师新村总站',
         'stations': [
@@ -12727,8 +12727,8 @@ buses = {
         ]
     },
     '704路': {
-        "name": '704路',
-        "bid": '10070400',
+        'name': '704路',
+        'bid': '10070400',
         'starting_station': '机场路总站(11)',
         'terminal_station': '花都两龙总站',
         'stations': [
@@ -12772,8 +12772,8 @@ buses = {
         ]
     },
     '929路': {
-        "name": '929路',
-        "bid": '10092900',
+        'name': '929路',
+        'bid': '10092900',
         'starting_station': '白云公园总站',
         'terminal_station': '龙湖工业区总站',
         'stations': [
@@ -12806,8 +12806,8 @@ buses = {
         ]
     },
     '271A线': {
-        "name": '271A线',
-        "bid": '10027120',
+        'name': '271A线',
+        'bid': '10027120',
         'starting_station': '流花车站总站①',
         'terminal_station': '石井(滘心村)总站',
         'stations': [
@@ -12833,8 +12833,8 @@ buses = {
         ]
     },
     '番58路': {
-        "name": '番58路',
-        "bid": '10705801',
+        'name': '番58路',
+        'bid': '10705801',
         'starting_station': '华南新城总站',
         'terminal_station': '地铁厦滘站总站',
         'stations': [
@@ -12852,8 +12852,8 @@ buses = {
         ]
     },
     '393路': {
-        "name": '393路',
-        "bid": '10039301',
+        'name': '393路',
+        'bid': '10039301',
         'starting_station': '开创大道口总站',
         'terminal_station': '发源路总站',
         'stations': [
@@ -12874,8 +12874,8 @@ buses = {
         ]
     },
     '南沙50路': {
-        "name": '南沙50路',
-        "bid": '10605001',
+        'name': '南沙50路',
+        'bid': '10605001',
         'starting_station': '鱼窝头二中总站',
         'terminal_station': '锦兴染厂(旧厂)站',
         'stations': [
@@ -12906,8 +12906,8 @@ buses = {
         ]
     },
     '花84路': {
-        "name": '花84路',
-        "bid": '10508401',
+        'name': '花84路',
+        'bid': '10508401',
         'starting_station': '太平场总站',
         'terminal_station': '广州北站总站',
         'stations': [
@@ -12963,8 +12963,8 @@ buses = {
         ]
     },
     '56路': {
-        "name": '56路',
-        "bid": '10005600',
+        'name': '56路',
+        'bid': '10005600',
         'starting_station': '白云山制药厂总站',
         'terminal_station': '光塔路总站',
         'stations': [
@@ -12998,8 +12998,8 @@ buses = {
         ]
     },
     'B31路': {
-        "name": 'B31路',
-        "bid": '10803101',
+        'name': 'B31路',
+        'bid': '10803101',
         'starting_station': '鱼珠码头总站①',
         'terminal_station': '永和开发区总站',
         'stations': [
@@ -13047,8 +13047,8 @@ buses = {
         ]
     },
     '750线': {
-        "name": '750线',
-        "bid": '10075000',
+        'name': '750线',
+        'bid': '10075000',
         'starting_station': '人和墟(万家福广场)总站',
         'terminal_station': '神山总站',
         'stations': [
@@ -13078,8 +13078,8 @@ buses = {
         ]
     },
     '523路': {
-        "name": '523路',
-        "bid": '10052300',
+        'name': '523路',
+        'bid': '10052300',
         'starting_station': '市客运站总站',
         'terminal_station': '江高小塘总站',
         'stations': [
@@ -13118,8 +13118,8 @@ buses = {
         ]
     },
     '701路': {
-        "name": '701路',
-        "bid": '10070100',
+        'name': '701路',
+        'bid': '10070100',
         'starting_station': '天平架总站④a',
         'terminal_station': '花都雅居乐锦城花园总站',
         'stations': [
@@ -13174,8 +13174,8 @@ buses = {
         ]
     },
     '64支线': {
-        "name": '64支线',
-        "bid": '10006420',
+        'name': '64支线',
+        'bid': '10006420',
         'starting_station': '南漖村总站',
         'terminal_station': '南漖村总站',
         'stations': [
@@ -13191,8 +13191,8 @@ buses = {
         ]
     },
     '127路': {
-        "name": '127路',
-        "bid": '10012701',
+        'name': '127路',
+        'bid': '10012701',
         'starting_station': '均禾工业区(清湖村)总站',
         'terminal_station': '动物园总站1①b',
         'stations': [
@@ -13233,8 +13233,8 @@ buses = {
         ]
     },
     '280路': {
-        "name": '280路',
-        "bid": '10028000',
+        'name': '280路',
+        'bid': '10028000',
         'starting_station': '凰岗(锦东服装城)总站',
         'terminal_station': '广州火车东站总站',
         'stations': [
@@ -13270,8 +13270,8 @@ buses = {
         ]
     },
     '番22路': {
-        "name": '番22路',
-        "bid": '10702200',
+        'name': '番22路',
+        'bid': '10702200',
         'starting_station': '北海村总站',
         'terminal_station': '茶东总站',
         'stations': [
@@ -13315,8 +13315,8 @@ buses = {
         ]
     },
     '563路': {
-        "name": '563路',
-        "bid": '10056300',
+        'name': '563路',
+        'bid': '10056300',
         'starting_station': '罗冲围总站',
         'terminal_station': '太和民营科技园总站',
         'stations': [
@@ -13362,8 +13362,8 @@ buses = {
         ]
     },
     '945路': {
-        "name": '945路',
-        "bid": '10094500',
+        'name': '945路',
+        'bid': '10094500',
         'starting_station': '开创大道(万科城)总站',
         'terminal_station': '地铁大沙地站总站',
         'stations': [
@@ -13395,8 +13395,8 @@ buses = {
         ]
     },
     '108路': {
-        "name": '108路',
-        "bid": '10010801',
+        'name': '108路',
+        'bid': '10010801',
         'starting_station': '黄石路总站',
         'terminal_station': '东山总站',
         'stations': [
@@ -13422,8 +13422,8 @@ buses = {
         ]
     },
     '夜15': {
-        "name": '夜15',
-        "bid": '10001510',
+        'name': '夜15',
+        'bid': '10001510',
         'starting_station': '同德围(横滘村)总站',
         'terminal_station': '广州火车东站总站②b',
         'stations': [
@@ -13455,8 +13455,8 @@ buses = {
         ]
     },
     '花73路': {
-        "name": '花73路',
-        "bid": '10507301',
+        'name': '花73路',
+        'bid': '10507301',
         'starting_station': '站前路公交总站',
         'terminal_station': '神山总站',
         'stations': [
@@ -13476,8 +13476,8 @@ buses = {
         ]
     },
     'B1路': {
-        "name": 'B1路',
-        "bid": '10800101',
+        'name': 'B1路',
+        'bid': '10800101',
         'starting_station': '夏园站B',
         'terminal_station': '体育中心站B',
         'stations': [
@@ -13510,8 +13510,8 @@ buses = {
         ]
     },
     '302路': {
-        "name": '302路',
-        "bid": '10030200',
+        'name': '302路',
+        'bid': '10030200',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '广州火车东站总站③d',
         'stations': [
@@ -13544,8 +13544,8 @@ buses = {
         ]
     },
     '夜95路': {
-        "name": '夜95路',
-        "bid": '10009510',
+        'name': '夜95路',
+        'bid': '10009510',
         'starting_station': '河沙总站',
         'terminal_station': '南方医院总站',
         'stations': [
@@ -13589,8 +13589,8 @@ buses = {
         ]
     },
     '973路': {
-        "name": '973路',
-        "bid": '10097301',
+        'name': '973路',
+        'bid': '10097301',
         'starting_station': '兴丰村总站',
         'terminal_station': '太和总站(丰泰小区)',
         'stations': [
@@ -13621,8 +13621,8 @@ buses = {
         ]
     },
     '429A线': {
-        "name": '429A线',
-        "bid": '10042921',
+        'name': '429A线',
+        'bid': '10042921',
         'starting_station': '白沙(中海金沙湾)总站',
         'terminal_station': '西村地铁站总站',
         'stations': [
@@ -13642,8 +13642,8 @@ buses = {
         ]
     },
     '222路': {
-        "name": '222路',
-        "bid": '10022201',
+        'name': '222路',
+        'bid': '10022201',
         'starting_station': '五羊新城总站',
         'terminal_station': '芳村丰年路(黄大仙祠)总站',
         'stations': [
@@ -13679,8 +13679,8 @@ buses = {
         ]
     },
     '科学城环线1': {
-        "name": '科学城环线1',
-        "bid": '10000571',
+        'name': '科学城环线1',
+        'bid': '10000571',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '科学城路口总站',
         'stations': [
@@ -13701,8 +13701,8 @@ buses = {
         ]
     },
     '973路': {
-        "name": '973路',
-        "bid": '10097300',
+        'name': '973路',
+        'bid': '10097300',
         'starting_station': '太和总站(丰泰小区)',
         'terminal_station': '兴丰村总站',
         'stations': [
@@ -13733,8 +13733,8 @@ buses = {
         ]
     },
     'B9路': {
-        "name": 'B9路',
-        "bid": '10800900',
+        'name': 'B9路',
+        'bid': '10800900',
         'starting_station': '珠江南景园总站',
         'terminal_station': '华景新城总站①',
         'stations': [
@@ -13765,8 +13765,8 @@ buses = {
         ]
     },
     '547路': {
-        "name": '547路',
-        "bid": '10054700',
+        'name': '547路',
+        'bid': '10054700',
         'starting_station': '环场路(花花世界)总站',
         'terminal_station': '广州体育馆总站',
         'stations': [
@@ -13813,8 +13813,8 @@ buses = {
         ]
     },
     '453路': {
-        "name": '453路',
-        "bid": '10045300',
+        'name': '453路',
+        'bid': '10045300',
         'starting_station': '西区公交总站',
         'terminal_station': '西区公交总站',
         'stations': [
@@ -13845,8 +13845,8 @@ buses = {
         ]
     },
     '356路': {
-        "name": '356路',
-        "bid": '10035601',
+        'name': '356路',
+        'bid': '10035601',
         'starting_station': '汇彩路总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -13868,8 +13868,8 @@ buses = {
         ]
     },
     '番2路': {
-        "name": '番2路',
-        "bid": '10700201',
+        'name': '番2路',
+        'bid': '10700201',
         'starting_station': '新力总站',
         'terminal_station': '蔡边村总站',
         'stations': [
@@ -13897,8 +13897,8 @@ buses = {
         ]
     },
     '721路': {
-        "name": '721路',
-        "bid": '10072101',
+        'name': '721路',
+        'bid': '10072101',
         'starting_station': '南浦村总站',
         'terminal_station': '神山总站',
         'stations': [
@@ -13916,8 +13916,8 @@ buses = {
         ]
     },
     '650路': {
-        "name": '650路',
-        "bid": '10065001',
+        'name': '650路',
+        'bid': '10065001',
         'starting_station': '九佛总站',
         'terminal_station': '龙归地铁站总站',
         'stations': [
@@ -13955,8 +13955,8 @@ buses = {
         ]
     },
     '番1路': {
-        "name": '番1路',
-        "bid": '10700101',
+        'name': '番1路',
+        'bid': '10700101',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '祈福新村总站',
         'stations': [
@@ -13988,8 +13988,8 @@ buses = {
         ]
     },
     '321路': {
-        "name": '321路',
-        "bid": '10032100',
+        'name': '321路',
+        'bid': '10032100',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '科学城(天泰二路)总站',
         'stations': [
@@ -14021,8 +14021,8 @@ buses = {
         ]
     },
     '番25路': {
-        "name": '番25路',
-        "bid": '10702501',
+        'name': '番25路',
+        'bid': '10702501',
         'starting_station': '洛溪南浦总站',
         'terminal_station': '雄峰商城总站',
         'stations': [
@@ -14056,8 +14056,8 @@ buses = {
         ]
     },
     '277路': {
-        "name": '277路',
-        "bid": '10027700',
+        'name': '277路',
+        'bid': '10027700',
         'starting_station': '西塱社区总站',
         'terminal_station': '沙面新城总站',
         'stations': [
@@ -14096,8 +14096,8 @@ buses = {
         ]
     },
     '511路': {
-        "name": '511路',
-        "bid": '10051100',
+        'name': '511路',
+        'bid': '10051100',
         'starting_station': '机场路总站①',
         'terminal_station': '神山总站',
         'stations': [
@@ -14146,8 +14146,8 @@ buses = {
         ]
     },
     '夜8路': {
-        "name": '夜8路',
-        "bid": '10000811',
+        'name': '夜8路',
+        'bid': '10000811',
         'starting_station': '赤沙(广东商学院)总站',
         'terminal_station': '广州火车站总站k',
         'stations': [
@@ -14179,8 +14179,8 @@ buses = {
         ]
     },
     '903路': {
-        "name": '903路',
-        "bid": '10090301',
+        'name': '903路',
+        'bid': '10090301',
         'starting_station': '天河智慧城核心区总站(高唐)',
         'terminal_station': '地铁三溪站总站',
         'stations': [
@@ -14207,8 +14207,8 @@ buses = {
         ]
     },
     '326路': {
-        "name": '326路',
-        "bid": '10032600',
+        'name': '326路',
+        'bid': '10032600',
         'starting_station': '黄埔港总站',
         'terminal_station': '科学城(天泰二路)总站',
         'stations': [
@@ -14232,8 +14232,8 @@ buses = {
         ]
     },
     '快线28': {
-        "name": '快线28',
-        "bid": '10002860',
+        'name': '快线28',
+        'bid': '10002860',
         'starting_station': '广州火车东站总站③c',
         'terminal_station': '保税区(酒博城)总站',
         'stations': [
@@ -14264,8 +14264,8 @@ buses = {
         ]
     },
     '714路': {
-        "name": '714路',
-        "bid": '10071400',
+        'name': '714路',
+        'bid': '10071400',
         'starting_station': '花都北兴汽车总站',
         'terminal_station': '钟落潭总站',
         'stations': [
@@ -14286,8 +14286,8 @@ buses = {
         ]
     },
     '6路': {
-        "name": '6路',
-        "bid": '10000601',
+        'name': '6路',
+        'bid': '10000601',
         'starting_station': '天河北公交总站',
         'terminal_station': '黄沙总站①',
         'stations': [
@@ -14319,8 +14319,8 @@ buses = {
         ]
     },
     '28路': {
-        "name": '28路',
-        "bid": '10002800',
+        'name': '28路',
+        'bid': '10002800',
         'starting_station': '天平架总站⑤b',
         'terminal_station': '龙洞(龙逸山庄)总站',
         'stations': [
@@ -14346,8 +14346,8 @@ buses = {
         ]
     },
     '803A线': {
-        "name": '803A线',
-        "bid": '10080320',
+        'name': '803A线',
+        'bid': '10080320',
         'starting_station': '广州火车站总站a',
         'terminal_station': '元下田村总站',
         'stations': [
@@ -14377,8 +14377,8 @@ buses = {
         ]
     },
     '番151路': {
-        "name": '番151路',
-        "bid": '10715100',
+        'name': '番151路',
+        'bid': '10715100',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '鱼窝头太石工业区总站',
         'stations': [
@@ -14401,8 +14401,8 @@ buses = {
         ]
     },
     '183路': {
-        "name": '183路',
-        "bid": '10018301',
+        'name': '183路',
+        'bid': '10018301',
         'starting_station': '大基头(木偶艺术剧院)总站',
         'terminal_station': '广州火车东站总站⑨b',
         'stations': [
@@ -14433,8 +14433,8 @@ buses = {
         ]
     },
     '259路': {
-        "name": '259路',
-        "bid": '10025901',
+        'name': '259路',
+        'bid': '10025901',
         'starting_station': '嘉禾长湴总站',
         'terminal_station': '罗冲围总站1②',
         'stations': [
@@ -14470,8 +14470,8 @@ buses = {
         ]
     },
     '460路': {
-        "name": '460路',
-        "bid": '10046000',
+        'name': '460路',
+        'bid': '10046000',
         'starting_station': '大元帅府站',
         'terminal_station': '大元帅府站',
         'stations': [
@@ -14499,8 +14499,8 @@ buses = {
         ]
     },
     '41路': {
-        "name": '41路',
-        "bid": '10004101',
+        'name': '41路',
+        'bid': '10004101',
         'starting_station': '汇景北路总站',
         'terminal_station': '广州火车东站总站⑥c',
         'stations': [
@@ -14516,8 +14516,8 @@ buses = {
         ]
     },
     '774路': {
-        "name": '774路',
-        "bid": '10077401',
+        'name': '774路',
+        'bid': '10077401',
         'starting_station': '天河智慧城核心区总站(高唐)',
         'terminal_station': '地铁车陂南站总站',
         'stations': [
@@ -14542,8 +14542,8 @@ buses = {
         ]
     },
     '654路': {
-        "name": '654路',
-        "bid": '10065400',
+        'name': '654路',
+        'bid': '10065400',
         'starting_station': '大田村(北帝古庙)总站',
         'terminal_station': '江高新楼村总站',
         'stations': [
@@ -14569,8 +14569,8 @@ buses = {
         ]
     },
     '988环线': {
-        "name": '988环线',
-        "bid": '10098801',
+        'name': '988环线',
+        'bid': '10098801',
         'starting_station': '石榴岗总站',
         'terminal_station': '石榴岗总站',
         'stations': [
@@ -14601,8 +14601,8 @@ buses = {
         ]
     },
     '广260A线': {
-        "name": '广260A线',
-        "bid": '10026021',
+        'name': '广260A线',
+        'bid': '10026021',
         'starting_station': '滘口客运站总站①',
         'terminal_station': '滘口客运站总站①',
         'stations': [
@@ -14637,8 +14637,8 @@ buses = {
         ]
     },
     '974路': {
-        "name": '974路',
-        "bid": '10097401',
+        'name': '974路',
+        'bid': '10097401',
         'starting_station': '西华村(西华寺)总站',
         'terminal_station': '金沙洲码头总站',
         'stations': [
@@ -14663,8 +14663,8 @@ buses = {
         ]
     },
     '夜66路': {
-        "name": '夜66路',
-        "bid": '10006611',
+        'name': '夜66路',
+        'bid': '10006611',
         'starting_station': '新洲总站①',
         'terminal_station': '珠江帝景苑总站',
         'stations': [
@@ -14690,8 +14690,8 @@ buses = {
         ]
     },
     '花68路': {
-        "name": '花68路',
-        "bid": '10506800',
+        'name': '花68路',
+        'bid': '10506800',
         'starting_station': '站前路公交总站',
         'terminal_station': '兴仁汽车总站',
         'stations': [
@@ -14743,8 +14743,8 @@ buses = {
         ]
     },
     '493路': {
-        "name": '493路',
-        "bid": '10049301',
+        'name': '493路',
+        'bid': '10049301',
         'starting_station': '龙洞牌坊总站',
         'terminal_station': '龙洞牌坊总站',
         'stations': [
@@ -14769,8 +14769,8 @@ buses = {
         ]
     },
     '241路': {
-        "name": '241路',
-        "bid": '10024101',
+        'name': '241路',
+        'bid': '10024101',
         'starting_station': '金湖雅苑总站',
         'terminal_station': '同德围(丽康居)总站',
         'stations': [
@@ -14815,8 +14815,8 @@ buses = {
         ]
     },
     '331路': {
-        "name": '331路',
-        "bid": '10033100',
+        'name': '331路',
+        'bid': '10033100',
         'starting_station': '水南村(文体中心)总站',
         'terminal_station': '沧联总站',
         'stations': [
@@ -14832,8 +14832,8 @@ buses = {
         ]
     },
     '187路': {
-        "name": '187路',
-        "bid": '10018701',
+        'name': '187路',
+        'bid': '10018701',
         'starting_station': '长红村总站',
         'terminal_station': '机场路总站⑥',
         'stations': [
@@ -14861,8 +14861,8 @@ buses = {
         ]
     },
     '190路': {
-        "name": '190路',
-        "bid": '10019001',
+        'name': '190路',
+        'bid': '10019001',
         'starting_station': '河田西路总站',
         'terminal_station': '大塘总站',
         'stations': [
@@ -14902,8 +14902,8 @@ buses = {
         ]
     },
     'B4B路': {
-        "name": 'B4B路',
-        "bid": '10800431',
+        'name': 'B4B路',
+        'bid': '10800431',
         'starting_station': '沐陂村总站',
         'terminal_station': '体育中心总站',
         'stations': [
@@ -14928,8 +14928,8 @@ buses = {
         ]
     },
     '番151B路': {
-        "name": '番151B路',
-        "bid": '10715121',
+        'name': '番151B路',
+        'bid': '10715121',
         'starting_station': '鱼窝头太石工业区总站',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -14953,8 +14953,8 @@ buses = {
         ]
     },
     '番78路': {
-        "name": '番78路',
-        "bid": '10707800',
+        'name': '番78路',
+        'bid': '10707800',
         'starting_station': '石基总站',
         'terminal_station': '凌边总站',
         'stations': [
@@ -14978,8 +14978,8 @@ buses = {
         ]
     },
     '高峰快线18': {
-        "name": '高峰快线18',
-        "bid": '10001861',
+        'name': '高峰快线18',
+        'bid': '10001861',
         'starting_station': '乐意居花园总站',
         'terminal_station': '华林寺总站',
         'stations': [
@@ -15000,8 +15000,8 @@ buses = {
         ]
     },
     '424路': {
-        "name": '424路',
-        "bid": '10042400',
+        'name': '424路',
+        'bid': '10042400',
         'starting_station': '元下田村总站',
         'terminal_station': '白沙(中海金沙湾)总站',
         'stations': [
@@ -15042,8 +15042,8 @@ buses = {
         ]
     },
     '902路': {
-        "name": '902路',
-        "bid": '10090200',
+        'name': '902路',
+        'bid': '10090200',
         'starting_station': '岑村总站',
         'terminal_station': '东圃总站①',
         'stations': [
@@ -15073,8 +15073,8 @@ buses = {
         ]
     },
     '南沙8路': {
-        "name": '南沙8路',
-        "bid": '10600801',
+        'name': '南沙8路',
+        'bid': '10600801',
         'starting_station': '华汇广场站',
         'terminal_station': '华润热电厂总站',
         'stations': [
@@ -15101,8 +15101,8 @@ buses = {
         ]
     },
     '416路': {
-        "name": '416路',
-        "bid": '10041601',
+        'name': '416路',
+        'bid': '10041601',
         'starting_station': '坦尾总站',
         'terminal_station': '坦尾总站',
         'stations': [
@@ -15128,8 +15128,8 @@ buses = {
         ]
     },
     '番62路': {
-        "name": '番62路',
-        "bid": '10706200',
+        'name': '番62路',
+        'bid': '10706200',
         'starting_station': '化龙车站总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -15160,8 +15160,8 @@ buses = {
         ]
     },
     '番12路': {
-        "name": '番12路',
-        "bid": '10701200',
+        'name': '番12路',
+        'bid': '10701200',
         'starting_station': '新市桥汽车站总站',
         'terminal_station': '宝墨园总站',
         'stations': [
@@ -15202,8 +15202,8 @@ buses = {
         ]
     },
     '夜84': {
-        "name": '夜84',
-        "bid": '10008410',
+        'name': '夜84',
+        'bid': '10008410',
         'starting_station': '清湖村(苏元庄)总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -15229,8 +15229,8 @@ buses = {
         ]
     },
     '562路': {
-        "name": '562路',
-        "bid": '10056201',
+        'name': '562路',
+        'bid': '10056201',
         'starting_station': '香江野生动物世界总站',
         'terminal_station': '棠下小区总站①',
         'stations': [
@@ -15268,8 +15268,8 @@ buses = {
         ]
     },
     '广369路': {
-        "name": '广369路',
-        "bid": '10036900',
+        'name': '广369路',
+        'bid': '10036900',
         'starting_station': '茅岗新村总站',
         'terminal_station': '中大新华学院(东莞校区)总站',
         'stations': [
@@ -15311,8 +15311,8 @@ buses = {
         ]
     },
     '番126路': {
-        "name": '番126路',
-        "bid": '10712600',
+        'name': '番126路',
+        'bid': '10712600',
         'starting_station': '清华科技园总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -15357,8 +15357,8 @@ buses = {
         ]
     },
     '563路': {
-        "name": '563路',
-        "bid": '10056301',
+        'name': '563路',
+        'bid': '10056301',
         'starting_station': '太和民营科技园总站',
         'terminal_station': '罗冲围总站',
         'stations': [
@@ -15407,8 +15407,8 @@ buses = {
         ]
     },
     '545路': {
-        "name": '545路',
-        "bid": '10054501',
+        'name': '545路',
+        'bid': '10054501',
         'starting_station': '同德围泽德花园总站',
         'terminal_station': '珠江新城总站①',
         'stations': [
@@ -15442,8 +15442,8 @@ buses = {
         ]
     },
     '961路': {
-        "name": '961路',
-        "bid": '10096100',
+        'name': '961路',
+        'bid': '10096100',
         'starting_station': '南洲花园总站',
         'terminal_station': '南洲花园总站',
         'stations': [
@@ -15471,8 +15471,8 @@ buses = {
         ]
     },
     '243路': {
-        "name": '243路',
-        "bid": '10024300',
+        'name': '243路',
+        'bid': '10024300',
         'starting_station': '员村(美林花园)总站',
         'terminal_station': '革新路(光大花园)总站',
         'stations': [
@@ -15506,8 +15506,8 @@ buses = {
         ]
     },
     '366路': {
-        "name": '366路',
-        "bid": '10036600',
+        'name': '366路',
+        'bid': '10036600',
         'starting_station': '玉树新村总站',
         'terminal_station': '鱼珠码头总站①',
         'stations': [
@@ -15541,8 +15541,8 @@ buses = {
         ]
     },
     '454路': {
-        "name": '454路',
-        "bid": '10045401',
+        'name': '454路',
+        'bid': '10045401',
         'starting_station': '笔村总站',
         'terminal_station': '水南村(文体中心)总站',
         'stations': [
@@ -15565,8 +15565,8 @@ buses = {
         ]
     },
     '地铁接驳5线': {
-        "name": '地铁接驳5线',
-        "bid": '10000541',
+        'name': '地铁接驳5线',
+        'bid': '10000541',
         'starting_station': '地铁厦滘站总站',
         'terminal_station': '地铁南浦总站',
         'stations': [
@@ -15590,8 +15590,8 @@ buses = {
         ]
     },
     '192路': {
-        "name": '192路',
-        "bid": '10019201',
+        'name': '192路',
+        'bid': '10019201',
         'starting_station': '珠江医院总站①',
         'terminal_station': '水荫路总站',
         'stations': [
@@ -15621,8 +15621,8 @@ buses = {
         ]
     },
     '104路': {
-        "name": '104路',
-        "bid": '10010400',
+        'name': '104路',
+        'bid': '10010400',
         'starting_station': '中山八路总站⑥',
         'terminal_station': '海印桥总站①',
         'stations': [
@@ -15644,8 +15644,8 @@ buses = {
         ]
     },
     '808路': {
-        "name": '808路',
-        "bid": '10080800',
+        'name': '808路',
+        'bid': '10080800',
         'starting_station': '广州火车东站总站',
         'terminal_station': '钟落潭文化广场总站',
         'stations': [
@@ -15701,8 +15701,8 @@ buses = {
         ]
     },
     '658线': {
-        "name": '658线',
-        "bid": '10065800',
+        'name': '658线',
+        'bid': '10065800',
         'starting_station': '保利西海岸总站',
         'terminal_station': '浔峰路口站',
         'stations': [
@@ -15715,8 +15715,8 @@ buses = {
         ]
     },
     '722路': {
-        "name": '722路',
-        "bid": '10072201',
+        'name': '722路',
+        'bid': '10072201',
         'starting_station': '神山总站',
         'terminal_station': '江高(江村墟)总站',
         'stations': [
@@ -15743,8 +15743,8 @@ buses = {
         ]
     },
     '高峰快线42': {
-        "name": '高峰快线42',
-        "bid": '10004260',
+        'name': '高峰快线42',
+        'bid': '10004260',
         'starting_station': '广州雅居乐站',
         'terminal_station': '天河公交场总站',
         'stations': [
@@ -15756,8 +15756,8 @@ buses = {
         ]
     },
     '779路': {
-        "name": '779路',
-        "bid": '10077901',
+        'name': '779路',
+        'bid': '10077901',
         'starting_station': '阅江路(珠江啤酒厂)总站',
         'terminal_station': '南洲北路总站',
         'stations': [
@@ -15781,8 +15781,8 @@ buses = {
         ]
     },
     '517路': {
-        "name": '517路',
-        "bid": '10051700',
+        'name': '517路',
+        'bid': '10051700',
         'starting_station': '广仁路总站',
         'terminal_station': '黄埔客运站总站',
         'stations': [
@@ -15826,8 +15826,8 @@ buses = {
         ]
     },
     '122路': {
-        "name": '122路',
-        "bid": '10012200',
+        'name': '122路',
+        'bid': '10012200',
         'starting_station': '奥林匹克花园总站',
         'terminal_station': '广州火车东站总站⑦b',
         'stations': [
@@ -15856,8 +15856,8 @@ buses = {
         ]
     },
     'B30路': {
-        "name": 'B30路',
-        "bid": '10803000',
+        'name': 'B30路',
+        'bid': '10803000',
         'starting_station': '康南路北总站',
         'terminal_station': '茅岗新村总站',
         'stations': [
@@ -15891,8 +15891,8 @@ buses = {
         ]
     },
     '426路': {
-        "name": '426路',
-        "bid": '10042601',
+        'name': '426路',
+        'bid': '10042601',
         'starting_station': '小坪村委总站',
         'terminal_station': '汇桥南路总站',
         'stations': [
@@ -15904,8 +15904,8 @@ buses = {
         ]
     },
     '768路': {
-        "name": '768路',
-        "bid": '10076801',
+        'name': '768路',
+        'bid': '10076801',
         'starting_station': '万寿路总站',
         'terminal_station': '万寿路站总站',
         'stations': [
@@ -15922,8 +15922,8 @@ buses = {
         ]
     },
     '230线': {
-        "name": '230线',
-        "bid": '10023001',
+        'name': '230线',
+        'bid': '10023001',
         'starting_station': '华工大总站①',
         'terminal_station': '纸厂横马路总站',
         'stations': [
@@ -15957,8 +15957,8 @@ buses = {
         ]
     },
     '夜62路': {
-        "name": '夜62路',
-        "bid": '10006210',
+        'name': '夜62路',
+        'bid': '10006210',
         'starting_station': '永兴庄总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -15982,8 +15982,8 @@ buses = {
         ]
     },
     '461路': {
-        "name": '461路',
-        "bid": '10046100',
+        'name': '461路',
+        'bid': '10046100',
         'starting_station': '北山总站',
         'terminal_station': '地铁琶洲站总站',
         'stations': [
@@ -15996,8 +15996,8 @@ buses = {
         ]
     },
     '263路': {
-        "name": '263路',
-        "bid": '10026301',
+        'name': '263路',
+        'bid': '10026301',
         'starting_station': '盈丰路总站',
         'terminal_station': '广州火车东站总站④a',
         'stations': [
@@ -16023,8 +16023,8 @@ buses = {
         ]
     },
     '476路': {
-        "name": '476路',
-        "bid": '10047601',
+        'name': '476路',
+        'bid': '10047601',
         'starting_station': '滘心村总站',
         'terminal_station': '凰岗总站②',
         'stations': [
@@ -16048,8 +16048,8 @@ buses = {
         ]
     },
     '121A线': {
-        "name": '121A线',
-        "bid": '10012120',
+        'name': '121A线',
+        'bid': '10012120',
         'starting_station': '珠江帝景苑总站',
         'terminal_station': '西塱(观赏鱼博览中心)总站',
         'stations': [
@@ -16088,8 +16088,8 @@ buses = {
         ]
     },
     '343路': {
-        "name": '343路',
-        "bid": '10034300',
+        'name': '343路',
+        'bid': '10034300',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '凤尾村(佛公路)总站',
         'stations': [
@@ -16112,8 +16112,8 @@ buses = {
         ]
     },
     '261路': {
-        "name": '261路',
-        "bid": '10026101',
+        'name': '261路',
+        'bid': '10026101',
         'starting_station': '鱼珠总站',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -16154,8 +16154,8 @@ buses = {
         ]
     },
     '384路': {
-        "name": '384路',
-        "bid": '10038400',
+        'name': '384路',
+        'bid': '10038400',
         'starting_station': '大学城南亭村总站',
         'terminal_station': '岭南印象园总站',
         'stations': [
@@ -16171,8 +16171,8 @@ buses = {
         ]
     },
     '199路': {
-        "name": '199路',
-        "bid": '10019900',
+        'name': '199路',
+        'bid': '10019900',
         'starting_station': '齐富路总站',
         'terminal_station': '水荫路总站',
         'stations': [
@@ -16201,8 +16201,8 @@ buses = {
         ]
     },
     '409路': {
-        "name": '409路',
-        "bid": '10040900',
+        'name': '409路',
+        'bid': '10040900',
         'starting_station': '沙太南路总站',
         'terminal_station': '河水东大街口总站',
         'stations': [
@@ -16213,8 +16213,8 @@ buses = {
         ]
     },
     '南沙28路': {
-        "name": '南沙28路',
-        "bid": '10602801',
+        'name': '南沙28路',
+        'bid': '10602801',
         'starting_station': '冯马一村总站',
         'terminal_station': '万顷沙渡口总站',
         'stations': [
@@ -16236,8 +16236,8 @@ buses = {
         ]
     },
     '番165路': {
-        "name": '番165路',
-        "bid": '10716501',
+        'name': '番165路',
+        'bid': '10716501',
         'starting_station': '奥园广场总站',
         'terminal_station': '番禺节能科技园总站',
         'stations': [
@@ -16265,8 +16265,8 @@ buses = {
         ]
     },
     '219路': {
-        "name": '219路',
-        "bid": '10021900',
+        'name': '219路',
+        'bid': '10021900',
         'starting_station': '黄沙总站③',
         'terminal_station': '白云山制药厂总站',
         'stations': [
@@ -16301,8 +16301,8 @@ buses = {
         ]
     },
     '290路': {
-        "name": '290路',
-        "bid": '10029000',
+        'name': '290路',
+        'bid': '10029000',
         'starting_station': '金沙洲总站',
         'terminal_station': '天河客运站总站③',
         'stations': [
@@ -16333,8 +16333,8 @@ buses = {
         ]
     },
     '204路': {
-        "name": '204路',
-        "bid": '10020401',
+        'name': '204路',
+        'bid': '10020401',
         'starting_station': '珠江帝景苑总站',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -16365,8 +16365,8 @@ buses = {
         ]
     },
     '341路': {
-        "name": '341路',
-        "bid": '10034101',
+        'name': '341路',
+        'bid': '10034101',
         'starting_station': '华峰寺总站',
         'terminal_station': '永和开发区(树吓村)总站',
         'stations': [
@@ -16384,8 +16384,8 @@ buses = {
         ]
     },
     '夜34': {
-        "name": '夜34',
-        "bid": '10003410',
+        'name': '夜34',
+        'bid': '10003410',
         'starting_station': '沥滘(珠江御景湾)总站',
         'terminal_station': '黄村训练基地总站',
         'stations': [
@@ -16426,8 +16426,8 @@ buses = {
         ]
     },
     '833路': {
-        "name": '833路',
-        "bid": '10083300',
+        'name': '833路',
+        'bid': '10083300',
         'starting_station': '广卫路总站',
         'terminal_station': '太和总站',
         'stations': [
@@ -16473,8 +16473,8 @@ buses = {
         ]
     },
     '番92路': {
-        "name": '番92路',
-        "bid": '10709201',
+        'name': '番92路',
+        'bid': '10709201',
         'starting_station': '亚运文化村总站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -16526,8 +16526,8 @@ buses = {
         ]
     },
     '807A路': {
-        "name": '807A路',
-        "bid": '10080721',
+        'name': '807A路',
+        'bid': '10080721',
         'starting_station': '南航新村总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -16546,8 +16546,8 @@ buses = {
         ]
     },
     '节假日专线9': {
-        "name": '节假日专线9',
-        "bid": '10000971',
+        'name': '节假日专线9',
+        'bid': '10000971',
         'starting_station': '禾丰横路总站',
         'terminal_station': '联和(惠联路)总站',
         'stations': [
@@ -16583,8 +16583,8 @@ buses = {
         ]
     },
     '582路': {
-        "name": '582路',
-        "bid": '10058200',
+        'name': '582路',
+        'bid': '10058200',
         'starting_station': '海珠客运站总站',
         'terminal_station': '凌塘村总站',
         'stations': [
@@ -16615,8 +16615,8 @@ buses = {
         ]
     },
     '93路': {
-        "name": '93路',
-        "bid": '10009300',
+        'name': '93路',
+        'bid': '10009300',
         'starting_station': '景泰坑总站',
         'terminal_station': '赤岗总站',
         'stations': [
@@ -16649,8 +16649,8 @@ buses = {
         ]
     },
     '363路': {
-        "name": '363路',
-        "bid": '10036301',
+        'name': '363路',
+        'bid': '10036301',
         'starting_station': '金碧路总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -16675,8 +16675,8 @@ buses = {
         ]
     },
     '989环线': {
-        "name": '989环线',
-        "bid": '10098900',
+        'name': '989环线',
+        'bid': '10098900',
         'starting_station': '南田路总站',
         'terminal_station': '南田路总站',
         'stations': [
@@ -16694,8 +16694,8 @@ buses = {
         ]
     },
     '971线': {
-        "name": '971线',
-        "bid": '10097101',
+        'name': '971线',
+        'bid': '10097101',
         'starting_station': '新兴村总站',
         'terminal_station': '人和墟(万家福广场)总站',
         'stations': [
@@ -16714,8 +16714,8 @@ buses = {
         ]
     },
     '南沙3路': {
-        "name": '南沙3路',
-        "bid": '10600300',
+        'name': '南沙3路',
+        'bid': '10600300',
         'starting_station': '南沙湾总站',
         'terminal_station': '黄阁汽车城总站',
         'stations': [
@@ -16751,8 +16751,8 @@ buses = {
         ]
     },
     '974路': {
-        "name": '974路',
-        "bid": '10097400',
+        'name': '974路',
+        'bid': '10097400',
         'starting_station': '金沙洲码头总站',
         'terminal_station': '西华村(西华寺)总站',
         'stations': [
@@ -16777,8 +16777,8 @@ buses = {
         ]
     },
     '221路': {
-        "name": '221路',
-        "bid": '10022101',
+        'name': '221路',
+        'bid': '10022101',
         'starting_station': '沥滘村总站',
         'terminal_station': '动物园南门总站②',
         'stations': [
@@ -16809,8 +16809,8 @@ buses = {
         ]
     },
     '74路': {
-        "name": '74路',
-        "bid": '10007401',
+        'name': '74路',
+        'bid': '10007401',
         'starting_station': '动物园总站1①b',
         'terminal_station': '芳村花园总站②',
         'stations': [
@@ -16848,8 +16848,8 @@ buses = {
         ]
     },
     '541路': {
-        "name": '541路',
-        "bid": '10054101',
+        'name': '541路',
+        'bid': '10054101',
         'starting_station': '恒宝广场总站',
         'terminal_station': '科韵路总站',
         'stations': [
@@ -16887,8 +16887,8 @@ buses = {
         ]
     },
     '89路': {
-        "name": '89路',
-        "bid": '10008900',
+        'name': '89路',
+        'bid': '10008900',
         'starting_station': '天河客运站总站①',
         'terminal_station': '大沙头总站①',
         'stations': [
@@ -16915,8 +16915,8 @@ buses = {
         ]
     },
     '夜91路': {
-        "name": '夜91路',
-        "bid": '10009110',
+        'name': '夜91路',
+        'bid': '10009110',
         'starting_station': '金沙洲码头总站',
         'terminal_station': '西华村(西华寺)总站',
         'stations': [
@@ -16940,8 +16940,8 @@ buses = {
         ]
     },
     '327路': {
-        "name": '327路',
-        "bid": '10032700',
+        'name': '327路',
+        'bid': '10032700',
         'starting_station': '岭头总站',
         'terminal_station': '萝岗总站',
         'stations': [
@@ -16976,8 +16976,8 @@ buses = {
         ]
     },
     '713路': {
-        "name": '713路',
-        "bid": '10071300',
+        'name': '713路',
+        'bid': '10071300',
         'starting_station': '柯子岭(河田路)总站',
         'terminal_station': '花都培正学院总站',
         'stations': [
@@ -17002,8 +17002,8 @@ buses = {
         ]
     },
     '401路': {
-        "name": '401路',
-        "bid": '10040101',
+        'name': '401路',
+        'bid': '10040101',
         'starting_station': '员村同乐花园总站',
         'terminal_station': '员村家乐福总站',
         'stations': [
@@ -17015,8 +17015,8 @@ buses = {
         ]
     },
     '13路': {
-        "name": '13路',
-        "bid": '10001300',
+        'name': '13路',
+        'bid': '10001300',
         'starting_station': '海珠客运站总站',
         'terminal_station': '文德路总站',
         'stations': [
@@ -17041,8 +17041,8 @@ buses = {
         ]
     },
     '991环线': {
-        "name": '991环线',
-        "bid": '10099100',
+        'name': '991环线',
+        'bid': '10099100',
         'starting_station': '沥滘大埗头总站',
         'terminal_station': '沥滘大埗头总站',
         'stations': [
@@ -17068,8 +17068,8 @@ buses = {
         ]
     },
     '夜2': {
-        "name": '夜2',
-        "bid": '10000210',
+        'name': '夜2',
+        'bid': '10000210',
         'starting_station': '东山总站',
         'terminal_station': '凰岗(锦东服装城)总站',
         'stations': [
@@ -17107,8 +17107,8 @@ buses = {
         ]
     },
     '836路': {
-        "name": '836路',
-        "bid": '10083600',
+        'name': '836路',
+        'bid': '10083600',
         'starting_station': '白云山制药厂总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -17142,8 +17142,8 @@ buses = {
         ]
     },
     '24路': {
-        "name": '24路',
-        "bid": '10002400',
+        'name': '24路',
+        'bid': '10002400',
         'starting_station': '墩和路总站',
         'terminal_station': '云台花园总站①',
         'stations': [
@@ -17176,8 +17176,8 @@ buses = {
         ]
     },
     '262路': {
-        "name": '262路',
-        "bid": '10026200',
+        'name': '262路',
+        'bid': '10026200',
         'starting_station': '珠江帝景苑总站',
         'terminal_station': '新洲总站①',
         'stations': [
@@ -17204,8 +17204,8 @@ buses = {
         ]
     },
     '110路': {
-        "name": '110路',
-        "bid": '10011000',
+        'name': '110路',
+        'bid': '10011000',
         'starting_station': '天平架总站①b',
         'terminal_station': '文化公园总站①',
         'stations': [
@@ -17234,8 +17234,8 @@ buses = {
         ]
     },
     '836A路': {
-        "name": '836A路',
-        "bid": '10083620',
+        'name': '836A路',
+        'bid': '10083620',
         'starting_station': '太和镇总站',
         'terminal_station': '马洞村总站',
         'stations': [
@@ -17252,8 +17252,8 @@ buses = {
         ]
     },
     '412路': {
-        "name": '412路',
-        "bid": '10041200',
+        'name': '412路',
+        'bid': '10041200',
         'starting_station': '海中村总站',
         'terminal_station': '龙溪总站(总站)',
         'stations': [
@@ -17274,8 +17274,8 @@ buses = {
         ]
     },
     '番160路': {
-        "name": '番160路',
-        "bid": '10716001',
+        'name': '番160路',
+        'bid': '10716001',
         'starting_station': '莲花山港总站',
         'terminal_station': '北城公交总站',
         'stations': [
@@ -17321,8 +17321,8 @@ buses = {
         ]
     },
     '791路': {
-        "name": '791路',
-        "bid": '10079100',
+        'name': '791路',
+        'bid': '10079100',
         'starting_station': '中成路总站',
         'terminal_station': '中成路总站',
         'stations': [
@@ -17348,8 +17348,8 @@ buses = {
         ]
     },
     '商务专线1': {
-        "name": '商务专线1',
-        "bid": '10170001',
+        'name': '商务专线1',
+        'bid': '10170001',
         'starting_station': '十三行(兴隆北路)总站',
         'terminal_station': '十三行(兴隆北路)总站',
         'stations': [
@@ -17362,8 +17362,8 @@ buses = {
         ]
     },
     '486路': {
-        "name": '486路',
-        "bid": '10048600',
+        'name': '486路',
+        'bid': '10048600',
         'starting_station': '机务段总站②',
         'terminal_station': '西村总站',
         'stations': [
@@ -17379,8 +17379,8 @@ buses = {
         ]
     },
     '428路': {
-        "name": '428路',
-        "bid": '10042801',
+        'name': '428路',
+        'bid': '10042801',
         'starting_station': '江夏北二路总站',
         'terminal_station': '江夏牌坊总站',
         'stations': [
@@ -17395,8 +17395,8 @@ buses = {
         ]
     },
     '238线': {
-        "name": '238线',
-        "bid": '10023800',
+        'name': '238线',
+        'bid': '10023800',
         'starting_station': '南方大厦(文化公园)总站',
         'terminal_station': '石井潭村总站',
         'stations': [
@@ -17427,8 +17427,8 @@ buses = {
         ]
     },
     '夜35': {
-        "name": '夜35',
-        "bid": '10003511',
+        'name': '夜35',
+        'bid': '10003511',
         'starting_station': '员村生活区(市六医院)总站',
         'terminal_station': '嘉禾(冶金研究所)总站',
         'stations': [
@@ -17465,8 +17465,8 @@ buses = {
         ]
     },
     '471路': {
-        "name": '471路',
-        "bid": '10047101',
+        'name': '471路',
+        'bid': '10047101',
         'starting_station': '石湖村祠堂总站',
         'terminal_station': '草庄总站',
         'stations': [
@@ -17485,8 +17485,8 @@ buses = {
         ]
     },
     'B19路': {
-        "name": 'B19路',
-        "bid": '10801901',
+        'name': 'B19路',
+        'bid': '10801901',
         'starting_station': '杨桃公园(美林湖畔)总站',
         'terminal_station': '广州火车东站总站⑥a',
         'stations': [
@@ -17509,8 +17509,8 @@ buses = {
         ]
     },
     '番186路': {
-        "name": '番186路',
-        "bid": '10718600',
+        'name': '番186路',
+        'bid': '10718600',
         'starting_station': '广州碧桂园总站',
         'terminal_station': '南村汽车站总站',
         'stations': [
@@ -17546,8 +17546,8 @@ buses = {
         ]
     },
     '342路': {
-        "name": '342路',
-        "bid": '10034200',
+        'name': '342路',
+        'bid': '10034200',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '莲塘村总站',
         'stations': [
@@ -17566,8 +17566,8 @@ buses = {
         ]
     },
     '703路': {
-        "name": '703路',
-        "bid": '10070301',
+        'name': '703路',
+        'bid': '10070301',
         'starting_station': '花都万科天景花园总站',
         'terminal_station': '机场路总站⑧',
         'stations': [
@@ -17616,8 +17616,8 @@ buses = {
         ]
     },
     '54路': {
-        "name": '54路',
-        "bid": '10005401',
+        'name': '54路',
+        'bid': '10005401',
         'starting_station': '中科院化学所总站',
         'terminal_station': '东华南路(江湾桥脚)总站',
         'stations': [
@@ -17657,8 +17657,8 @@ buses = {
         ]
     },
     '番18路': {
-        "name": '番18路',
-        "bid": '10701800',
+        'name': '番18路',
+        'bid': '10701800',
         'starting_station': '奥园广场总站',
         'terminal_station': '榄塘村总站',
         'stations': [
@@ -17691,8 +17691,8 @@ buses = {
         ]
     },
     '491路': {
-        "name": '491路',
-        "bid": '10049101',
+        'name': '491路',
+        'bid': '10049101',
         'starting_station': '上涂总站',
         'terminal_station': '渔沙坦(渔中路)总站',
         'stations': [
@@ -17712,8 +17712,8 @@ buses = {
         ]
     },
     '740路': {
-        "name": '740路',
-        "bid": '10074001',
+        'name': '740路',
+        'bid': '10074001',
         'starting_station': '东平文化广场总站',
         'terminal_station': '嘉禾(长红双和工业区)总站',
         'stations': [
@@ -17727,8 +17727,8 @@ buses = {
         ]
     },
     '463路': {
-        "name": '463路',
-        "bid": '10046301',
+        'name': '463路',
+        'bid': '10046301',
         'starting_station': '墩和路总站',
         'terminal_station': '珠影总站',
         'stations': [
@@ -17741,8 +17741,8 @@ buses = {
         ]
     },
     '494路': {
-        "name": '494路',
-        "bid": '10049401',
+        'name': '494路',
+        'bid': '10049401',
         'starting_station': '天河客运站总站①',
         'terminal_station': '科学城(天泰二路)总站',
         'stations': [
@@ -17785,8 +17785,8 @@ buses = {
         ]
     },
     '990路': {
-        "name": '990路',
-        "bid": '10099000',
+        'name': '990路',
+        'bid': '10099000',
         'starting_station': '芳村码头总站',
         'terminal_station': '芳村车管所总站',
         'stations': [
@@ -17808,8 +17808,8 @@ buses = {
         ]
     },
     '番57路': {
-        "name": '番57路',
-        "bid": '10705701',
+        'name': '番57路',
+        'bid': '10705701',
         'starting_station': '锦绣半岛总站',
         'terminal_station': '地铁厦滘站总站',
         'stations': [
@@ -17831,8 +17831,8 @@ buses = {
         ]
     },
     '438路': {
-        "name": '438路',
-        "bid": '10043801',
+        'name': '438路',
+        'bid': '10043801',
         'starting_station': '碧山村总站',
         'terminal_station': '荔香路总站',
         'stations': [
@@ -17850,8 +17850,8 @@ buses = {
         ]
     },
     '夜78路': {
-        "name": '夜78路',
-        "bid": '10007811',
+        'name': '夜78路',
+        'bid': '10007811',
         'starting_station': '中山八路总站⑦',
         'terminal_station': '广州火车东站总站⑦b',
         'stations': [
@@ -17877,8 +17877,8 @@ buses = {
         ]
     },
     '752A': {
-        "name": '752A',
-        "bid": '10075221',
+        'name': '752A',
+        'bid': '10075221',
         'starting_station': '上步总站',
         'terminal_station': '上步总站',
         'stations': [
@@ -17902,8 +17902,8 @@ buses = {
         ]
     },
     '467路': {
-        "name": '467路',
-        "bid": '10046700',
+        'name': '467路',
+        'bid': '10046700',
         'starting_station': '赤沙(广东商学院)总站',
         'terminal_station': '北山路口总站',
         'stations': [
@@ -17914,8 +17914,8 @@ buses = {
         ]
     },
     '406路': {
-        "name": '406路',
-        "bid": '10040601',
+        'name': '406路',
+        'bid': '10040601',
         'starting_station': '龙口西总站',
         'terminal_station': '龙口西总站',
         'stations': [
@@ -17931,8 +17931,8 @@ buses = {
         ]
     },
     '15路': {
-        "name": '15路',
-        "bid": '10001501',
+        'name': '15路',
+        'bid': '10001501',
         'starting_station': '汾水小区总站②',
         'terminal_station': '西华路尾总站①',
         'stations': [
@@ -17952,8 +17952,8 @@ buses = {
         ]
     },
     '9路': {
-        "name": '9路',
-        "bid": '10000900',
+        'name': '9路',
+        'bid': '10000900',
         'starting_station': '海珠客运站总站',
         'terminal_station': '中山八路总站',
         'stations': [
@@ -17982,8 +17982,8 @@ buses = {
         ]
     },
     '番151AB路': {
-        "name": '番151AB路',
-        "bid": '10715130',
+        'name': '番151AB路',
+        'bid': '10715130',
         'starting_station': '番禺汽车客运站旧',
         'terminal_station': '番禺汽车客运站新',
         'stations': [
@@ -18030,8 +18030,8 @@ buses = {
         ]
     },
     '528路': {
-        "name": '528路',
-        "bid": '10052801',
+        'name': '528路',
+        'bid': '10052801',
         'starting_station': '嘉禾长红村总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -18067,8 +18067,8 @@ buses = {
         ]
     },
     '293路': {
-        "name": '293路',
-        "bid": '10029301',
+        'name': '293路',
+        'bid': '10029301',
         'starting_station': '广卫路总站',
         'terminal_station': '华景新城总站①',
         'stations': [
@@ -18102,8 +18102,8 @@ buses = {
         ]
     },
     '番62路': {
-        "name": '番62路',
-        "bid": '10706201',
+        'name': '番62路',
+        'bid': '10706201',
         'starting_station': '石基总站',
         'terminal_station': '化龙车站总站',
         'stations': [
@@ -18134,8 +18134,8 @@ buses = {
         ]
     },
     '461A路': {
-        "name": '461A路',
-        "bid": '10046120',
+        'name': '461A路',
+        'bid': '10046120',
         'starting_station': '仑头村总站',
         'terminal_station': '仑头村总站',
         'stations': [
@@ -18160,8 +18160,8 @@ buses = {
         ]
     },
     '番71路': {
-        "name": '番71路',
-        "bid": '10707100',
+        'name': '番71路',
+        'bid': '10707100',
         'starting_station': '新基村总站',
         'terminal_station': '新造地铁站总站',
         'stations': [
@@ -18190,8 +18190,8 @@ buses = {
         ]
     },
     '226路': {
-        "name": '226路',
-        "bid": '10022600',
+        'name': '226路',
+        'bid': '10022600',
         'starting_station': '大塘总站',
         'terminal_station': '恒宝广场总站',
         'stations': [
@@ -18224,8 +18224,8 @@ buses = {
         ]
     },
     '460路': {
-        "name": '460路',
-        "bid": '10046001',
+        'name': '460路',
+        'bid': '10046001',
         'starting_station': '大元帅府站',
         'terminal_station': '大元帅府站',
         'stations': [
@@ -18253,8 +18253,8 @@ buses = {
         ]
     },
     '广205路': {
-        "name": '广205路',
-        "bid": '10020500',
+        'name': '广205路',
+        'bid': '10020500',
         'starting_station': '康王路(上下九)总站(总站)',
         'terminal_station': '白沙(中海金沙湾)总站',
         'stations': [
@@ -18289,8 +18289,8 @@ buses = {
         ]
     },
     '368路': {
-        "name": '368路',
-        "bid": '10036801',
+        'name': '368路',
+        'bid': '10036801',
         'starting_station': '中大新华学院(东莞校区)总站',
         'terminal_station': '夏园站',
         'stations': [
@@ -18316,8 +18316,8 @@ buses = {
         ]
     },
     '280路': {
-        "name": '280路',
-        "bid": '10028001',
+        'name': '280路',
+        'bid': '10028001',
         'starting_station': '广州火车东站总站',
         'terminal_station': '凰岗(锦东服装城)总站',
         'stations': [
@@ -18354,8 +18354,8 @@ buses = {
         ]
     },
     '402路': {
-        "name": '402路',
-        "bid": '10040200',
+        'name': '402路',
+        'bid': '10040200',
         'starting_station': '东圃大马路站',
         'terminal_station': '地铁三溪站总站',
         'stations': [
@@ -18371,8 +18371,8 @@ buses = {
         ]
     },
     '番126路': {
-        "name": '番126路',
-        "bid": '10712601',
+        'name': '番126路',
+        'bid': '10712601',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '清华科技园总站',
         'stations': [
@@ -18418,8 +18418,8 @@ buses = {
         ]
     },
     '56路': {
-        "name": '56路',
-        "bid": '10005601',
+        'name': '56路',
+        'bid': '10005601',
         'starting_station': '光塔路总站',
         'terminal_station': '白云山制药厂总站',
         'stations': [
@@ -18452,8 +18452,8 @@ buses = {
         ]
     },
     '37路': {
-        "name": '37路',
-        "bid": '10003700',
+        'name': '37路',
+        'bid': '10003700',
         'starting_station': '赤沙(广东商学院)总站',
         'terminal_station': '东山口总站',
         'stations': [
@@ -18478,8 +18478,8 @@ buses = {
         ]
     },
     '667路': {
-        "name": '667路',
-        "bid": '10066701',
+        'name': '667路',
+        'bid': '10066701',
         'starting_station': '地铁江夏站总站',
         'terminal_station': '地铁江夏站总站',
         'stations': [
@@ -18502,8 +18502,8 @@ buses = {
         ]
     },
     '科学城环线2': {
-        "name": '科学城环线2',
-        "bid": '10000670',
+        'name': '科学城环线2',
+        'bid': '10000670',
         'starting_station': '广汕路(万龙路)总站',
         'terminal_station': '科学城(天泰二路)总站',
         'stations': [
@@ -18530,8 +18530,8 @@ buses = {
         ]
     },
     '438路': {
-        "name": '438路',
-        "bid": '10043800',
+        'name': '438路',
+        'bid': '10043800',
         'starting_station': '荔香路总站',
         'terminal_station': '碧山村总站',
         'stations': [
@@ -18549,8 +18549,8 @@ buses = {
         ]
     },
     '43路': {
-        "name": '43路',
-        "bid": '10004300',
+        'name': '43路',
+        'bid': '10004300',
         'starting_station': '广州火车东站总站⑤b',
         'terminal_station': '丰乐南路总站',
         'stations': [
@@ -18589,8 +18589,8 @@ buses = {
         ]
     },
     '夜1': {
-        "name": '夜1',
-        "bid": '10000110',
+        'name': '夜1',
+        'bid': '10000110',
         'starting_station': '芳村花园总站①',
         'terminal_station': '东山总站',
         'stations': [
@@ -18619,8 +18619,8 @@ buses = {
         ]
     },
     '397路': {
-        "name": '397路',
-        "bid": '10039700',
+        'name': '397路',
+        'bid': '10039700',
         'starting_station': '萝岗香雪公园总站',
         'terminal_station': '丹水坑风景区总站',
         'stations': [
@@ -18650,8 +18650,8 @@ buses = {
         ]
     },
     '721路': {
-        "name": '721路',
-        "bid": '10072100',
+        'name': '721路',
+        'bid': '10072100',
         'starting_station': '神山总站',
         'terminal_station': '南浦村总站',
         'stations': [
@@ -18669,8 +18669,8 @@ buses = {
         ]
     },
     '422路': {
-        "name": '422路',
-        "bid": '10042200',
+        'name': '422路',
+        'bid': '10042200',
         'starting_station': '新市墟总站',
         'terminal_station': '大埔村总站',
         'stations': [
@@ -18685,8 +18685,8 @@ buses = {
         ]
     },
     'B19路': {
-        "name": 'B19路',
-        "bid": '10801900',
+        'name': 'B19路',
+        'bid': '10801900',
         'starting_station': '广州火车东站总站⑥a',
         'terminal_station': '杨桃公园(美林湖畔)总站',
         'stations': [
@@ -18708,8 +18708,8 @@ buses = {
         ]
     },
     '夜50': {
-        "name": '夜50',
-        "bid": '10005011',
+        'name': '夜50',
+        'bid': '10005011',
         'starting_station': '市国家档案馆(大学城)总站',
         'terminal_station': '市国家档案馆(大学城)总站',
         'stations': [
@@ -18738,8 +18738,8 @@ buses = {
         ]
     },
     '567路': {
-        "name": '567路',
-        "bid": '10056700',
+        'name': '567路',
+        'bid': '10056700',
         'starting_station': '西区公交总站',
         'terminal_station': '笔村总站',
         'stations': [
@@ -18765,8 +18765,8 @@ buses = {
         ]
     },
     '花88路': {
-        "name": '花88路',
-        "bid": '10508801',
+        'name': '花88路',
+        'bid': '10508801',
         'starting_station': '赤坭汽车总站',
         'terminal_station': '狮岭龙头市场总站',
         'stations': [
@@ -18795,8 +18795,8 @@ buses = {
         ]
     },
     '商务专线2': {
-        "name": '商务专线2',
-        "bid": '10000270',
+        'name': '商务专线2',
+        'bid': '10000270',
         'starting_station': '凰岗(锦东服装城)总站',
         'terminal_station': '十三行(兴隆北路)总站',
         'stations': [
@@ -18806,8 +18806,8 @@ buses = {
         ]
     },
     '夜5': {
-        "name": '夜5',
-        "bid": '10000510',
+        'name': '夜5',
+        'bid': '10000510',
         'starting_station': '天平架总站①a',
         'terminal_station': '黄沙总站②',
         'stations': [
@@ -18837,8 +18837,8 @@ buses = {
         ]
     },
     '高峰快线78': {
-        "name": '高峰快线78',
-        "bid": '10007860',
+        'name': '高峰快线78',
+        'bid': '10007860',
         'starting_station': '桥东小区站',
         'terminal_station': '里水大道(八达通家居港)总站',
         'stations': [
@@ -18860,8 +18860,8 @@ buses = {
         ]
     },
     '662路': {
-        "name": '662路',
-        "bid": '10066200',
+        'name': '662路',
+        'bid': '10066200',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '棠乐路总站',
         'stations': [
@@ -18883,8 +18883,8 @@ buses = {
         ]
     },
     '756路': {
-        "name": '756路',
-        "bid": '10075600',
+        'name': '756路',
+        'bid': '10075600',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '唐阁村总站',
         'stations': [
@@ -18908,8 +18908,8 @@ buses = {
         ]
     },
     '434路': {
-        "name": '434路',
-        "bid": '10043401',
+        'name': '434路',
+        'bid': '10043401',
         'starting_station': '华坑生态村总站',
         'terminal_station': '华坑生态村总站',
         'stations': [
@@ -18947,8 +18947,8 @@ buses = {
         ]
     },
     '111路': {
-        "name": '111路',
-        "bid": '10011101',
+        'name': '111路',
+        'bid': '10011101',
         'starting_station': '黄石路总站',
         'terminal_station': '天平架总站②a',
         'stations': [
@@ -18980,8 +18980,8 @@ buses = {
         ]
     },
     '南沙25路': {
-        "name": '南沙25路',
-        "bid": '10602500',
+        'name': '南沙25路',
+        'bid': '10602500',
         'starting_station': '万顷沙总站',
         'terminal_station': '十九涌水产市场总站',
         'stations': [
@@ -19003,8 +19003,8 @@ buses = {
         ]
     },
     '960路': {
-        "name": '960路',
-        "bid": '10096001',
+        'name': '960路',
+        'bid': '10096001',
         'starting_station': '新鱼桥头',
         'terminal_station': '南洲花园总站',
         'stations': [
@@ -19023,8 +19023,8 @@ buses = {
         ]
     },
     '985路': {
-        "name": '985路',
-        "bid": '10098500',
+        'name': '985路',
+        'bid': '10098500',
         'starting_station': '太和总站',
         'terminal_station': '人和安置区总站',
         'stations': [
@@ -19055,8 +19055,8 @@ buses = {
         ]
     },
     '527路': {
-        "name": '527路',
-        "bid": '10052701',
+        'name': '527路',
+        'bid': '10052701',
         'starting_station': '石溪总站',
         'terminal_station': '同德围(田心村)总站',
         'stations': [
@@ -19098,8 +19098,8 @@ buses = {
         ]
     },
     '121A线': {
-        "name": '121A线',
-        "bid": '10012121',
+        'name': '121A线',
+        'bid': '10012121',
         'starting_station': '西塱(观赏鱼博览中心)总站',
         'terminal_station': '珠江帝景苑总站',
         'stations': [
@@ -19138,8 +19138,8 @@ buses = {
         ]
     },
     '81路': {
-        "name": '81路',
-        "bid": '10008101',
+        'name': '81路',
+        'bid': '10008101',
         'starting_station': '半岛花园总站',
         'terminal_station': '文化公园总站②',
         'stations': [
@@ -19169,8 +19169,8 @@ buses = {
         ]
     },
     '312路': {
-        "name": '312路',
-        "bid": '10031201',
+        'name': '312路',
+        'bid': '10031201',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '祈福新村总站',
         'stations': [
@@ -19197,8 +19197,8 @@ buses = {
         ]
     },
     '929路': {
-        "name": '929路',
-        "bid": '10092901',
+        'name': '929路',
+        'bid': '10092901',
         'starting_station': '龙湖工业区总站',
         'terminal_station': '白云公园总站',
         'stations': [
@@ -19232,8 +19232,8 @@ buses = {
         ]
     },
     '886路': {
-        "name": '886路',
-        "bid": '10088601',
+        'name': '886路',
+        'bid': '10088601',
         'starting_station': '珠江新城总站①',
         'terminal_station': '集贤苑总站',
         'stations': [
@@ -19283,8 +19283,8 @@ buses = {
         ]
     },
     '109路': {
-        "name": '109路',
-        "bid": '10010901',
+        'name': '109路',
+        'bid': '10010901',
         'starting_station': '中山八路总站⑥',
         'terminal_station': '天平架总站①a',
         'stations': [
@@ -19313,8 +19313,8 @@ buses = {
         ]
     },
     '743路': {
-        "name": '743路',
-        "bid": '10074301',
+        'name': '743路',
+        'bid': '10074301',
         'starting_station': '汇桥南路总站',
         'terminal_station': '永泰新村总站',
         'stations': [
@@ -19341,8 +19341,8 @@ buses = {
         ]
     },
     '362路': {
-        "name": '362路',
-        "bid": '10036200',
+        'name': '362路',
+        'bid': '10036200',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '佛塱山贝总站',
         'stations': [
@@ -19358,8 +19358,8 @@ buses = {
         ]
     },
     '花80路': {
-        "name": '花80路',
-        "bid": '10508000',
+        'name': '花80路',
+        'bid': '10508000',
         'starting_station': '雅瑶新村总站',
         'terminal_station': '义山村委总站',
         'stations': [
@@ -19397,8 +19397,8 @@ buses = {
         ]
     },
     '405路': {
-        "name": '405路',
-        "bid": '10040500',
+        'name': '405路',
+        'bid': '10040500',
         'starting_station': '汇景北路总站',
         'terminal_station': '五山路(广园快速路口)站',
         'stations': [
@@ -19409,8 +19409,8 @@ buses = {
         ]
     },
     '510路': {
-        "name": '510路',
-        "bid": '10051001',
+        'name': '510路',
+        'bid': '10051001',
         'starting_station': '人和总站',
         'terminal_station': '机场路总站(10)',
         'stations': [
@@ -19447,8 +19447,8 @@ buses = {
         ]
     },
     '11路': {
-        "name": '11路',
-        "bid": '10001100',
+        'name': '11路',
+        'bid': '10001100',
         'starting_station': '海琴湾(下渡路)总站',
         'terminal_station': '天平架总站③a',
         'stations': [
@@ -19477,8 +19477,8 @@ buses = {
         ]
     },
     '429A线': {
-        "name": '429A线',
-        "bid": '10042920',
+        'name': '429A线',
+        'bid': '10042920',
         'starting_station': '西村地铁站总站',
         'terminal_station': '白沙(中海金沙湾)总站',
         'stations': [
@@ -19498,8 +19498,8 @@ buses = {
         ]
     },
     '番20路': {
-        "name": '番20路',
-        "bid": '10702001',
+        'name': '番20路',
+        'bid': '10702001',
         'starting_station': '蔡边村总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -19530,8 +19530,8 @@ buses = {
         ]
     },
     '840路': {
-        "name": '840路',
-        "bid": '10084001',
+        'name': '840路',
+        'bid': '10084001',
         'starting_station': '人和安置区总站',
         'terminal_station': '广州火车站总站c',
         'stations': [
@@ -19584,8 +19584,8 @@ buses = {
         ]
     },
     '夜56路': {
-        "name": '夜56路',
-        "bid": '10005611',
+        'name': '夜56路',
+        'bid': '10005611',
         'starting_station': '赤沙(广东商学院)总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -19615,8 +19615,8 @@ buses = {
         ]
     },
     '523路': {
-        "name": '523路',
-        "bid": '10052301',
+        'name': '523路',
+        'bid': '10052301',
         'starting_station': '江高小塘总站',
         'terminal_station': '市客运站总站',
         'stations': [
@@ -19653,8 +19653,8 @@ buses = {
         ]
     },
     'B27路': {
-        "name": 'B27路',
-        "bid": '10802700',
+        'name': 'B27路',
+        'bid': '10802700',
         'starting_station': '体育中心站2①',
         'terminal_station': '黄埔客运站总站',
         'stations': [
@@ -19681,8 +19681,8 @@ buses = {
         ]
     },
     '南沙6路': {
-        "name": '南沙6路',
-        "bid": '10600601',
+        'name': '南沙6路',
+        'bid': '10600601',
         'starting_station': '金洲地铁站',
         'terminal_station': '麒麟中学总站',
         'stations': [
@@ -19699,8 +19699,8 @@ buses = {
         ]
     },
     '番188': {
-        "name": '番188',
-        "bid": '10718801',
+        'name': '番188',
+        'bid': '10718801',
         'starting_station': '奥林匹克花园总站',
         'terminal_station': '星河湾总站',
         'stations': [
@@ -19723,8 +19723,8 @@ buses = {
         ]
     },
     '夜67': {
-        "name": '夜67',
-        "bid": '10006710',
+        'name': '夜67',
+        'bid': '10006710',
         'starting_station': '广卫路总站',
         'terminal_station': '黄岐镇政府总站',
         'stations': [
@@ -19752,8 +19752,8 @@ buses = {
         ]
     },
     'B28路': {
-        "name": 'B28路',
-        "bid": '10802800',
+        'name': 'B28路',
+        'bid': '10802800',
         'starting_station': '保税区(酒博城)总站',
         'terminal_station': '鱼珠总站',
         'stations': [
@@ -19785,8 +19785,8 @@ buses = {
         ]
     },
     '商务专线5': {
-        "name": '商务专线5',
-        "bid": '10013530',
+        'name': '商务专线5',
+        'bid': '10013530',
         'starting_station': '大塘(坚真花园)总站',
         'terminal_station': '沙河横马路总站',
         'stations': [
@@ -19801,8 +19801,8 @@ buses = {
         ]
     },
     '662路': {
-        "name": '662路',
-        "bid": '10066201',
+        'name': '662路',
+        'bid': '10066201',
         'starting_station': '棠乐路总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -19828,8 +19828,8 @@ buses = {
         ]
     },
     '夜97路': {
-        "name": '夜97路',
-        "bid": '10009711',
+        'name': '夜97路',
+        'bid': '10009711',
         'starting_station': '萝岗总站',
         'terminal_station': '车陂总站①',
         'stations': [
@@ -19872,8 +19872,8 @@ buses = {
         ]
     },
     '夜89路': {
-        "name": '夜89路',
-        "bid": '10008910',
+        'name': '夜89路',
+        'bid': '10008910',
         'starting_station': '华景新城总站③',
         'terminal_station': '宝岗大道总站①',
         'stations': [
@@ -19906,8 +19906,8 @@ buses = {
         ]
     },
     '758路': {
-        "name": '758路',
-        "bid": '10075800',
+        'name': '758路',
+        'bid': '10075800',
         'starting_station': '帽峰山古庙总站',
         'terminal_station': '龙归地铁站总站',
         'stations': [
@@ -19928,8 +19928,8 @@ buses = {
         ]
     },
     '461路': {
-        "name": '461路',
-        "bid": '10046101',
+        'name': '461路',
+        'bid': '10046101',
         'starting_station': '地铁琶洲站总站',
         'terminal_station': '北山总站',
         'stations': [
@@ -19943,8 +19943,8 @@ buses = {
         ]
     },
     '南沙13路': {
-        "name": '南沙13路',
-        "bid": '10601300',
+        'name': '南沙13路',
+        'bid': '10601300',
         'starting_station': '虎门渡口总站',
         'terminal_station': '水牛头渡口总站',
         'stations': [
@@ -19971,8 +19971,8 @@ buses = {
         ]
     },
     '番16路': {
-        "name": '番16路',
-        "bid": '10701601',
+        'name': '番16路',
+        'bid': '10701601',
         'starting_station': '大夫山森林公园总站',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -20004,8 +20004,8 @@ buses = {
         ]
     },
     '832路': {
-        "name": '832路',
-        "bid": '10083200',
+        'name': '832路',
+        'bid': '10083200',
         'starting_station': '南方医院总站',
         'terminal_station': '河沙总站',
         'stations': [
@@ -20049,8 +20049,8 @@ buses = {
         ]
     },
     '夜4路': {
-        "name": '夜4路',
-        "bid": '10000411',
+        'name': '夜4路',
+        'bid': '10000411',
         'starting_station': '恒福路总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -20077,8 +20077,8 @@ buses = {
         ]
     },
     '768路': {
-        "name": '768路',
-        "bid": '10076800',
+        'name': '768路',
+        'bid': '10076800',
         'starting_station': '万寿路总站',
         'terminal_station': '万寿路站总站',
         'stations': [
@@ -20095,8 +20095,8 @@ buses = {
         ]
     },
     '广260A线': {
-        "name": '广260A线',
-        "bid": '10026020',
+        'name': '广260A线',
+        'bid': '10026020',
         'starting_station': '滘口客运站总站①',
         'terminal_station': '滘口客运站总站①',
         'stations': [
@@ -20131,8 +20131,8 @@ buses = {
         ]
     },
     '348路': {
-        "name": '348路',
-        "bid": '10034801',
+        'name': '348路',
+        'bid': '10034801',
         'starting_station': '奥林匹克体育中心总站',
         'terminal_station': '丰乐南路总站',
         'stations': [
@@ -20156,8 +20156,8 @@ buses = {
         ]
     },
     'B11路': {
-        "name": 'B11路',
-        "bid": '10801100',
+        'name': 'B11路',
+        'bid': '10801100',
         'starting_station': '岑村火炉山森林公园总站',
         'terminal_station': '员村(美林花园)总站',
         'stations': [
@@ -20196,8 +20196,8 @@ buses = {
         ]
     },
     '266路': {
-        "name": '266路',
-        "bid": '10026601',
+        'name': '266路',
+        'bid': '10026601',
         'starting_station': '汇景北路总站',
         'terminal_station': '珠江泳场总站①',
         'stations': [
@@ -20224,8 +20224,8 @@ buses = {
         ]
     },
     '夜7': {
-        "name": '夜7',
-        "bid": '10000710',
+        'name': '夜7',
+        'bid': '10000710',
         'starting_station': '广州火车站总站k',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -20259,8 +20259,8 @@ buses = {
         ]
     },
     '974班车': {
-        "name": '974班车',
-        "bid": '10097430',
+        'name': '974班车',
+        'bid': '10097430',
         'starting_station': '东秀路总站',
         'terminal_station': '城西花园总站',
         'stations': [
@@ -20284,8 +20284,8 @@ buses = {
         ]
     },
     '831路': {
-        "name": '831路',
-        "bid": '10083100',
+        'name': '831路',
+        'bid': '10083100',
         'starting_station': '白云花园总站',
         'terminal_station': '石井(市114中)总站',
         'stations': [
@@ -20322,8 +20322,8 @@ buses = {
         ]
     },
     '661路': {
-        "name": '661路',
-        "bid": '10066101',
+        'name': '661路',
+        'bid': '10066101',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -20350,8 +20350,8 @@ buses = {
         ]
     },
     '番7路': {
-        "name": '番7路',
-        "bid": '10700700',
+        'name': '番7路',
+        'bid': '10700700',
         'starting_station': '蔡三村总站',
         'terminal_station': '沙湾总站',
         'stations': [
@@ -20390,8 +20390,8 @@ buses = {
         ]
     },
     '207路': {
-        "name": '207路',
-        "bid": '10020701',
+        'name': '207路',
+        'bid': '10020701',
         'starting_station': '中山八路总站',
         'terminal_station': '广州花卉博览园总站',
         'stations': [
@@ -20425,8 +20425,8 @@ buses = {
         ]
     },
     '番147路': {
-        "name": '番147路',
-        "bid": '10714700',
+        'name': '番147路',
+        'bid': '10714700',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -20446,8 +20446,8 @@ buses = {
         ]
     },
     '夜13路': {
-        "name": '夜13路',
-        "bid": '10001311',
+        'name': '夜13路',
+        'bid': '10001311',
         'starting_station': '吉山总站',
         'terminal_station': '锦城花园(东风东)总站②',
         'stations': [
@@ -20480,8 +20480,8 @@ buses = {
         ]
     },
     '581路': {
-        "name": '581路',
-        "bid": '10058100',
+        'name': '581路',
+        'bid': '10058100',
         'starting_station': '长福路(天河客运站)总站',
         'terminal_station': '黄埔客运站总站',
         'stations': [
@@ -20524,8 +20524,8 @@ buses = {
         ]
     },
     '南沙36路': {
-        "name": '南沙36路',
-        "bid": '10603600',
+        'name': '南沙36路',
+        'bid': '10603600',
         'starting_station': '东涌湖公交总站',
         'terminal_station': '西樵幼儿园总站',
         'stations': [
@@ -20560,8 +20560,8 @@ buses = {
         ]
     },
     '287路': {
-        "name": '287路',
-        "bid": '10028700',
+        'name': '287路',
+        'bid': '10028700',
         'starting_station': '海珠客运站总站',
         'terminal_station': '动物园南门总站①',
         'stations': [
@@ -20584,8 +20584,8 @@ buses = {
         ]
     },
     '542路': {
-        "name": '542路',
-        "bid": '10054200',
+        'name': '542路',
+        'bid': '10054200',
         'starting_station': '员村一横路总站①',
         'terminal_station': '瑞宝乡总站',
         'stations': [
@@ -20616,8 +20616,8 @@ buses = {
         ]
     },
     '高峰快线16': {
-        "name": '高峰快线16',
-        "bid": '10001661',
+        'name': '高峰快线16',
+        'bid': '10001661',
         'starting_station': '石溪总站',
         'terminal_station': '罗冲围总站1①',
         'stations': [
@@ -20638,8 +20638,8 @@ buses = {
         ]
     },
     '夜19路': {
-        "name": '夜19路',
-        "bid": '10001910',
+        'name': '夜19路',
+        'bid': '10001910',
         'starting_station': '罗冲围总站',
         'terminal_station': '东圃客运站总站',
         'stations': [
@@ -20677,8 +20677,8 @@ buses = {
         ]
     },
     '417路': {
-        "name": '417路',
-        "bid": '10041701',
+        'name': '417路',
+        'bid': '10041701',
         'starting_station': '沙洛村总站',
         'terminal_station': '金宇花园总站',
         'stations': [
@@ -20692,8 +20692,8 @@ buses = {
         ]
     },
     '番4路B 线': {
-        "name": '番4路B 线',
-        "bid": '10700430',
+        'name': '番4路B 线',
+        'bid': '10700430',
         'starting_station': '好又多总站',
         'terminal_station': '南双玉村总站',
         'stations': [
@@ -20735,8 +20735,8 @@ buses = {
         ]
     },
     '555路': {
-        "name": '555路',
-        "bid": '10055501',
+        'name': '555路',
+        'bid': '10055501',
         'starting_station': '白云文化广场总站',
         'terminal_station': '大坦沙(市1中)总站',
         'stations': [
@@ -20773,8 +20773,8 @@ buses = {
         ]
     },
     '70路': {
-        "name": '70路',
-        "bid": '10007000',
+        'name': '70路',
+        'bid': '10007000',
         'starting_station': '后滘总站',
         'terminal_station': '芳村花园总站②',
         'stations': [
@@ -20803,8 +20803,8 @@ buses = {
         ]
     },
     '928路': {
-        "name": '928路',
-        "bid": '10092801',
+        'name': '928路',
+        'bid': '10092801',
         'starting_station': '富悦街站',
         'terminal_station': '景泰直街总站',
         'stations': [
@@ -20817,8 +20817,8 @@ buses = {
         ]
     },
     '652线': {
-        "name": '652线',
-        "bid": '10065200',
+        'name': '652线',
+        'bid': '10065200',
         'starting_station': '南岭村总站',
         'terminal_station': '江高(广东技术师范学院)总站',
         'stations': [
@@ -20853,8 +20853,8 @@ buses = {
         ]
     },
     '769路': {
-        "name": '769路',
-        "bid": '10076900',
+        'name': '769路',
+        'bid': '10076900',
         'starting_station': '芳村客运站总站①',
         'terminal_station': '洛溪新城总站',
         'stations': [
@@ -20883,8 +20883,8 @@ buses = {
         ]
     },
     '夜27路': {
-        "name": '夜27路',
-        "bid": '10002711',
+        'name': '夜27路',
+        'bid': '10002711',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '车陂总站④',
         'stations': [
@@ -20922,8 +20922,8 @@ buses = {
         ]
     },
     '400路': {
-        "name": '400路',
-        "bid": '10040001',
+        'name': '400路',
+        'bid': '10040001',
         'starting_station': '乐意居站',
         'terminal_station': '东莞庄总站',
         'stations': [
@@ -20940,8 +20940,8 @@ buses = {
         ]
     },
     '81路': {
-        "name": '81路',
-        "bid": '10008100',
+        'name': '81路',
+        'bid': '10008100',
         'starting_station': '文化公园总站②',
         'terminal_station': '半岛花园总站',
         'stations': [
@@ -20966,8 +20966,8 @@ buses = {
         ]
     },
     '415路': {
-        "name": '415路',
-        "bid": '10041500',
+        'name': '415路',
+        'bid': '10041500',
         'starting_station': '中山八路总站①',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -20983,8 +20983,8 @@ buses = {
         ]
     },
     '1路': {
-        "name": '1路',
-        "bid": '10000100',
+        'name': '1路',
+        'bid': '10000100',
         'starting_station': '芳村花园总站①',
         'terminal_station': '东山总站',
         'stations': [
@@ -21013,8 +21013,8 @@ buses = {
         ]
     },
     'S04B路': {
-        "name": 'S04B路',
-        "bid": '20900420',
+        'name': 'S04B路',
+        'bid': '20900420',
         'starting_station': '西堤码头(总站)',
         'terminal_station': '鳌洲码头(总站)',
         'stations': [
@@ -21023,8 +21023,8 @@ buses = {
         ]
     },
     '201路': {
-        "name": '201路',
-        "bid": '10020101',
+        'name': '201路',
+        'bid': '10020101',
         'starting_station': '犀牛角村总站',
         'terminal_station': '广州火车站总站q',
         'stations': [
@@ -21050,8 +21050,8 @@ buses = {
         ]
     },
     '190路': {
-        "name": '190路',
-        "bid": '10019000',
+        'name': '190路',
+        'bid': '10019000',
         'starting_station': '大塘总站',
         'terminal_station': '河田西路总站',
         'stations': [
@@ -21088,8 +21088,8 @@ buses = {
         ]
     },
     '704路': {
-        "name": '704路',
-        "bid": '10070401',
+        'name': '704路',
+        'bid': '10070401',
         'starting_station': '花都两龙总站',
         'terminal_station': '机场路总站(11)',
         'stations': [
@@ -21133,8 +21133,8 @@ buses = {
         ]
     },
     '729路': {
-        "name": '729路',
-        "bid": '10072900',
+        'name': '729路',
+        'bid': '10072900',
         'starting_station': '西村地铁站总站',
         'terminal_station': '西村地铁站总站',
         'stations': [
@@ -21160,8 +21160,8 @@ buses = {
         ]
     },
     '459路': {
-        "name": '459路',
-        "bid": '10045901',
+        'name': '459路',
+        'bid': '10045901',
         'starting_station': '地铁大沙地站总站',
         'terminal_station': '火村东总站',
         'stations': [
@@ -21195,8 +21195,8 @@ buses = {
         ]
     },
     '高峰快线80': {
-        "name": '高峰快线80',
-        "bid": '10008060',
+        'name': '高峰快线80',
+        'bid': '10008060',
         'starting_station': '中科院化学所总站',
         'terminal_station': '罗冲围总站1①',
         'stations': [
@@ -21226,8 +21226,8 @@ buses = {
         ]
     },
     '番146路': {
-        "name": '番146路',
-        "bid": '10714601',
+        'name': '番146路',
+        'bid': '10714601',
         'starting_station': '洛溪新城总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -21265,8 +21265,8 @@ buses = {
         ]
     },
     '448路': {
-        "name": '448路',
-        "bid": '10044801',
+        'name': '448路',
+        'bid': '10044801',
         'starting_station': '科林路总站',
         'terminal_station': '东圃客运站总站',
         'stations': [
@@ -21298,8 +21298,8 @@ buses = {
         ]
     },
     '901A路': {
-        "name": '901A路',
-        "bid": '10090121',
+        'name': '901A路',
+        'bid': '10090121',
         'starting_station': '花城广场西总站',
         'terminal_station': '天河智慧城核心区总站(高唐)',
         'stations': [
@@ -21338,8 +21338,8 @@ buses = {
         ]
     },
     '946路': {
-        "name": '946路',
-        "bid": '10094600',
+        'name': '946路',
+        'bid': '10094600',
         'starting_station': '广汕路(万龙路)总站',
         'terminal_station': '南岗(国际玩具礼品城)总站',
         'stations': [
@@ -21373,8 +21373,8 @@ buses = {
         ]
     },
     '南沙29路': {
-        "name": '南沙29路',
-        "bid": '10602900',
+        'name': '南沙29路',
+        'bid': '10602900',
         'starting_station': '前哨队总站',
         'terminal_station': '平安社区村委会总站',
         'stations': [
@@ -21393,8 +21393,8 @@ buses = {
         ]
     },
     '753线': {
-        "name": '753线',
-        "bid": '10075300',
+        'name': '753线',
+        'bid': '10075300',
         'starting_station': '人和(黄榜岭)总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -21432,8 +21432,8 @@ buses = {
         ]
     },
     '广281路': {
-        "name": '广281路',
-        "bid": '10028101',
+        'name': '广281路',
+        'bid': '10028101',
         'starting_station': '里水大道(八达通家居港)总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -21468,8 +21468,8 @@ buses = {
         ]
     },
     '836A路': {
-        "name": '836A路',
-        "bid": '10083621',
+        'name': '836A路',
+        'bid': '10083621',
         'starting_station': '马洞村总站',
         'terminal_station': '太和镇总站',
         'stations': [
@@ -21486,8 +21486,8 @@ buses = {
         ]
     },
     '406路': {
-        "name": '406路',
-        "bid": '10040600',
+        'name': '406路',
+        'bid': '10040600',
         'starting_station': '龙口西总站',
         'terminal_station': '龙口西总站',
         'stations': [
@@ -21503,8 +21503,8 @@ buses = {
         ]
     },
     '839路': {
-        "name": '839路',
-        "bid": '10083901',
+        'name': '839路',
+        'bid': '10083901',
         'starting_station': '骏威客车厂总站',
         'terminal_station': '滘口客运站总站②',
         'stations': [
@@ -21536,8 +21536,8 @@ buses = {
         ]
     },
     '546路': {
-        "name": '546路',
-        "bid": '10054601',
+        'name': '546路',
+        'bid': '10054601',
         'starting_station': '河田西路总站',
         'terminal_station': '南洲花园总站',
         'stations': [
@@ -21578,8 +21578,8 @@ buses = {
         ]
     },
     '202路': {
-        "name": '202路',
-        "bid": '10020200',
+        'name': '202路',
+        'bid': '10020200',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '沥滘总站',
         'stations': [
@@ -21613,8 +21613,8 @@ buses = {
         ]
     },
     '981路': {
-        "name": '981路',
-        "bid": '10098100',
+        'name': '981路',
+        'bid': '10098100',
         'starting_station': '齐富路总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -21633,8 +21633,8 @@ buses = {
         ]
     },
     '番5路': {
-        "name": '番5路',
-        "bid": '10700501',
+        'name': '番5路',
+        'bid': '10700501',
         'starting_station': '太石工业区总站',
         'terminal_station': '新市桥汽车站总站',
         'stations': [
@@ -21665,8 +21665,8 @@ buses = {
         ]
     },
     '番69路': {
-        "name": '番69路',
-        "bid": '10706901',
+        'name': '番69路',
+        'bid': '10706901',
         'starting_station': '樟边村总站',
         'terminal_station': '南村汽车站总站',
         'stations': [
@@ -21689,8 +21689,8 @@ buses = {
         ]
     },
     '944路': {
-        "name": '944路',
-        "bid": '10094400',
+        'name': '944路',
+        'bid': '10094400',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '奥林匹克体育中心总站',
         'stations': [
@@ -21717,8 +21717,8 @@ buses = {
         ]
     },
     '826路': {
-        "name": '826路',
-        "bid": '10082600',
+        'name': '826路',
+        'bid': '10082600',
         'starting_station': '竹料总站①',
         'terminal_station': '陈洞村站',
         'stations': [
@@ -21734,8 +21734,8 @@ buses = {
         ]
     },
     '534路': {
-        "name": '534路',
-        "bid": '10053400',
+        'name': '534路',
+        'bid': '10053400',
         'starting_station': '天平架总站⑦a',
         'terminal_station': '萝岗街总站',
         'stations': [
@@ -21782,8 +21782,8 @@ buses = {
         ]
     },
     'B16路': {
-        "name": 'B16路',
-        "bid": '10801600',
+        'name': 'B16路',
+        'bid': '10801600',
         'starting_station': '云台花园总站④',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -21821,8 +21821,8 @@ buses = {
         ]
     },
     '番8路': {
-        "name": '番8路',
-        "bid": '10700801',
+        'name': '番8路',
+        'bid': '10700801',
         'starting_station': '好又多总站',
         'terminal_station': '小平总站',
         'stations': [
@@ -21850,8 +21850,8 @@ buses = {
         ]
     },
     '番108B': {
-        "name": '番108B',
-        "bid": '10710831',
+        'name': '番108B',
+        'bid': '10710831',
         'starting_station': '广州南站总站',
         'terminal_station': '番禺体校总站',
         'stations': [
@@ -21898,8 +21898,8 @@ buses = {
         ]
     },
     '夜15': {
-        "name": '夜15',
-        "bid": '10001511',
+        'name': '夜15',
+        'bid': '10001511',
         'starting_station': '广州火车东站总站②b',
         'terminal_station': '同德围(横滘村)总站',
         'stations': [
@@ -21933,8 +21933,8 @@ buses = {
         ]
     },
     '784路': {
-        "name": '784路',
-        "bid": '10078400',
+        'name': '784路',
+        'bid': '10078400',
         'starting_station': '地铁梅花园站总站',
         'terminal_station': '地铁梅花园站总站',
         'stations': [
@@ -21950,8 +21950,8 @@ buses = {
         ]
     },
     '521路': {
-        "name": '521路',
-        "bid": '10052101',
+        'name': '521路',
+        'bid': '10052101',
         'starting_station': '石溪总站',
         'terminal_station': '凰岗总站②',
         'stations': [
@@ -21983,8 +21983,8 @@ buses = {
         ]
     },
     '101路': {
-        "name": '101路',
-        "bid": '10010101',
+        'name': '101路',
+        'bid': '10010101',
         'starting_station': '机场路总站④',
         'terminal_station': '海印桥总站①',
         'stations': [
@@ -22004,8 +22004,8 @@ buses = {
         ]
     },
     '商务专线3': {
-        "name": '商务专线3',
-        "bid": '10014330',
+        'name': '商务专线3',
+        'bid': '10014330',
         'starting_station': '站前路(西郊大厦)总站',
         'terminal_station': '沙涌南总站',
         'stations': [
@@ -22027,8 +22027,8 @@ buses = {
         ]
     },
     '夜23': {
-        "name": '夜23',
-        "bid": '10002311',
+        'name': '夜23',
+        'bid': '10002311',
         'starting_station': '汇景北路总站',
         'terminal_station': '宝岗大道总站③',
         'stations': [
@@ -22056,8 +22056,8 @@ buses = {
         ]
     },
     '734路': {
-        "name": '734路',
-        "bid": '10073400',
+        'name': '734路',
+        'bid': '10073400',
         'starting_station': '钟落潭文化广场总站',
         'terminal_station': '机场路总站④',
         'stations': [
@@ -22102,8 +22102,8 @@ buses = {
         ]
     },
     '夜43路': {
-        "name": '夜43路',
-        "bid": '10004310',
+        'name': '夜43路',
+        'bid': '10004310',
         'starting_station': '沐陂路(彩釉砖厂)总站',
         'terminal_station': '瑞宝乡总站',
         'stations': [
@@ -22137,8 +22137,8 @@ buses = {
         ]
     },
     '番56路': {
-        "name": '番56路',
-        "bid": '10705600',
+        'name': '番56路',
+        'bid': '10705600',
         'starting_station': '地铁厦滘站总站',
         'terminal_station': '广州雅居乐总站',
         'stations': [
@@ -22157,8 +22157,8 @@ buses = {
         ]
     },
     '226路': {
-        "name": '226路',
-        "bid": '10022601',
+        'name': '226路',
+        'bid': '10022601',
         'starting_station': '恒宝广场总站',
         'terminal_station': '大塘总站',
         'stations': [
@@ -22191,8 +22191,8 @@ buses = {
         ]
     },
     'S13C路': {
-        "name": 'S13C路',
-        "bid": '20901330',
+        'name': 'S13C路',
+        'bid': '20901330',
         'starting_station': '黄沙码头(总站)',
         'terminal_station': '白蚬壳码头(总站)',
         'stations': [
@@ -22201,8 +22201,8 @@ buses = {
         ]
     },
     '480路': {
-        "name": '480路',
-        "bid": '10048001',
+        'name': '480路',
+        'bid': '10048001',
         'starting_station': '省妇幼站',
         'terminal_station': '北站总站',
         'stations': [
@@ -22220,8 +22220,8 @@ buses = {
         ]
     },
     '夜8路': {
-        "name": '夜8路',
-        "bid": '10000810',
+        'name': '夜8路',
+        'bid': '10000810',
         'starting_station': '广州火车站总站k',
         'terminal_station': '赤沙(广东商学院)总站',
         'stations': [
@@ -22260,8 +22260,8 @@ buses = {
         ]
     },
     '751路': {
-        "name": '751路',
-        "bid": '10075100',
+        'name': '751路',
+        'bid': '10075100',
         'starting_station': '柏塘工业区总站',
         'terminal_station': '太和总站',
         'stations': [
@@ -22286,8 +22286,8 @@ buses = {
         ]
     },
     '番202': {
-        "name": '番202',
-        "bid": '10720201',
+        'name': '番202',
+        'bid': '10720201',
         'starting_station': '大学城(体育中心)总站',
         'terminal_station': '大学城(科学中心)总站①',
         'stations': [
@@ -22311,8 +22311,8 @@ buses = {
         ]
     },
     '571路': {
-        "name": '571路',
-        "bid": '10057101',
+        'name': '571路',
+        'bid': '10057101',
         'starting_station': '黄埔港总站',
         'terminal_station': '新塘(光华路口)总站',
         'stations': [
@@ -22359,8 +22359,8 @@ buses = {
         ]
     },
     '夜22': {
-        "name": '夜22',
-        "bid": '10002211',
+        'name': '夜22',
+        'bid': '10002211',
         'starting_station': '江南大道南总站',
         'terminal_station': '安华装饰城总站',
         'stations': [
@@ -22395,8 +22395,8 @@ buses = {
         ]
     },
     '271A线': {
-        "name": '271A线',
-        "bid": '10027121',
+        'name': '271A线',
+        'bid': '10027121',
         'starting_station': '石井(滘心村)总站',
         'terminal_station': '流花车站总站①',
         'stations': [
@@ -22422,8 +22422,8 @@ buses = {
         ]
     },
     '565路': {
-        "name": '565路',
-        "bid": '10056500',
+        'name': '565路',
+        'bid': '10056500',
         'starting_station': '大学城(广工)总站',
         'terminal_station': '穗盐路(雍景豪园)总站',
         'stations': [
@@ -22474,8 +22474,8 @@ buses = {
         ]
     },
     '133路': {
-        "name": '133路',
-        "bid": '10013301',
+        'name': '133路',
+        'bid': '10013301',
         'starting_station': '龙口西(穗园小区)总站①',
         'terminal_station': '中山八路总站②',
         'stations': [
@@ -22503,8 +22503,8 @@ buses = {
         ]
     },
     '556路': {
-        "name": '556路',
-        "bid": '10055601',
+        'name': '556路',
+        'bid': '10055601',
         'starting_station': '芳村客运站总站①',
         'terminal_station': '石井(庆丰纺织服装城)总站',
         'stations': [
@@ -22549,8 +22549,8 @@ buses = {
         ]
     },
     '420路': {
-        "name": '420路',
-        "bid": '10042001',
+        'name': '420路',
+        'bid': '10042001',
         'starting_station': '黄石路南总站',
         'terminal_station': '齐富路总站',
         'stations': [
@@ -22565,8 +22565,8 @@ buses = {
         ]
     },
     '457路': {
-        "name": '457路',
-        "bid": '10045700',
+        'name': '457路',
+        'bid': '10045700',
         'starting_station': '蟹庄村总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -22582,8 +22582,8 @@ buses = {
         ]
     },
     '417路': {
-        "name": '417路',
-        "bid": '10041700',
+        'name': '417路',
+        'bid': '10041700',
         'starting_station': '金宇花园总站',
         'terminal_station': '沙洛村总站',
         'stations': [
@@ -22597,8 +22597,8 @@ buses = {
         ]
     },
     '303路': {
-        "name": '303路',
-        "bid": '10030300',
+        'name': '303路',
+        'bid': '10030300',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '天河客运站总站①',
         'stations': [
@@ -22654,8 +22654,8 @@ buses = {
         ]
     },
     '564A路': {
-        "name": '564A路',
-        "bid": '10056421',
+        'name': '564A路',
+        'bid': '10056421',
         'starting_station': '奥林匹克体育中心总站',
         'terminal_station': '联和墟站',
         'stations': [
@@ -22676,8 +22676,8 @@ buses = {
         ]
     },
     '南沙10路': {
-        "name": '南沙10路',
-        "bid": '10601000',
+        'name': '南沙10路',
+        'bid': '10601000',
         'starting_station': '横沥中学总站',
         'terminal_station': '万顷沙总站',
         'stations': [
@@ -22702,8 +22702,8 @@ buses = {
         ]
     },
     '夜44路': {
-        "name": '夜44路',
-        "bid": '10004411',
+        'name': '夜44路',
+        'bid': '10004411',
         'starting_station': '中山八路总站⑦',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -22735,8 +22735,8 @@ buses = {
         ]
     },
     '246路': {
-        "name": '246路',
-        "bid": '10024600',
+        'name': '246路',
+        'bid': '10024600',
         'starting_station': '太和总站(丰泰小区)',
         'terminal_station': '动物园总站',
         'stations': [
@@ -22777,8 +22777,8 @@ buses = {
         ]
     },
     '南沙5路': {
-        "name": '南沙5路',
-        "bid": '10600500',
+        'name': '南沙5路',
+        'bid': '10600500',
         'starting_station': '蕉门地铁总站',
         'terminal_station': '南沙湾站',
         'stations': [
@@ -22809,8 +22809,8 @@ buses = {
         ]
     },
     '813路': {
-        "name": '813路',
-        "bid": '10081301',
+        'name': '813路',
+        'bid': '10081301',
         'starting_station': '棠下小区(西区)总站',
         'terminal_station': '革新路(光大花园)总站',
         'stations': [
@@ -22849,8 +22849,8 @@ buses = {
         ]
     },
     '767路': {
-        "name": '767路',
-        "bid": '10076700',
+        'name': '767路',
+        'bid': '10076700',
         'starting_station': '大江苑总站',
         'terminal_station': '大江苑总站',
         'stations': [
@@ -22870,8 +22870,8 @@ buses = {
         ]
     },
     '425路': {
-        "name": '425路',
-        "bid": '10042501',
+        'name': '425路',
+        'bid': '10042501',
         'starting_station': '石井(铁路学校)总站',
         'terminal_station': '黄边北路总站',
         'stations': [
@@ -22903,8 +22903,8 @@ buses = {
         ]
     },
     '829路': {
-        "name": '829路',
-        "bid": '10082900',
+        'name': '829路',
+        'bid': '10082900',
         'starting_station': '罗溪总站',
         'terminal_station': '人和墟(万家福广场)总站',
         'stations': [
@@ -22937,8 +22937,8 @@ buses = {
         ]
     },
     '夜73路': {
-        "name": '夜73路',
-        "bid": '10007310',
+        'name': '夜73路',
+        'bid': '10007310',
         'starting_station': '地铁文冲站总站',
         'terminal_station': '埔南路(翡翠绿洲)总站',
         'stations': [
@@ -22971,8 +22971,8 @@ buses = {
         ]
     },
     '番162路': {
-        "name": '番162路',
-        "bid": '10716200',
+        'name': '番162路',
+        'bid': '10716200',
         'starting_station': '亚运城总站',
         'terminal_station': '好又多总站',
         'stations': [
@@ -23003,8 +23003,8 @@ buses = {
         ]
     },
     '番73线': {
-        "name": '番73线',
-        "bid": '10707301',
+        'name': '番73线',
+        'bid': '10707301',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '华创动漫产业园总站',
         'stations': [
@@ -23032,8 +23032,8 @@ buses = {
         ]
     },
     '70路': {
-        "name": '70路',
-        "bid": '10007001',
+        'name': '70路',
+        'bid': '10007001',
         'starting_station': '芳村花园总站②',
         'terminal_station': '后滘总站',
         'stations': [
@@ -23066,8 +23066,8 @@ buses = {
         ]
     },
     '364路': {
-        "name": '364路',
-        "bid": '10036400',
+        'name': '364路',
+        'bid': '10036400',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '大观路北总站',
         'stations': [
@@ -23106,8 +23106,8 @@ buses = {
         ]
     },
     '927路': {
-        "name": '927路',
-        "bid": '10092701',
+        'name': '927路',
+        'bid': '10092701',
         'starting_station': '白云花园总站',
         'terminal_station': '嘉禾总站',
         'stations': [
@@ -23124,8 +23124,8 @@ buses = {
         ]
     },
     'B17路': {
-        "name": 'B17路',
-        "bid": '10801700',
+        'name': 'B17路',
+        'bid': '10801700',
         'starting_station': '石化路总站',
         'terminal_station': '广州火车东站总站③c',
         'stations': [
@@ -23158,8 +23158,8 @@ buses = {
         ]
     },
     '58路': {
-        "name": '58路',
-        "bid": '10005800',
+        'name': '58路',
+        'bid': '10005800',
         'starting_station': '时代玫瑰园总站',
         'terminal_station': '广医一院(靖海路)总站',
         'stations': [
@@ -23195,8 +23195,8 @@ buses = {
         ]
     },
     '752路': {
-        "name": '752路',
-        "bid": '10075200',
+        'name': '752路',
+        'bid': '10075200',
         'starting_station': '上步总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -23220,8 +23220,8 @@ buses = {
         ]
     },
     '349路': {
-        "name": '349路',
-        "bid": '10034900',
+        'name': '349路',
+        'bid': '10034900',
         'starting_station': '广汕路(万龙路)总站',
         'terminal_station': '刘村总站',
         'stations': [
@@ -23264,8 +23264,8 @@ buses = {
         ]
     },
     '986线': {
-        "name": '986线',
-        "bid": '10098600',
+        'name': '986线',
+        'bid': '10098600',
         'starting_station': '南岭村总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -23295,8 +23295,8 @@ buses = {
         ]
     },
     '108路': {
-        "name": '108路',
-        "bid": '10010800',
+        'name': '108路',
+        'bid': '10010800',
         'starting_station': '东山总站',
         'terminal_station': '黄石路总站',
         'stations': [
@@ -23322,8 +23322,8 @@ buses = {
         ]
     },
     '旅游观光1线': {
-        "name": '旅游观光1线',
-        "bid": '10000431',
+        'name': '旅游观光1线',
+        'bid': '10000431',
         'starting_station': '珠江泳场总站①',
         'terminal_station': '黄埔古村总站',
         'stations': [
@@ -23352,8 +23352,8 @@ buses = {
         ]
     },
     '772路': {
-        "name": '772路',
-        "bid": '10077201',
+        'name': '772路',
+        'bid': '10077201',
         'starting_station': '车陂总站①',
         'terminal_station': '长福路(天河客运站)总站',
         'stations': [
@@ -23379,8 +23379,8 @@ buses = {
         ]
     },
     '325线': {
-        "name": '325线',
-        "bid": '10032501',
+        'name': '325线',
+        'bid': '10032501',
         'starting_station': '奥林匹克体育中心总站',
         'terminal_station': '广汕路(万龙路)总站',
         'stations': [
@@ -23410,8 +23410,8 @@ buses = {
         ]
     },
     '801路': {
-        "name": '801路',
-        "bid": '10080100',
+        'name': '801路',
+        'bid': '10080100',
         'starting_station': '大学城(科学中心)总站①',
         'terminal_station': '体育中心总站',
         'stations': [
@@ -23439,8 +23439,8 @@ buses = {
         ]
     },
     '86路': {
-        "name": '86路',
-        "bid": '10008601',
+        'name': '86路',
+        'bid': '10008601',
         'starting_station': '一德西总站',
         'terminal_station': '广工一路',
         'stations': [
@@ -23486,8 +23486,8 @@ buses = {
         ]
     },
     '番182路': {
-        "name": '番182路',
-        "bid": '10718200',
+        'name': '番182路',
+        'bid': '10718200',
         'starting_station': '星河湾半岛',
         'terminal_station': '地铁会江总站',
         'stations': [
@@ -23516,8 +23516,8 @@ buses = {
         ]
     },
     'B7快线': {
-        "name": 'B7快线',
-        "bid": '10800761',
+        'name': 'B7快线',
+        'bid': '10800761',
         'starting_station': '海珠客运站总站',
         'terminal_station': '东圃客运站总站',
         'stations': [
@@ -23546,8 +23546,8 @@ buses = {
         ]
     },
     '982线': {
-        "name": '982线',
-        "bid": '10098200',
+        'name': '982线',
+        'bid': '10098200',
         'starting_station': '环滘(白云湖公园)总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -23577,8 +23577,8 @@ buses = {
         ]
     },
     '298路': {
-        "name": '298路',
-        "bid": '10029801',
+        'name': '298路',
+        'bid': '10029801',
         'starting_station': '华景新城总站①',
         'terminal_station': '夏茅客运站总站①',
         'stations': [
@@ -23616,8 +23616,8 @@ buses = {
         ]
     },
     'S12路': {
-        "name": 'S12路',
-        "bid": '20901201',
+        'name': 'S12路',
+        'bid': '20901201',
         'starting_station': '长洲码头(总站)',
         'terminal_station': '海心沙码头(总站)',
         'stations': [
@@ -23627,8 +23627,8 @@ buses = {
         ]
     },
     '夜14路': {
-        "name": '夜14路',
-        "bid": '10001411',
+        'name': '夜14路',
+        'bid': '10001411',
         'starting_station': '云景花园西门总站',
         'terminal_station': '广州火车站总站m',
         'stations': [
@@ -23662,8 +23662,8 @@ buses = {
         ]
     },
     '782路': {
-        "name": '782路',
-        "bid": '10078201',
+        'name': '782路',
+        'bid': '10078201',
         'starting_station': '芳村码头总站',
         'terminal_station': '安南大街总站',
         'stations': [
@@ -23683,8 +23683,8 @@ buses = {
         ]
     },
     '803路': {
-        "name": '803路',
-        "bid": '10080301',
+        'name': '803路',
+        'bid': '10080301',
         'starting_station': '东平总站',
         'terminal_station': '广州火车站总站a',
         'stations': [
@@ -23725,8 +23725,8 @@ buses = {
         ]
     },
     'B15路': {
-        "name": 'B15路',
-        "bid": '10801501',
+        'name': 'B15路',
+        'bid': '10801501',
         'starting_station': '吉山总站',
         'terminal_station': '锦城花园(东风东)总站①',
         'stations': [
@@ -23757,8 +23757,8 @@ buses = {
         ]
     },
     '328线': {
-        "name": '328线',
-        "bid": '10032801',
+        'name': '328线',
+        'bid': '10032801',
         'starting_station': '石化生活区南总站',
         'terminal_station': '丰乐南路总站',
         'stations': [
@@ -23773,8 +23773,8 @@ buses = {
         ]
     },
     '569路': {
-        "name": '569路',
-        "bid": '10056900',
+        'name': '569路',
+        'bid': '10056900',
         'starting_station': '萝岗香雪公园总站',
         'terminal_station': '西区第一体育中心总站',
         'stations': [
@@ -23808,8 +23808,8 @@ buses = {
         ]
     },
     '花81路': {
-        "name": '花81路',
-        "bid": '10508101',
+        'name': '花81路',
+        'bid': '10508101',
         'starting_station': '珊瑚总站',
         'terminal_station': '花都客运站总站',
         'stations': [
@@ -23870,8 +23870,8 @@ buses = {
         ]
     },
     '128路': {
-        "name": '128路',
-        "bid": '10012801',
+        'name': '128路',
+        'bid': '10012801',
         'starting_station': '海印桥总站②',
         'terminal_station': '珠岛花园总站',
         'stations': [
@@ -23899,8 +23899,8 @@ buses = {
         ]
     },
     '61路': {
-        "name": '61路',
-        "bid": '10006101',
+        'name': '61路',
+        'bid': '10006101',
         'starting_station': '滘口客运站总站⑦',
         'terminal_station': '海印桥总站②',
         'stations': [
@@ -23926,8 +23926,8 @@ buses = {
         ]
     },
     '770路': {
-        "name": '770路',
-        "bid": '10077000',
+        'name': '770路',
+        'bid': '10077000',
         'starting_station': '南漖村总站',
         'terminal_station': '芳村西塱总站①',
         'stations': [
@@ -23949,8 +23949,8 @@ buses = {
         ]
     },
     '775路': {
-        "name": '775路',
-        "bid": '10077501',
+        'name': '775路',
+        'bid': '10077501',
         'starting_station': '华工大总站②',
         'terminal_station': '龙洞(龙逸山庄)总站',
         'stations': [
@@ -23978,8 +23978,8 @@ buses = {
         ]
     },
     '245路': {
-        "name": '245路',
-        "bid": '10024500',
+        'name': '245路',
+        'bid': '10024500',
         'starting_station': '黄石东(白云尚城)总站',
         'terminal_station': '员村一横路总站①',
         'stations': [
@@ -24015,8 +24015,8 @@ buses = {
         ]
     },
     '527路': {
-        "name": '527路',
-        "bid": '10052700',
+        'name': '527路',
+        'bid': '10052700',
         'starting_station': '同德围(田心村)总站',
         'terminal_station': '石溪总站',
         'stations': [
@@ -24057,8 +24057,8 @@ buses = {
         ]
     },
     '746线': {
-        "name": '746线',
-        "bid": '10074600',
+        'name': '746线',
+        'bid': '10074600',
         'starting_station': '金沙洲码头总站',
         'terminal_station': '白沙总站',
         'stations': [
@@ -24081,8 +24081,8 @@ buses = {
         ]
     },
     '974班车': {
-        "name": '974班车',
-        "bid": '10097431',
+        'name': '974班车',
+        'bid': '10097431',
         'starting_station': '城西花园总站',
         'terminal_station': '东秀路总站',
         'stations': [
@@ -24105,8 +24105,8 @@ buses = {
         ]
     },
     '388路': {
-        "name": '388路',
-        "bid": '10038801',
+        'name': '388路',
+        'bid': '10038801',
         'starting_station': '科学城南部公交场总站',
         'terminal_station': '南岗(国际玩具礼品城)总站',
         'stations': [
@@ -24148,8 +24148,8 @@ buses = {
         ]
     },
     '番148短线': {
-        "name": '番148短线',
-        "bid": '10714840',
+        'name': '番148短线',
+        'bid': '10714840',
         'starting_station': '亚运城山海湾总站',
         'terminal_station': '地铁海傍站总站',
         'stations': [
@@ -24165,8 +24165,8 @@ buses = {
         ]
     },
     'B4路': {
-        "name": 'B4路',
-        "bid": '10800400',
+        'name': 'B4路',
+        'bid': '10800400',
         'starting_station': '广仁路总站',
         'terminal_station': '天河智慧城核心区总站(高唐)',
         'stations': [
@@ -24207,8 +24207,8 @@ buses = {
         ]
     },
     '夜11路': {
-        "name": '夜11路',
-        "bid": '10001111',
+        'name': '夜11路',
+        'bid': '10001111',
         'starting_station': '广州火车站总站l',
         'terminal_station': '芳村西塱总站④',
         'stations': [
@@ -24240,8 +24240,8 @@ buses = {
         ]
     },
     '995路': {
-        "name": '995路',
-        "bid": '10099501',
+        'name': '995路',
+        'bid': '10099501',
         'starting_station': '光大花园总站',
         'terminal_station': '光大花园总站',
         'stations': [
@@ -24272,8 +24272,8 @@ buses = {
         ]
     },
     '夜50': {
-        "name": '夜50',
-        "bid": '10005010',
+        'name': '夜50',
+        'bid': '10005010',
         'starting_station': '市国家档案馆(大学城)总站',
         'terminal_station': '市国家档案馆(大学城)总站',
         'stations': [
@@ -24302,8 +24302,8 @@ buses = {
         ]
     },
     '944路': {
-        "name": '944路',
-        "bid": '10094401',
+        'name': '944路',
+        'bid': '10094401',
         'starting_station': '奥林匹克体育中心总站',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -24329,8 +24329,8 @@ buses = {
         ]
     },
     '131B线': {
-        "name": '131B线',
-        "bid": '10013130',
+        'name': '131B线',
+        'bid': '10013130',
         'starting_station': '赤岗总站',
         'terminal_station': '赤岗总站',
         'stations': [
@@ -24371,8 +24371,8 @@ buses = {
         ]
     },
     '663路': {
-        "name": '663路',
-        "bid": '10066301',
+        'name': '663路',
+        'bid': '10066301',
         'starting_station': '清湖村总站',
         'terminal_station': '地铁江夏站总站',
         'stations': [
@@ -24403,8 +24403,8 @@ buses = {
         ]
     },
     '391路': {
-        "name": '391路',
-        "bid": '10039100',
+        'name': '391路',
+        'bid': '10039100',
         'starting_station': '联和(惠联路)总站',
         'terminal_station': '萝岗香雪公园总站',
         'stations': [
@@ -24440,8 +24440,8 @@ buses = {
         ]
     },
     '137路': {
-        "name": '137路',
-        "bid": '10013701',
+        'name': '137路',
+        'bid': '10013701',
         'starting_station': '动物园南门总站③',
         'terminal_station': '新洲总站②',
         'stations': [
@@ -24472,8 +24472,8 @@ buses = {
         ]
     },
     '65路': {
-        "name": '65路',
-        "bid": '10006500',
+        'name': '65路',
+        'bid': '10006500',
         'starting_station': '乐意居花园总站',
         'terminal_station': '宝岗大道总站②',
         'stations': [
@@ -24507,8 +24507,8 @@ buses = {
         ]
     },
     '198路': {
-        "name": '198路',
-        "bid": '10019801',
+        'name': '198路',
+        'bid': '10019801',
         'starting_station': '鹤龙一路总站',
         'terminal_station': '罗冲围(东旺)总站',
         'stations': [
@@ -24540,8 +24540,8 @@ buses = {
         ]
     },
     '夜85': {
-        "name": '夜85',
-        "bid": '10008511',
+        'name': '夜85',
+        'bid': '10008511',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '大朗夏边总站',
         'stations': [
@@ -24565,8 +24565,8 @@ buses = {
         ]
     },
     '番75路': {
-        "name": '番75路',
-        "bid": '10707500',
+        'name': '番75路',
+        'bid': '10707500',
         'starting_station': '广州南站总站',
         'terminal_station': '国际商品展贸城总站',
         'stations': [
@@ -24609,8 +24609,8 @@ buses = {
         ]
     },
     '763路': {
-        "name": '763路',
-        "bid": '10076301',
+        'name': '763路',
+        'bid': '10076301',
         'starting_station': '车陂总站①',
         'terminal_station': '赤岗大塘总站',
         'stations': [
@@ -24630,8 +24630,8 @@ buses = {
         ]
     },
     'B7路': {
-        "name": 'B7路',
-        "bid": '10800700',
+        'name': 'B7路',
+        'bid': '10800700',
         'starting_station': '东圃客运站总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -24665,8 +24665,8 @@ buses = {
         ]
     },
     '花6路': {
-        "name": '花6路',
-        "bid": '10500601',
+        'name': '花6路',
+        'bid': '10500601',
         'starting_station': '石岗村总站',
         'terminal_station': '汽车总站',
         'stations': [
@@ -24696,8 +24696,8 @@ buses = {
         ]
     },
     '247路': {
-        "name": '247路',
-        "bid": '10024700',
+        'name': '247路',
+        'bid': '10024700',
         'starting_station': '恒福路总站',
         'terminal_station': '南洲北路站',
         'stations': [
@@ -24729,8 +24729,8 @@ buses = {
         ]
     },
     '461A路': {
-        "name": '461A路',
-        "bid": '10046121',
+        'name': '461A路',
+        'bid': '10046121',
         'starting_station': '仑头村总站',
         'terminal_station': '仑头村总站',
         'stations': [
@@ -24755,8 +24755,8 @@ buses = {
         ]
     },
     '南沙25路': {
-        "name": '南沙25路',
-        "bid": '10602501',
+        'name': '南沙25路',
+        'bid': '10602501',
         'starting_station': '十九涌水产市场总站',
         'terminal_station': '万顷沙总站',
         'stations': [
@@ -24778,8 +24778,8 @@ buses = {
         ]
     },
     '339路': {
-        "name": '339路',
-        "bid": '10033900',
+        'name': '339路',
+        'bid': '10033900',
         'starting_station': '萝岗街总站',
         'terminal_station': '地铁鱼珠站总站',
         'stations': [
@@ -24807,8 +24807,8 @@ buses = {
         ]
     },
     '250路': {
-        "name": '250路',
-        "bid": '10025001',
+        'name': '250路',
+        'bid': '10025001',
         'starting_station': '中山八路总站④',
         'terminal_station': '石榴岗总站',
         'stations': [
@@ -24847,8 +24847,8 @@ buses = {
         ]
     },
     '29路': {
-        "name": '29路',
-        "bid": '10002900',
+        'name': '29路',
+        'bid': '10002900',
         'starting_station': '广纸路总站',
         'terminal_station': '站南路总站',
         'stations': [
@@ -24879,8 +24879,8 @@ buses = {
         ]
     },
     '夜32路': {
-        "name": '夜32路',
-        "bid": '10003210',
+        'name': '夜32路',
+        'bid': '10003210',
         'starting_station': '纸厂总站①',
         'terminal_station': '河田西路总站',
         'stations': [
@@ -24913,8 +24913,8 @@ buses = {
         ]
     },
     '番125路': {
-        "name": '番125路',
-        "bid": '10712500',
+        'name': '番125路',
+        'bid': '10712500',
         'starting_station': '地铁汉溪长隆站总站②',
         'terminal_station': '陈村客运站',
         'stations': [
@@ -24946,8 +24946,8 @@ buses = {
         ]
     },
     '948路': {
-        "name": '948路',
-        "bid": '10094801',
+        'name': '948路',
+        'bid': '10094801',
         'starting_station': '禾丰横路总站',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -24981,8 +24981,8 @@ buses = {
         ]
     },
     '504路': {
-        "name": '504路',
-        "bid": '10050401',
+        'name': '504路',
+        'bid': '10050401',
         'starting_station': '太和(沙亭岗村)总站',
         'terminal_station': '员村一横路总站①',
         'stations': [
@@ -25036,8 +25036,8 @@ buses = {
         ]
     },
     '60路': {
-        "name": '60路',
-        "bid": '10006000',
+        'name': '60路',
+        'bid': '10006000',
         'starting_station': '机场路总站⑦',
         'terminal_station': '奥林匹克体育中心总站',
         'stations': [
@@ -25065,8 +25065,8 @@ buses = {
         ]
     },
     '番310路': {
-        "name": '番310路',
-        "bid": '10731000',
+        'name': '番310路',
+        'bid': '10731000',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '大学城(中五路广工)总站',
         'stations': [
@@ -25115,8 +25115,8 @@ buses = {
         ]
     },
     '夜60路': {
-        "name": '夜60路',
-        "bid": '10006010',
+        'name': '夜60路',
+        'bid': '10006010',
         'starting_station': '天河客运站总站①',
         'terminal_station': '联和(惠联路)总站',
         'stations': [
@@ -25142,8 +25142,8 @@ buses = {
         ]
     },
     '179路': {
-        "name": '179路',
-        "bid": '10017901',
+        'name': '179路',
+        'bid': '10017901',
         'starting_station': '白云山制药厂总站',
         'terminal_station': '同德围上步村总站',
         'stations': [
@@ -25182,8 +25182,8 @@ buses = {
         ]
     },
     '212路': {
-        "name": '212路',
-        "bid": '10021200',
+        'name': '212路',
+        'bid': '10021200',
         'starting_station': '中山八路总站②',
         'terminal_station': '鸦岗总站',
         'stations': [
@@ -25220,8 +25220,8 @@ buses = {
         ]
     },
     '466路': {
-        "name": '466路',
-        "bid": '10046601',
+        'name': '466路',
+        'bid': '10046601',
         'starting_station': '后滘大街总站',
         'terminal_station': '地铁东晓南总站',
         'stations': [
@@ -25237,8 +25237,8 @@ buses = {
         ]
     },
     '489路': {
-        "name": '489路',
-        "bid": '10048900',
+        'name': '489路',
+        'bid': '10048900',
         'starting_station': '革新路(光大花园)总站',
         'terminal_station': '江南西路总站',
         'stations': [
@@ -25255,8 +25255,8 @@ buses = {
         ]
     },
     '番185路': {
-        "name": '番185路',
-        "bid": '10718500',
+        'name': '番185路',
+        'bid': '10718500',
         'starting_station': '星河湾半岛',
         'terminal_station': '石壁一村总站',
         'stations': [
@@ -25290,8 +25290,8 @@ buses = {
         ]
     },
     '862B路': {
-        "name": '862B路',
-        "bid": '10086230',
+        'name': '862B路',
+        'bid': '10086230',
         'starting_station': '广州火车站总站',
         'terminal_station': '沙太路北总站',
         'stations': [
@@ -25328,8 +25328,8 @@ buses = {
         ]
     },
     '285路': {
-        "name": '285路',
-        "bid": '10028501',
+        'name': '285路',
+        'bid': '10028501',
         'starting_station': '花地大道南(鹅公村)总站',
         'terminal_station': '云台花园总站④',
         'stations': [
@@ -25366,8 +25366,8 @@ buses = {
         ]
     },
     '53路': {
-        "name": '53路',
-        "bid": '10005300',
+        'name': '53路',
+        'bid': '10005300',
         'starting_station': '宝岗大道总站①',
         'terminal_station': '杨桃公园(美林湖畔)总站',
         'stations': [
@@ -25405,8 +25405,8 @@ buses = {
         ]
     },
     '番146路': {
-        "name": '番146路',
-        "bid": '10714600',
+        'name': '番146路',
+        'bid': '10714600',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '洛溪新城总站',
         'stations': [
@@ -25449,8 +25449,8 @@ buses = {
         ]
     },
     '番67路': {
-        "name": '番67路',
-        "bid": '10706700',
+        'name': '番67路',
+        'bid': '10706700',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '宝墨园总站',
         'stations': [
@@ -25487,8 +25487,8 @@ buses = {
         ]
     },
     '472路': {
-        "name": '472路',
-        "bid": '10047201',
+        'name': '472路',
+        'bid': '10047201',
         'starting_station': '大岭村总站',
         'terminal_station': '神山总站',
         'stations': [
@@ -25501,8 +25501,8 @@ buses = {
         ]
     },
     '330路': {
-        "name": '330路',
-        "bid": '10033001',
+        'name': '330路',
+        'bid': '10033001',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -25524,8 +25524,8 @@ buses = {
         ]
     },
     '番97路': {
-        "name": '番97路',
-        "bid": '10709701',
+        'name': '番97路',
+        'bid': '10709701',
         'starting_station': '陈村客运站',
         'terminal_station': '雁洲村总站',
         'stations': [
@@ -25585,8 +25585,8 @@ buses = {
         ]
     },
     '夜32路': {
-        "name": '夜32路',
-        "bid": '10003211',
+        'name': '夜32路',
+        'bid': '10003211',
         'starting_station': '河田西路总站',
         'terminal_station': '纸厂总站①',
         'stations': [
@@ -25618,8 +25618,8 @@ buses = {
         ]
     },
     '夜12': {
-        "name": '夜12',
-        "bid": '10001211',
+        'name': '夜12',
+        'bid': '10001211',
         'starting_station': '夏茅客运站总站①',
         'terminal_station': '逸景路(长江轻纺城)总站',
         'stations': [
@@ -25660,8 +25660,8 @@ buses = {
         ]
     },
     '826路': {
-        "name": '826路',
-        "bid": '10082601',
+        'name': '826路',
+        'bid': '10082601',
         'starting_station': '陈洞村站',
         'terminal_station': '竹料总站①',
         'stations': [
@@ -25677,8 +25677,8 @@ buses = {
         ]
     },
     '580路': {
-        "name": '580路',
-        "bid": '10058000',
+        'name': '580路',
+        'bid': '10058000',
         'starting_station': '永和开发区总站',
         'terminal_station': '永和开发区总站',
         'stations': [
@@ -25712,8 +25712,8 @@ buses = {
         ]
     },
     '724路': {
-        "name": '724路',
-        "bid": '10072400',
+        'name': '724路',
+        'bid': '10072400',
         'starting_station': '人和墟总站',
         'terminal_station': '白沙村(广外南田商学院)总站',
         'stations': [
@@ -25736,8 +25736,8 @@ buses = {
         ]
     },
     '556路': {
-        "name": '556路',
-        "bid": '10055600',
+        'name': '556路',
+        'bid': '10055600',
         'starting_station': '石井(庆丰纺织服装城)总站',
         'terminal_station': '芳村客运站总站①',
         'stations': [
@@ -25782,8 +25782,8 @@ buses = {
         ]
     },
     '南沙26路': {
-        "name": '南沙26路',
-        "bid": '10602600',
+        'name': '南沙26路',
+        'bid': '10602600',
         'starting_station': '万顷沙总站',
         'terminal_station': '黄阁公交总站',
         'stations': [
@@ -25812,8 +25812,8 @@ buses = {
         ]
     },
     '夜65': {
-        "name": '夜65',
-        "bid": '10006511',
+        'name': '夜65',
+        'bid': '10006511',
         'starting_station': '长洲码头总站',
         'terminal_station': '大学城综合商业北区总站',
         'stations': [
@@ -25838,8 +25838,8 @@ buses = {
         ]
     },
     '番92路': {
-        "name": '番92路',
-        "bid": '10709200',
+        'name': '番92路',
+        'bid': '10709200',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '亚运文化村总站',
         'stations': [
@@ -25891,8 +25891,8 @@ buses = {
         ]
     },
     '414路': {
-        "name": '414路',
-        "bid": '10041401',
+        'name': '414路',
+        'bid': '10041401',
         'starting_station': '芳村合兴苑站',
         'terminal_station': '芳村葵蓬总站',
         'stations': [
@@ -25909,8 +25909,8 @@ buses = {
         ]
     },
     '271路': {
-        "name": '271路',
-        "bid": '10027101',
+        'name': '271路',
+        'bid': '10027101',
         'starting_station': '石井(滘心村)总站',
         'terminal_station': '流花车站总站①',
         'stations': [
@@ -25951,8 +25951,8 @@ buses = {
         ]
     },
     '商务专线6': {
-        "name": '商务专线6',
-        "bid": '10013631',
+        'name': '商务专线6',
+        'bid': '10013631',
         'starting_station': '沙河大街站',
         'terminal_station': '逸景路(长江轻纺城)总站',
         'stations': [
@@ -25961,8 +25961,8 @@ buses = {
         ]
     },
     '番183路': {
-        "name": '番183路',
-        "bid": '10718301',
+        'name': '番183路',
+        'bid': '10718301',
         'starting_station': '西三村总站',
         'terminal_station': '地铁厦滘站总站',
         'stations': [
@@ -25986,8 +25986,8 @@ buses = {
         ]
     },
     '夜63路': {
-        "name": '夜63路',
-        "bid": '10006310',
+        'name': '夜63路',
+        'bid': '10006310',
         'starting_station': '平沙(农贸市场)总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -26014,8 +26014,8 @@ buses = {
         ]
     },
     '番73线': {
-        "name": '番73线',
-        "bid": '10707300',
+        'name': '番73线',
+        'bid': '10707300',
         'starting_station': '华创动漫产业园总站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -26043,8 +26043,8 @@ buses = {
         ]
     },
     '539路': {
-        "name": '539路',
-        "bid": '10053901',
+        'name': '539路',
+        'bid': '10053901',
         'starting_station': '金德苑(同德围)总站',
         'terminal_station': '永泰客运站总站',
         'stations': [
@@ -26087,8 +26087,8 @@ buses = {
         ]
     },
     '179路': {
-        "name": '179路',
-        "bid": '10017900',
+        'name': '179路',
+        'bid': '10017900',
         'starting_station': '同德围上步村总站',
         'terminal_station': '白云山制药厂总站',
         'stations': [
@@ -26127,8 +26127,8 @@ buses = {
         ]
     },
     '977路': {
-        "name": '977路',
-        "bid": '10097700',
+        'name': '977路',
+        'bid': '10097700',
         'starting_station': '石井(滘心村)总站',
         'terminal_station': '江高总站',
         'stations': [
@@ -26147,8 +26147,8 @@ buses = {
         ]
     },
     '3路': {
-        "name": '3路',
-        "bid": '10000300',
+        'name': '3路',
+        'bid': '10000300',
         'starting_station': '东山(龟岗)总站',
         'terminal_station': '如意坊总站',
         'stations': [
@@ -26171,8 +26171,8 @@ buses = {
         ]
     },
     '夜82': {
-        "name": '夜82',
-        "bid": '10008210',
+        'name': '夜82',
+        'bid': '10008210',
         'starting_station': '景泰直街总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -26190,8 +26190,8 @@ buses = {
         ]
     },
     '63路': {
-        "name": '63路',
-        "bid": '10006301',
+        'name': '63路',
+        'bid': '10006301',
         'starting_station': '石槎路(金碧新城)总站',
         'terminal_station': '锦城花园(东风东)总站①',
         'stations': [
@@ -26223,8 +26223,8 @@ buses = {
         ]
     },
     '946路': {
-        "name": '946路',
-        "bid": '10094601',
+        'name': '946路',
+        'bid': '10094601',
         'starting_station': '南岗(国际玩具礼品城)总站',
         'terminal_station': '广汕路(万龙路)总站',
         'stations': [
@@ -26257,8 +26257,8 @@ buses = {
         ]
     },
     '555路': {
-        "name": '555路',
-        "bid": '10055500',
+        'name': '555路',
+        'bid': '10055500',
         'starting_station': '大坦沙(市1中)总站',
         'terminal_station': '白云文化广场总站',
         'stations': [
@@ -26293,8 +26293,8 @@ buses = {
         ]
     },
     '夜58': {
-        "name": '夜58',
-        "bid": '10005810',
+        'name': '夜58',
+        'bid': '10005810',
         'starting_station': '中山八路总站',
         'terminal_station': '沙面新城总站',
         'stations': [
@@ -26312,8 +26312,8 @@ buses = {
         ]
     },
     '番51B路': {
-        "name": '番51B路',
-        "bid": '10705130',
+        'name': '番51B路',
+        'bid': '10705130',
         'starting_station': '番禺汽车客运站',
         'terminal_station': '化龙车站总站',
         'stations': [
@@ -26357,8 +26357,8 @@ buses = {
         ]
     },
     '番82路': {
-        "name": '番82路',
-        "bid": '10708200',
+        'name': '番82路',
+        'bid': '10708200',
         'starting_station': '石基总站',
         'terminal_station': '前锋村总站',
         'stations': [
@@ -26374,8 +26374,8 @@ buses = {
         ]
     },
     '番70路': {
-        "name": '番70路',
-        "bid": '10707000',
+        'name': '番70路',
+        'bid': '10707000',
         'starting_station': '南村汽车站总站',
         'terminal_station': '万博中心总站',
         'stations': [
@@ -26395,8 +26395,8 @@ buses = {
         ]
     },
     'B4B路': {
-        "name": 'B4B路',
-        "bid": '10800430',
+        'name': 'B4B路',
+        'bid': '10800430',
         'starting_station': '体育中心站1④',
         'terminal_station': '沐陂村总站',
         'stations': [
@@ -26423,8 +26423,8 @@ buses = {
         ]
     },
     '437路': {
-        "name": '437路',
-        "bid": '10043701',
+        'name': '437路',
+        'bid': '10043701',
         'starting_station': '埔南路(翡翠绿洲)总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -26443,8 +26443,8 @@ buses = {
         ]
     },
     '214路': {
-        "name": '214路',
-        "bid": '10021401',
+        'name': '214路',
+        'bid': '10021401',
         'starting_station': '新塘总站',
         'terminal_station': '广州火车东站总站④c',
         'stations': [
@@ -26483,8 +26483,8 @@ buses = {
         ]
     },
     '268路': {
-        "name": '268路',
-        "bid": '10026801',
+        'name': '268路',
+        'bid': '10026801',
         'starting_station': '白云花园总站',
         'terminal_station': '陈家祠(中山七路)总站',
         'stations': [
@@ -26516,8 +26516,8 @@ buses = {
         ]
     },
     '番23路': {
-        "name": '番23路',
-        "bid": '10702301',
+        'name': '番23路',
+        'bid': '10702301',
         'starting_station': '石基总站',
         'terminal_station': '康裕北苑总站',
         'stations': [
@@ -26550,8 +26550,8 @@ buses = {
         ]
     },
     '664路': {
-        "name": '664路',
-        "bid": '10066400',
+        'name': '664路',
+        'bid': '10066400',
         'starting_station': '石马总站',
         'terminal_station': '白云公园总站',
         'stations': [
@@ -26596,8 +26596,8 @@ buses = {
         ]
     },
     '737线': {
-        "name": '737线',
-        "bid": '10073701',
+        'name': '737线',
+        'bid': '10073701',
         'starting_station': '矮岗村总站',
         'terminal_station': '地铁人和站总站',
         'stations': [
@@ -26614,8 +26614,8 @@ buses = {
         ]
     },
     '330路': {
-        "name": '330路',
-        "bid": '10033000',
+        'name': '330路',
+        'bid': '10033000',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -26637,8 +26637,8 @@ buses = {
         ]
     },
     '346路': {
-        "name": '346路',
-        "bid": '10034601',
+        'name': '346路',
+        'bid': '10034601',
         'starting_station': '穗丰村(广东技术师范学院天河学院)总站',
         'terminal_station': '长福路(天河客运站)总站',
         'stations': [
@@ -26668,8 +26668,8 @@ buses = {
         ]
     },
     '番151路': {
-        "name": '番151路',
-        "bid": '10715101',
+        'name': '番151路',
+        'bid': '10715101',
         'starting_station': '鱼窝头太石工业区总站',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -26701,8 +26701,8 @@ buses = {
         ]
     },
     '464路': {
-        "name": '464路',
-        "bid": '10046401',
+        'name': '464路',
+        'bid': '10046401',
         'starting_station': '墩和路总站',
         'terminal_station': '赤岗大塘站',
         'stations': [
@@ -26716,8 +26716,8 @@ buses = {
         ]
     },
     '番128': {
-        "name": '番128',
-        "bid": '10712800',
+        'name': '番128',
+        'bid': '10712800',
         'starting_station': '莲花山车站总站',
         'terminal_station': '化龙车站总站',
         'stations': [
@@ -26757,8 +26757,8 @@ buses = {
         ]
     },
     '206路': {
-        "name": '206路',
-        "bid": '10020601',
+        'name': '206路',
+        'bid': '10020601',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '新滘南(赤沙市场)总站',
         'stations': [
@@ -26794,8 +26794,8 @@ buses = {
         ]
     },
     '夜79': {
-        "name": '夜79',
-        "bid": '10007911',
+        'name': '夜79',
+        'bid': '10007911',
         'starting_station': '广州火车站总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -26819,8 +26819,8 @@ buses = {
         ]
     },
     '441路': {
-        "name": '441路',
-        "bid": '10044100',
+        'name': '441路',
+        'bid': '10044100',
         'starting_station': '镇龙总站',
         'terminal_station': '佛子庄总站',
         'stations': [
@@ -26838,8 +26838,8 @@ buses = {
         ]
     },
     '794路': {
-        "name": '794路',
-        "bid": '10079400',
+        'name': '794路',
+        'bid': '10079400',
         'starting_station': '地铁江夏站总站',
         'terminal_station': '地铁江夏站总站',
         'stations': [
@@ -26861,8 +26861,8 @@ buses = {
         ]
     },
     '夜24': {
-        "name": '夜24',
-        "bid": '10002411',
+        'name': '夜24',
+        'bid': '10002411',
         'starting_station': '石岗路总站',
         'terminal_station': '白云山制药厂总站',
         'stations': [
@@ -26906,8 +26906,8 @@ buses = {
         ]
     },
     '987路': {
-        "name": '987路',
-        "bid": '10098701',
+        'name': '987路',
+        'bid': '10098701',
         'starting_station': '海珠客运站总站',
         'terminal_station': '天安科技园总站',
         'stations': [
@@ -26928,8 +26928,8 @@ buses = {
         ]
     },
     '番162B路': {
-        "name": '番162B路',
-        "bid": '10716231',
+        'name': '番162B路',
+        'bid': '10716231',
         'starting_station': '地铁海傍站总站',
         'terminal_station': '广州市质检园区总站',
         'stations': [
@@ -26952,8 +26952,8 @@ buses = {
         ]
     },
     '655路': {
-        "name": '655路',
-        "bid": '10065500',
+        'name': '655路',
+        'bid': '10065500',
         'starting_station': '仲恺农业工程学院北门站总站',
         'terminal_station': '钟落潭文化广场总站',
         'stations': [
@@ -26967,8 +26967,8 @@ buses = {
         ]
     },
     '427路': {
-        "name": '427路',
-        "bid": '10042701',
+        'name': '427路',
+        'bid': '10042701',
         'starting_station': '夏良总站',
         'terminal_station': '龙归(园夏村)总站',
         'stations': [
@@ -26988,8 +26988,8 @@ buses = {
         ]
     },
     '424路': {
-        "name": '424路',
-        "bid": '10042401',
+        'name': '424路',
+        'bid': '10042401',
         'starting_station': '白沙(中海金沙湾)总站',
         'terminal_station': '元下田村总站',
         'stations': [
@@ -27030,8 +27030,8 @@ buses = {
         ]
     },
     '27路': {
-        "name": '27路',
-        "bid": '10002700',
+        'name': '27路',
+        'bid': '10002700',
         'starting_station': '东莞庄总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -27060,8 +27060,8 @@ buses = {
         ]
     },
     '84A线': {
-        "name": '84A线',
-        "bid": '10008420',
+        'name': '84A线',
+        'bid': '10008420',
         'starting_station': '动物园总站',
         'terminal_station': '渔沙坦(旺岗村)总站',
         'stations': [
@@ -27101,8 +27101,8 @@ buses = {
         ]
     },
     '59路': {
-        "name": '59路',
-        "bid": '10005901',
+        'name': '59路',
+        'bid': '10005901',
         'starting_station': '沥滘总站',
         'terminal_station': '白云路总站',
         'stations': [
@@ -27133,8 +27133,8 @@ buses = {
         ]
     },
     '128路': {
-        "name": '128路',
-        "bid": '10012800',
+        'name': '128路',
+        'bid': '10012800',
         'starting_station': '珠岛花园总站',
         'terminal_station': '海印桥总站②',
         'stations': [
@@ -27162,8 +27162,8 @@ buses = {
         ]
     },
     '731路': {
-        "name": '731路',
-        "bid": '10073101',
+        'name': '731路',
+        'bid': '10073101',
         'starting_station': '田心西路总站',
         'terminal_station': '田心西路总站',
         'stations': [
@@ -27181,8 +27181,8 @@ buses = {
         ]
     },
     '971线': {
-        "name": '971线',
-        "bid": '10097100',
+        'name': '971线',
+        'bid': '10097100',
         'starting_station': '人和墟(万家福广场)总站',
         'terminal_station': '新兴村总站',
         'stations': [
@@ -27202,8 +27202,8 @@ buses = {
         ]
     },
     '283班车': {
-        "name": '283班车',
-        "bid": '10028321',
+        'name': '283班车',
+        'bid': '10028321',
         'starting_station': '白沙(中海金沙湾)总站',
         'terminal_station': '冼村站',
         'stations': [
@@ -27233,8 +27233,8 @@ buses = {
         ]
     },
     '352路': {
-        "name": '352路',
-        "bid": '10035200',
+        'name': '352路',
+        'bid': '10035200',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '埔心路口站',
         'stations': [
@@ -27249,8 +27249,8 @@ buses = {
         ]
     },
     '790路': {
-        "name": '790路',
-        "bid": '10079001',
+        'name': '790路',
+        'bid': '10079001',
         'starting_station': '后海村总站',
         'terminal_station': '悦峰三街总站',
         'stations': [
@@ -27273,8 +27273,8 @@ buses = {
         ]
     },
     '544路': {
-        "name": '544路',
-        "bid": '10054400',
+        'name': '544路',
+        'bid': '10054400',
         'starting_station': '纸厂总站②',
         'terminal_station': '广州体育馆总站',
         'stations': [
@@ -27307,8 +27307,8 @@ buses = {
         ]
     },
     '夜69': {
-        "name": '夜69',
-        "bid": '10006911',
+        'name': '夜69',
+        'bid': '10006911',
         'starting_station': '天河客运站总站②',
         'terminal_station': '桥中总站',
         'stations': [
@@ -27343,8 +27343,8 @@ buses = {
         ]
     },
     '535路': {
-        "name": '535路',
-        "bid": '10053500',
+        'name': '535路',
+        'bid': '10053500',
         'starting_station': '白云路总站',
         'terminal_station': '联和(惠联路)总站',
         'stations': [
@@ -27387,8 +27387,8 @@ buses = {
         ]
     },
     '297路': {
-        "name": '297路',
-        "bid": '10029700',
+        'name': '297路',
+        'bid': '10029700',
         'starting_station': '黄沙总站⑤',
         'terminal_station': '乐意居花园总站',
         'stations': [
@@ -27428,8 +27428,8 @@ buses = {
         ]
     },
     '711路': {
-        "name": '711路',
-        "bid": '10071101',
+        'name': '711路',
+        'bid': '10071101',
         'starting_station': '花都推广汽车站总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -27460,8 +27460,8 @@ buses = {
         ]
     },
     '244A路': {
-        "name": '244A路',
-        "bid": '10024421',
+        'name': '244A路',
+        'bid': '10024421',
         'starting_station': '汇侨新城总站①',
         'terminal_station': '江南大道南总站',
         'stations': [
@@ -27490,8 +27490,8 @@ buses = {
         ]
     },
     '579路': {
-        "name": '579路',
-        "bid": '10057901',
+        'name': '579路',
+        'bid': '10057901',
         'starting_station': '康南路北总站',
         'terminal_station': '刘村总站',
         'stations': [
@@ -27515,8 +27515,8 @@ buses = {
         ]
     },
     '187路': {
-        "name": '187路',
-        "bid": '10018700',
+        'name': '187路',
+        'bid': '10018700',
         'starting_station': '机场路总站⑥',
         'terminal_station': '长红村总站',
         'stations': [
@@ -27546,8 +27546,8 @@ buses = {
         ]
     },
     '202路': {
-        "name": '202路',
-        "bid": '10020201',
+        'name': '202路',
+        'bid': '10020201',
         'starting_station': '沥滘总站',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -27579,8 +27579,8 @@ buses = {
         ]
     },
     '988环线': {
-        "name": '988环线',
-        "bid": '10098800',
+        'name': '988环线',
+        'bid': '10098800',
         'starting_station': '石榴岗总站',
         'terminal_station': '石榴岗总站',
         'stations': [
@@ -27611,8 +27611,8 @@ buses = {
         ]
     },
     '夜81': {
-        "name": '夜81',
-        "bid": '10008110',
+        'name': '夜81',
+        'bid': '10008110',
         'starting_station': '车陂总站③',
         'terminal_station': '广汕路(万龙路)总站',
         'stations': [
@@ -27643,8 +27643,8 @@ buses = {
         ]
     },
     '446路': {
-        "name": '446路',
-        "bid": '10044601',
+        'name': '446路',
+        'bid': '10044601',
         'starting_station': '永和(崇和花园)总站',
         'terminal_station': '长平村总站',
         'stations': [
@@ -27672,8 +27672,8 @@ buses = {
         ]
     },
     '829路': {
-        "name": '829路',
-        "bid": '10082901',
+        'name': '829路',
+        'bid': '10082901',
         'starting_station': '人和墟(万家福广场)总站',
         'terminal_station': '罗溪总站',
         'stations': [
@@ -27706,8 +27706,8 @@ buses = {
         ]
     },
     '79路': {
-        "name": '79路',
-        "bid": '10007901',
+        'name': '79路',
+        'bid': '10007901',
         'starting_station': '德星路(上下九步行街)总站',
         'terminal_station': '洛溪新城(五湖四海水产市场)总站',
         'stations': [
@@ -27744,8 +27744,8 @@ buses = {
         ]
     },
     '925路': {
-        "name": '925路',
-        "bid": '10092500',
+        'name': '925路',
+        'bid': '10092500',
         'starting_station': '新市墟总站',
         'terminal_station': '祥岗总站',
         'stations': [
@@ -27761,8 +27761,8 @@ buses = {
         ]
     },
     '444路': {
-        "name": '444路',
-        "bid": '10044400',
+        'name': '444路',
+        'bid': '10044400',
         'starting_station': '镇龙总站',
         'terminal_station': '龙江村总站',
         'stations': [
@@ -27783,8 +27783,8 @@ buses = {
         ]
     },
     '786路': {
-        "name": '786路',
-        "bid": '10078600',
+        'name': '786路',
+        'bid': '10078600',
         'starting_station': '墩和(大塘西)总站',
         'terminal_station': '江晓路口总站',
         'stations': [
@@ -27802,8 +27802,8 @@ buses = {
         ]
     },
     '724路': {
-        "name": '724路',
-        "bid": '10072401',
+        'name': '724路',
+        'bid': '10072401',
         'starting_station': '白沙村(广外南田商学院)总站',
         'terminal_station': '人和墟总站',
         'stations': [
@@ -27827,8 +27827,8 @@ buses = {
         ]
     },
     '夜52': {
-        "name": '夜52',
-        "bid": '10005210',
+        'name': '夜52',
+        'bid': '10005210',
         'starting_station': '广州科学城(长安村)总站',
         'terminal_station': '外语学院(白云山西门)站',
         'stations': [
@@ -27888,8 +27888,8 @@ buses = {
         ]
     },
     '571B路': {
-        "name": '571B路',
-        "bid": '10057130',
+        'name': '571B路',
+        'bid': '10057130',
         'starting_station': '新塘(光华路口)总站',
         'terminal_station': '开发区(新港码头)总站',
         'stations': [
@@ -27924,8 +27924,8 @@ buses = {
         ]
     },
     '581路': {
-        "name": '581路',
-        "bid": '10058101',
+        'name': '581路',
+        'bid': '10058101',
         'starting_station': '黄埔客运站总站',
         'terminal_station': '长福路(天河客运站)总站',
         'stations': [
@@ -27968,8 +27968,8 @@ buses = {
         ]
     },
     '725路': {
-        "name": '725路',
-        "bid": '10072500',
+        'name': '725路',
+        'bid': '10072500',
         'starting_station': '登塘村总站',
         'terminal_station': '钟落潭文化广场总站',
         'stations': [
@@ -27983,8 +27983,8 @@ buses = {
         ]
     },
     '651线': {
-        "name": '651线',
-        "bid": '10065101',
+        'name': '651线',
+        'bid': '10065101',
         'starting_station': '云城南二路总站',
         'terminal_station': '云城南二路总站',
         'stations': [
@@ -28010,8 +28010,8 @@ buses = {
         ]
     },
     '103路': {
-        "name": '103路',
-        "bid": '10010301',
+        'name': '103路',
+        'bid': '10010301',
         'starting_station': '机场路总站①',
         'terminal_station': '文化公园总站①',
         'stations': [
@@ -28029,8 +28029,8 @@ buses = {
         ]
     },
     '738线': {
-        "name": '738线',
-        "bid": '10073800',
+        'name': '738线',
+        'bid': '10073800',
         'starting_station': '地铁人和站总站',
         'terminal_station': '人和(东华村)总站',
         'stations': [
@@ -28045,8 +28045,8 @@ buses = {
         ]
     },
     '夜46': {
-        "name": '夜46',
-        "bid": '10004611',
+        'name': '夜46',
+        'bid': '10004611',
         'starting_station': '石化路总站',
         'terminal_station': '动物园总站1②a',
         'stations': [
@@ -28086,8 +28086,8 @@ buses = {
         ]
     },
     '825路': {
-        "name": '825路',
-        "bid": '10082500',
+        'name': '825路',
+        'bid': '10082500',
         'starting_station': '江高总站',
         'terminal_station': '雅瑶总站',
         'stations': [
@@ -28106,8 +28106,8 @@ buses = {
         ]
     },
     '57路': {
-        "name": '57路',
-        "bid": '10005700',
+        'name': '57路',
+        'bid': '10005700',
         'starting_station': '二沙岛西总站',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -28131,8 +28131,8 @@ buses = {
         ]
     },
     '番61路': {
-        "name": '番61路',
-        "bid": '10706100',
+        'name': '番61路',
+        'bid': '10706100',
         'starting_station': '新造地铁站总站',
         'terminal_station': '广汽传祺东五门',
         'stations': [
@@ -28162,8 +28162,8 @@ buses = {
         ]
     },
     '84S线': {
-        "name": '84S线',
-        "bid": '10008431',
+        'name': '84S线',
+        'bid': '10008431',
         'starting_station': '渔沙坦(广东工程职业学院)总站',
         'terminal_station': '动物园总站',
         'stations': [
@@ -28195,8 +28195,8 @@ buses = {
         ]
     },
     '838路': {
-        "name": '838路',
-        "bid": '10083801',
+        'name': '838路',
+        'bid': '10083801',
         'starting_station': '芳村茶叶市场总站',
         'terminal_station': '龙溪村委总站',
         'stations': [
@@ -28228,8 +28228,8 @@ buses = {
         ]
     },
     '番10路': {
-        "name": '番10路',
-        "bid": '10701000',
+        'name': '番10路',
+        'bid': '10701000',
         'starting_station': '区公汽公司总站',
         'terminal_station': '南村车站',
         'stations': [
@@ -28274,8 +28274,8 @@ buses = {
         ]
     },
     '番52路': {
-        "name": '番52路',
-        "bid": '10705201',
+        'name': '番52路',
+        'bid': '10705201',
         'starting_station': '大学城(中五路广工)总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -28314,8 +28314,8 @@ buses = {
         ]
     },
     '夜4路': {
-        "name": '夜4路',
-        "bid": '10000410',
+        'name': '夜4路',
+        'bid': '10000410',
         'starting_station': '海珠客运站总站',
         'terminal_station': '恒福路总站',
         'stations': [
@@ -28343,8 +28343,8 @@ buses = {
         ]
     },
     'B3路': {
-        "name": 'B3路',
-        "bid": '10800300',
+        'name': 'B3路',
+        'bid': '10800300',
         'starting_station': '罗冲围总站',
         'terminal_station': '东圃客运站总站',
         'stations': [
@@ -28383,8 +28383,8 @@ buses = {
         ]
     },
     '431路': {
-        "name": '431路',
-        "bid": '10043101',
+        'name': '431路',
+        'bid': '10043101',
         'starting_station': '护林路东总站',
         'terminal_station': '鱼珠码头总站①',
         'stations': [
@@ -28404,8 +28404,8 @@ buses = {
         ]
     },
     '71路': {
-        "name": '71路',
-        "bid": '10007101',
+        'name': '71路',
+        'bid': '10007101',
         'starting_station': '同德围(田心村)总站',
         'terminal_station': '芳村西塱总站②',
         'stations': [
@@ -28434,8 +28434,8 @@ buses = {
         ]
     },
     '87路': {
-        "name": '87路',
-        "bid": '10008701',
+        'name': '87路',
+        'bid': '10008701',
         'starting_station': '机场路总站③',
         'terminal_station': '逸景翠园总站',
         'stations': [
@@ -28469,8 +28469,8 @@ buses = {
         ]
     },
     '997路': {
-        "name": '997路',
-        "bid": '10099700',
+        'name': '997路',
+        'bid': '10099700',
         'starting_station': '南天商业城总站',
         'terminal_station': '南天商业城总站',
         'stations': [
@@ -28491,8 +28491,8 @@ buses = {
         ]
     },
     '778路': {
-        "name": '778路',
-        "bid": '10077800',
+        'name': '778路',
+        'bid': '10077800',
         'starting_station': '五羊新城总站',
         'terminal_station': '石牌东路北总站',
         'stations': [
@@ -28514,8 +28514,8 @@ buses = {
         ]
     },
     '578路': {
-        "name": '578路',
-        "bid": '10057800',
+        'name': '578路',
+        'bid': '10057800',
         'starting_station': '天河智慧城核心区总站(高唐)',
         'terminal_station': '萝岗香雪公园总站',
         'stations': [
@@ -28557,8 +28557,8 @@ buses = {
         ]
     },
     '238线': {
-        "name": '238线',
-        "bid": '10023801',
+        'name': '238线',
+        'bid': '10023801',
         'starting_station': '石井潭村总站',
         'terminal_station': '南方大厦(文化公园)总站',
         'stations': [
@@ -28588,8 +28588,8 @@ buses = {
         ]
     },
     '390路': {
-        "name": '390路',
-        "bid": '10039000',
+        'name': '390路',
+        'bid': '10039000',
         'starting_station': '华坑生态村总站',
         'terminal_station': '科学城南部公交场总站',
         'stations': [
@@ -28626,8 +28626,8 @@ buses = {
         ]
     },
     '659路': {
-        "name": '659路',
-        "bid": '10065900',
+        'name': '659路',
+        'bid': '10065900',
         'starting_station': '地铁嘉禾望岗总站',
         'terminal_station': '太和(沙亭岗村)总站',
         'stations': [
@@ -28656,8 +28656,8 @@ buses = {
         ]
     },
     '805路': {
-        "name": '805路',
-        "bid": '10080500',
+        'name': '805路',
+        'bid': '10080500',
         'starting_station': '广州火车站总站r',
         'terminal_station': '集贤苑总站',
         'stations': [
@@ -28687,8 +28687,8 @@ buses = {
         ]
     },
     'B17路': {
-        "name": 'B17路',
-        "bid": '10801701',
+        'name': 'B17路',
+        'bid': '10801701',
         'starting_station': '广州火车东站总站③c',
         'terminal_station': '石化路总站',
         'stations': [
@@ -28720,8 +28720,8 @@ buses = {
         ]
     },
     '357路': {
-        "name": '357路',
-        "bid": '10035701',
+        'name': '357路',
+        'bid': '10035701',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '护林路东总站',
         'stations': [
@@ -28738,8 +28738,8 @@ buses = {
         ]
     },
     '番110路': {
-        "name": '番110路',
-        "bid": '10711000',
+        'name': '番110路',
+        'bid': '10711000',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -28748,8 +28748,8 @@ buses = {
         ]
     },
     '727路': {
-        "name": '727路',
-        "bid": '10072700',
+        'name': '727路',
+        'bid': '10072700',
         'starting_station': '钟落潭文化广场总站',
         'terminal_station': '大纲领路口总站',
         'stations': [
@@ -28766,8 +28766,8 @@ buses = {
         ]
     },
     '459路': {
-        "name": '459路',
-        "bid": '10045900',
+        'name': '459路',
+        'bid': '10045900',
         'starting_station': '火村东总站',
         'terminal_station': '地铁大沙地站总站',
         'stations': [
@@ -28801,8 +28801,8 @@ buses = {
         ]
     },
     '番4路B 线': {
-        "name": '番4路B 线',
-        "bid": '10700431',
+        'name': '番4路B 线',
+        'bid': '10700431',
         'starting_station': '南双玉村总站',
         'terminal_station': '好又多总站',
         'stations': [
@@ -28844,8 +28844,8 @@ buses = {
         ]
     },
     '南沙2路': {
-        "name": '南沙2路',
-        "bid": '10600200',
+        'name': '南沙2路',
+        'bid': '10600200',
         'starting_station': '蕉门地铁总站',
         'terminal_station': '百万葵园总站',
         'stations': [
@@ -28884,8 +28884,8 @@ buses = {
         ]
     },
     '411路': {
-        "name": '411路',
-        "bid": '10041101',
+        'name': '411路',
+        'bid': '10041101',
         'starting_station': '芳和花园总站',
         'terminal_station': '郭村总站',
         'stations': [
@@ -28909,8 +28909,8 @@ buses = {
         ]
     },
     '365路': {
-        "name": '365路',
-        "bid": '10036501',
+        'name': '365路',
+        'bid': '10036501',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -28956,8 +28956,8 @@ buses = {
         ]
     },
     '南沙34路': {
-        "name": '南沙34路',
-        "bid": '10603401',
+        'name': '南沙34路',
+        'bid': '10603401',
         'starting_station': '华汇广场站',
         'terminal_station': '东涌湖公交总站',
         'stations': [
@@ -28993,8 +28993,8 @@ buses = {
         ]
     },
     '番59路': {
-        "name": '番59路',
-        "bid": '10705900',
+        'name': '番59路',
+        'bid': '10705900',
         'starting_station': '化龙车站总站',
         'terminal_station': '南村汽车站总站',
         'stations': [
@@ -29025,8 +29025,8 @@ buses = {
         ]
     },
     '787环线': {
-        "name": '787环线',
-        "bid": '10078701',
+        'name': '787环线',
+        'bid': '10078701',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '芳村西塱总站①',
         'stations': [
@@ -29046,8 +29046,8 @@ buses = {
         ]
     },
     '科学城环线3': {
-        "name": '科学城环线3',
-        "bid": '10000770',
+        'name': '科学城环线3',
+        'bid': '10000770',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '科学城彩频路总站',
         'stations': [
@@ -29080,8 +29080,8 @@ buses = {
         ]
     },
     '541路': {
-        "name": '541路',
-        "bid": '10054100',
+        'name': '541路',
+        'bid': '10054100',
         'starting_station': '科韵路总站',
         'terminal_station': '恒宝广场总站',
         'stations': [
@@ -29117,8 +29117,8 @@ buses = {
         ]
     },
     '番20B线': {
-        "name": '番20B线',
-        "bid": '10702030',
+        'name': '番20B线',
+        'bid': '10702030',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '榄塘村总站',
         'stations': [
@@ -29145,8 +29145,8 @@ buses = {
         ]
     },
     '番16路': {
-        "name": '番16路',
-        "bid": '10701600',
+        'name': '番16路',
+        'bid': '10701600',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '大夫山森林公园总站',
         'stations': [
@@ -29178,8 +29178,8 @@ buses = {
         ]
     },
     '362路': {
-        "name": '362路',
-        "bid": '10036201',
+        'name': '362路',
+        'bid': '10036201',
         'starting_station': '佛塱山贝总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -29195,8 +29195,8 @@ buses = {
         ]
     },
     '番81路': {
-        "name": '番81路',
-        "bid": '10708100',
+        'name': '番81路',
+        'bid': '10708100',
         'starting_station': '石基总站',
         'terminal_station': '金山村委总站',
         'stations': [
@@ -29223,8 +29223,8 @@ buses = {
         ]
     },
     '南沙34路': {
-        "name": '南沙34路',
-        "bid": '10603400',
+        'name': '南沙34路',
+        'bid': '10603400',
         'starting_station': '东涌湖公交总站',
         'terminal_station': '华汇广场站',
         'stations': [
@@ -29261,8 +29261,8 @@ buses = {
         ]
     },
     '60路': {
-        "name": '60路',
-        "bid": '10006001',
+        'name': '60路',
+        'bid': '10006001',
         'starting_station': '奥林匹克体育中心总站',
         'terminal_station': '机场路总站⑦',
         'stations': [
@@ -29290,8 +29290,8 @@ buses = {
         ]
     },
     '983线': {
-        "name": '983线',
-        "bid": '10098301',
+        'name': '983线',
+        'bid': '10098301',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '夏茅(白云湖公园)总站',
         'stations': [
@@ -29315,8 +29315,8 @@ buses = {
         ]
     },
     '810': {
-        "name": '810',
-        "bid": '10081000',
+        'name': '810',
+        'bid': '10081000',
         'starting_station': '广州火车东站总站',
         'terminal_station': '白云高尔夫花园总站',
         'stations': [
@@ -29349,8 +29349,8 @@ buses = {
         ]
     },
     '番节假日专线1路': {
-        "name": '番节假日专线1路',
-        "bid": '10700171',
+        'name': '番节假日专线1路',
+        'bid': '10700171',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '广州医科大学',
         'stations': [
@@ -29384,8 +29384,8 @@ buses = {
         ]
     },
     '264路': {
-        "name": '264路',
-        "bid": '10026400',
+        'name': '264路',
+        'bid': '10026400',
         'starting_station': '仑头总站',
         'terminal_station': '广仁路总站',
         'stations': [
@@ -29423,8 +29423,8 @@ buses = {
         ]
     },
     '350路': {
-        "name": '350路',
-        "bid": '10035000',
+        'name': '350路',
+        'bid': '10035000',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '虎窿村总站',
         'stations': [
@@ -29442,8 +29442,8 @@ buses = {
         ]
     },
     '347路': {
-        "name": '347路',
-        "bid": '10034700',
+        'name': '347路',
+        'bid': '10034700',
         'starting_station': '云埔一路(中一药业)总站',
         'terminal_station': '奥林匹克体育中心总站',
         'stations': [
@@ -29469,8 +29469,8 @@ buses = {
         ]
     },
     '862路': {
-        "name": '862路',
-        "bid": '10086200',
+        'name': '862路',
+        'bid': '10086200',
         'starting_station': '广州火车站总站',
         'terminal_station': '南湖大河马总站',
         'stations': [
@@ -29497,8 +29497,8 @@ buses = {
         ]
     },
     '427路': {
-        "name": '427路',
-        "bid": '10042700',
+        'name': '427路',
+        'bid': '10042700',
         'starting_station': '龙归(园夏村)总站',
         'terminal_station': '夏良总站',
         'stations': [
@@ -29518,8 +29518,8 @@ buses = {
         ]
     },
     '354路': {
-        "name": '354路',
-        "bid": '10035400',
+        'name': '354路',
+        'bid': '10035400',
         'starting_station': '水均田路(东华学院)总站',
         'terminal_station': '穗丰村(广东技术师范学院天河学院)总站',
         'stations': [
@@ -29530,8 +29530,8 @@ buses = {
         ]
     },
     '355路': {
-        "name": '355路',
-        "bid": '10035501',
+        'name': '355路',
+        'bid': '10035501',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '天河智慧城核心区总站(高唐)',
         'stations': [
@@ -29565,8 +29565,8 @@ buses = {
         ]
     },
     '722路': {
-        "name": '722路',
-        "bid": '10072200',
+        'name': '722路',
+        'bid': '10072200',
         'starting_station': '江高(江村墟)总站',
         'terminal_station': '神山总站',
         'stations': [
@@ -29593,8 +29593,8 @@ buses = {
         ]
     },
     '770路': {
-        "name": '770路',
-        "bid": '10077001',
+        'name': '770路',
+        'bid': '10077001',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '南漖村总站',
         'stations': [
@@ -29614,8 +29614,8 @@ buses = {
         ]
     },
     '713路': {
-        "name": '713路',
-        "bid": '10071301',
+        'name': '713路',
+        'bid': '10071301',
         'starting_station': '花都培正学院总站',
         'terminal_station': '柯子岭(河田路)总站',
         'stations': [
@@ -29640,8 +29640,8 @@ buses = {
         ]
     },
     '404路': {
-        "name": '404路',
-        "bid": '10040400',
+        'name': '404路',
+        'bid': '10040400',
         'starting_station': '地铁东圃站总站',
         'terminal_station': '黄村北总站',
         'stations': [
@@ -29658,8 +29658,8 @@ buses = {
         ]
     },
     '432路': {
-        "name": '432路',
-        "bid": '10043201',
+        'name': '432路',
+        'bid': '10043201',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -29703,8 +29703,8 @@ buses = {
         ]
     },
     '781路': {
-        "name": '781路',
-        "bid": '10078101',
+        'name': '781路',
+        'bid': '10078101',
         'starting_station': '五羊新城总站',
         'terminal_station': '五羊新城总站',
         'stations': [
@@ -29717,8 +29717,8 @@ buses = {
         ]
     },
     '花86路': {
-        "name": '花86路',
-        "bid": '10508600',
+        'name': '花86路',
+        'bid': '10508600',
         'starting_station': '花都湖总站',
         'terminal_station': '金碧御水山庄总站',
         'stations': [
@@ -29761,8 +29761,8 @@ buses = {
         ]
     },
     '番66路': {
-        "name": '番66路',
-        "bid": '10706600',
+        'name': '番66路',
+        'bid': '10706600',
         'starting_station': '新造地铁站总站',
         'terminal_station': '东西庄总站',
         'stations': [
@@ -29775,8 +29775,8 @@ buses = {
         ]
     },
     '961路': {
-        "name": '961路',
-        "bid": '10096101',
+        'name': '961路',
+        'bid': '10096101',
         'starting_station': '南洲花园总站',
         'terminal_station': '南洲花园总站',
         'stations': [
@@ -29804,8 +29804,8 @@ buses = {
         ]
     },
     '737线': {
-        "name": '737线',
-        "bid": '10073700',
+        'name': '737线',
+        'bid': '10073700',
         'starting_station': '地铁人和站总站',
         'terminal_station': '矮岗村总站',
         'stations': [
@@ -29825,8 +29825,8 @@ buses = {
         ]
     },
     '841路': {
-        "name": '841路',
-        "bid": '10084100',
+        'name': '841路',
+        'bid': '10084100',
         'starting_station': '广州火车东站总站⑦d',
         'terminal_station': '石井(滘心村)总站',
         'stations': [
@@ -29865,8 +29865,8 @@ buses = {
         ]
     },
     '450路': {
-        "name": '450路',
-        "bid": '10045000',
+        'name': '450路',
+        'bid': '10045000',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '小塱总站',
         'stations': [
@@ -29895,8 +29895,8 @@ buses = {
         ]
     },
     '番103路': {
-        "name": '番103路',
-        "bid": '10710300',
+        'name': '番103路',
+        'bid': '10710300',
         'starting_station': '榄核公交总站',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -29933,8 +29933,8 @@ buses = {
         ]
     },
     '470路': {
-        "name": '470路',
-        "bid": '10047001',
+        'name': '470路',
+        'bid': '10047001',
         'starting_station': '机场立交(广中医一附院)总站',
         'terminal_station': '机场立交(广中医一附院)总站',
         'stations': [
@@ -29950,8 +29950,8 @@ buses = {
         ]
     },
     '302A路': {
-        "name": '302A路',
-        "bid": '10030220',
+        'name': '302A路',
+        'bid': '10030220',
         'starting_station': '南村汽车站总站',
         'terminal_station': '广州火车东站总站③d',
         'stations': [
@@ -29989,8 +29989,8 @@ buses = {
         ]
     },
     '211路': {
-        "name": '211路',
-        "bid": '10021100',
+        'name': '211路',
+        'bid': '10021100',
         'starting_station': '番禺礼村总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -30030,8 +30030,8 @@ buses = {
         ]
     },
     '番83路': {
-        "name": '番83路',
-        "bid": '10708301',
+        'name': '番83路',
+        'bid': '10708301',
         'starting_station': '长坦总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -30047,8 +30047,8 @@ buses = {
         ]
     },
     '夜45': {
-        "name": '夜45',
-        "bid": '10004510',
+        'name': '夜45',
+        'bid': '10004510',
         'starting_station': '大塘总站',
         'terminal_station': '城西花园总站',
         'stations': [
@@ -30087,8 +30087,8 @@ buses = {
         ]
     },
     '236路': {
-        "name": '236路',
-        "bid": '10023601',
+        'name': '236路',
+        'bid': '10023601',
         'starting_station': '天河客运站总站②',
         'terminal_station': '滘口客运站总站①',
         'stations': [
@@ -30123,8 +30123,8 @@ buses = {
         ]
     },
     '208路': {
-        "name": '208路',
-        "bid": '10020801',
+        'name': '208路',
+        'bid': '10020801',
         'starting_station': '大塘西总站',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -30153,8 +30153,8 @@ buses = {
         ]
     },
     '498路': {
-        "name": '498路',
-        "bid": '10049801',
+        'name': '498路',
+        'bid': '10049801',
         'starting_station': '汇景北路总站',
         'terminal_station': '地铁梅花园站总站',
         'stations': [
@@ -30176,8 +30176,8 @@ buses = {
         ]
     },
     '523快': {
-        "name": '523快',
-        "bid": '10052360',
+        'name': '523快',
+        'bid': '10052360',
         'starting_station': '市客运站总站',
         'terminal_station': '江高小塘总站',
         'stations': [
@@ -30194,8 +30194,8 @@ buses = {
         ]
     },
     '434路': {
-        "name": '434路',
-        "bid": '10043400',
+        'name': '434路',
+        'bid': '10043400',
         'starting_station': '华坑生态村总站',
         'terminal_station': '华坑生态村总站',
         'stations': [
@@ -30234,8 +30234,8 @@ buses = {
         ]
     },
     '779路': {
-        "name": '779路',
-        "bid": '10077900',
+        'name': '779路',
+        'bid': '10077900',
         'starting_station': '南洲北路总站',
         'terminal_station': '阅江路(珠江啤酒厂)总站',
         'stations': [
@@ -30259,8 +30259,8 @@ buses = {
         ]
     },
     '329线': {
-        "name": '329线',
-        "bid": '10032900',
+        'name': '329线',
+        'bid': '10032900',
         'starting_station': '丰乐南路总站',
         'terminal_station': '地铁鱼珠站总站',
         'stations': [
@@ -30282,8 +30282,8 @@ buses = {
         ]
     },
     '388路': {
-        "name": '388路',
-        "bid": '10038800',
+        'name': '388路',
+        'bid': '10038800',
         'starting_station': '南岗(国际玩具礼品城)总站',
         'terminal_station': '科学城南部公交场总站',
         'stations': [
@@ -30325,8 +30325,8 @@ buses = {
         ]
     },
     '291路': {
-        "name": '291路',
-        "bid": '10029100',
+        'name': '291路',
+        'bid': '10029100',
         'starting_station': '安华装饰城总站',
         'terminal_station': '安华装饰城总站',
         'stations': [
@@ -30376,8 +30376,8 @@ buses = {
         ]
     },
     '922路': {
-        "name": '922路',
-        "bid": '10092201',
+        'name': '922路',
+        'bid': '10092201',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '永泰新村口总站',
         'stations': [
@@ -30392,8 +30392,8 @@ buses = {
         ]
     },
     '729路': {
-        "name": '729路',
-        "bid": '10072901',
+        'name': '729路',
+        'bid': '10072901',
         'starting_station': '西村地铁站总站',
         'terminal_station': '西村地铁站总站',
         'stations': [
@@ -30415,8 +30415,8 @@ buses = {
         ]
     },
     '高峰快线26路': {
-        "name": '高峰快线26路',
-        "bid": '10002661',
+        'name': '高峰快线26路',
+        'bid': '10002661',
         'starting_station': '同德围(阳光花园)总站',
         'terminal_station': '广州火车东站总站⑨a',
         'stations': [
@@ -30444,8 +30444,8 @@ buses = {
         ]
     },
     '301路': {
-        "name": '301路',
-        "bid": '10030101',
+        'name': '301路',
+        'bid': '10030101',
         'starting_station': '流花车站总站①',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -30488,8 +30488,8 @@ buses = {
         ]
     },
     '地铁接驳4线': {
-        "name": '地铁接驳4线',
-        "bid": '10000441',
+        'name': '地铁接驳4线',
+        'bid': '10000441',
         'starting_station': '星河湾半岛',
         'terminal_station': '地铁南浦总站',
         'stations': [
@@ -30517,8 +30517,8 @@ buses = {
         ]
     },
     '111路': {
-        "name": '111路',
-        "bid": '10011100',
+        'name': '111路',
+        'bid': '10011100',
         'starting_station': '天平架总站②a',
         'terminal_station': '黄石路总站',
         'stations': [
@@ -30548,8 +30548,8 @@ buses = {
         ]
     },
     '244路': {
-        "name": '244路',
-        "bid": '10024400',
+        'name': '244路',
+        'bid': '10024400',
         'starting_station': '江南大道南总站',
         'terminal_station': '黄石东(白云尚城)总站',
         'stations': [
@@ -30587,8 +30587,8 @@ buses = {
         ]
     },
     '南沙15路': {
-        "name": '南沙15路',
-        "bid": '10601500',
+        'name': '南沙15路',
+        'bid': '10601500',
         'starting_station': '新海村总站',
         'terminal_station': '麒麟中学总站',
         'stations': [
@@ -30608,8 +30608,8 @@ buses = {
         ]
     },
     '245路': {
-        "name": '245路',
-        "bid": '10024501',
+        'name': '245路',
+        'bid': '10024501',
         'starting_station': '员村一横路总站①',
         'terminal_station': '黄石东(白云尚城)总站',
         'stations': [
@@ -30646,8 +30646,8 @@ buses = {
         ]
     },
     '469路': {
-        "name": '469路',
-        "bid": '10046900',
+        'name': '469路',
+        'bid': '10046900',
         'starting_station': '纸厂总站②',
         'terminal_station': '江泰路地铁站总站',
         'stations': [
@@ -30663,8 +30663,8 @@ buses = {
         ]
     },
     '夜43路': {
-        "name": '夜43路',
-        "bid": '10004311',
+        'name': '夜43路',
+        'bid': '10004311',
         'starting_station': '瑞宝乡总站',
         'terminal_station': '沐陂路(彩釉砖厂)总站',
         'stations': [
@@ -30697,8 +30697,8 @@ buses = {
         ]
     },
     '902路': {
-        "name": '902路',
-        "bid": '10090201',
+        'name': '902路',
+        'bid': '10090201',
         'starting_station': '东圃总站①',
         'terminal_station': '岑村总站',
         'stations': [
@@ -30728,8 +30728,8 @@ buses = {
         ]
     },
     '66路': {
-        "name": '66路',
-        "bid": '10006600',
+        'name': '66路',
+        'bid': '10006600',
         'starting_station': '东平总站',
         'terminal_station': '泮塘总站',
         'stations': [
@@ -30774,8 +30774,8 @@ buses = {
         ]
     },
     '363路': {
-        "name": '363路',
-        "bid": '10036300',
+        'name': '363路',
+        'bid': '10036300',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '金碧路总站',
         'stations': [
@@ -30800,8 +30800,8 @@ buses = {
         ]
     },
     '299路': {
-        "name": '299路',
-        "bid": '10029900',
+        'name': '299路',
+        'bid': '10029900',
         'starting_station': '昌岗路总站',
         'terminal_station': '员村(绢麻厂)总站',
         'stations': [
@@ -30832,8 +30832,8 @@ buses = {
         ]
     },
     '477路': {
-        "name": '477路',
-        "bid": '10047701',
+        'name': '477路',
+        'bid': '10047701',
         'starting_station': '西洲北路(增槎路口)总站',
         'terminal_station': '西洲北路尾总站',
         'stations': [
@@ -30845,8 +30845,8 @@ buses = {
         ]
     },
     '303A路': {
-        "name": '303A路',
-        "bid": '10030320',
+        'name': '303A路',
+        'bid': '10030320',
         'starting_station': '广州南站总站',
         'terminal_station': '天河客运站总站①',
         'stations': [
@@ -30883,8 +30883,8 @@ buses = {
         ]
     },
     '573快线': {
-        "name": '573快线',
-        "bid": '10057360',
+        'name': '573快线',
+        'bid': '10057360',
         'starting_station': '西区公交总站',
         'terminal_station': '开创大道(万科城)总站',
         'stations': [
@@ -30920,8 +30920,8 @@ buses = {
         ]
     },
     '商务专线2': {
-        "name": '商务专线2',
-        "bid": '10000271',
+        'name': '商务专线2',
+        'bid': '10000271',
         'starting_station': '十三行(兴隆北路)总站',
         'terminal_station': '凰岗(锦东服装城)总站',
         'stations': [
@@ -30931,8 +30931,8 @@ buses = {
         ]
     },
     '番82路': {
-        "name": '番82路',
-        "bid": '10708201',
+        'name': '番82路',
+        'bid': '10708201',
         'starting_station': '前锋村总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -30948,8 +30948,8 @@ buses = {
         ]
     },
     '高峰快线73路': {
-        "name": '高峰快线73路',
-        "bid": '10007360',
+        'name': '高峰快线73路',
+        'bid': '10007360',
         'starting_station': '花都自由人花园总站',
         'terminal_station': '人和总站',
         'stations': [
@@ -30964,8 +30964,8 @@ buses = {
         ]
     },
     '14路': {
-        "name": '14路',
-        "bid": '10001400',
+        'name': '14路',
+        'bid': '10001400',
         'starting_station': '赤沙(广东商学院)总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -30994,8 +30994,8 @@ buses = {
         ]
     },
     '734路': {
-        "name": '734路',
-        "bid": '10073401',
+        'name': '734路',
+        'bid': '10073401',
         'starting_station': '机场路总站(10)',
         'terminal_station': '钟落潭文化广场总站',
         'stations': [
@@ -31038,8 +31038,8 @@ buses = {
         ]
     },
     '264路': {
-        "name": '264路',
-        "bid": '10026401',
+        'name': '264路',
+        'bid': '10026401',
         'starting_station': '广仁路总站',
         'terminal_station': '仑头总站',
         'stations': [
@@ -31076,8 +31076,8 @@ buses = {
         ]
     },
     '442路': {
-        "name": '442路',
-        "bid": '10044200',
+        'name': '442路',
+        'bid': '10044200',
         'starting_station': '镇龙总站',
         'terminal_station': '石龙头总站',
         'stations': [
@@ -31093,8 +31093,8 @@ buses = {
         ]
     },
     '76路': {
-        "name": '76路',
-        "bid": '10007600',
+        'name': '76路',
+        'bid': '10007600',
         'starting_station': '集贤苑教师新村总站',
         'terminal_station': '东山总站',
         'stations': [
@@ -31131,8 +31131,8 @@ buses = {
         ]
     },
     '811路': {
-        "name": '811路',
-        "bid": '10081101',
+        'name': '811路',
+        'bid': '10081101',
         'starting_station': '天河公交场总站',
         'terminal_station': '芳村西塱总站①',
         'stations': [
@@ -31166,8 +31166,8 @@ buses = {
         ]
     },
     '番53路': {
-        "name": '番53路',
-        "bid": '10705300',
+        'name': '番53路',
+        'bid': '10705300',
         'starting_station': '地铁南浦站',
         'terminal_station': '化龙车站总站',
         'stations': [
@@ -31218,8 +31218,8 @@ buses = {
         ]
     },
     '803A线': {
-        "name": '803A线',
-        "bid": '10080321',
+        'name': '803A线',
+        'bid': '10080321',
         'starting_station': '元下田村总站',
         'terminal_station': '广州火车站总站a',
         'stations': [
@@ -31249,8 +31249,8 @@ buses = {
         ]
     },
     '番20B线': {
-        "name": '番20B线',
-        "bid": '10702031',
+        'name': '番20B线',
+        'bid': '10702031',
         'starting_station': '榄塘村总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -31275,8 +31275,8 @@ buses = {
         ]
     },
     '222路': {
-        "name": '222路',
-        "bid": '10022200',
+        'name': '222路',
+        'bid': '10022200',
         'starting_station': '芳村丰年路(黄大仙祠)总站',
         'terminal_station': '五羊新城总站',
         'stations': [
@@ -31312,8 +31312,8 @@ buses = {
         ]
     },
     '335路': {
-        "name": '335路',
-        "bid": '10033500',
+        'name': '335路',
+        'bid': '10033500',
         'starting_station': '科学城彩频路总站',
         'terminal_station': '云埔一路(中一药业)总站',
         'stations': [
@@ -31339,8 +31339,8 @@ buses = {
         ]
     },
     '451路': {
-        "name": '451路',
-        "bid": '10045100',
+        'name': '451路',
+        'bid': '10045100',
         'starting_station': '塘山村总站',
         'terminal_station': '元贝村总站',
         'stations': [
@@ -31360,8 +31360,8 @@ buses = {
         ]
     },
     '408路': {
-        "name": '408路',
-        "bid": '10040800',
+        'name': '408路',
+        'bid': '10040800',
         'starting_station': '广氮花园总站',
         'terminal_station': '广氮花园总站',
         'stations': [
@@ -31383,8 +31383,8 @@ buses = {
         ]
     },
     '番162B路': {
-        "name": '番162B路',
-        "bid": '10716230',
+        'name': '番162B路',
+        'bid': '10716230',
         'starting_station': '广州市质检园区总站',
         'terminal_station': '地铁海傍站总站',
         'stations': [
@@ -31407,8 +31407,8 @@ buses = {
         ]
     },
     '夜38': {
-        "name": '夜38',
-        "bid": '10003810',
+        'name': '夜38',
+        'bid': '10003810',
         'starting_station': '广卫路总站',
         'terminal_station': '天河智慧城核心区总站(高唐)',
         'stations': [
@@ -31448,8 +31448,8 @@ buses = {
         ]
     },
     '39路': {
-        "name": '39路',
-        "bid": '10003900',
+        'name': '39路',
+        'bid': '10003900',
         'starting_station': '天河公交场总站③',
         'terminal_station': '龙洞(广东金融学院)总站',
         'stations': [
@@ -31481,8 +31481,8 @@ buses = {
         ]
     },
     '548路': {
-        "name": '548路',
-        "bid": '10054800',
+        'name': '548路',
+        'bid': '10054800',
         'starting_station': '珠江泳场总站①',
         'terminal_station': '大观总站',
         'stations': [
@@ -31525,8 +31525,8 @@ buses = {
         ]
     },
     '943路': {
-        "name": '943路',
-        "bid": '10094301',
+        'name': '943路',
+        'bid': '10094301',
         'starting_station': '黄埔客运站总站',
         'terminal_station': '萝岗香雪公园总站',
         'stations': [
@@ -31564,8 +31564,8 @@ buses = {
         ]
     },
     '749线': {
-        "name": '749线',
-        "bid": '10074901',
+        'name': '749线',
+        'bid': '10074901',
         'starting_station': '槎潭路总站',
         'terminal_station': '潭村(石槎路口)总站',
         'stations': [
@@ -31579,8 +31579,8 @@ buses = {
         ]
     },
     '231路': {
-        "name": '231路',
-        "bid": '10023100',
+        'name': '231路',
+        'bid': '10023100',
         'starting_station': '流花车站总站②',
         'terminal_station': '里水客运站总站',
         'stations': [
@@ -31620,8 +31620,8 @@ buses = {
         ]
     },
     '482路': {
-        "name": '482路',
-        "bid": '10048200',
+        'name': '482路',
+        'bid': '10048200',
         'starting_station': '太和岗路口总站',
         'terminal_station': '广东电视台站',
         'stations': [
@@ -31634,8 +31634,8 @@ buses = {
         ]
     },
     '207路': {
-        "name": '207路',
-        "bid": '10020700',
+        'name': '207路',
+        'bid': '10020700',
         'starting_station': '广州花卉博览园总站',
         'terminal_station': '中山八路总站',
         'stations': [
@@ -31668,8 +31668,8 @@ buses = {
         ]
     },
     '番26路': {
-        "name": '番26路',
-        "bid": '10702600',
+        'name': '番26路',
+        'bid': '10702600',
         'starting_station': '大夫山森林公园总站',
         'terminal_station': '番禺汽车客运站',
         'stations': [
@@ -31712,8 +31712,8 @@ buses = {
         ]
     },
     '夜93路': {
-        "name": '夜93路',
-        "bid": '10009311',
+        'name': '夜93路',
+        'bid': '10009311',
         'starting_station': '大观路北总站',
         'terminal_station': '宝岗大道总站①',
         'stations': [
@@ -31761,8 +31761,8 @@ buses = {
         ]
     },
     '838路': {
-        "name": '838路',
-        "bid": '10083800',
+        'name': '838路',
+        'bid': '10083800',
         'starting_station': '龙溪村委总站',
         'terminal_station': '芳村茶叶市场总站',
         'stations': [
@@ -31793,8 +31793,8 @@ buses = {
         ]
     },
     '广275路': {
-        "name": '广275路',
-        "bid": '10027501',
+        'name': '广275路',
+        'bid': '10027501',
         'starting_station': '广州火车站总站n',
         'terminal_station': '平洲总站',
         'stations': [
@@ -31835,8 +31835,8 @@ buses = {
         ]
     },
     '545路': {
-        "name": '545路',
-        "bid": '10054500',
+        'name': '545路',
+        'bid': '10054500',
         'starting_station': '珠江新城总站①',
         'terminal_station': '同德围泽德花园总站',
         'stations': [
@@ -31871,8 +31871,8 @@ buses = {
         ]
     },
     '番161路': {
-        "name": '番161路',
-        "bid": '10716101',
+        'name': '番161路',
+        'bid': '10716101',
         'starting_station': '番禺汽车客运站',
         'terminal_station': '高铁庆盛总站',
         'stations': [
@@ -31913,8 +31913,8 @@ buses = {
         ]
     },
     '419路': {
-        "name": '419路',
-        "bid": '10041901',
+        'name': '419路',
+        'bid': '10041901',
         'starting_station': '芳村客运站总站①',
         'terminal_station': '滘口客运站总站⑦',
         'stations': [
@@ -31949,8 +31949,8 @@ buses = {
         ]
     },
     '562路': {
-        "name": '562路',
-        "bid": '10056200',
+        'name': '562路',
+        'bid': '10056200',
         'starting_station': '棠下小区总站①',
         'terminal_station': '香江野生动物世界总站',
         'stations': [
@@ -31987,8 +31987,8 @@ buses = {
         ]
     },
     '978路': {
-        "name": '978路',
-        "bid": '10097800',
+        'name': '978路',
+        'bid': '10097800',
         'starting_station': '平沙(农贸市场)总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -32015,8 +32015,8 @@ buses = {
         ]
     },
     '976路': {
-        "name": '976路',
-        "bid": '10097600',
+        'name': '976路',
+        'bid': '10097600',
         'starting_station': '竹料总站①',
         'terminal_station': '太和镇总站',
         'stations': [
@@ -32039,8 +32039,8 @@ buses = {
         ]
     },
     '番93路': {
-        "name": '番93路',
-        "bid": '10709301',
+        'name': '番93路',
+        'bid': '10709301',
         'starting_station': '亚运文化村总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -32092,8 +32092,8 @@ buses = {
         ]
     },
     '夜60路': {
-        "name": '夜60路',
-        "bid": '10006011',
+        'name': '夜60路',
+        'bid': '10006011',
         'starting_station': '联和(惠联路)总站',
         'terminal_station': '天河客运站总站①',
         'stations': [
@@ -32120,8 +32120,8 @@ buses = {
         ]
     },
     '758路': {
-        "name": '758路',
-        "bid": '10075801',
+        'name': '758路',
+        'bid': '10075801',
         'starting_station': '龙归地铁站总站',
         'terminal_station': '帽峰山古庙总站',
         'stations': [
@@ -32143,8 +32143,8 @@ buses = {
         ]
     },
     '28路': {
-        "name": '28路',
-        "bid": '10002801',
+        'name': '28路',
+        'bid': '10002801',
         'starting_station': '龙洞(龙逸山庄)总站',
         'terminal_station': '天平架总站⑤b',
         'stations': [
@@ -32171,8 +32171,8 @@ buses = {
         ]
     },
     '花18路': {
-        "name": '花18路',
-        "bid": '10501801',
+        'name': '花18路',
+        'bid': '10501801',
         'starting_station': '灜富国际总站',
         'terminal_station': '大陵新村总站',
         'stations': [
@@ -32204,8 +32204,8 @@ buses = {
         ]
     },
     '229路': {
-        "name": '229路',
-        "bid": '10022901',
+        'name': '229路',
+        'bid': '10022901',
         'starting_station': '琶洲石基村(黄埔古港)总站',
         'terminal_station': '罗冲围总站1④',
         'stations': [
@@ -32244,8 +32244,8 @@ buses = {
         ]
     },
     '番100路': {
-        "name": '番100路',
-        "bid": '10710001',
+        'name': '番100路',
+        'bid': '10710001',
         'starting_station': '广州南站总站',
         'terminal_station': '雁洲村总站',
         'stations': [
@@ -32300,8 +32300,8 @@ buses = {
         ]
     },
     '543路': {
-        "name": '543路',
-        "bid": '10054301',
+        'name': '543路',
+        'bid': '10054301',
         'starting_station': '石井(庆丰纺织服装城)总站',
         'terminal_station': '越秀公园站',
         'stations': [
@@ -32333,8 +32333,8 @@ buses = {
         ]
     },
     '夜80路': {
-        "name": '夜80路',
-        "bid": '10008011',
+        'name': '夜80路',
+        'bid': '10008011',
         'starting_station': '石马公交场总站',
         'terminal_station': '西村地铁站总站',
         'stations': [
@@ -32370,8 +32370,8 @@ buses = {
         ]
     },
     '番187路': {
-        "name": '番187路',
-        "bid": '10718701',
+        'name': '番187路',
+        'bid': '10718701',
         'starting_station': '地铁会江站',
         'terminal_station': '地铁大石站总站',
         'stations': [
@@ -32390,8 +32390,8 @@ buses = {
         ]
     },
     'B11路': {
-        "name": 'B11路',
-        "bid": '10801101',
+        'name': 'B11路',
+        'bid': '10801101',
         'starting_station': '员村(美林花园)总站',
         'terminal_station': '岑村火炉山森林公园总站',
         'stations': [
@@ -32430,8 +32430,8 @@ buses = {
         ]
     },
     '503路': {
-        "name": '503路',
-        "bid": '10050300',
+        'name': '503路',
+        'bid': '10050300',
         'starting_station': '杨桃公园(美林湖畔)总站',
         'terminal_station': '天河客运站总站①',
         'stations': [
@@ -32464,8 +32464,8 @@ buses = {
         ]
     },
     '夜88路': {
-        "name": '夜88路',
-        "bid": '10008811',
+        'name': '夜88路',
+        'bid': '10008811',
         'starting_station': '流花车站总站①',
         'terminal_station': '市桥北城中巴站总站',
         'stations': [
@@ -32504,8 +32504,8 @@ buses = {
         ]
     },
     '13路': {
-        "name": '13路',
-        "bid": '10001301',
+        'name': '13路',
+        'bid': '10001301',
         'starting_station': '文德路总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -32531,8 +32531,8 @@ buses = {
         ]
     },
     '573路': {
-        "name": '573路',
-        "bid": '10057301',
+        'name': '573路',
+        'bid': '10057301',
         'starting_station': '科学城彩频路总站',
         'terminal_station': '西区公交总站',
         'stations': [
@@ -32595,8 +32595,8 @@ buses = {
         ]
     },
     '419路': {
-        "name": '419路',
-        "bid": '10041900',
+        'name': '419路',
+        'bid': '10041900',
         'starting_station': '滘口客运站总站⑦',
         'terminal_station': '芳村客运站总站①',
         'stations': [
@@ -32631,8 +32631,8 @@ buses = {
         ]
     },
     '131B线': {
-        "name": '131B线',
-        "bid": '10013131',
+        'name': '131B线',
+        'bid': '10013131',
         'starting_station': '赤岗总站',
         'terminal_station': '赤岗总站',
         'stations': [
@@ -32673,8 +32673,8 @@ buses = {
         ]
     },
     '475路': {
-        "name": '475路',
-        "bid": '10047501',
+        'name': '475路',
+        'bid': '10047501',
         'starting_station': '地铁三元里站',
         'terminal_station': '岗贝路总站',
         'stations': [
@@ -32691,8 +32691,8 @@ buses = {
         ]
     },
     '230线': {
-        "name": '230线',
-        "bid": '10023000',
+        'name': '230线',
+        'bid': '10023000',
         'starting_station': '纸厂横马路总站',
         'terminal_station': '华工大总站①',
         'stations': [
@@ -32727,8 +32727,8 @@ buses = {
         ]
     },
     '445路': {
-        "name": '445路',
-        "bid": '10044500',
+        'name': '445路',
+        'bid': '10044500',
         'starting_station': '镇龙总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -32751,8 +32751,8 @@ buses = {
         ]
     },
     '523A线': {
-        "name": '523A线',
-        "bid": '10052320',
+        'name': '523A线',
+        'bid': '10052320',
         'starting_station': '市客运站总站',
         'terminal_station': '大朗总站',
         'stations': [
@@ -32781,8 +32781,8 @@ buses = {
         ]
     },
     '客运港专线': {
-        "name": '客运港专线',
-        "bid": '10603301',
+        'name': '客运港专线',
+        'bid': '10603301',
         'starting_station': '南沙客运港总站',
         'terminal_station': '南沙客运港总站',
         'stations': [
@@ -32790,8 +32790,8 @@ buses = {
         ]
     },
     '番96路': {
-        "name": '番96路',
-        "bid": '10709601',
+        'name': '番96路',
+        'bid': '10709601',
         'starting_station': '大石中学总站',
         'terminal_station': '市桥汽车站',
         'stations': [
@@ -32825,8 +32825,8 @@ buses = {
         ]
     },
     '322路': {
-        "name": '322路',
-        "bid": '10032201',
+        'name': '322路',
+        'bid': '10032201',
         'starting_station': '沧头村总站',
         'terminal_station': '生活区总站',
         'stations': [
@@ -32850,8 +32850,8 @@ buses = {
         ]
     },
     '842路': {
-        "name": '842路',
-        "bid": '10084200',
+        'name': '842路',
+        'bid': '10084200',
         'starting_station': '人和墟(万家福广场)总站',
         'terminal_station': '良田村委总站',
         'stations': [
@@ -32882,8 +32882,8 @@ buses = {
         ]
     },
     '夜64路': {
-        "name": '夜64路',
-        "bid": '10006410',
+        'name': '夜64路',
+        'bid': '10006410',
         'starting_station': '地铁东圃站总站',
         'terminal_station': '地铁东圃站总站',
         'stations': [
@@ -32902,8 +32902,8 @@ buses = {
         ]
     },
     '旅游2线': {
-        "name": '旅游2线',
-        "bid": '10000230',
+        'name': '旅游2线',
+        'bid': '10000230',
         'starting_station': '珠江帝景苑总站',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -32933,8 +32933,8 @@ buses = {
         ]
     },
     '212路': {
-        "name": '212路',
-        "bid": '10021201',
+        'name': '212路',
+        'bid': '10021201',
         'starting_station': '鸦岗总站',
         'terminal_station': '中山八路总站②',
         'stations': [
@@ -32974,8 +32974,8 @@ buses = {
         ]
     },
     '354路': {
-        "name": '354路',
-        "bid": '10035401',
+        'name': '354路',
+        'bid': '10035401',
         'starting_station': '穗丰村(广东技术师范学院天河学院)总站',
         'terminal_station': '水均田路(东华学院)总站',
         'stations': [
@@ -32986,8 +32986,8 @@ buses = {
         ]
     },
     '478路': {
-        "name": '478路',
-        "bid": '10047800',
+        'name': '478路',
+        'bid': '10047800',
         'starting_station': '富力环市西苑总站',
         'terminal_station': '白沙总站',
         'stations': [
@@ -33013,8 +33013,8 @@ buses = {
         ]
     },
     '472路': {
-        "name": '472路',
-        "bid": '10047200',
+        'name': '472路',
+        'bid': '10047200',
         'starting_station': '神山总站',
         'terminal_station': '大岭村总站',
         'stations': [
@@ -33027,8 +33027,8 @@ buses = {
         ]
     },
     '766路': {
-        "name": '766路',
-        "bid": '10076601',
+        'name': '766路',
+        'bid': '10076601',
         'starting_station': '南洲北路总站',
         'terminal_station': '大干围(海珠创意产业园)总站',
         'stations': [
@@ -33044,8 +33044,8 @@ buses = {
         ]
     },
     '114路': {
-        "name": '114路',
-        "bid": '10011401',
+        'name': '114路',
+        'bid': '10011401',
         'starting_station': '罗冲围总站1④',
         'terminal_station': '南田路总站',
         'stations': [
@@ -33065,8 +33065,8 @@ buses = {
         ]
     },
     '夜21': {
-        "name": '夜21',
-        "bid": '10002110',
+        'name': '夜21',
+        'bid': '10002110',
         'starting_station': '东山(龟岗)总站',
         'terminal_station': '石井潭村总站',
         'stations': [
@@ -33107,8 +33107,8 @@ buses = {
         ]
     },
     '南沙19路': {
-        "name": '南沙19路',
-        "bid": '10601900',
+        'name': '南沙19路',
+        'bid': '10601900',
         'starting_station': '南沙湾总站',
         'terminal_station': '南沙湾总站',
         'stations': [
@@ -33153,8 +33153,8 @@ buses = {
         ]
     },
     '797路': {
-        "name": '797路',
-        "bid": '10079701',
+        'name': '797路',
+        'bid': '10079701',
         'starting_station': '龙归地铁站总站',
         'terminal_station': '国际划船中心总站',
         'stations': [
@@ -33185,8 +33185,8 @@ buses = {
         ]
     },
     '804路': {
-        "name": '804路',
-        "bid": '10080400',
+        'name': '804路',
+        'bid': '10080400',
         'starting_station': '广州火车东站总站①b',
         'terminal_station': '嘉禾(长红双和工业区)总站',
         'stations': [
@@ -33232,8 +33232,8 @@ buses = {
         ]
     },
     '309路': {
-        "name": '309路',
-        "bid": '10030901',
+        'name': '309路',
+        'bid': '10030901',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -33294,8 +33294,8 @@ buses = {
         ]
     },
     '大学城4线': {
-        "name": '大学城4线',
-        "bid": '10000421',
+        'name': '大学城4线',
+        'bid': '10000421',
         'starting_station': '大学城(广大)总站',
         'terminal_station': '天平架总站⑥a',
         'stations': [
@@ -33331,8 +33331,8 @@ buses = {
         ]
     },
     '726路': {
-        "name": '726路',
-        "bid": '10072601',
+        'name': '726路',
+        'bid': '10072601',
         'starting_station': '钟落潭文化广场总站',
         'terminal_station': '沙田村总站',
         'stations': [
@@ -33347,8 +33347,8 @@ buses = {
         ]
     },
     '539路': {
-        "name": '539路',
-        "bid": '10053900',
+        'name': '539路',
+        'bid': '10053900',
         'starting_station': '永泰客运站总站',
         'terminal_station': '金德苑(同德围)总站',
         'stations': [
@@ -33391,8 +33391,8 @@ buses = {
         ]
     },
     '525路': {
-        "name": '525路',
-        "bid": '10052500',
+        'name': '525路',
+        'bid': '10052500',
         'starting_station': '海中村总站',
         'terminal_station': '芳村合兴苑站',
         'stations': [
@@ -33411,8 +33411,8 @@ buses = {
         ]
     },
     '102路': {
-        "name": '102路',
-        "bid": '10010201',
+        'name': '102路',
+        'bid': '10010201',
         'starting_station': '文化公园总站①',
         'terminal_station': '东山总站',
         'stations': [
@@ -33433,8 +33433,8 @@ buses = {
         ]
     },
     '274路': {
-        "name": '274路',
-        "bid": '10027401',
+        'name': '274路',
+        'bid': '10027401',
         'starting_station': '黄边村总站',
         'terminal_station': '富力桃园(增步村)总站',
         'stations': [
@@ -33469,8 +33469,8 @@ buses = {
         ]
     },
     '番28路': {
-        "name": '番28路',
-        "bid": '10702801',
+        'name': '番28路',
+        'bid': '10702801',
         'starting_station': '观龙岛公交总站',
         'terminal_station': '北城公交总站',
         'stations': [
@@ -33502,8 +33502,8 @@ buses = {
         ]
     },
     '231路': {
-        "name": '231路',
-        "bid": '10023101',
+        'name': '231路',
+        'bid': '10023101',
         'starting_station': '里水客运站总站',
         'terminal_station': '流花车站总站②',
         'stations': [
@@ -33543,8 +33543,8 @@ buses = {
         ]
     },
     '655路': {
-        "name": '655路',
-        "bid": '10065501',
+        'name': '655路',
+        'bid': '10065501',
         'starting_station': '钟落潭文化广场总站',
         'terminal_station': '仲恺农业工程学院北门站总站',
         'stations': [
@@ -33564,8 +33564,8 @@ buses = {
         ]
     },
     '夜55路': {
-        "name": '夜55路',
-        "bid": '10005510',
+        'name': '夜55路',
+        'bid': '10005510',
         'starting_station': '广州火车站总站',
         'terminal_station': '小洲总站',
         'stations': [
@@ -33607,8 +33607,8 @@ buses = {
         ]
     },
     '番53路': {
-        "name": '番53路',
-        "bid": '10705301',
+        'name': '番53路',
+        'bid': '10705301',
         'starting_station': '化龙车站总站',
         'terminal_station': '地铁南浦站',
         'stations': [
@@ -33662,8 +33662,8 @@ buses = {
         ]
     },
     '大学城班线9': {
-        "name": '大学城班线9',
-        "bid": '10033570',
+        'name': '大学城班线9',
+        'bid': '10033570',
         'starting_station': '外语学院总站',
         'terminal_station': '大学城(广外)总站',
         'stations': [
@@ -33672,8 +33672,8 @@ buses = {
         ]
     },
     '夜1': {
-        "name": '夜1',
-        "bid": '10000111',
+        'name': '夜1',
+        'bid': '10000111',
         'starting_station': '东山总站',
         'terminal_station': '芳村花园总站①',
         'stations': [
@@ -33704,8 +33704,8 @@ buses = {
         ]
     },
     '夜71路': {
-        "name": '夜71路',
-        "bid": '10007111',
+        'name': '夜71路',
+        'bid': '10007111',
         'starting_station': '渔沙坦(渔中路)总站',
         'terminal_station': '动物园南门总站①',
         'stations': [
@@ -33745,8 +33745,8 @@ buses = {
         ]
     },
     '82路': {
-        "name": '82路',
-        "bid": '10008201',
+        'name': '82路',
+        'bid': '10008201',
         'starting_station': '海珠客运站总站',
         'terminal_station': '中山八路总站④',
         'stations': [
@@ -33777,8 +33777,8 @@ buses = {
         ]
     },
     '775路': {
-        "name": '775路',
-        "bid": '10077500',
+        'name': '775路',
+        'bid': '10077500',
         'starting_station': '龙洞(龙逸山庄)总站',
         'terminal_station': '华工大总站②',
         'stations': [
@@ -33808,8 +33808,8 @@ buses = {
         ]
     },
     '南沙30路': {
-        "name": '南沙30路',
-        "bid": '10603001',
+        'name': '南沙30路',
+        'bid': '10603001',
         'starting_station': '红港村路口总站',
         'terminal_station': '万顷沙渡口总站',
         'stations': [
@@ -33831,8 +33831,8 @@ buses = {
         ]
     },
     '262路': {
-        "name": '262路',
-        "bid": '10026201',
+        'name': '262路',
+        'bid': '10026201',
         'starting_station': '新洲总站①',
         'terminal_station': '珠江帝景苑总站',
         'stations': [
@@ -33859,8 +33859,8 @@ buses = {
         ]
     },
     '番68路': {
-        "name": '番68路',
-        "bid": '10706800',
+        'name': '番68路',
+        'bid': '10706800',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '古坝总站',
         'stations': [
@@ -33911,8 +33911,8 @@ buses = {
         ]
     },
     '987路': {
-        "name": '987路',
-        "bid": '10098700',
+        'name': '987路',
+        'bid': '10098700',
         'starting_station': '节能科技园站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -33933,8 +33933,8 @@ buses = {
         ]
     },
     '高峰快线76': {
-        "name": '高峰快线76',
-        "bid": '10007660',
+        'name': '高峰快线76',
+        'bid': '10007660',
         'starting_station': '爱群大厦总站',
         'terminal_station': '大塘西总站',
         'stations': [
@@ -33955,8 +33955,8 @@ buses = {
         ]
     },
     '251路': {
-        "name": '251路',
-        "bid": '10025101',
+        'name': '251路',
+        'bid': '10025101',
         'starting_station': '七星岗(广东省煤炭地质局)总站',
         'terminal_station': '黄沙总站①',
         'stations': [
@@ -33995,8 +33995,8 @@ buses = {
         ]
     },
     '夜79': {
-        "name": '夜79',
-        "bid": '10007910',
+        'name': '夜79',
+        'bid': '10007910',
         'starting_station': '广州南站总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -34020,8 +34020,8 @@ buses = {
         ]
     },
     '66石湖班车': {
-        "name": '66石湖班车',
-        "bid": '10006630',
+        'name': '66石湖班车',
+        'bid': '10006630',
         'starting_station': '石湖部队总站',
         'terminal_station': '泮塘总站',
         'stations': [
@@ -34054,8 +34054,8 @@ buses = {
         ]
     },
     '番23路': {
-        "name": '番23路',
-        "bid": '10702300',
+        'name': '番23路',
+        'bid': '10702300',
         'starting_station': '康裕北苑总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -34087,8 +34087,8 @@ buses = {
         ]
     },
     '233路': {
-        "name": '233路',
-        "bid": '10023300',
+        'name': '233路',
+        'bid': '10023300',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '广州火车东站总站④b',
         'stations': [
@@ -34115,8 +34115,8 @@ buses = {
         ]
     },
     '924路': {
-        "name": '924路',
-        "bid": '10092400',
+        'name': '924路',
+        'bid': '10092400',
         'starting_station': '永兴庄总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -34140,8 +34140,8 @@ buses = {
         ]
     },
     '365路': {
-        "name": '365路',
-        "bid": '10036500',
+        'name': '365路',
+        'bid': '10036500',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -34187,8 +34187,8 @@ buses = {
         ]
     },
     '夜56路': {
-        "name": '夜56路',
-        "bid": '10005610',
+        'name': '夜56路',
+        'bid': '10005610',
         'starting_station': '广卫路总站',
         'terminal_station': '赤沙(广东商学院)总站',
         'stations': [
@@ -34218,8 +34218,8 @@ buses = {
         ]
     },
     '387路': {
-        "name": '387路',
-        "bid": '10038701',
+        'name': '387路',
+        'bid': '10038701',
         'starting_station': '大学城(穗石村)总站',
         'terminal_station': '大学城(广大)总站',
         'stations': [
@@ -34242,8 +34242,8 @@ buses = {
         ]
     },
     '805永泰新村班车': {
-        "name": '805永泰新村班车',
-        "bid": '10080531',
+        'name': '805永泰新村班车',
+        'bid': '10080531',
         'starting_station': '永泰新村总站',
         'terminal_station': '广州火车站总站r',
         'stations': [
@@ -34264,8 +34264,8 @@ buses = {
         ]
     },
     '188路': {
-        "name": '188路',
-        "bid": '10018800',
+        'name': '188路',
+        'bid': '10018800',
         'starting_station': '黄沙总站①',
         'terminal_station': '广轩大厦总站(南天商业城)',
         'stations': [
@@ -34297,8 +34297,8 @@ buses = {
         ]
     },
     '792A': {
-        "name": '792A',
-        "bid": '10079220',
+        'name': '792A',
+        'bid': '10079220',
         'starting_station': '南湖半岛花园总站',
         'terminal_station': '南湖半岛花园总站',
         'stations': [
@@ -34321,8 +34321,8 @@ buses = {
         ]
     },
     '夜31路': {
-        "name": '夜31路',
-        "bid": '10003111',
+        'name': '夜31路',
+        'bid': '10003111',
         'starting_station': '海印桥总站②',
         'terminal_station': '珠岛花园总站',
         'stations': [
@@ -34351,8 +34351,8 @@ buses = {
         ]
     },
     '花73路': {
-        "name": '花73路',
-        "bid": '10507300',
+        'name': '花73路',
+        'bid': '10507300',
         'starting_station': '神山总站',
         'terminal_station': '站前路公交总站',
         'stations': [
@@ -34372,8 +34372,8 @@ buses = {
         ]
     },
     '301A线': {
-        "name": '301A线',
-        "bid": '10030120',
+        'name': '301A线',
+        'bid': '10030120',
         'starting_station': '广州南站总站',
         'terminal_station': '流花车站总站①',
         'stations': [
@@ -34402,8 +34402,8 @@ buses = {
         ]
     },
     '高峰快线18': {
-        "name": '高峰快线18',
-        "bid": '10001860',
+        'name': '高峰快线18',
+        'bid': '10001860',
         'starting_station': '华林寺总站',
         'terminal_station': '乐意居花园总站',
         'stations': [
@@ -34425,8 +34425,8 @@ buses = {
         ]
     },
     '中国(广东)自由贸易区南沙快线': {
-        "name": '中国(广东)自由贸易区南沙快线',
-        "bid": '10690301',
+        'name': '中国(广东)自由贸易区南沙快线',
+        'bid': '10690301',
         'starting_station': '天河公交场',
         'terminal_station': '蕉门公交总站',
         'stations': [
@@ -34445,8 +34445,8 @@ buses = {
         ]
     },
     '733路': {
-        "name": '733路',
-        "bid": '10073300',
+        'name': '733路',
+        'bid': '10073300',
         'starting_station': '竹料总站②',
         'terminal_station': '米岗村总站',
         'stations': [
@@ -34457,8 +34457,8 @@ buses = {
         ]
     },
     '395路': {
-        "name": '395路',
-        "bid": '10039500',
+        'name': '395路',
+        'bid': '10039500',
         'starting_station': '科学城南部公交场总站',
         'terminal_station': '萝岗香雪公园总站',
         'stations': [
@@ -34493,8 +34493,8 @@ buses = {
         ]
     },
     '南沙30路': {
-        "name": '南沙30路',
-        "bid": '10603000',
+        'name': '南沙30路',
+        'bid': '10603000',
         'starting_station': '万顷沙渡口总站',
         'terminal_station': '红港村路口总站',
         'stations': [
@@ -34516,8 +34516,8 @@ buses = {
         ]
     },
     '966路': {
-        "name": '966路',
-        "bid": '10096601',
+        'name': '966路',
+        'bid': '10096601',
         'starting_station': '芳和花园总站',
         'terminal_station': '芳村码头总站',
         'stations': [
@@ -34539,8 +34539,8 @@ buses = {
         ]
     },
     '885路': {
-        "name": '885路',
-        "bid": '10088501',
+        'name': '885路',
+        'bid': '10088501',
         'starting_station': '白沙(中海金沙湾)总站',
         'terminal_station': '中山八路总站⑤',
         'stations': [
@@ -34562,8 +34562,8 @@ buses = {
         ]
     },
     '293路': {
-        "name": '293路',
-        "bid": '10029300',
+        'name': '293路',
+        'bid': '10029300',
         'starting_station': '华景新城总站①',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -34601,8 +34601,8 @@ buses = {
         ]
     },
     '65路': {
-        "name": '65路',
-        "bid": '10006501',
+        'name': '65路',
+        'bid': '10006501',
         'starting_station': '宝岗大道总站②',
         'terminal_station': '乐意居花园总站',
         'stations': [
@@ -34633,8 +34633,8 @@ buses = {
         ]
     },
     '番75路': {
-        "name": '番75路',
-        "bid": '10707501',
+        'name': '番75路',
+        'bid': '10707501',
         'starting_station': '国际商品展贸城总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -34676,8 +34676,8 @@ buses = {
         ]
     },
     '266路': {
-        "name": '266路',
-        "bid": '10026600',
+        'name': '266路',
+        'bid': '10026600',
         'starting_station': '珠江泳场总站①',
         'terminal_station': '汇景北路总站',
         'stations': [
@@ -34706,8 +34706,8 @@ buses = {
         ]
     },
     '792A': {
-        "name": '792A',
-        "bid": '10079221',
+        'name': '792A',
+        'bid': '10079221',
         'starting_station': '南湖半岛花园总站',
         'terminal_station': '南湖半岛花园总站',
         'stations': [
@@ -34730,8 +34730,8 @@ buses = {
         ]
     },
     '408路': {
-        "name": '408路',
-        "bid": '10040801',
+        'name': '408路',
+        'bid': '10040801',
         'starting_station': '广氮花园总站',
         'terminal_station': '广氮花园总站',
         'stations': [
@@ -34753,8 +34753,8 @@ buses = {
         ]
     },
     '759路': {
-        "name": '759路',
-        "bid": '10075901',
+        'name': '759路',
+        'bid': '10075901',
         'starting_station': '黄鹤路(广州市残疾人体育运动中心)总站',
         'terminal_station': '地铁江夏站总站',
         'stations': [
@@ -34768,8 +34768,8 @@ buses = {
         ]
     },
     '456路': {
-        "name": '456路',
-        "bid": '10045600',
+        'name': '456路',
+        'bid': '10045600',
         'starting_station': '长庚村总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -34786,8 +34786,8 @@ buses = {
         ]
     },
     '864路': {
-        "name": '864路',
-        "bid": '10086400',
+        'name': '864路',
+        'bid': '10086400',
         'starting_station': '海联路总站',
         'terminal_station': '白云山制药厂总站',
         'stations': [
@@ -34826,8 +34826,8 @@ buses = {
         ]
     },
     '76A路': {
-        "name": '76A路',
-        "bid": '10007620',
+        'name': '76A路',
+        'bid': '10007620',
         'starting_station': '农讲所站',
         'terminal_station': '龙归永兴村总站',
         'stations': [
@@ -34862,8 +34862,8 @@ buses = {
         ]
     },
     '324线': {
-        "name": '324线',
-        "bid": '10032401',
+        'name': '324线',
+        'bid': '10032401',
         'starting_station': '广州科学城(长安村)总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -34896,8 +34896,8 @@ buses = {
         ]
     },
     '番92B路': {
-        "name": '番92B路',
-        "bid": '10709230',
+        'name': '番92B路',
+        'bid': '10709230',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '石基地铁站',
         'stations': [
@@ -34932,8 +34932,8 @@ buses = {
         ]
     },
     '53路': {
-        "name": '53路',
-        "bid": '10005301',
+        'name': '53路',
+        'bid': '10005301',
         'starting_station': '杨桃公园(美林湖畔)总站',
         'terminal_station': '宝岗大道总站①',
         'stations': [
@@ -34972,8 +34972,8 @@ buses = {
         ]
     },
     '733路': {
-        "name": '733路',
-        "bid": '10073301',
+        'name': '733路',
+        'bid': '10073301',
         'starting_station': '米岗村总站',
         'terminal_station': '竹料总站②',
         'stations': [
@@ -34984,8 +34984,8 @@ buses = {
         ]
     },
     '218路': {
-        "name": '218路',
-        "bid": '10021801',
+        'name': '218路',
+        'bid': '10021801',
         'starting_station': '中科院化学所总站',
         'terminal_station': '杨桃公园(美林湖畔)总站',
         'stations': [
@@ -35018,8 +35018,8 @@ buses = {
         ]
     },
     '380路': {
-        "name": '380路',
-        "bid": '10038001',
+        'name': '380路',
+        'bid': '10038001',
         'starting_station': '大学城(广中医)总站',
         'terminal_station': '大学城(广中医)总站',
         'stations': [
@@ -35045,8 +35045,8 @@ buses = {
         ]
     },
     '754路': {
-        "name": '754路',
-        "bid": '10075401',
+        'name': '754路',
+        'bid': '10075401',
         'starting_station': '犀牛角村总站',
         'terminal_station': '犀牛角村总站',
         'stations': [
@@ -35063,8 +35063,8 @@ buses = {
         ]
     },
     '地铁9路': {
-        "name": '地铁9路',
-        "bid": '10700941',
+        'name': '地铁9路',
+        'bid': '10700941',
         'starting_station': '南村剑桥郡总站',
         'terminal_station': '地铁汉溪长隆站总站②',
         'stations': [
@@ -35088,8 +35088,8 @@ buses = {
         ]
     },
     '184路': {
-        "name": '184路',
-        "bid": '10018401',
+        'name': '184路',
+        'bid': '10018401',
         'starting_station': '横枝岗(广医肿瘤医院)总站',
         'terminal_station': '大塘总站',
         'stations': [
@@ -35120,8 +35120,8 @@ buses = {
         ]
     },
     '740路': {
-        "name": '740路',
-        "bid": '10074000',
+        'name': '740路',
+        'bid': '10074000',
         'starting_station': '嘉禾(长红双和工业区)总站',
         'terminal_station': '东平文化广场总站',
         'stations': [
@@ -35135,8 +35135,8 @@ buses = {
         ]
     },
     '番100路': {
-        "name": '番100路',
-        "bid": '10710000',
+        'name': '番100路',
+        'bid': '10710000',
         'starting_station': '雁洲村总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -35189,8 +35189,8 @@ buses = {
         ]
     },
     '138路': {
-        "name": '138路',
-        "bid": '10013801',
+        'name': '138路',
+        'bid': '10013801',
         'starting_station': '东莞庄总站',
         'terminal_station': '五羊新城总站',
         'stations': [
@@ -35214,8 +35214,8 @@ buses = {
         ]
     },
     '540路': {
-        "name": '540路',
-        "bid": '10054000',
+        'name': '540路',
+        'bid': '10054000',
         'starting_station': '员村一横路总站①',
         'terminal_station': '黄石路总站',
         'stations': [
@@ -35258,8 +35258,8 @@ buses = {
         ]
     },
     '273路': {
-        "name": '273路',
-        "bid": '10027300',
+        'name': '273路',
+        'bid': '10027300',
         'starting_station': '柯子岭(河田路)总站',
         'terminal_station': '晓港湾总站①',
         'stations': [
@@ -35290,8 +35290,8 @@ buses = {
         ]
     },
     '夜61': {
-        "name": '夜61',
-        "bid": '10006111',
+        'name': '夜61',
+        'bid': '10006111',
         'starting_station': '体育中心站1①',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -35319,8 +35319,8 @@ buses = {
         ]
     },
     '夜35': {
-        "name": '夜35',
-        "bid": '10003510',
+        'name': '夜35',
+        'bid': '10003510',
         'starting_station': '嘉禾(冶金研究所)总站',
         'terminal_station': '员村生活区(市六医院)总站',
         'stations': [
@@ -35358,8 +35358,8 @@ buses = {
         ]
     },
     '992环线': {
-        "name": '992环线',
-        "bid": '10099200',
+        'name': '992环线',
+        'bid': '10099200',
         'starting_station': '江泰路地铁站总站',
         'terminal_station': '江泰路地铁站总站',
         'stations': [
@@ -35378,8 +35378,8 @@ buses = {
         ]
     },
     '942路': {
-        "name": '942路',
-        "bid": '10094201',
+        'name': '942路',
+        'bid': '10094201',
         'starting_station': '永和开发区(禾丰新村)总站',
         'terminal_station': '永和开发区(树吓村)总站',
         'stations': [
@@ -35395,8 +35395,8 @@ buses = {
         ]
     },
     '508路': {
-        "name": '508路',
-        "bid": '10050800',
+        'name': '508路',
+        'bid': '10050800',
         'starting_station': '广州火车东站总站⑦b',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -35441,8 +35441,8 @@ buses = {
         ]
     },
     '南沙16路': {
-        "name": '南沙16路',
-        "bid": '10601600',
+        'name': '南沙16路',
+        'bid': '10601600',
         'starting_station': '保丰围总站',
         'terminal_station': '红洋村总站',
         'stations': [
@@ -35463,8 +35463,8 @@ buses = {
         ]
     },
     '882路': {
-        "name": '882路',
-        "bid": '10088201',
+        'name': '882路',
+        'bid': '10088201',
         'starting_station': '晓港湾总站②',
         'terminal_station': '员村生活区(市六医院)总站',
         'stations': [
@@ -35489,8 +35489,8 @@ buses = {
         ]
     },
     '301A线': {
-        "name": '301A线',
-        "bid": '10030121',
+        'name': '301A线',
+        'bid': '10030121',
         'starting_station': '流花车站总站①',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -35520,8 +35520,8 @@ buses = {
         ]
     },
     '123路': {
-        "name": '123路',
-        "bid": '10012300',
+        'name': '123路',
+        'bid': '10012300',
         'starting_station': '革新路(光大花园)总站',
         'terminal_station': '半岛花园总站',
         'stations': [
@@ -35551,8 +35551,8 @@ buses = {
         ]
     },
     '411路': {
-        "name": '411路',
-        "bid": '10041100',
+        'name': '411路',
+        'bid': '10041100',
         'starting_station': '郭村总站',
         'terminal_station': '芳和花园总站',
         'stations': [
@@ -35574,8 +35574,8 @@ buses = {
         ]
     },
     '410路': {
-        "name": '410路',
-        "bid": '10041001',
+        'name': '410路',
+        'bid': '10041001',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '地铁菊树站总站',
         'stations': [
@@ -35596,8 +35596,8 @@ buses = {
         ]
     },
     '番7路B线': {
-        "name": '番7路B线',
-        "bid": '10700731',
+        'name': '番7路B线',
+        'bid': '10700731',
         'starting_station': '沙湾总站',
         'terminal_station': '蔡三村总站',
         'stations': [
@@ -35640,8 +35640,8 @@ buses = {
         ]
     },
     'B16路': {
-        "name": 'B16路',
-        "bid": '10801601',
+        'name': 'B16路',
+        'bid': '10801601',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '云台花园总站④',
         'stations': [
@@ -35678,8 +35678,8 @@ buses = {
         ]
     },
     '公交假日专线2': {
-        "name": '公交假日专线2',
-        "bid": '10050271',
+        'name': '公交假日专线2',
+        'bid': '10050271',
         'starting_station': '流花车站总站①',
         'terminal_station': '大夫山森林公园总站',
         'stations': [
@@ -35703,8 +35703,8 @@ buses = {
         ]
     },
     '396路': {
-        "name": '396路',
-        "bid": '10039601',
+        'name': '396路',
+        'bid': '10039601',
         'starting_station': '科学城彩频路总站',
         'terminal_station': '岭头总站',
         'stations': [
@@ -35735,8 +35735,8 @@ buses = {
         ]
     },
     '夜16': {
-        "name": '夜16',
-        "bid": '10001610',
+        'name': '夜16',
+        'bid': '10001610',
         'starting_station': '门口岗总站',
         'terminal_station': '城西花园总站',
         'stations': [
@@ -35777,8 +35777,8 @@ buses = {
         ]
     },
     '201路': {
-        "name": '201路',
-        "bid": '10020100',
+        'name': '201路',
+        'bid': '10020100',
         'starting_station': '广州火车站总站q',
         'terminal_station': '犀牛角村总站',
         'stations': [
@@ -35803,8 +35803,8 @@ buses = {
         ]
     },
     '494A': {
-        "name": '494A',
-        "bid": '10049421',
+        'name': '494A',
+        'bid': '10049421',
         'starting_station': '科学城南部公交场总站',
         'terminal_station': '天河客运站总站③',
         'stations': [
@@ -35857,8 +35857,8 @@ buses = {
         ]
     },
     '南沙2路': {
-        "name": '南沙2路',
-        "bid": '10600201',
+        'name': '南沙2路',
+        'bid': '10600201',
         'starting_station': '新垦站',
         'terminal_station': '蕉门地铁总站',
         'stations': [
@@ -35894,8 +35894,8 @@ buses = {
         ]
     },
     '333路': {
-        "name": '333路',
-        "bid": '10033300',
+        'name': '333路',
+        'bid': '10033300',
         'starting_station': '萝岗香雪公园总站',
         'terminal_station': '联和(惠联路)总站',
         'stations': [
@@ -35925,8 +35925,8 @@ buses = {
         ]
     },
     '番56路': {
-        "name": '番56路',
-        "bid": '10705601',
+        'name': '番56路',
+        'bid': '10705601',
         'starting_station': '广州雅居乐总站',
         'terminal_station': '地铁厦滘站总站',
         'stations': [
@@ -35945,8 +35945,8 @@ buses = {
         ]
     },
     '20路': {
-        "name": '20路',
-        "bid": '10002001',
+        'name': '20路',
+        'bid': '10002001',
         'starting_station': '赤岗大塘总站',
         'terminal_station': '岑村教练场总站',
         'stations': [
@@ -35975,8 +35975,8 @@ buses = {
         ]
     },
     '126路': {
-        "name": '126路',
-        "bid": '10012600',
+        'name': '126路',
+        'bid': '10012600',
         'starting_station': '凰岗总站①',
         'terminal_station': '天河客运站总站⑤',
         'stations': [
@@ -36013,8 +36013,8 @@ buses = {
         ]
     },
     '大学城3线': {
-        "name": '大学城3线',
-        "bid": '10000320',
+        'name': '大学城3线',
+        'bid': '10000320',
         'starting_station': '广东药学院总站',
         'terminal_station': '大学城(中部枢纽)总站①',
         'stations': [
@@ -36055,8 +36055,8 @@ buses = {
         ]
     },
     '29路': {
-        "name": '29路',
-        "bid": '10002901',
+        'name': '29路',
+        'bid': '10002901',
         'starting_station': '站南路总站',
         'terminal_station': '广纸路总站',
         'stations': [
@@ -36085,8 +36085,8 @@ buses = {
         ]
     },
     '83路': {
-        "name": '83路',
-        "bid": '10008300',
+        'name': '83路',
+        'bid': '10008300',
         'starting_station': '白云山制药厂总站',
         'terminal_station': '广汕路(万龙路)总站',
         'stations': [
@@ -36125,8 +36125,8 @@ buses = {
         ]
     },
     '36路': {
-        "name": '36路',
-        "bid": '10003600',
+        'name': '36路',
+        'bid': '10003600',
         'starting_station': '珠江泳场总站③',
         'terminal_station': '黄石路总站',
         'stations': [
@@ -36163,8 +36163,8 @@ buses = {
         ]
     },
     '广205路': {
-        "name": '广205路',
-        "bid": '10020501',
+        'name': '广205路',
+        'bid': '10020501',
         'starting_station': '白沙(中海金沙湾)总站',
         'terminal_station': '康王路(上下九)总站(总站)',
         'stations': [
@@ -36199,8 +36199,8 @@ buses = {
         ]
     },
     '445路': {
-        "name": '445路',
-        "bid": '10044501',
+        'name': '445路',
+        'bid': '10044501',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '镇龙总站',
         'stations': [
@@ -36223,8 +36223,8 @@ buses = {
         ]
     },
     '941路': {
-        "name": '941路',
-        "bid": '10094101',
+        'name': '941路',
+        'bid': '10094101',
         'starting_station': '小塱总站',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -36238,8 +36238,8 @@ buses = {
         ]
     },
     '274路': {
-        "name": '274路',
-        "bid": '10027400',
+        'name': '274路',
+        'bid': '10027400',
         'starting_station': '富力桃园(增步村)总站',
         'terminal_station': '黄边村总站',
         'stations': [
@@ -36275,8 +36275,8 @@ buses = {
         ]
     },
     '660路': {
-        "name": '660路',
-        "bid": '10066000',
+        'name': '660路',
+        'bid': '10066000',
         'starting_station': '外语学院总站',
         'terminal_station': '外语外贸大学公开学院总站',
         'stations': [
@@ -36300,8 +36300,8 @@ buses = {
         ]
     },
     '46路': {
-        "name": '46路',
-        "bid": '10004601',
+        'name': '46路',
+        'bid': '10004601',
         'starting_station': '中科院化学所总站',
         'terminal_station': '罗冲围总站1①',
         'stations': [
@@ -36339,8 +36339,8 @@ buses = {
         ]
     },
     '41路': {
-        "name": '41路',
-        "bid": '10004100',
+        'name': '41路',
+        'bid': '10004100',
         'starting_station': '广州火车东站总站⑥c',
         'terminal_station': '汇景北路总站',
         'stations': [
@@ -36356,8 +36356,8 @@ buses = {
         ]
     },
     '301路': {
-        "name": '301路',
-        "bid": '10030100',
+        'name': '301路',
+        'bid': '10030100',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '流花车站总站①',
         'stations': [
@@ -36397,8 +36397,8 @@ buses = {
         ]
     },
     '743路': {
-        "name": '743路',
-        "bid": '10074300',
+        'name': '743路',
+        'bid': '10074300',
         'starting_station': '永泰新村总站',
         'terminal_station': '汇桥南路总站',
         'stations': [
@@ -36427,8 +36427,8 @@ buses = {
         ]
     },
     '753线': {
-        "name": '753线',
-        "bid": '10075301',
+        'name': '753线',
+        'bid': '10075301',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '人和(黄榜岭)总站',
         'stations': [
@@ -36463,8 +36463,8 @@ buses = {
         ]
     },
     '225路': {
-        "name": '225路',
-        "bid": '10022501',
+        'name': '225路',
+        'bid': '10022501',
         'starting_station': '机务段总站①',
         'terminal_station': '滨江东路总站',
         'stations': [
@@ -36489,8 +36489,8 @@ buses = {
         ]
     },
     '442路': {
-        "name": '442路',
-        "bid": '10044201',
+        'name': '442路',
+        'bid': '10044201',
         'starting_station': '石龙头总站',
         'terminal_station': '镇龙总站',
         'stations': [
@@ -36506,8 +36506,8 @@ buses = {
         ]
     },
     '夜52': {
-        "name": '夜52',
-        "bid": '10005211',
+        'name': '夜52',
+        'bid': '10005211',
         'starting_station': '外语学院(白云山西门)站',
         'terminal_station': '广州科学城(长安村)总站',
         'stations': [
@@ -36567,8 +36567,8 @@ buses = {
         ]
     },
     '45路': {
-        "name": '45路',
-        "bid": '10004501',
+        'name': '45路',
+        'bid': '10004501',
         'starting_station': '广州火车东站总站⑤a',
         'terminal_station': '小洲总站',
         'stations': [
@@ -36597,8 +36597,8 @@ buses = {
         ]
     },
     'B10路': {
-        "name": 'B10路',
-        "bid": '10801000',
+        'name': 'B10路',
+        'bid': '10801000',
         'starting_station': '岑村火炉山森林公园总站',
         'terminal_station': '广州火车站总站a',
         'stations': [
@@ -36626,8 +36626,8 @@ buses = {
         ]
     },
     '383路': {
-        "name": '383路',
-        "bid": '10038300',
+        'name': '383路',
+        'bid': '10038300',
         'starting_station': '大学城(科学中心)总站①',
         'terminal_station': '长洲码头总站',
         'stations': [
@@ -36661,8 +36661,8 @@ buses = {
         ]
     },
     '番148B路': {
-        "name": '番148B路',
-        "bid": '10714831',
+        'name': '番148B路',
+        'bid': '10714831',
         'starting_station': '地铁海傍站总站',
         'terminal_station': '打捞局总站',
         'stations': [
@@ -36697,8 +36697,8 @@ buses = {
         ]
     },
     '583路': {
-        "name": '583路',
-        "bid": '10058301',
+        'name': '583路',
+        'bid': '10058301',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '员村一横路总站①',
         'stations': [
@@ -36734,8 +36734,8 @@ buses = {
         ]
     },
     '651线': {
-        "name": '651线',
-        "bid": '10065100',
+        'name': '651线',
+        'bid': '10065100',
         'starting_station': '云城南二路总站',
         'terminal_station': '云城南二路总站',
         'stations': [
@@ -36761,8 +36761,8 @@ buses = {
         ]
     },
     '78A线': {
-        "name": '78A线',
-        "bid": '10007821',
+        'name': '78A线',
+        'bid': '10007821',
         'starting_station': '东山广场总站',
         'terminal_station': '天河智慧城核心区总站(高唐)',
         'stations': [
@@ -36801,8 +36801,8 @@ buses = {
         ]
     },
     '78A线': {
-        "name": '78A线',
-        "bid": '10007820',
+        'name': '78A线',
+        'bid': '10007820',
         'starting_station': '天河智慧城核心区总站(高唐)',
         'terminal_station': '东山广场总站',
         'stations': [
@@ -36840,8 +36840,8 @@ buses = {
         ]
     },
     '15路': {
-        "name": '15路',
-        "bid": '10001500',
+        'name': '15路',
+        'bid': '10001500',
         'starting_station': '西华路尾总站②',
         'terminal_station': '汾水小区总站②',
         'stations': [
@@ -36861,8 +36861,8 @@ buses = {
         ]
     },
     '392路': {
-        "name": '392路',
-        "bid": '10039201',
+        'name': '392路',
+        'bid': '10039201',
         'starting_station': '萝岗街总站',
         'terminal_station': '黄登村总站',
         'stations': [
@@ -36894,8 +36894,8 @@ buses = {
         ]
     },
     '高峰快线78': {
-        "name": '高峰快线78',
-        "bid": '10007861',
+        'name': '高峰快线78',
+        'bid': '10007861',
         'starting_station': '宏威路站',
         'terminal_station': '靖海路口站',
         'stations': [
@@ -36918,8 +36918,8 @@ buses = {
         ]
     },
     '南沙23路': {
-        "name": '南沙23路',
-        "bid": '10602300',
+        'name': '南沙23路',
+        'bid': '10602300',
         'starting_station': '蕉门地铁总站',
         'terminal_station': '十九涌水产市场总站',
         'stations': [
@@ -36935,8 +36935,8 @@ buses = {
         ]
     },
     '767路': {
-        "name": '767路',
-        "bid": '10076701',
+        'name': '767路',
+        'bid': '10076701',
         'starting_station': '大江苑总站',
         'terminal_station': '大江苑总站',
         'stations': [
@@ -36956,8 +36956,8 @@ buses = {
         ]
     },
     '番163路': {
-        "name": '番163路',
-        "bid": '10716300',
+        'name': '番163路',
+        'bid': '10716300',
         'starting_station': '地铁汉溪长隆站总站①',
         'terminal_station': '地铁汉溪长隆站总站①',
         'stations': [
@@ -36991,8 +36991,8 @@ buses = {
         ]
     },
     '夜54': {
-        "name": '夜54',
-        "bid": '10005411',
+        'name': '夜54',
+        'bid': '10005411',
         'starting_station': '白沙(中海金沙湾)总站',
         'terminal_station': '西村地铁站总站',
         'stations': [
@@ -37012,8 +37012,8 @@ buses = {
         ]
     },
     '750线': {
-        "name": '750线',
-        "bid": '10075001',
+        'name': '750线',
+        'bid': '10075001',
         'starting_station': '神山总站',
         'terminal_station': '人和墟(万家福广场)总站',
         'stations': [
@@ -37043,8 +37043,8 @@ buses = {
         ]
     },
     '334路': {
-        "name": '334路',
-        "bid": '10033401',
+        'name': '334路',
+        'bid': '10033401',
         'starting_station': '南岗(国际玩具礼品城)总站',
         'terminal_station': '萝岗演艺中心总站',
         'stations': [
@@ -37075,8 +37075,8 @@ buses = {
         ]
     },
     '番128': {
-        "name": '番128',
-        "bid": '10712801',
+        'name': '番128',
+        'bid': '10712801',
         'starting_station': '化龙车站总站',
         'terminal_station': '莲花山车站总站',
         'stations': [
@@ -37116,8 +37116,8 @@ buses = {
         ]
     },
     '943路': {
-        "name": '943路',
-        "bid": '10094300',
+        'name': '943路',
+        'bid': '10094300',
         'starting_station': '萝岗香雪公园总站',
         'terminal_station': '黄埔客运站总站',
         'stations': [
@@ -37149,8 +37149,8 @@ buses = {
         ]
     },
     '番151B路': {
-        "name": '番151B路',
-        "bid": '10715120',
+        'name': '番151B路',
+        'bid': '10715120',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '鱼窝头太石工业区总站',
         'stations': [
@@ -37182,8 +37182,8 @@ buses = {
         ]
     },
     '333路': {
-        "name": '333路',
-        "bid": '10033301',
+        'name': '333路',
+        'bid': '10033301',
         'starting_station': '联和(惠联路)总站',
         'terminal_station': '萝岗香雪公园总站',
         'stations': [
@@ -37213,8 +37213,8 @@ buses = {
         ]
     },
     '431路': {
-        "name": '431路',
-        "bid": '10043100',
+        'name': '431路',
+        'bid': '10043100',
         'starting_station': '鱼珠码头总站①',
         'terminal_station': '护林路东总站',
         'stations': [
@@ -37236,8 +37236,8 @@ buses = {
         ]
     },
     '355路': {
-        "name": '355路',
-        "bid": '10035500',
+        'name': '355路',
+        'bid': '10035500',
         'starting_station': '天河智慧城核心区总站(高唐)',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -37271,8 +37271,8 @@ buses = {
         ]
     },
     '广佛快线': {
-        "name": '广佛快线',
-        "bid": '10700160',
+        'name': '广佛快线',
+        'bid': '10700160',
         'starting_station': '广州南站总站',
         'terminal_station': '容桂汽车站',
         'stations': [
@@ -37291,8 +37291,8 @@ buses = {
         ]
     },
     '18路': {
-        "name": '18路',
-        "bid": '10001800',
+        'name': '18路',
+        'bid': '10001800',
         'starting_station': '赤沙(广东商学院)总站',
         'terminal_station': '体育中心站1③',
         'stations': [
@@ -37311,8 +37311,8 @@ buses = {
         ]
     },
     '574路': {
-        "name": '574路',
-        "bid": '10057400',
+        'name': '574路',
+        'bid': '10057400',
         'starting_station': '车陂总站③',
         'terminal_station': '开创大道(万科城)总站',
         'stations': [
@@ -37346,8 +37346,8 @@ buses = {
         ]
     },
     '575A线': {
-        "name": '575A线',
-        "bid": '10057520',
+        'name': '575A线',
+        'bid': '10057520',
         'starting_station': '萝岗街总站',
         'terminal_station': '镇龙总站',
         'stations': [
@@ -37381,8 +37381,8 @@ buses = {
         ]
     },
     '715路': {
-        "name": '715路',
-        "bid": '10071501',
+        'name': '715路',
+        'bid': '10071501',
         'starting_station': '花都狮岭五金龙头市场总站',
         'terminal_station': '人和商业中心总站',
         'stations': [
@@ -37423,8 +37423,8 @@ buses = {
         ]
     },
     '288路': {
-        "name": '288路',
-        "bid": '10028800',
+        'name': '288路',
+        'bid': '10028800',
         'starting_station': '祈福新村总站',
         'terminal_station': '西华路尾总站②',
         'stations': [
@@ -37468,8 +37468,8 @@ buses = {
         ]
     },
     '342路': {
-        "name": '342路',
-        "bid": '10034201',
+        'name': '342路',
+        'bid': '10034201',
         'starting_station': '莲塘村总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -37488,8 +37488,8 @@ buses = {
         ]
     },
     '210路': {
-        "name": '210路',
-        "bid": '10021000',
+        'name': '210路',
+        'bid': '10021000',
         'starting_station': '广州火车站总站',
         'terminal_station': '南岗(国际玩具礼品城)总站',
         'stations': [
@@ -37522,8 +37522,8 @@ buses = {
         ]
     },
     '番7路B线': {
-        "name": '番7路B线',
-        "bid": '10700730',
+        'name': '番7路B线',
+        'bid': '10700730',
         'starting_station': '蔡三村总站',
         'terminal_station': '沙湾总站',
         'stations': [
@@ -37562,8 +37562,8 @@ buses = {
         ]
     },
     '582路': {
-        "name": '582路',
-        "bid": '10058201',
+        'name': '582路',
+        'bid': '10058201',
         'starting_station': '凌塘村总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -37594,8 +37594,8 @@ buses = {
         ]
     },
     '560路': {
-        "name": '560路',
-        "bid": '10056000',
+        'name': '560路',
+        'bid': '10056000',
         'starting_station': '南湖游乐园总站',
         'terminal_station': '华景新城总站①',
         'stations': [
@@ -37625,8 +37625,8 @@ buses = {
         ]
     },
     'B2路': {
-        "name": 'B2路',
-        "bid": '10800200',
+        'name': 'B2路',
+        'bid': '10800200',
         'starting_station': '广州火车站总站f',
         'terminal_station': '东圃总站①',
         'stations': [
@@ -37650,8 +37650,8 @@ buses = {
         ]
     },
     '945路': {
-        "name": '945路',
-        "bid": '10094501',
+        'name': '945路',
+        'bid': '10094501',
         'starting_station': '地铁大沙地站总站',
         'terminal_station': '开创大道(万科城)总站',
         'stations': [
@@ -37682,8 +37682,8 @@ buses = {
         ]
     },
     '573路': {
-        "name": '573路',
-        "bid": '10057300',
+        'name': '573路',
+        'bid': '10057300',
         'starting_station': '西区公交总站',
         'terminal_station': '科学城彩频路总站',
         'stations': [
@@ -37743,8 +37743,8 @@ buses = {
         ]
     },
     '771路': {
-        "name": '771路',
-        "bid": '10077100',
+        'name': '771路',
+        'bid': '10077100',
         'starting_station': '东方一路总站',
         'terminal_station': '车陂总站②',
         'stations': [
@@ -37761,8 +37761,8 @@ buses = {
         ]
     },
     '291B短线': {
-        "name": '291B短线',
-        "bid": '10029120',
+        'name': '291B短线',
+        'bid': '10029120',
         'starting_station': '潭村北大街总站',
         'terminal_station': '潭村北大街站',
         'stations': [
@@ -37802,8 +37802,8 @@ buses = {
         ]
     },
     '夜84': {
-        "name": '夜84',
-        "bid": '10008411',
+        'name': '夜84',
+        'bid': '10008411',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '清湖村(苏元庄)总站',
         'stations': [
@@ -37826,8 +37826,8 @@ buses = {
         ]
     },
     '夜53': {
-        "name": '夜53',
-        "bid": '10005311',
+        'name': '夜53',
+        'bid': '10005311',
         'starting_station': '体育中心站1①',
         'terminal_station': '岑村站',
         'stations': [
@@ -37846,8 +37846,8 @@ buses = {
         ]
     },
     '番189': {
-        "name": '番189',
-        "bid": '10718900',
+        'name': '番189',
+        'bid': '10718900',
         'starting_station': '地铁南浦总站',
         'terminal_station': '地铁南浦总站',
         'stations': [
@@ -37880,8 +37880,8 @@ buses = {
         ]
     },
     '501路': {
-        "name": '501路',
-        "bid": '10050101',
+        'name': '501路',
+        'bid': '10050101',
         'starting_station': '九佛总站',
         'terminal_station': '广州火车东站总站⑥b',
         'stations': [
@@ -37947,8 +37947,8 @@ buses = {
         ]
     },
     '91路': {
-        "name": '91路',
-        "bid": '10009101',
+        'name': '91路',
+        'bid': '10009101',
         'starting_station': '珠光路总站',
         'terminal_station': '芳村茶叶市场总站',
         'stations': [
@@ -37982,8 +37982,8 @@ buses = {
         ]
     },
     '924路': {
-        "name": '924路',
-        "bid": '10092401',
+        'name': '924路',
+        'bid': '10092401',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '永兴庄总站',
         'stations': [
@@ -38007,8 +38007,8 @@ buses = {
         ]
     },
     '807路': {
-        "name": '807路',
-        "bid": '10080700',
+        'name': '807路',
+        'bid': '10080700',
         'starting_station': '广州火车站总站',
         'terminal_station': '嘉禾(长红双和工业区)总站',
         'stations': [
@@ -38047,8 +38047,8 @@ buses = {
         ]
     },
     '75路': {
-        "name": '75路',
-        "bid": '10007501',
+        'name': '75路',
+        'bid': '10007501',
         'starting_station': '郭村总站',
         'terminal_station': '侨城花园总站',
         'stations': [
@@ -38079,8 +38079,8 @@ buses = {
         ]
     },
     '公交假日专线': {
-        "name": '公交假日专线',
-        "bid": '10050370',
+        'name': '公交假日专线',
+        'bid': '10050370',
         'starting_station': '广州碧桂园总站',
         'terminal_station': '云台花园站',
         'stations': [
@@ -38102,8 +38102,8 @@ buses = {
         ]
     },
     '番21B线': {
-        "name": '番21B线',
-        "bid": '10702131',
+        'name': '番21B线',
+        'bid': '10702131',
         'starting_station': '新市桥汽车站总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -38126,8 +38126,8 @@ buses = {
         ]
     },
     '124路': {
-        "name": '124路',
-        "bid": '10012401',
+        'name': '124路',
+        'bid': '10012401',
         'starting_station': '滘口客运站总站⑦',
         'terminal_station': '云苑新村总站',
         'stations': [
@@ -38151,8 +38151,8 @@ buses = {
         ]
     },
     '284路': {
-        "name": '284路',
-        "bid": '10028400',
+        'name': '284路',
+        'bid': '10028400',
         'starting_station': '员村(绢麻厂)总站',
         'terminal_station': '广园新村总站①',
         'stations': [
@@ -38183,8 +38183,8 @@ buses = {
         ]
     },
     '番148路': {
-        "name": '番148路',
-        "bid": '10714800',
+        'name': '番148路',
+        'bid': '10714800',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '沙南村总站',
         'stations': [
@@ -38228,8 +38228,8 @@ buses = {
         ]
     },
     '番129': {
-        "name": '番129',
-        "bid": '10712900',
+        'name': '番129',
+        'bid': '10712900',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -38269,8 +38269,8 @@ buses = {
         ]
     },
     '827路': {
-        "name": '827路',
-        "bid": '10082700',
+        'name': '827路',
+        'bid': '10082700',
         'starting_station': '太和(沙亭岗村)总站',
         'terminal_station': '九佛总站',
         'stations': [
@@ -38295,8 +38295,8 @@ buses = {
         ]
     },
     '186路': {
-        "name": '186路',
-        "bid": '10018600',
+        'name': '186路',
+        'bid': '10018600',
         'starting_station': '广园新村总站③',
         'terminal_station': '珠江医院总站①',
         'stations': [
@@ -38330,8 +38330,8 @@ buses = {
         ]
     },
     '夜28路': {
-        "name": '夜28路',
-        "bid": '10002810',
+        'name': '夜28路',
+        'bid': '10002810',
         'starting_station': '丽江花园总站',
         'terminal_station': '广州火车东站总站③a',
         'stations': [
@@ -38358,8 +38358,8 @@ buses = {
         ]
     },
     '南沙7路': {
-        "name": '南沙7路',
-        "bid": '10600700',
+        'name': '南沙7路',
+        'bid': '10600700',
         'starting_station': '麒麟中学总站',
         'terminal_station': '沙仔码头总站',
         'stations': [
@@ -38384,8 +38384,8 @@ buses = {
         ]
     },
     'S13A路': {
-        "name": 'S13A路',
-        "bid": '20901311',
+        'name': 'S13A路',
+        'bid': '20901311',
         'starting_station': '南浦锦绣半岛码头(总站)',
         'terminal_station': '黄沙码头(总站)',
         'stations': [
@@ -38394,8 +38394,8 @@ buses = {
         ]
     },
     '假日专线7': {
-        "name": '假日专线7',
-        "bid": '10030771',
+        'name': '假日专线7',
+        'bid': '10030771',
         'starting_station': '穗丰村(广东技术师范学院天河学院)总站',
         'terminal_station': '动物园南门总站①',
         'stations': [
@@ -38408,8 +38408,8 @@ buses = {
         ]
     },
     '夜17': {
-        "name": '夜17',
-        "bid": '10001711',
+        'name': '夜17',
+        'bid': '10001711',
         'starting_station': '广州火车东站总站②a',
         'terminal_station': '珠村站',
         'stations': [
@@ -38435,8 +38435,8 @@ buses = {
         ]
     },
     '夜74': {
-        "name": '夜74',
-        "bid": '10007411',
+        'name': '夜74',
+        'bid': '10007411',
         'starting_station': '太和(谢家庄)总站',
         'terminal_station': '广州火车东站总站',
         'stations': [
@@ -38483,8 +38483,8 @@ buses = {
         ]
     },
     '665路': {
-        "name": '665路',
-        "bid": '10066500',
+        'name': '665路',
+        'bid': '10066500',
         'starting_station': '黄园路(黄石花园)总站',
         'terminal_station': '黄园路(黄石花园)总站',
         'stations': [
@@ -38502,8 +38502,8 @@ buses = {
         ]
     },
     '80路': {
-        "name": '80路',
-        "bid": '10008001',
+        'name': '80路',
+        'bid': '10008001',
         'starting_station': '金德苑(同德围)总站',
         'terminal_station': '逸景翠园总站',
         'stations': [
@@ -38538,8 +38538,8 @@ buses = {
         ]
     },
     '567路': {
-        "name": '567路',
-        "bid": '10056701',
+        'name': '567路',
+        'bid': '10056701',
         'starting_station': '笔村总站',
         'terminal_station': '西区公交总站',
         'stations': [
@@ -38565,8 +38565,8 @@ buses = {
         ]
     },
     '803路': {
-        "name": '803路',
-        "bid": '10080300',
+        'name': '803路',
+        'bid': '10080300',
         'starting_station': '广州火车站总站a',
         'terminal_station': '东平总站',
         'stations': [
@@ -38608,8 +38608,8 @@ buses = {
         ]
     },
     '假日专线7': {
-        "name": '假日专线7',
-        "bid": '10030770',
+        'name': '假日专线7',
+        'bid': '10030770',
         'starting_station': '动物园南门总站①',
         'terminal_station': '穗丰村(广东技术师范学院天河学院)总站',
         'stations': [
@@ -38621,8 +38621,8 @@ buses = {
         ]
     },
     '546路': {
-        "name": '546路',
-        "bid": '10054600',
+        'name': '546路',
+        'bid': '10054600',
         'starting_station': '南洲花园总站',
         'terminal_station': '河田西路总站',
         'stations': [
@@ -38659,8 +38659,8 @@ buses = {
         ]
     },
     '466路': {
-        "name": '466路',
-        "bid": '10046600',
+        'name': '466路',
+        'bid': '10046600',
         'starting_station': '地铁东晓南总站',
         'terminal_station': '后滘大街总站',
         'stations': [
@@ -38676,8 +38676,8 @@ buses = {
         ]
     },
     '979路': {
-        "name": '979路',
-        "bid": '10097900',
+        'name': '979路',
+        'bid': '10097900',
         'starting_station': '马洞村总站',
         'terminal_station': '人和总站',
         'stations': [
@@ -38718,8 +38718,8 @@ buses = {
         ]
     },
     '348路': {
-        "name": '348路',
-        "bid": '10034800',
+        'name': '348路',
+        'bid': '10034800',
         'starting_station': '丰乐南路总站',
         'terminal_station': '奥林匹克体育中心总站',
         'stations': [
@@ -38742,8 +38742,8 @@ buses = {
         ]
     },
     '番145路': {
-        "name": '番145路',
-        "bid": '10714501',
+        'name': '番145路',
+        'bid': '10714501',
         'starting_station': '广州南站总站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -38789,8 +38789,8 @@ buses = {
         ]
     },
     '1路': {
-        "name": '1路',
-        "bid": '10000101',
+        'name': '1路',
+        'bid': '10000101',
         'starting_station': '东山总站',
         'terminal_station': '芳村花园总站①',
         'stations': [
@@ -38819,8 +38819,8 @@ buses = {
         ]
     },
     '62路': {
-        "name": '62路',
-        "bid": '10006201',
+        'name': '62路',
+        'bid': '10006201',
         'starting_station': '石槎路总站',
         'terminal_station': '广州火车东站总站②b',
         'stations': [
@@ -38863,8 +38863,8 @@ buses = {
         ]
     },
     '夜82': {
-        "name": '夜82',
-        "bid": '10008211',
+        'name': '夜82',
+        'bid': '10008211',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '景泰直街总站',
         'stations': [
@@ -38881,8 +38881,8 @@ buses = {
         ]
     },
     '89路': {
-        "name": '89路',
-        "bid": '10008901',
+        'name': '89路',
+        'bid': '10008901',
         'starting_station': '大沙头总站①',
         'terminal_station': '天河客运站总站①',
         'stations': [
@@ -38910,8 +38910,8 @@ buses = {
         ]
     },
     '757路': {
-        "name": '757路',
-        "bid": '10075700',
+        'name': '757路',
+        'bid': '10075700',
         'starting_station': '马岗(广大服装城)总站',
         'terminal_station': '金信路(金信花园)总站',
         'stations': [
@@ -38934,8 +38934,8 @@ buses = {
         ]
     },
     '71路': {
-        "name": '71路',
-        "bid": '10007100',
+        'name': '71路',
+        'bid': '10007100',
         'starting_station': '芳村西塱总站②',
         'terminal_station': '同德围(田心村)总站',
         'stations': [
@@ -38966,8 +38966,8 @@ buses = {
         ]
     },
     '735路': {
-        "name": '735路',
-        "bid": '10073501',
+        'name': '735路',
+        'bid': '10073501',
         'starting_station': '田心村总站',
         'terminal_station': '龙归地铁站总站',
         'stations': [
@@ -38982,8 +38982,8 @@ buses = {
         ]
     },
     '276路': {
-        "name": '276路',
-        "bid": '10027600',
+        'name': '276路',
+        'bid': '10027600',
         'starting_station': '南洲北路(好信广场)总站',
         'terminal_station': '万科四季花城总站',
         'stations': [
@@ -39017,8 +39017,8 @@ buses = {
         ]
     },
     '番97路': {
-        "name": '番97路',
-        "bid": '10709700',
+        'name': '番97路',
+        'bid': '10709700',
         'starting_station': '雁洲村总站',
         'terminal_station': '陈村客运站',
         'stations': [
@@ -39075,8 +39075,8 @@ buses = {
         ]
     },
     '132路': {
-        "name": '132路',
-        "bid": '10013200',
+        'name': '132路',
+        'bid': '10013200',
         'starting_station': '中山八路总站①',
         'terminal_station': '白天鹅花园总站',
         'stations': [
@@ -39095,8 +39095,8 @@ buses = {
         ]
     },
     '798路': {
-        "name": '798路',
-        "bid": '10079800',
+        'name': '798路',
+        'bid': '10079800',
         'starting_station': '黄边北路总站',
         'terminal_station': '黄边北路总站',
         'stations': [
@@ -39127,8 +39127,8 @@ buses = {
         ]
     },
     '番15路': {
-        "name": '番15路',
-        "bid": '10701501',
+        'name': '番15路',
+        'bid': '10701501',
         'starting_station': '雄峰商城总站',
         'terminal_station': '珠宝产业园总站',
         'stations': [
@@ -39162,8 +39162,8 @@ buses = {
         ]
     },
     '214路': {
-        "name": '214路',
-        "bid": '10021400',
+        'name': '214路',
+        'bid': '10021400',
         'starting_station': '广州火车东站总站④c',
         'terminal_station': '新塘总站',
         'stations': [
@@ -39201,8 +39201,8 @@ buses = {
         ]
     },
     '南沙36路': {
-        "name": '南沙36路',
-        "bid": '10603601',
+        'name': '南沙36路',
+        'bid': '10603601',
         'starting_station': '西樵幼儿园总站',
         'terminal_station': '东涌湖公交总站',
         'stations': [
@@ -39237,8 +39237,8 @@ buses = {
         ]
     },
     '番17路': {
-        "name": '番17路',
-        "bid": '10701700',
+        'name': '番17路',
+        'bid': '10701700',
         'starting_station': '南村汽车站总站',
         'terminal_station': '洛溪南浦总站',
         'stations': [
@@ -39280,8 +39280,8 @@ buses = {
         ]
     },
     '473路': {
-        "name": '473路',
-        "bid": '10047300',
+        'name': '473路',
+        'bid': '10047300',
         'starting_station': '良田村委总站',
         'terminal_station': '钟落潭总站',
         'stations': [
@@ -39301,8 +39301,8 @@ buses = {
         ]
     },
     '夜42路': {
-        "name": '夜42路',
-        "bid": '10004211',
+        'name': '夜42路',
+        'bid': '10004211',
         'starting_station': '金宇花园总站',
         'terminal_station': '珠江帝景苑总站',
         'stations': [
@@ -39328,8 +39328,8 @@ buses = {
         ]
     },
     '40路': {
-        "name": '40路',
-        "bid": '10004000',
+        'name': '40路',
+        'bid': '10004000',
         'starting_station': '东山总站',
         'terminal_station': '广氮花园总站',
         'stations': [
@@ -39367,8 +39367,8 @@ buses = {
         ]
     },
     '228路': {
-        "name": '228路',
-        "bid": '10022800',
+        'name': '228路',
+        'bid': '10022800',
         'starting_station': '广州火车站总站o',
         'terminal_station': '石井庆丰总站',
         'stations': [
@@ -39397,8 +39397,8 @@ buses = {
         ]
     },
     '106路': {
-        "name": '106路',
-        "bid": '10010601',
+        'name': '106路',
+        'bid': '10010601',
         'starting_station': '文化公园总站①',
         'terminal_station': '锦城花园(东风东)总站①',
         'stations': [
@@ -39420,8 +39420,8 @@ buses = {
         ]
     },
     '番2B路': {
-        "name": '番2B路',
-        "bid": '10700231',
+        'name': '番2B路',
+        'bid': '10700231',
         'starting_station': '樟边村总站',
         'terminal_station': '北城公交总站',
         'stations': [
@@ -39442,8 +39442,8 @@ buses = {
         ]
     },
     '415路': {
-        "name": '415路',
-        "bid": '10041501',
+        'name': '415路',
+        'bid': '10041501',
         'starting_station': '中山八路总站①',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -39459,8 +39459,8 @@ buses = {
         ]
     },
     '夜78路': {
-        "name": '夜78路',
-        "bid": '10007810',
+        'name': '夜78路',
+        'bid': '10007810',
         'starting_station': '广州火车东站总站⑦b',
         'terminal_station': '中山八路总站',
         'stations': [
@@ -39488,8 +39488,8 @@ buses = {
         ]
     },
     '180路': {
-        "name": '180路',
-        "bid": '10018000',
+        'name': '180路',
+        'bid': '10018000',
         'starting_station': '广州火车站总站j',
         'terminal_station': '沥滘(珠江御景湾)总站',
         'stations': [
@@ -39527,8 +39527,8 @@ buses = {
         ]
     },
     '113路': {
-        "name": '113路',
-        "bid": '10011301',
+        'name': '113路',
+        'bid': '10011301',
         'starting_station': '棠安路总站',
         'terminal_station': '南田路总站',
         'stations': [
@@ -39553,8 +39553,8 @@ buses = {
         ]
     },
     '夜2': {
-        "name": '夜2',
-        "bid": '10000211',
+        'name': '夜2',
+        'bid': '10000211',
         'starting_station': '凰岗(锦东服装城)总站',
         'terminal_station': '东山总站',
         'stations': [
@@ -39592,8 +39592,8 @@ buses = {
         ]
     },
     '451路': {
-        "name": '451路',
-        "bid": '10045101',
+        'name': '451路',
+        'bid': '10045101',
         'starting_station': '元贝村总站',
         'terminal_station': '塘山村总站',
         'stations': [
@@ -39613,8 +39613,8 @@ buses = {
         ]
     },
     'B26路': {
-        "name": 'B26路',
-        "bid": '10802600',
+        'name': 'B26路',
+        'bid': '10802600',
         'starting_station': '凌塘村总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -39653,8 +39653,8 @@ buses = {
         ]
     },
     '298路': {
-        "name": '298路',
-        "bid": '10029800',
+        'name': '298路',
+        'bid': '10029800',
         'starting_station': '夏茅客运站总站①',
         'terminal_station': '华景新城总站①',
         'stations': [
@@ -39691,8 +39691,8 @@ buses = {
         ]
     },
     '2路': {
-        "name": '2路',
-        "bid": '10000201',
+        'name': '2路',
+        'bid': '10000201',
         'starting_station': '锦城花园(东风东)总站①',
         'terminal_station': '泮塘总站',
         'stations': [
@@ -39718,8 +39718,8 @@ buses = {
         ]
     },
     'S13A路': {
-        "name": 'S13A路',
-        "bid": '20901310',
+        'name': 'S13A路',
+        'bid': '20901310',
         'starting_station': '黄沙码头(总站)',
         'terminal_station': '南浦锦绣半岛码头(总站)',
         'stations': [
@@ -39728,8 +39728,8 @@ buses = {
         ]
     },
     '903路': {
-        "name": '903路',
-        "bid": '10090300',
+        'name': '903路',
+        'bid': '10090300',
         'starting_station': '地铁三溪站总站',
         'terminal_station': '天河智慧城核心区总站(高唐)',
         'stations': [
@@ -39756,8 +39756,8 @@ buses = {
         ]
     },
     '335路': {
-        "name": '335路',
-        "bid": '10033501',
+        'name': '335路',
+        'bid': '10033501',
         'starting_station': '云埔一路(中一药业)总站',
         'terminal_station': '科学城彩频路总站',
         'stations': [
@@ -39783,8 +39783,8 @@ buses = {
         ]
     },
     '南沙3路': {
-        "name": '南沙3路',
-        "bid": '10600301',
+        'name': '南沙3路',
+        'bid': '10600301',
         'starting_station': '黄阁汽车城总站',
         'terminal_station': '南沙湾总站',
         'stations': [
@@ -39821,8 +39821,8 @@ buses = {
         ]
     },
     'S11路': {
-        "name": 'S11路',
-        "bid": '20901100',
+        'name': 'S11路',
+        'bid': '20901100',
         'starting_station': '广州塔码头(总站)',
         'terminal_station': '海心沙码头(总站)',
         'stations': [
@@ -39831,8 +39831,8 @@ buses = {
         ]
     },
     '467路': {
-        "name": '467路',
-        "bid": '10046701',
+        'name': '467路',
+        'bid': '10046701',
         'starting_station': '北山路口总站',
         'terminal_station': '赤沙(广东商学院)总站',
         'stations': [
@@ -39843,8 +39843,8 @@ buses = {
         ]
     },
     '夜83': {
-        "name": '夜83',
-        "bid": '10008311',
+        'name': '夜83',
+        'bid': '10008311',
         'starting_station': '竹料路口总站',
         'terminal_station': '人和墟(万家福广场)总站',
         'stations': [
@@ -39870,8 +39870,8 @@ buses = {
         ]
     },
     '346路': {
-        "name": '346路',
-        "bid": '10034600',
+        'name': '346路',
+        'bid': '10034600',
         'starting_station': '长福路(天河客运站)总站',
         'terminal_station': '穗丰村(广东技术师范学院天河学院)总站',
         'stations': [
@@ -39900,8 +39900,8 @@ buses = {
         ]
     },
     'S13B路': {
-        "name": 'S13B路',
-        "bid": '20901320',
+        'name': 'S13B路',
+        'bid': '20901320',
         'starting_station': '白蚬壳码头(总站)',
         'terminal_station': '南浦锦绣半岛码头(总站)',
         'stations': [
@@ -39910,8 +39910,8 @@ buses = {
         ]
     },
     '332路': {
-        "name": '332路',
-        "bid": '10033200',
+        'name': '332路',
+        'bid': '10033200',
         'starting_station': '长江路(广东省第二工人医院)总站',
         'terminal_station': '大学城综合商业北区总站',
         'stations': [
@@ -39929,8 +39929,8 @@ buses = {
         ]
     },
     '86路': {
-        "name": '86路',
-        "bid": '10008600',
+        'name': '86路',
+        'bid': '10008600',
         'starting_station': '广工一路',
         'terminal_station': '一德西总站',
         'stations': [
@@ -39977,8 +39977,8 @@ buses = {
         ]
     },
     '85路': {
-        "name": '85路',
-        "bid": '10008500',
+        'name': '85路',
+        'bid': '10008500',
         'starting_station': '中山八路总站①',
         'terminal_station': '天平架总站⑥b',
         'stations': [
@@ -40004,8 +40004,8 @@ buses = {
         ]
     },
     '夜6路': {
-        "name": '夜6路',
-        "bid": '10000611',
+        'name': '夜6路',
+        'bid': '10000611',
         'starting_station': '新滘东路(龙潭村)总站',
         'terminal_station': '中山八路总站',
         'stations': [
@@ -40043,8 +40043,8 @@ buses = {
         ]
     },
     '432路': {
-        "name": '432路',
-        "bid": '10043200',
+        'name': '432路',
+        'bid': '10043200',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -40088,8 +40088,8 @@ buses = {
         ]
     },
     '地铁10A路': {
-        "name": '地铁10A路',
-        "bid": '10710240',
+        'name': '地铁10A路',
+        'bid': '10710240',
         'starting_station': '地铁汉溪长隆站总站①',
         'terminal_station': '祈福新村总站',
         'stations': [
@@ -40109,8 +40109,8 @@ buses = {
         ]
     },
     '423路': {
-        "name": '423路',
-        "bid": '10042300',
+        'name': '423路',
+        'bid': '10042300',
         'starting_station': '小坪桥口总站',
         'terminal_station': '夏茅客运站总站②',
         'stations': [
@@ -40124,8 +40124,8 @@ buses = {
         ]
     },
     '360路': {
-        "name": '360路',
-        "bid": '10036001',
+        'name': '360路',
+        'bid': '10036001',
         'starting_station': '地铁文冲站总站',
         'terminal_station': '笔岗新村总站',
         'stations': [
@@ -40139,8 +40139,8 @@ buses = {
         ]
     },
     '780路': {
-        "name": '780路',
-        "bid": '10078001',
+        'name': '780路',
+        'bid': '10078001',
         'starting_station': '南洲北路总站',
         'terminal_station': '西塱社区总站',
         'stations': [
@@ -40163,8 +40163,8 @@ buses = {
         ]
     },
     '265路': {
-        "name": '265路',
-        "bid": '10026500',
+        'name': '265路',
+        'bid': '10026500',
         'starting_station': '广卫路总站',
         'terminal_station': '环滘村总站',
         'stations': [
@@ -40197,8 +40197,8 @@ buses = {
         ]
     },
     '南沙49路': {
-        "name": '南沙49路',
-        "bid": '10604900',
+        'name': '南沙49路',
+        'bid': '10604900',
         'starting_station': '潭洲车站总站',
         'terminal_station': '江南路总站',
         'stations': [
@@ -40252,8 +40252,8 @@ buses = {
         ]
     },
     'B27路': {
-        "name": 'B27路',
-        "bid": '10802701',
+        'name': 'B27路',
+        'bid': '10802701',
         'starting_station': '黄埔客运站总站',
         'terminal_station': '体育中心站B',
         'stations': [
@@ -40280,8 +40280,8 @@ buses = {
         ]
     },
     '793路': {
-        "name": '793路',
-        "bid": '10079300',
+        'name': '793路',
+        'bid': '10079300',
         'starting_station': '寮采(世外桃源)总站',
         'terminal_station': '人和墟(万家福广场)总站',
         'stations': [
@@ -40311,8 +40311,8 @@ buses = {
         ]
     },
     '463路': {
-        "name": '463路',
-        "bid": '10046300',
+        'name': '463路',
+        'bid': '10046300',
         'starting_station': '珠影总站',
         'terminal_station': '墩和路总站',
         'stations': [
@@ -40325,8 +40325,8 @@ buses = {
         ]
     },
     '夜37路': {
-        "name": '夜37路',
-        "bid": '10003711',
+        'name': '夜37路',
+        'bid': '10003711',
         'starting_station': '江海大道中(赤岗)总站',
         'terminal_station': '中山八路总站⑦',
         'stations': [
@@ -40359,8 +40359,8 @@ buses = {
         ]
     },
     '番67路': {
-        "name": '番67路',
-        "bid": '10706701',
+        'name': '番67路',
+        'bid': '10706701',
         'starting_station': '宝墨园总站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -40397,8 +40397,8 @@ buses = {
         ]
     },
     '42路': {
-        "name": '42路',
-        "bid": '10004201',
+        'name': '42路',
+        'bid': '10004201',
         'starting_station': '白沙(中海金沙湾)总站',
         'terminal_station': '文德路总站',
         'stations': [
@@ -40427,8 +40427,8 @@ buses = {
         ]
     },
     '571路': {
-        "name": '571路',
-        "bid": '10057100',
+        'name': '571路',
+        'bid': '10057100',
         'starting_station': '新塘(光华路口)总站',
         'terminal_station': '黄埔港总站',
         'stations': [
@@ -40475,8 +40475,8 @@ buses = {
         ]
     },
     '350路': {
-        "name": '350路',
-        "bid": '10035001',
+        'name': '350路',
+        'bid': '10035001',
         'starting_station': '虎窿村总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -40495,8 +40495,8 @@ buses = {
         ]
     },
     '夜39': {
-        "name": '夜39',
-        "bid": '10003910',
+        'name': '夜39',
+        'bid': '10003910',
         'starting_station': '科韵路总站',
         'terminal_station': '恒宝广场总站',
         'stations': [
@@ -40532,8 +40532,8 @@ buses = {
         ]
     },
     '花88路': {
-        "name": '花88路',
-        "bid": '10508800',
+        'name': '花88路',
+        'bid': '10508800',
         'starting_station': '狮岭龙头市场总站',
         'terminal_station': '赤坭汽车总站',
         'stations': [
@@ -40562,8 +40562,8 @@ buses = {
         ]
     },
     '番11路': {
-        "name": '番11路',
-        "bid": '10701101',
+        'name': '番11路',
+        'bid': '10701101',
         'starting_station': '高铁庆盛总站',
         'terminal_station': '新市桥汽车站总站',
         'stations': [
@@ -40601,8 +40601,8 @@ buses = {
         ]
     },
     '487路': {
-        "name": '487路',
-        "bid": '10048701',
+        'name': '487路',
+        'bid': '10048701',
         'starting_station': '芳村合兴苑站',
         'terminal_station': '东漖教师新村总站',
         'stations': [
@@ -40619,8 +40619,8 @@ buses = {
         ]
     },
     '764': {
-        "name": '764',
-        "bid": '10076400',
+        'name': '764',
+        'bid': '10076400',
         'starting_station': '瀛洲生态公园总站',
         'terminal_station': '广氮花园总站',
         'stations': [
@@ -40651,8 +40651,8 @@ buses = {
         ]
     },
     '广花快线': {
-        "name": '广花快线',
-        "bid": '10500760',
+        'name': '广花快线',
+        'bid': '10500760',
         'starting_station': '市客运站总站',
         'terminal_station': '花都客运站总站',
         'stations': [
@@ -40670,8 +40670,8 @@ buses = {
         ]
     },
     '290路': {
-        "name": '290路',
-        "bid": '10029001',
+        'name': '290路',
+        'bid': '10029001',
         'starting_station': '天河客运站总站③',
         'terminal_station': '金沙洲总站',
         'stations': [
@@ -40699,8 +40699,8 @@ buses = {
         ]
     },
     '番99路': {
-        "name": '番99路',
-        "bid": '10709900',
+        'name': '番99路',
+        'bid': '10709900',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -40743,8 +40743,8 @@ buses = {
         ]
     },
     '科学城环线3': {
-        "name": '科学城环线3',
-        "bid": '10000771',
+        'name': '科学城环线3',
+        'bid': '10000771',
         'starting_station': '科学城彩频路总站',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -40777,8 +40777,8 @@ buses = {
         ]
     },
     '453路': {
-        "name": '453路',
-        "bid": '10045301',
+        'name': '453路',
+        'bid': '10045301',
         'starting_station': '西区公交总站',
         'terminal_station': '西区公交总站',
         'stations': [
@@ -40809,8 +40809,8 @@ buses = {
         ]
     },
     '31路': {
-        "name": '31路',
-        "bid": '10003100',
+        'name': '31路',
+        'bid': '10003100',
         'starting_station': '广州火车站总站m',
         'terminal_station': '南石西总站',
         'stations': [
@@ -40841,8 +40841,8 @@ buses = {
         ]
     },
     '968路': {
-        "name": '968路',
-        "bid": '10096801',
+        'name': '968路',
+        'bid': '10096801',
         'starting_station': '海联路总站',
         'terminal_station': '海联路总站',
         'stations': [
@@ -40871,8 +40871,8 @@ buses = {
         ]
     },
     '322路': {
-        "name": '322路',
-        "bid": '10032200',
+        'name': '322路',
+        'bid': '10032200',
         'starting_station': '生活区总站',
         'terminal_station': '沧头村总站',
         'stations': [
@@ -40897,8 +40897,8 @@ buses = {
         ]
     },
     '830路': {
-        "name": '830路',
-        "bid": '10083001',
+        'name': '830路',
+        'bid': '10083001',
         'starting_station': '石马总站',
         'terminal_station': '金沙洲码头总站',
         'stations': [
@@ -40935,8 +40935,8 @@ buses = {
         ]
     },
     '136路': {
-        "name": '136路',
-        "bid": '10013601',
+        'name': '136路',
+        'bid': '10013601',
         'starting_station': '天河公交场总站③',
         'terminal_station': '云景花园西门总站',
         'stations': [
@@ -40958,8 +40958,8 @@ buses = {
         ]
     },
     '219路': {
-        "name": '219路',
-        "bid": '10021901',
+        'name': '219路',
+        'bid': '10021901',
         'starting_station': '白云山制药厂总站',
         'terminal_station': '黄沙总站③',
         'stations': [
@@ -40996,8 +40996,8 @@ buses = {
         ]
     },
     '575A线': {
-        "name": '575A线',
-        "bid": '10057521',
+        'name': '575A线',
+        'bid': '10057521',
         'starting_station': '镇龙总站',
         'terminal_station': '萝岗街总站',
         'stations': [
@@ -41029,8 +41029,8 @@ buses = {
         ]
     },
     '夜20路': {
-        "name": '夜20路',
-        "bid": '10002011',
+        'name': '夜20路',
+        'bid': '10002011',
         'starting_station': '中山八路总站⑤',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -41068,8 +41068,8 @@ buses = {
         ]
     },
     '夜25': {
-        "name": '夜25',
-        "bid": '10002510',
+        'name': '夜25',
+        'bid': '10002510',
         'starting_station': '广州火车站总站e',
         'terminal_station': '东圃总站①',
         'stations': [
@@ -41096,8 +41096,8 @@ buses = {
         ]
     },
     '113路': {
-        "name": '113路',
-        "bid": '10011300',
+        'name': '113路',
+        'bid': '10011300',
         'starting_station': '南田路总站',
         'terminal_station': '棠安路总站',
         'stations': [
@@ -41122,8 +41122,8 @@ buses = {
         ]
     },
     '125路': {
-        "name": '125路',
-        "bid": '10012500',
+        'name': '125路',
+        'bid': '10012500',
         'starting_station': '丽江花园总站',
         'terminal_station': '花园酒店站',
         'stations': [
@@ -41150,8 +41150,8 @@ buses = {
         ]
     },
     '64支线': {
-        "name": '64支线',
-        "bid": '10006421',
+        'name': '64支线',
+        'bid': '10006421',
         'starting_station': '南漖村总站',
         'terminal_station': '南漖村总站',
         'stations': [
@@ -41167,8 +41167,8 @@ buses = {
         ]
     },
     '番4路': {
-        "name": '番4路',
-        "bid": '10700400',
+        'name': '番4路',
+        'bid': '10700400',
         'starting_station': '好又多总站',
         'terminal_station': '康裕北苑总站',
         'stations': [
@@ -41194,8 +41194,8 @@ buses = {
         ]
     },
     '530路': {
-        "name": '530路',
-        "bid": '10053000',
+        'name': '530路',
+        'bid': '10053000',
         'starting_station': '沙涌南总站',
         'terminal_station': '石岗路总站',
         'stations': [
@@ -41232,8 +41232,8 @@ buses = {
         ]
     },
     '834路': {
-        "name": '834路',
-        "bid": '10083401',
+        'name': '834路',
+        'bid': '10083401',
         'starting_station': '夏茅客运站总站①',
         'terminal_station': '石井(庆丰纺织服装城)总站',
         'stations': [
@@ -41268,8 +41268,8 @@ buses = {
         ]
     },
     '739线': {
-        "name": '739线',
-        "bid": '10073900',
+        'name': '739线',
+        'bid': '10073900',
         'starting_station': '清湖村(苏元庄)总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -41295,8 +41295,8 @@ buses = {
         ]
     },
     '番108B': {
-        "name": '番108B',
-        "bid": '10710830',
+        'name': '番108B',
+        'bid': '10710830',
         'starting_station': '番禺体校总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -41344,8 +41344,8 @@ buses = {
         ]
     },
     '58路': {
-        "name": '58路',
-        "bid": '10005801',
+        'name': '58路',
+        'bid': '10005801',
         'starting_station': '广医一院(靖海路)总站',
         'terminal_station': '时代玫瑰园总站',
         'stations': [
@@ -41381,8 +41381,8 @@ buses = {
         ]
     },
     '商务专线6': {
-        "name": '商务专线6',
-        "bid": '10013630',
+        'name': '商务专线6',
+        'bid': '10013630',
         'starting_station': '逸景路(长江轻纺城)总站',
         'terminal_station': '沙河大街站',
         'stations': [
@@ -41391,8 +41391,8 @@ buses = {
         ]
     },
     '138路': {
-        "name": '138路',
-        "bid": '10013800',
+        'name': '138路',
+        'bid': '10013800',
         'starting_station': '五羊新城总站',
         'terminal_station': '东莞庄总站',
         'stations': [
@@ -41416,8 +41416,8 @@ buses = {
         ]
     },
     'B18路': {
-        "name": 'B18路',
-        "bid": '10801801',
+        'name': 'B18路',
+        'bid': '10801801',
         'starting_station': '汇彩路总站',
         'terminal_station': '永泰客运站总站',
         'stations': [
@@ -41457,8 +41457,8 @@ buses = {
         ]
     },
     '夜12': {
-        "name": '夜12',
-        "bid": '10001210',
+        'name': '夜12',
+        'bid': '10001210',
         'starting_station': '逸景路(长江轻纺城)总站',
         'terminal_station': '夏茅客运站总站①',
         'stations': [
@@ -41498,8 +41498,8 @@ buses = {
         ]
     },
     '458路': {
-        "name": '458路',
-        "bid": '10045800',
+        'name': '458路',
+        'bid': '10045800',
         'starting_station': '镇龙总站',
         'terminal_station': '迳头二社总站',
         'stations': [
@@ -41513,8 +41513,8 @@ buses = {
         ]
     },
     '726路': {
-        "name": '726路',
-        "bid": '10072600',
+        'name': '726路',
+        'bid': '10072600',
         'starting_station': '沙田村总站',
         'terminal_station': '钟落潭文化广场总站',
         'stations': [
@@ -41529,8 +41529,8 @@ buses = {
         ]
     },
     '番72路': {
-        "name": '番72路',
-        "bid": '10707201',
+        'name': '番72路',
+        'bid': '10707201',
         'starting_station': '石基总站',
         'terminal_station': '南村汽车站总站',
         'stations': [
@@ -41556,8 +41556,8 @@ buses = {
         ]
     },
     '996路': {
-        "name": '996路',
-        "bid": '10099601',
+        'name': '996路',
+        'bid': '10099601',
         'starting_station': '茶滘路总站',
         'terminal_station': '茶滘路总站',
         'stations': [
@@ -41584,8 +41584,8 @@ buses = {
         ]
     },
     '706路': {
-        "name": '706路',
-        "bid": '10070601',
+        'name': '706路',
+        'bid': '10070601',
         'starting_station': '花都湖总站',
         'terminal_station': '动物园总站',
         'stations': [
@@ -41642,8 +41642,8 @@ buses = {
         ]
     },
     '9路': {
-        "name": '9路',
-        "bid": '10000901',
+        'name': '9路',
+        'bid': '10000901',
         'starting_station': '中山八路总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -41672,8 +41672,8 @@ buses = {
         ]
     },
     '商务专线7': {
-        "name": '商务专线7',
-        "bid": '10011731',
+        'name': '商务专线7',
+        'bid': '10011731',
         'starting_station': '站南路总站',
         'terminal_station': '逸景路(长江轻纺城)总站',
         'stations': [
@@ -41685,8 +41685,8 @@ buses = {
         ]
     },
     '番310路': {
-        "name": '番310路',
-        "bid": '10731001',
+        'name': '番310路',
+        'bid': '10731001',
         'starting_station': '大学城(中五路广工)总站',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -41734,8 +41734,8 @@ buses = {
         ]
     },
     'B22路': {
-        "name": 'B22路',
-        "bid": '10802201',
+        'name': 'B22路',
+        'bid': '10802201',
         'starting_station': '五羊新城总站',
         'terminal_station': '广州科学城(长安村)总站',
         'stations': [
@@ -41777,8 +41777,8 @@ buses = {
         ]
     },
     '241路': {
-        "name": '241路',
-        "bid": '10024100',
+        'name': '241路',
+        'bid': '10024100',
         'starting_station': '同德围(丽康居)总站',
         'terminal_station': '金湖雅苑总站',
         'stations': [
@@ -41822,8 +41822,8 @@ buses = {
         ]
     },
     '338路': {
-        "name": '338路',
-        "bid": '10033800',
+        'name': '338路',
+        'bid': '10033800',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '黄埔港总站',
         'stations': [
@@ -41858,8 +41858,8 @@ buses = {
         ]
     },
     '节假日专线9': {
-        "name": '节假日专线9',
-        "bid": '10000970',
+        'name': '节假日专线9',
+        'bid': '10000970',
         'starting_station': '联和(惠联路)总站',
         'terminal_station': '禾丰横路总站',
         'stations': [
@@ -41895,8 +41895,8 @@ buses = {
         ]
     },
     '51路': {
-        "name": '51路',
-        "bid": '10005100',
+        'name': '51路',
+        'bid': '10005100',
         'starting_station': '天平架总站⑤a',
         'terminal_station': '万博中心总站',
         'stations': [
@@ -41930,8 +41930,8 @@ buses = {
         ]
     },
     '124路': {
-        "name": '124路',
-        "bid": '10012400',
+        'name': '124路',
+        'bid': '10012400',
         'starting_station': '云苑新村总站',
         'terminal_station': '滘口客运站总站⑦',
         'stations': [
@@ -41954,8 +41954,8 @@ buses = {
         ]
     },
     '高峰快线75': {
-        "name": '高峰快线75',
-        "bid": '10007560',
+        'name': '高峰快线75',
+        'bid': '10007560',
         'starting_station': '中山八路总站①',
         'terminal_station': '珠江广场总站',
         'stations': [
@@ -41983,8 +41983,8 @@ buses = {
         ]
     },
     '474路': {
-        "name": '474路',
-        "bid": '10047400',
+        'name': '474路',
+        'bid': '10047400',
         'starting_station': '长岗村总站',
         'terminal_station': '江高南岗村总站',
         'stations': [
@@ -42007,8 +42007,8 @@ buses = {
         ]
     },
     '195路': {
-        "name": '195路',
-        "bid": '10019500',
+        'name': '195路',
+        'bid': '10019500',
         'starting_station': '广州火车东站总站⑧b',
         'terminal_station': '沥滘(珠江御景湾)总站',
         'stations': [
@@ -42035,8 +42035,8 @@ buses = {
         ]
     },
     '36路': {
-        "name": '36路',
-        "bid": '10003601',
+        'name': '36路',
+        'bid': '10003601',
         'starting_station': '黄石路总站',
         'terminal_station': '珠江泳场总站③',
         'stations': [
@@ -42069,8 +42069,8 @@ buses = {
         ]
     },
     '341路': {
-        "name": '341路',
-        "bid": '10034100',
+        'name': '341路',
+        'bid': '10034100',
         'starting_station': '永和开发区(树吓村)总站',
         'terminal_station': '华峰寺总站',
         'stations': [
@@ -42088,8 +42088,8 @@ buses = {
         ]
     },
     '217路': {
-        "name": '217路',
-        "bid": '10021700',
+        'name': '217路',
+        'bid': '10021700',
         'starting_station': '广卫路总站',
         'terminal_station': '芳村西塱总站①',
         'stations': [
@@ -42117,8 +42117,8 @@ buses = {
         ]
     },
     '839路': {
-        "name": '839路',
-        "bid": '10083900',
+        'name': '839路',
+        'bid': '10083900',
         'starting_station': '滘口客运站总站②',
         'terminal_station': '骏威客车厂总站',
         'stations': [
@@ -42151,8 +42151,8 @@ buses = {
         ]
     },
     'S05B路': {
-        "name": 'S05B路',
-        "bid": '20900521',
+        'name': 'S05B路',
+        'bid': '20900521',
         'starting_station': '深井码头(总站)',
         'terminal_station': '新洲码头(总站)',
         'stations': [
@@ -42161,8 +42161,8 @@ buses = {
         ]
     },
     '番52路': {
-        "name": '番52路',
-        "bid": '10705200',
+        'name': '番52路',
+        'bid': '10705200',
         'starting_station': '广州南站总站',
         'terminal_station': '大学城(中五路广工)总站',
         'stations': [
@@ -42203,8 +42203,8 @@ buses = {
         ]
     },
     '大学城2线': {
-        "name": '大学城2线',
-        "bid": '10000220',
+        'name': '大学城2线',
+        'bid': '10000220',
         'starting_station': '华工大总站①',
         'terminal_station': '大学城(广中医)总站',
         'stations': [
@@ -42232,8 +42232,8 @@ buses = {
         ]
     },
     '27路': {
-        "name": '27路',
-        "bid": '10002701',
+        'name': '27路',
+        'bid': '10002701',
         'starting_station': '广卫路总站',
         'terminal_station': '东莞庄总站',
         'stations': [
@@ -42263,8 +42263,8 @@ buses = {
         ]
     },
     '番83路': {
-        "name": '番83路',
-        "bid": '10708300',
+        'name': '番83路',
+        'bid': '10708300',
         'starting_station': '石基总站',
         'terminal_station': '长坦总站',
         'stations': [
@@ -42281,8 +42281,8 @@ buses = {
         ]
     },
     '239路': {
-        "name": '239路',
-        "bid": '10023901',
+        'name': '239路',
+        'bid': '10023901',
         'starting_station': '南洲北路总站',
         'terminal_station': '华景新城总站①',
         'stations': [
@@ -42314,8 +42314,8 @@ buses = {
         ]
     },
     '花7路': {
-        "name": '花7路',
-        "bid": '10500701',
+        'name': '花7路',
+        'bid': '10500701',
         'starting_station': '汽车学院总站',
         'terminal_station': '汽车总站',
         'stations': [
@@ -42352,8 +42352,8 @@ buses = {
         ]
     },
     '970路': {
-        "name": '970路',
-        "bid": '10097001',
+        'name': '970路',
+        'bid': '10097001',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '大朗夏边总站',
         'stations': [
@@ -42377,8 +42377,8 @@ buses = {
         ]
     },
     '花71路': {
-        "name": '花71路',
-        "bid": '10507100',
+        'name': '花71路',
+        'bid': '10507100',
         'starting_station': '人和墟总站',
         'terminal_station': '花都推广汽车站总站',
         'stations': [
@@ -42407,8 +42407,8 @@ buses = {
         ]
     },
     '920路': {
-        "name": '920路',
-        "bid": '10092000',
+        'name': '920路',
+        'bid': '10092000',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '罗岗村总站',
         'stations': [
@@ -42428,8 +42428,8 @@ buses = {
         ]
     },
     '南沙1路': {
-        "name": '南沙1路',
-        "bid": '10600101',
+        'name': '南沙1路',
+        'bid': '10600101',
         'starting_station': '广州船坞总站',
         'terminal_station': '蕉门地铁总站',
         'stations': [
@@ -42462,8 +42462,8 @@ buses = {
         ]
     },
     '夜36路': {
-        "name": '夜36路',
-        "bid": '10003610',
+        'name': '夜36路',
+        'bid': '10003610',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '棠下小区总站①',
         'stations': [
@@ -42511,8 +42511,8 @@ buses = {
         ]
     },
     '727路': {
-        "name": '727路',
-        "bid": '10072701',
+        'name': '727路',
+        'bid': '10072701',
         'starting_station': '大纲领路口总站',
         'terminal_station': '钟落潭文化广场总站',
         'stations': [
@@ -42529,8 +42529,8 @@ buses = {
         ]
     },
     '夜76路': {
-        "name": '夜76路',
-        "bid": '10007611',
+        'name': '夜76路',
+        'bid': '10007611',
         'starting_station': '太和民营科技园总站',
         'terminal_station': '罗冲围总站',
         'stations': [
@@ -42580,8 +42580,8 @@ buses = {
         ]
     },
     '高峰快线72路': {
-        "name": '高峰快线72路',
-        "bid": '10007261',
+        'name': '高峰快线72路',
+        'bid': '10007261',
         'starting_station': '花都北兴汽车总站',
         'terminal_station': '人和总站',
         'stations': [
@@ -42612,8 +42612,8 @@ buses = {
         ]
     },
     '393路': {
-        "name": '393路',
-        "bid": '10039300',
+        'name': '393路',
+        'bid': '10039300',
         'starting_station': '发源路总站',
         'terminal_station': '开创大道口总站',
         'stations': [
@@ -42634,8 +42634,8 @@ buses = {
         ]
     },
     '349路': {
-        "name": '349路',
-        "bid": '10034901',
+        'name': '349路',
+        'bid': '10034901',
         'starting_station': '刘村总站',
         'terminal_station': '广汕路(万龙路)总站',
         'stations': [
@@ -42677,8 +42677,8 @@ buses = {
         ]
     },
     '440路': {
-        "name": '440路',
-        "bid": '10044001',
+        'name': '440路',
+        'bid': '10044001',
         'starting_station': '金碧路总站',
         'terminal_station': '西基总站',
         'stations': [
@@ -42705,8 +42705,8 @@ buses = {
         ]
     },
     '730路': {
-        "name": '730路',
-        "bid": '10073000',
+        'name': '730路',
+        'bid': '10073000',
         'starting_station': '上步总站',
         'terminal_station': '上步总站',
         'stations': [
@@ -42737,8 +42737,8 @@ buses = {
         ]
     },
     '429路': {
-        "name": '429路',
-        "bid": '10042901',
+        'name': '429路',
+        'bid': '10042901',
         'starting_station': '白沙(中海金沙湾)总站',
         'terminal_station': '西村地铁站总站',
         'stations': [
@@ -42760,8 +42760,8 @@ buses = {
         ]
     },
     '夜53': {
-        "name": '夜53',
-        "bid": '10005310',
+        'name': '夜53',
+        'bid': '10005310',
         'starting_station': '岑村站',
         'terminal_station': '体育中心站1①',
         'stations': [
@@ -42780,8 +42780,8 @@ buses = {
         ]
     },
     '572路': {
-        "name": '572路',
-        "bid": '10057201',
+        'name': '572路',
+        'bid': '10057201',
         'starting_station': '埔南路总站',
         'terminal_station': '西基总站',
         'stations': [
@@ -42813,8 +42813,8 @@ buses = {
         ]
     },
     '506路': {
-        "name": '506路',
-        "bid": '10050601',
+        'name': '506路',
+        'bid': '10050601',
         'starting_station': '天河公交场总站①',
         'terminal_station': '永和开发区总站',
         'stations': [
@@ -42890,8 +42890,8 @@ buses = {
         ]
     },
     '32路': {
-        "name": '32路',
-        "bid": '10003201',
+        'name': '32路',
+        'bid': '10003201',
         'starting_station': '华工大总站①',
         'terminal_station': '黄石路总站',
         'stations': [
@@ -42927,8 +42927,8 @@ buses = {
         ]
     },
     '57路': {
-        "name": '57路',
-        "bid": '10005701',
+        'name': '57路',
+        'bid': '10005701',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '二沙岛西总站',
         'stations': [
@@ -42953,8 +42953,8 @@ buses = {
         ]
     },
     '990路': {
-        "name": '990路',
-        "bid": '10099001',
+        'name': '990路',
+        'bid': '10099001',
         'starting_station': '芳村车管所总站',
         'terminal_station': '芳村码头总站',
         'stations': [
@@ -42975,8 +42975,8 @@ buses = {
         ]
     },
     '476路': {
-        "name": '476路',
-        "bid": '10047600',
+        'name': '476路',
+        'bid': '10047600',
         'starting_station': '凰岗总站②',
         'terminal_station': '滘心村总站',
         'stations': [
@@ -43000,8 +43000,8 @@ buses = {
         ]
     },
     '725路': {
-        "name": '725路',
-        "bid": '10072501',
+        'name': '725路',
+        'bid': '10072501',
         'starting_station': '钟落潭文化广场总站',
         'terminal_station': '登塘村总站',
         'stations': [
@@ -43015,8 +43015,8 @@ buses = {
         ]
     },
     '574路': {
-        "name": '574路',
-        "bid": '10057401',
+        'name': '574路',
+        'bid': '10057401',
         'starting_station': '开创大道(万科城)总站',
         'terminal_station': '车陂总站③',
         'stations': [
@@ -43051,8 +43051,8 @@ buses = {
         ]
     },
     '南沙21路': {
-        "name": '南沙21路',
-        "bid": '10602100',
+        'name': '南沙21路',
+        'bid': '10602100',
         'starting_station': '广州船坞总站',
         'terminal_station': '新垦总站',
         'stations': [
@@ -43069,8 +43069,8 @@ buses = {
         ]
     },
     '大学城环线1': {
-        "name": '大学城环线1',
-        "bid": '10038100',
+        'name': '大学城环线1',
+        'bid': '10038100',
         'starting_station': '市国家档案馆(大学城)总站',
         'terminal_station': '市国家档案馆(大学城)总站',
         'stations': [
@@ -43097,8 +43097,8 @@ buses = {
         ]
     },
     '夜63路': {
-        "name": '夜63路',
-        "bid": '10006311',
+        'name': '夜63路',
+        'bid': '10006311',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '平沙(农贸市场)总站',
         'stations': [
@@ -43125,8 +43125,8 @@ buses = {
         ]
     },
     '340路': {
-        "name": '340路',
-        "bid": '10034000',
+        'name': '340路',
+        'bid': '10034000',
         'starting_station': '笔村总站',
         'terminal_station': '云埔一路(中一药业)总站',
         'stations': [
@@ -43156,8 +43156,8 @@ buses = {
         ]
     },
     '夜93路': {
-        "name": '夜93路',
-        "bid": '10009310',
+        'name': '夜93路',
+        'bid': '10009310',
         'starting_station': '宝岗大道总站①',
         'terminal_station': '大观路北总站',
         'stations': [
@@ -43207,8 +43207,8 @@ buses = {
         ]
     },
     '番79路': {
-        "name": '番79路',
-        "bid": '10707900',
+        'name': '番79路',
+        'bid': '10707900',
         'starting_station': '石基总站',
         'terminal_station': '文边总站',
         'stations': [
@@ -43227,8 +43227,8 @@ buses = {
         ]
     },
     '夜18': {
-        "name": '夜18',
-        "bid": '10001810',
+        'name': '夜18',
+        'bid': '10001810',
         'starting_station': '广州火车站总站a',
         'terminal_station': '员村生活区(市六医院)总站',
         'stations': [
@@ -43258,8 +43258,8 @@ buses = {
         ]
     },
     '番51路': {
-        "name": '番51路',
-        "bid": '10705100',
+        'name': '番51路',
+        'bid': '10705100',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '化龙车站总站',
         'stations': [
@@ -43307,8 +43307,8 @@ buses = {
         ]
     },
     '6路': {
-        "name": '6路',
-        "bid": '10000600',
+        'name': '6路',
+        'bid': '10000600',
         'starting_station': '黄沙总站①',
         'terminal_station': '天河北公交总站',
         'stations': [
@@ -43335,8 +43335,8 @@ buses = {
         ]
     },
     '61路': {
-        "name": '61路',
-        "bid": '10006100',
+        'name': '61路',
+        'bid': '10006100',
         'starting_station': '海印桥总站②',
         'terminal_station': '滘口客运站总站⑦',
         'stations': [
@@ -43367,8 +43367,8 @@ buses = {
         ]
     },
     '703路': {
-        "name": '703路',
-        "bid": '10070300',
+        'name': '703路',
+        'bid': '10070300',
         'starting_station': '机场路总站⑧',
         'terminal_station': '花都万科天景花园总站',
         'stations': [
@@ -43417,8 +43417,8 @@ buses = {
         ]
     },
     '392路': {
-        "name": '392路',
-        "bid": '10039200',
+        'name': '392路',
+        'bid': '10039200',
         'starting_station': '黄登村总站',
         'terminal_station': '萝岗街总站',
         'stations': [
@@ -43450,8 +43450,8 @@ buses = {
         ]
     },
     '广281路': {
-        "name": '广281路',
-        "bid": '10028100',
+        'name': '广281路',
+        'bid': '10028100',
         'starting_station': '广卫路总站',
         'terminal_station': '里水大道(八达通家居港)总站',
         'stations': [
@@ -43486,8 +43486,8 @@ buses = {
         ]
     },
     '夜72路': {
-        "name": '夜72路',
-        "bid": '10007211',
+        'name': '夜72路',
+        'bid': '10007211',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -43514,8 +43514,8 @@ buses = {
         ]
     },
     '南沙37路': {
-        "name": '南沙37路',
-        "bid": '10603701',
+        'name': '南沙37路',
+        'bid': '10603701',
         'starting_station': '高铁庆盛总站',
         'terminal_station': '东导村委总站',
         'stations': [
@@ -43544,8 +43544,8 @@ buses = {
         ]
     },
     '南沙11路': {
-        "name": '南沙11路',
-        "bid": '10601100',
+        'name': '南沙11路',
+        'bid': '10601100',
         'starting_station': '永乐农庄总站',
         'terminal_station': '十九涌水产市场总站',
         'stations': [
@@ -43558,8 +43558,8 @@ buses = {
         ]
     },
     '12路': {
-        "name": '12路',
-        "bid": '10001201',
+        'name': '12路',
+        'bid': '10001201',
         'starting_station': '万科四季花城总站',
         'terminal_station': '二沙岛西总站',
         'stations': [
@@ -43591,8 +43591,8 @@ buses = {
         ]
     },
     '夜99': {
-        "name": '夜99',
-        "bid": '10009911',
+        'name': '夜99',
+        'bid': '10009911',
         'starting_station': '大坦沙(市1中)总站',
         'terminal_station': '康王路(上下九)总站(总站)',
         'stations': [
@@ -43610,8 +43610,8 @@ buses = {
         ]
     },
     '花83路': {
-        "name": '花83路',
-        "bid": '10508300',
+        'name': '花83路',
+        'bid': '10508300',
         'starting_station': '两龙汽车总站',
         'terminal_station': '狮岭龙头市场总站',
         'stations': [
@@ -43640,8 +43640,8 @@ buses = {
         ]
     },
     '901A路': {
-        "name": '901A路',
-        "bid": '10090120',
+        'name': '901A路',
+        'bid': '10090120',
         'starting_station': '天河智慧城核心区总站(高唐)',
         'terminal_station': '花城广场西总站',
         'stations': [
@@ -43679,8 +43679,8 @@ buses = {
         ]
     },
     '番78路': {
-        "name": '番78路',
-        "bid": '10707801',
+        'name': '番78路',
+        'bid': '10707801',
         'starting_station': '凌边总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -43696,8 +43696,8 @@ buses = {
         ]
     },
     '473路': {
-        "name": '473路',
-        "bid": '10047301',
+        'name': '473路',
+        'bid': '10047301',
         'starting_station': '钟落潭总站',
         'terminal_station': '良田村委总站',
         'stations': [
@@ -43717,8 +43717,8 @@ buses = {
         ]
     },
     'B26路': {
-        "name": 'B26路',
-        "bid": '10802601',
+        'name': 'B26路',
+        'bid': '10802601',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '凌塘村总站',
         'stations': [
@@ -43758,8 +43758,8 @@ buses = {
         ]
     },
     '番66路': {
-        "name": '番66路',
-        "bid": '10706601',
+        'name': '番66路',
+        'bid': '10706601',
         'starting_station': '东西庄总站',
         'terminal_station': '新造地铁站总站',
         'stations': [
@@ -43772,8 +43772,8 @@ buses = {
         ]
     },
     '花89路': {
-        "name": '花89路',
-        "bid": '10508901',
+        'name': '花89路',
+        'bid': '10508901',
         'starting_station': '罗屋村总站',
         'terminal_station': '金碧御水山庄总站',
         'stations': [
@@ -43803,8 +43803,8 @@ buses = {
         ]
     },
     '353路': {
-        "name": '353路',
-        "bid": '10035301',
+        'name': '353路',
+        'bid': '10035301',
         'starting_station': '地铁官洲站总站',
         'terminal_station': '地铁官洲站总站',
         'stations': [
@@ -43821,8 +43821,8 @@ buses = {
         ]
     },
     '239路': {
-        "name": '239路',
-        "bid": '10023900',
+        'name': '239路',
+        'bid': '10023900',
         'starting_station': '华景新城总站①',
         'terminal_station': '南洲北路总站',
         'stations': [
@@ -43854,8 +43854,8 @@ buses = {
         ]
     },
     '788路': {
-        "name": '788路',
-        "bid": '10078800',
+        'name': '788路',
+        'bid': '10078800',
         'starting_station': '南村汽车站总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -43887,8 +43887,8 @@ buses = {
         ]
     },
     '夜96路': {
-        "name": '夜96路',
-        "bid": '10009611',
+        'name': '夜96路',
+        'bid': '10009611',
         'starting_station': '广州火车站总站',
         'terminal_station': '金沙洲总站',
         'stations': [
@@ -43905,8 +43905,8 @@ buses = {
         ]
     },
     '109路': {
-        "name": '109路',
-        "bid": '10010900',
+        'name': '109路',
+        'bid': '10010900',
         'starting_station': '天平架总站①a',
         'terminal_station': '中山八路总站⑥',
         'stations': [
@@ -43936,8 +43936,8 @@ buses = {
         ]
     },
     '288A路': {
-        "name": '288A路',
-        "bid": '10028820',
+        'name': '288A路',
+        'bid': '10028820',
         'starting_station': '广州南站总站',
         'terminal_station': '西华路尾总站②',
         'stations': [
@@ -43974,8 +43974,8 @@ buses = {
         ]
     },
     '78路': {
-        "name": '78路',
-        "bid": '10007800',
+        'name': '78路',
+        'bid': '10007800',
         'starting_station': '岑村教练场总站',
         'terminal_station': '东山广场总站',
         'stations': [
@@ -44007,8 +44007,8 @@ buses = {
         ]
     },
     '744环线': {
-        "name": '744环线',
-        "bid": '10074401',
+        'name': '744环线',
+        'bid': '10074401',
         'starting_station': '地铁永泰站总站',
         'terminal_station': '地铁永泰站总站',
         'stations': [
@@ -44027,8 +44027,8 @@ buses = {
         ]
     },
     '334路': {
-        "name": '334路',
-        "bid": '10033400',
+        'name': '334路',
+        'bid': '10033400',
         'starting_station': '萝岗演艺中心总站',
         'terminal_station': '南岗(国际玩具礼品城)总站',
         'stations': [
@@ -44059,8 +44059,8 @@ buses = {
         ]
     },
     '番8路': {
-        "name": '番8路',
-        "bid": '10700800',
+        'name': '番8路',
+        'bid': '10700800',
         'starting_station': '小平总站',
         'terminal_station': '好又多总站',
         'stations': [
@@ -44088,8 +44088,8 @@ buses = {
         ]
     },
     '南沙37路': {
-        "name": '南沙37路',
-        "bid": '10603700',
+        'name': '南沙37路',
+        'bid': '10603700',
         'starting_station': '东导村委总站',
         'terminal_station': '高铁庆盛总站',
         'stations': [
@@ -44118,8 +44118,8 @@ buses = {
         ]
     },
     '88路': {
-        "name": '88路',
-        "bid": '10008800',
+        'name': '88路',
+        'bid': '10008800',
         'starting_station': '南天商业城总站',
         'terminal_station': '西场总站',
         'stations': [
@@ -44154,8 +44154,8 @@ buses = {
         ]
     },
     '444路': {
-        "name": '444路',
-        "bid": '10044401',
+        'name': '444路',
+        'bid': '10044401',
         'starting_station': '龙江村总站',
         'terminal_station': '镇龙总站',
         'stations': [
@@ -44176,8 +44176,8 @@ buses = {
         ]
     },
     '夜47路': {
-        "name": '夜47路',
-        "bid": '10004710',
+        'name': '夜47路',
+        'bid': '10004710',
         'starting_station': '沐陂路(彩釉砖厂)总站',
         'terminal_station': '同和总站',
         'stations': [
@@ -44215,8 +44215,8 @@ buses = {
         ]
     },
     '993': {
-        "name": '993',
-        "bid": '10099300',
+        'name': '993',
+        'bid': '10099300',
         'starting_station': '广州花卉博览园总站',
         'terminal_station': '坑口公交场总站',
         'stations': [
@@ -44239,8 +44239,8 @@ buses = {
         ]
     },
     '435路': {
-        "name": '435路',
-        "bid": '10043500',
+        'name': '435路',
+        'bid': '10043500',
         'starting_station': '生活区总站',
         'terminal_station': '鹿步(海警基地)总站',
         'stations': [
@@ -44264,8 +44264,8 @@ buses = {
         ]
     },
     '663路': {
-        "name": '663路',
-        "bid": '10066300',
+        'name': '663路',
+        'bid': '10066300',
         'starting_station': '地铁江夏站总站',
         'terminal_station': '清湖村总站',
         'stations': [
@@ -44296,8 +44296,8 @@ buses = {
         ]
     },
     '夜19路': {
-        "name": '夜19路',
-        "bid": '10001911',
+        'name': '夜19路',
+        'bid': '10001911',
         'starting_station': '东圃客运站总站',
         'terminal_station': '罗冲围总站',
         'stations': [
@@ -44335,8 +44335,8 @@ buses = {
         ]
     },
     '521锦东服装城班车': {
-        "name": '521锦东服装城班车',
-        "bid": '10052131',
+        'name': '521锦东服装城班车',
+        'bid': '10052131',
         'starting_station': '石溪总站',
         'terminal_station': '凰岗(锦东服装城)总站',
         'stations': [
@@ -44368,8 +44368,8 @@ buses = {
         ]
     },
     '42路': {
-        "name": '42路',
-        "bid": '10004200',
+        'name': '42路',
+        'bid': '10004200',
         'starting_station': '文德路总站',
         'terminal_station': '白沙(中海金沙湾)总站',
         'stations': [
@@ -44395,8 +44395,8 @@ buses = {
         ]
     },
     '大学城1线': {
-        "name": '大学城1线',
-        "bid": '10000121',
+        'name': '大学城1线',
+        'bid': '10000121',
         'starting_station': '大学城(广大)总站',
         'terminal_station': '外语学院总站',
         'stations': [
@@ -44434,8 +44434,8 @@ buses = {
         ]
     },
     '312路': {
-        "name": '312路',
-        "bid": '10031200',
+        'name': '312路',
+        'bid': '10031200',
         'starting_station': '祈福新村总站',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -44463,8 +44463,8 @@ buses = {
         ]
     },
     '488路': {
-        "name": '488路',
-        "bid": '10048801',
+        'name': '488路',
+        'bid': '10048801',
         'starting_station': '逸景路(长江轻纺城)总站',
         'terminal_station': '逸景路(长江轻纺城)总站',
         'stations': [
@@ -44483,8 +44483,8 @@ buses = {
         ]
     },
     '83路': {
-        "name": '83路',
-        "bid": '10008301',
+        'name': '83路',
+        'bid': '10008301',
         'starting_station': '广汕路(万龙路)总站',
         'terminal_station': '白云山制药厂总站',
         'stations': [
@@ -44524,8 +44524,8 @@ buses = {
         ]
     },
     '南沙20路': {
-        "name": '南沙20路',
-        "bid": '10602001',
+        'name': '南沙20路',
+        'bid': '10602001',
         'starting_station': '上湾小区总站',
         'terminal_station': '广州外国语学校总站',
         'stations': [
@@ -44546,8 +44546,8 @@ buses = {
         ]
     },
     '夜33路': {
-        "name": '夜33路',
-        "bid": '10003311',
+        'name': '夜33路',
+        'bid': '10003311',
         'starting_station': '海珠客运站总站',
         'terminal_station': '中山八路总站⑦',
         'stations': [
@@ -44578,8 +44578,8 @@ buses = {
         ]
     },
     '455路': {
-        "name": '455路',
-        "bid": '10045501',
+        'name': '455路',
+        'bid': '10045501',
         'starting_station': '环岭路总站',
         'terminal_station': '永和开发区(树吓村)总站',
         'stations': [
@@ -44596,8 +44596,8 @@ buses = {
         ]
     },
     '20路': {
-        "name": '20路',
-        "bid": '10002000',
+        'name': '20路',
+        'bid': '10002000',
         'starting_station': '岑村教练场总站',
         'terminal_station': '赤岗大塘总站',
         'stations': [
@@ -44624,8 +44624,8 @@ buses = {
         ]
     },
     '夜98': {
-        "name": '夜98',
-        "bid": '10009811',
+        'name': '夜98',
+        'bid': '10009811',
         'starting_station': '广州火车站总站',
         'terminal_station': '石井潭村总站',
         'stations': [
@@ -44653,8 +44653,8 @@ buses = {
         ]
     },
     '450路': {
-        "name": '450路',
-        "bid": '10045001',
+        'name': '450路',
+        'bid': '10045001',
         'starting_station': '小塱总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -44683,8 +44683,8 @@ buses = {
         ]
     },
     '565路': {
-        "name": '565路',
-        "bid": '10056501',
+        'name': '565路',
+        'bid': '10056501',
         'starting_station': '穗盐路(雍景豪园)总站',
         'terminal_station': '大学城(广工)总站',
         'stations': [
@@ -44737,8 +44737,8 @@ buses = {
         ]
     },
     '707路': {
-        "name": '707路',
-        "bid": '10070701',
+        'name': '707路',
+        'bid': '10070701',
         'starting_station': '神山总站',
         'terminal_station': '人和商业中心总站',
         'stations': [
@@ -44772,8 +44772,8 @@ buses = {
         ]
     },
     '夜27路': {
-        "name": '夜27路',
-        "bid": '10002710',
+        'name': '夜27路',
+        'bid': '10002710',
         'starting_station': '车陂总站④',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -44811,8 +44811,8 @@ buses = {
         ]
     },
     '788路': {
-        "name": '788路',
-        "bid": '10078801',
+        'name': '788路',
+        'bid': '10078801',
         'starting_station': '海珠客运站总站',
         'terminal_station': '南村汽车站总站',
         'stations': [
@@ -44843,8 +44843,8 @@ buses = {
         ]
     },
     '112路': {
-        "name": '112路',
-        "bid": '10011200',
+        'name': '112路',
+        'bid': '10011200',
         'starting_station': '南田路总站',
         'terminal_station': '天平架总站②b',
         'stations': [
@@ -44870,8 +44870,8 @@ buses = {
         ]
     },
     '805路': {
-        "name": '805路',
-        "bid": '10080501',
+        'name': '805路',
+        'bid': '10080501',
         'starting_station': '集贤苑总站',
         'terminal_station': '广州火车站总站r',
         'stations': [
@@ -44899,8 +44899,8 @@ buses = {
         ]
     },
     '花7路': {
-        "name": '花7路',
-        "bid": '10500700',
+        'name': '花7路',
+        'bid': '10500700',
         'starting_station': '汽车总站',
         'terminal_station': '汽车学院总站',
         'stations': [
@@ -44936,8 +44936,8 @@ buses = {
         ]
     },
     '781路': {
-        "name": '781路',
-        "bid": '10078100',
+        'name': '781路',
+        'bid': '10078100',
         'starting_station': '五羊新城总站',
         'terminal_station': '五羊新城总站',
         'stations': [
@@ -44950,8 +44950,8 @@ buses = {
         ]
     },
     '大学城班线9': {
-        "name": '大学城班线9',
-        "bid": '10033571',
+        'name': '大学城班线9',
+        'bid': '10033571',
         'starting_station': '大学城(广外)总站',
         'terminal_station': '外语学院总站',
         'stations': [
@@ -44960,8 +44960,8 @@ buses = {
         ]
     },
     '番18路': {
-        "name": '番18路',
-        "bid": '10701801',
+        'name': '番18路',
+        'bid': '10701801',
         'starting_station': '榄塘村总站',
         'terminal_station': '奥园广场总站',
         'stations': [
@@ -44990,8 +44990,8 @@ buses = {
         ]
     },
     '813路': {
-        "name": '813路',
-        "bid": '10081300',
+        'name': '813路',
+        'bid': '10081300',
         'starting_station': '革新路(光大花园)总站',
         'terminal_station': '棠下小区(西区)总站',
         'stations': [
@@ -45032,8 +45032,8 @@ buses = {
         ]
     },
     '夜90': {
-        "name": '夜90',
-        "bid": '10009010',
+        'name': '夜90',
+        'bid': '10009010',
         'starting_station': '凰岗总站①',
         'terminal_station': '天河客运站总站⑤',
         'stations': [
@@ -45070,8 +45070,8 @@ buses = {
         ]
     },
     '夜41路': {
-        "name": '夜41路',
-        "bid": '10004110',
+        'name': '夜41路',
+        'bid': '10004110',
         'starting_station': '广州火车站总站f',
         'terminal_station': '保税区(酒博城)总站',
         'stations': [
@@ -45130,8 +45130,8 @@ buses = {
         ]
     },
     '公交假日专线': {
-        "name": '公交假日专线',
-        "bid": '10050371',
+        'name': '公交假日专线',
+        'bid': '10050371',
         'starting_station': '云台花园站',
         'terminal_station': '广州碧桂园总站',
         'stations': [
@@ -45150,8 +45150,8 @@ buses = {
         ]
     },
     '777路': {
-        "name": '777路',
-        "bid": '10077701',
+        'name': '777路',
+        'bid': '10077701',
         'starting_station': '珠江新城总站①',
         'terminal_station': '天河城总站',
         'stations': [
@@ -45169,8 +45169,8 @@ buses = {
         ]
     },
     '462路': {
-        "name": '462路',
-        "bid": '10046200',
+        'name': '462路',
+        'bid': '10046200',
         'starting_station': '逸景路(长江轻纺城)总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -45188,8 +45188,8 @@ buses = {
         ]
     },
     '712路': {
-        "name": '712路',
-        "bid": '10071200',
+        'name': '712路',
+        'bid': '10071200',
         'starting_station': '柯子岭(河田路)总站',
         'terminal_station': '花都华南理工大学汽车学院站',
         'stations': [
@@ -45212,8 +45212,8 @@ buses = {
         ]
     },
     '7路': {
-        "name": '7路',
-        "bid": '10000701',
+        'name': '7路',
+        'bid': '10000701',
         'starting_station': '大沙头总站②',
         'terminal_station': '石槎路(金碧新城)总站',
         'stations': [
@@ -45244,8 +45244,8 @@ buses = {
         ]
     },
     '288A路': {
-        "name": '288A路',
-        "bid": '10028821',
+        'name': '288A路',
+        'bid': '10028821',
         'starting_station': '西华路尾总站②',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -45283,8 +45283,8 @@ buses = {
         ]
     },
     '夜51': {
-        "name": '夜51',
-        "bid": '10005111',
+        'name': '夜51',
+        'bid': '10005111',
         'starting_station': '萝岗街总站',
         'terminal_station': '广州火车东站总站⑦b',
         'stations': [
@@ -45340,8 +45340,8 @@ buses = {
         ]
     },
     '225路': {
-        "name": '225路',
-        "bid": '10022500',
+        'name': '225路',
+        'bid': '10022500',
         'starting_station': '滨江东路总站',
         'terminal_station': '机务段总站①',
         'stations': [
@@ -45370,8 +45370,8 @@ buses = {
         ]
     },
     '番101路': {
-        "name": '番101路',
-        "bid": '10710101',
+        'name': '番101路',
+        'bid': '10710101',
         'starting_station': '石壁小学站',
         'terminal_station': '都那村总站',
         'stations': [
@@ -45396,8 +45396,8 @@ buses = {
         ]
     },
     '南沙23路': {
-        "name": '南沙23路',
-        "bid": '10602301',
+        'name': '南沙23路',
+        'bid': '10602301',
         'starting_station': '十九涌水产市场总站',
         'terminal_station': '蕉门地铁总站',
         'stations': [
@@ -45413,8 +45413,8 @@ buses = {
         ]
     },
     '高峰快线271A': {
-        "name": '高峰快线271A',
-        "bid": '10027160',
+        'name': '高峰快线271A',
+        'bid': '10027160',
         'starting_station': '流花车站总站①',
         'terminal_station': '石井(滘心村)总站',
         'stations': [
@@ -45440,8 +45440,8 @@ buses = {
         ]
     },
     '426路': {
-        "name": '426路',
-        "bid": '10042600',
+        'name': '426路',
+        'bid': '10042600',
         'starting_station': '汇桥南路总站',
         'terminal_station': '小坪村委总站',
         'stations': [
@@ -45453,8 +45453,8 @@ buses = {
         ]
     },
     '夜65': {
-        "name": '夜65',
-        "bid": '10006510',
+        'name': '夜65',
+        'bid': '10006510',
         'starting_station': '大学城综合商业北区总站',
         'terminal_station': '长洲码头总站',
         'stations': [
@@ -45479,8 +45479,8 @@ buses = {
         ]
     },
     '番150B路': {
-        "name": '番150B路',
-        "bid": '10715021',
+        'name': '番150B路',
+        'bid': '10715021',
         'starting_station': '鱼窝头车站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -45507,8 +45507,8 @@ buses = {
         ]
     },
     '420路': {
-        "name": '420路',
-        "bid": '10042000',
+        'name': '420路',
+        'bid': '10042000',
         'starting_station': '齐富路总站',
         'terminal_station': '黄石路南总站',
         'stations': [
@@ -45523,8 +45523,8 @@ buses = {
         ]
     },
     '715路': {
-        "name": '715路',
-        "bid": '10071500',
+        'name': '715路',
+        'bid': '10071500',
         'starting_station': '人和商业中心总站',
         'terminal_station': '花都狮岭五金龙头市场总站',
         'stations': [
@@ -45565,8 +45565,8 @@ buses = {
         ]
     },
     '491路': {
-        "name": '491路',
-        "bid": '10049100',
+        'name': '491路',
+        'bid': '10049100',
         'starting_station': '渔沙坦(渔中路)总站',
         'terminal_station': '上涂总站',
         'stations': [
@@ -45586,8 +45586,8 @@ buses = {
         ]
     },
     '37路': {
-        "name": '37路',
-        "bid": '10003701',
+        'name': '37路',
+        'bid': '10003701',
         'starting_station': '东山口总站',
         'terminal_station': '赤沙(广东商学院)总站',
         'stations': [
@@ -45613,8 +45613,8 @@ buses = {
         ]
     },
     '502路': {
-        "name": '502路',
-        "bid": '10050200',
+        'name': '502路',
+        'bid': '10050200',
         'starting_station': '白云路总站',
         'terminal_station': '沙太货运站总站',
         'stations': [
@@ -45650,8 +45650,8 @@ buses = {
         ]
     },
     '521锦东服装城班车': {
-        "name": '521锦东服装城班车',
-        "bid": '10052130',
+        'name': '521锦东服装城班车',
+        'bid': '10052130',
         'starting_station': '凰岗(锦东服装城)总站',
         'terminal_station': '石溪总站',
         'stations': [
@@ -45684,8 +45684,8 @@ buses = {
         ]
     },
     '305路': {
-        "name": '305路',
-        "bid": '10030500',
+        'name': '305路',
+        'bid': '10030500',
         'starting_station': '广州碧桂园总站',
         'terminal_station': '罗冲围总站1③',
         'stations': [
@@ -45720,8 +45720,8 @@ buses = {
         ]
     },
     '794路': {
-        "name": '794路',
-        "bid": '10079401',
+        'name': '794路',
+        'bid': '10079401',
         'starting_station': '地铁江夏站总站',
         'terminal_station': '地铁江夏站总站',
         'stations': [
@@ -45743,8 +45743,8 @@ buses = {
         ]
     },
     '211路': {
-        "name": '211路',
-        "bid": '10021101',
+        'name': '211路',
+        'bid': '10021101',
         'starting_station': '广州火车站总站',
         'terminal_station': '番禺礼村总站',
         'stations': [
@@ -45783,8 +45783,8 @@ buses = {
         ]
     },
     'B5路': {
-        "name": 'B5路',
-        "bid": '10800500',
+        'name': 'B5路',
+        'bid': '10800500',
         'starting_station': '宝岗大道总站①',
         'terminal_station': '黄埔港总站',
         'stations': [
@@ -45820,8 +45820,8 @@ buses = {
         ]
     },
     '920路': {
-        "name": '920路',
-        "bid": '10092001',
+        'name': '920路',
+        'bid': '10092001',
         'starting_station': '罗岗村总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -45841,8 +45841,8 @@ buses = {
         ]
     },
     '番129': {
-        "name": '番129',
-        "bid": '10712901',
+        'name': '番129',
+        'bid': '10712901',
         'starting_station': '广州南站总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -45881,8 +45881,8 @@ buses = {
         ]
     },
     '花6路': {
-        "name": '花6路',
-        "bid": '10500600',
+        'name': '花6路',
+        'bid': '10500600',
         'starting_station': '汽车总站',
         'terminal_station': '石岗村总站',
         'stations': [
@@ -45911,8 +45911,8 @@ buses = {
         ]
     },
     '412路': {
-        "name": '412路',
-        "bid": '10041201',
+        'name': '412路',
+        'bid': '10041201',
         'starting_station': '龙溪总站(总站)',
         'terminal_station': '海中村总站',
         'stations': [
@@ -45933,8 +45933,8 @@ buses = {
         ]
     },
     '10路': {
-        "name": '10路',
-        "bid": '10001000',
+        'name': '10路',
+        'bid': '10001000',
         'starting_station': '昌岗路总站',
         'terminal_station': '恒福路总站',
         'stations': [
@@ -45963,8 +45963,8 @@ buses = {
         ]
     },
     '38路': {
-        "name": '38路',
-        "bid": '10003801',
+        'name': '38路',
+        'bid': '10003801',
         'starting_station': '南方大厦(文化公园)总站',
         'terminal_station': '时代玫瑰园总站',
         'stations': [
@@ -46003,8 +46003,8 @@ buses = {
         ]
     },
     'B24路': {
-        "name": 'B24路',
-        "bid": '10802400',
+        'name': 'B24路',
+        'bid': '10802400',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '车陂总站①',
         'stations': [
@@ -46047,8 +46047,8 @@ buses = {
         ]
     },
     '196路': {
-        "name": '196路',
-        "bid": '10019600',
+        'name': '196路',
+        'bid': '10019600',
         'starting_station': '中山八路总站③',
         'terminal_station': '同德围(横滘村)总站',
         'stations': [
@@ -46071,8 +46071,8 @@ buses = {
         ]
     },
     '夜87路': {
-        "name": '夜87路',
-        "bid": '10008710',
+        'name': '夜87路',
+        'bid': '10008710',
         'starting_station': '机场路总站②',
         'terminal_station': '广州北站总站',
         'stations': [
@@ -46120,8 +46120,8 @@ buses = {
         ]
     },
     '404路': {
-        "name": '404路',
-        "bid": '10040401',
+        'name': '404路',
+        'bid': '10040401',
         'starting_station': '黄村北总站',
         'terminal_station': '地铁东圃站总站',
         'stations': [
@@ -46138,8 +46138,8 @@ buses = {
         ]
     },
     '广佛线': {
-        "name": '广佛线',
-        "bid": '10999861',
+        'name': '广佛线',
+        'bid': '10999861',
         'starting_station': '魁奇路',
         'terminal_station': '西朗',
         'stations': [
@@ -46160,8 +46160,8 @@ buses = {
         ]
     },
     '130路': {
-        "name": '130路',
-        "bid": '10013001',
+        'name': '130路',
+        'bid': '10013001',
         'starting_station': '华景新城总站⑤',
         'terminal_station': '赤岗大塘总站',
         'stations': [
@@ -46187,8 +46187,8 @@ buses = {
         ]
     },
     '479路': {
-        "name": '479路',
-        "bid": '10047900',
+        'name': '479路',
+        'bid': '10047900',
         'starting_station': '景泰直街总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -46206,8 +46206,8 @@ buses = {
         ]
     },
     '番68路': {
-        "name": '番68路',
-        "bid": '10706801',
+        'name': '番68路',
+        'bid': '10706801',
         'starting_station': '古坝总站',
         'terminal_station': '番禺汽车客运站',
         'stations': [
@@ -46257,8 +46257,8 @@ buses = {
         ]
     },
     '番80路': {
-        "name": '番80路',
-        "bid": '10708000',
+        'name': '番80路',
+        'bid': '10708000',
         'starting_station': '石基总站',
         'terminal_station': '低涌村总站',
         'stations': [
@@ -46277,8 +46277,8 @@ buses = {
         ]
     },
     'B18路': {
-        "name": 'B18路',
-        "bid": '10801800',
+        'name': 'B18路',
+        'bid': '10801800',
         'starting_station': '永泰客运站总站',
         'terminal_station': '汇彩路总站',
         'stations': [
@@ -46315,8 +46315,8 @@ buses = {
         ]
     },
     '284路': {
-        "name": '284路',
-        "bid": '10028401',
+        'name': '284路',
+        'bid': '10028401',
         'starting_station': '广园新村总站①',
         'terminal_station': '员村(绢麻厂)总站',
         'stations': [
@@ -46349,8 +46349,8 @@ buses = {
         ]
     },
     '494A': {
-        "name": '494A',
-        "bid": '10049420',
+        'name': '494A',
+        'bid': '10049420',
         'starting_station': '天河客运站总站①',
         'terminal_station': '科学城南部公交场总站',
         'stations': [
@@ -46396,8 +46396,8 @@ buses = {
         ]
     },
     '4路': {
-        "name": '4路',
-        "bid": '10000400',
+        'name': '4路',
+        'bid': '10000400',
         'starting_station': '富力桃园(增步村)总站',
         'terminal_station': '白云路总站',
         'stations': [
@@ -46422,8 +46422,8 @@ buses = {
         ]
     },
     'B4A路': {
-        "name": 'B4A路',
-        "bid": '10800420',
+        'name': 'B4A路',
+        'bid': '10800420',
         'starting_station': '广仁路总站',
         'terminal_station': '科学城(天泰二路)总站',
         'stations': [
@@ -46468,8 +46468,8 @@ buses = {
         ]
     },
     '247路': {
-        "name": '247路',
-        "bid": '10024701',
+        'name': '247路',
+        'bid': '10024701',
         'starting_station': '南洲北路站',
         'terminal_station': '恒福路总站',
         'stations': [
@@ -46501,8 +46501,8 @@ buses = {
         ]
     },
     '夜57': {
-        "name": '夜57',
-        "bid": '10005710',
+        'name': '夜57',
+        'bid': '10005710',
         'starting_station': '火村东总站',
         'terminal_station': '夏园站',
         'stations': [
@@ -46528,8 +46528,8 @@ buses = {
         ]
     },
     '南沙26路': {
-        "name": '南沙26路',
-        "bid": '10602601',
+        'name': '南沙26路',
+        'bid': '10602601',
         'starting_station': '黄阁公交总站',
         'terminal_station': '万顷沙总站',
         'stations': [
@@ -46557,8 +46557,8 @@ buses = {
         ]
     },
     '夜24': {
-        "name": '夜24',
-        "bid": '10002410',
+        'name': '夜24',
+        'bid': '10002410',
         'starting_station': '白云山制药厂总站',
         'terminal_station': '石岗路总站',
         'stations': [
@@ -46601,8 +46601,8 @@ buses = {
         ]
     },
     '番185路': {
-        "name": '番185路',
-        "bid": '10718501',
+        'name': '番185路',
+        'bid': '10718501',
         'starting_station': '石壁一村总站',
         'terminal_station': '星河湾半岛',
         'stations': [
@@ -46638,8 +46638,8 @@ buses = {
         ]
     },
     '南沙9路': {
-        "name": '南沙9路',
-        "bid": '10600901',
+        'name': '南沙9路',
+        'bid': '10600901',
         'starting_station': '团结围总站',
         'terminal_station': '万顷沙总站',
         'stations': [
@@ -46662,8 +46662,8 @@ buses = {
         ]
     },
     '569支线': {
-        "name": '569支线',
-        "bid": '10056921',
+        'name': '569支线',
+        'bid': '10056921',
         'starting_station': '峨山社总站',
         'terminal_station': '萝岗香雪公园总站',
         'stations': [
@@ -46697,8 +46697,8 @@ buses = {
         ]
     },
     'B9路': {
-        "name": 'B9路',
-        "bid": '10800901',
+        'name': 'B9路',
+        'bid': '10800901',
         'starting_station': '华景新城总站①',
         'terminal_station': '珠江南景园总站',
         'stations': [
@@ -46726,8 +46726,8 @@ buses = {
         ]
     },
     '39路': {
-        "name": '39路',
-        "bid": '10003901',
+        'name': '39路',
+        'bid': '10003901',
         'starting_station': '龙洞(广东金融学院)总站',
         'terminal_station': '天河公交场总站③',
         'stations': [
@@ -46760,8 +46760,8 @@ buses = {
         ]
     },
     '519路': {
-        "name": '519路',
-        "bid": '10051901',
+        'name': '519路',
+        'bid': '10051901',
         'starting_station': '石井(红星村)总站',
         'terminal_station': '白云路总站',
         'stations': [
@@ -46795,8 +46795,8 @@ buses = {
         ]
     },
     '121路': {
-        "name": '121路',
-        "bid": '10012100',
+        'name': '121路',
+        'bid': '10012100',
         'starting_station': '珠江帝景苑总站',
         'terminal_station': '西塱社区总站',
         'stations': [
@@ -46829,8 +46829,8 @@ buses = {
         ]
     },
     '番23B线': {
-        "name": '番23B线',
-        "bid": '10702330',
+        'name': '番23B线',
+        'bid': '10702330',
         'starting_station': '旧水坑村总站',
         'terminal_station': '金山工业园总站',
         'stations': [
@@ -46866,8 +46866,8 @@ buses = {
         ]
     },
     '303路': {
-        "name": '303路',
-        "bid": '10030301',
+        'name': '303路',
+        'bid': '10030301',
         'starting_station': '天河客运站总站①',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -46922,8 +46922,8 @@ buses = {
         ]
     },
     '548路': {
-        "name": '548路',
-        "bid": '10054801',
+        'name': '548路',
+        'bid': '10054801',
         'starting_station': '大观总站',
         'terminal_station': '珠江泳场总站①',
         'stations': [
@@ -46965,8 +46965,8 @@ buses = {
         ]
     },
     '62路': {
-        "name": '62路',
-        "bid": '10006200',
+        'name': '62路',
+        'bid': '10006200',
         'starting_station': '广州火车东站总站②b',
         'terminal_station': '石槎路总站',
         'stations': [
@@ -47011,8 +47011,8 @@ buses = {
         ]
     },
     '223路': {
-        "name": '223路',
-        "bid": '10022301',
+        'name': '223路',
+        'bid': '10022301',
         'starting_station': '白云花园总站',
         'terminal_station': '白云路总站',
         'stations': [
@@ -47041,8 +47041,8 @@ buses = {
         ]
     },
     '736路': {
-        "name": '736路',
-        "bid": '10073601',
+        'name': '736路',
+        'bid': '10073601',
         'starting_station': '龙归地铁站总站',
         'terminal_station': '石湖总站',
         'stations': [
@@ -47062,8 +47062,8 @@ buses = {
         ]
     },
     '南沙50路': {
-        "name": '南沙50路',
-        "bid": '10605000',
+        'name': '南沙50路',
+        'bid': '10605000',
         'starting_station': '锦兴染厂(旧厂)站',
         'terminal_station': '鱼窝头二中总站',
         'stations': [
@@ -47093,8 +47093,8 @@ buses = {
         ]
     },
     '79路': {
-        "name": '79路',
-        "bid": '10007900',
+        'name': '79路',
+        'bid': '10007900',
         'starting_station': '洛溪新城(五湖四海水产市场)总站',
         'terminal_station': '德星路(上下九步行街)总站',
         'stations': [
@@ -47131,8 +47131,8 @@ buses = {
         ]
     },
     '566A路': {
-        "name": '566A路',
-        "bid": '10056621',
+        'name': '566A路',
+        'bid': '10056621',
         'starting_station': '永和(崇和花园)总站',
         'terminal_station': '夏园站',
         'stations': [
@@ -47163,8 +47163,8 @@ buses = {
         ]
     },
     '283路': {
-        "name": '283路',
-        "bid": '10028301',
+        'name': '283路',
+        'bid': '10028301',
         'starting_station': '万科四季花城总站',
         'terminal_station': '广州火车东站总站⑤a',
         'stations': [
@@ -47201,8 +47201,8 @@ buses = {
         ]
     },
     '夜68路': {
-        "name": '夜68路',
-        "bid": '10006810',
+        'name': '夜68路',
+        'bid': '10006810',
         'starting_station': '天河公交场总站①',
         'terminal_station': '广汕路(万龙路)总站',
         'stations': [
@@ -47237,8 +47237,8 @@ buses = {
         ]
     },
     '40路': {
-        "name": '40路',
-        "bid": '10004001',
+        'name': '40路',
+        'bid': '10004001',
         'starting_station': '广氮花园总站',
         'terminal_station': '东山总站',
         'stations': [
@@ -47277,8 +47277,8 @@ buses = {
         ]
     },
     '花71路': {
-        "name": '花71路',
-        "bid": '10507101',
+        'name': '花71路',
+        'bid': '10507101',
         'starting_station': '花都推广汽车站总站',
         'terminal_station': '人和墟总站',
         'stations': [
@@ -47307,8 +47307,8 @@ buses = {
         ]
     },
     '486路': {
-        "name": '486路',
-        "bid": '10048601',
+        'name': '486路',
+        'bid': '10048601',
         'starting_station': '西村总站',
         'terminal_station': '机务段总站②',
         'stations': [
@@ -47321,8 +47321,8 @@ buses = {
         ]
     },
     '658线': {
-        "name": '658线',
-        "bid": '10065801',
+        'name': '658线',
+        'bid': '10065801',
         'starting_station': '浔峰路口站',
         'terminal_station': '保利西海岸总站',
         'stations': [
@@ -47335,8 +47335,8 @@ buses = {
         ]
     },
     '番25路': {
-        "name": '番25路',
-        "bid": '10702500',
+        'name': '番25路',
+        'bid': '10702500',
         'starting_station': '雄峰商城总站',
         'terminal_station': '洛溪南浦总站',
         'stations': [
@@ -47373,8 +47373,8 @@ buses = {
         ]
     },
     '771路': {
-        "name": '771路',
-        "bid": '10077101',
+        'name': '771路',
+        'bid': '10077101',
         'starting_station': '车陂总站②',
         'terminal_station': '东方一路总站',
         'stations': [
@@ -47391,8 +47391,8 @@ buses = {
         ]
     },
     '383路': {
-        "name": '383路',
-        "bid": '10038301',
+        'name': '383路',
+        'bid': '10038301',
         'starting_station': '长洲码头总站',
         'terminal_station': '大学城(科学中心)总站①',
         'stations': [
@@ -47426,8 +47426,8 @@ buses = {
         ]
     },
     '高峰快线79': {
-        "name": '高峰快线79',
-        "bid": '10007961',
+        'name': '高峰快线79',
+        'bid': '10007961',
         'starting_station': '动物园总站1①b',
         'terminal_station': '平沙村(富力城)总站',
         'stations': [
@@ -47450,8 +47450,8 @@ buses = {
         ]
     },
     '783路': {
-        "name": '783路',
-        "bid": '10078301',
+        'name': '783路',
+        'bid': '10078301',
         'starting_station': '大坦沙(市1中)总站',
         'terminal_station': '大坦沙(市1中)总站',
         'stations': [
@@ -47480,8 +47480,8 @@ buses = {
         ]
     },
     '302A路': {
-        "name": '302A路',
-        "bid": '10030221',
+        'name': '302A路',
+        'bid': '10030221',
         'starting_station': '广州火车东站总站③d',
         'terminal_station': '南村汽车站总站',
         'stations': [
@@ -47516,8 +47516,8 @@ buses = {
         ]
     },
     '654路': {
-        "name": '654路',
-        "bid": '10065401',
+        'name': '654路',
+        'bid': '10065401',
         'starting_station': '江高新楼村总站',
         'terminal_station': '大田村(北帝古庙)总站',
         'stations': [
@@ -47543,8 +47543,8 @@ buses = {
         ]
     },
     '夜57': {
-        "name": '夜57',
-        "bid": '10005711',
+        'name': '夜57',
+        'bid': '10005711',
         'starting_station': '夏园站',
         'terminal_station': '火村东总站',
         'stations': [
@@ -47570,8 +47570,8 @@ buses = {
         ]
     },
     '305支线': {
-        "name": '305支线',
-        "bid": '10030531',
+        'name': '305支线',
+        'bid': '10030531',
         'starting_station': '罗冲围总站1③',
         'terminal_station': '锦绣半岛总站',
         'stations': [
@@ -47605,8 +47605,8 @@ buses = {
         ]
     },
     '17路': {
-        "name": '17路',
-        "bid": '10001700',
+        'name': '17路',
+        'bid': '10001700',
         'starting_station': '德星路(上下九步行街)总站',
         'terminal_station': '石井(广东科贸学院)总站',
         'stations': [
@@ -47643,8 +47643,8 @@ buses = {
         ]
     },
     '21路': {
-        "name": '21路',
-        "bid": '10002100',
+        'name': '21路',
+        'bid': '10002100',
         'starting_station': '平沙村(富力城)总站',
         'terminal_station': '解放北路(应元路口)总站',
         'stations': [
@@ -47675,8 +47675,8 @@ buses = {
         ]
     },
     '544路': {
-        "name": '544路',
-        "bid": '10054401',
+        'name': '544路',
+        'bid': '10054401',
         'starting_station': '广州体育馆总站',
         'terminal_station': '纸厂总站②',
         'stations': [
@@ -47710,8 +47710,8 @@ buses = {
         ]
     },
     '708路': {
-        "name": '708路',
-        "bid": '10070800',
+        'name': '708路',
+        'bid': '10070800',
         'starting_station': '人和总站',
         'terminal_station': '花都两龙总站',
         'stations': [
@@ -47736,8 +47736,8 @@ buses = {
         ]
     },
     '401路': {
-        "name": '401路',
-        "bid": '10040100',
+        'name': '401路',
+        'bid': '10040100',
         'starting_station': '员村家乐福总站',
         'terminal_station': '员村同乐花园总站',
         'stations': [
@@ -47750,8 +47750,8 @@ buses = {
         ]
     },
     '104路': {
-        "name": '104路',
-        "bid": '10010401',
+        'name': '104路',
+        'bid': '10010401',
         'starting_station': '海印桥总站①',
         'terminal_station': '中山八路总站⑥',
         'stations': [
@@ -47773,8 +47773,8 @@ buses = {
         ]
     },
     'S12路': {
-        "name": 'S12路',
-        "bid": '20901200',
+        'name': 'S12路',
+        'bid': '20901200',
         'starting_station': '海心沙码头(总站)',
         'terminal_station': '长洲码头(总站)',
         'stations': [
@@ -47784,8 +47784,8 @@ buses = {
         ]
     },
     '131A线': {
-        "name": '131A线',
-        "bid": '10013121',
+        'name': '131A线',
+        'bid': '10013121',
         'starting_station': '赤岗总站',
         'terminal_station': '赤岗总站',
         'stations': [
@@ -47825,8 +47825,8 @@ buses = {
         ]
     },
     '广佛快线': {
-        "name": '广佛快线',
-        "bid": '10700161',
+        'name': '广佛快线',
+        'bid': '10700161',
         'starting_station': '上佳市站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -47843,8 +47843,8 @@ buses = {
         ]
     },
     '广369路': {
-        "name": '广369路',
-        "bid": '10036901',
+        'name': '广369路',
+        'bid': '10036901',
         'starting_station': '中大新华学院(东莞校区)总站',
         'terminal_station': '茅岗新村总站',
         'stations': [
@@ -47885,8 +47885,8 @@ buses = {
         ]
     },
     '984路': {
-        "name": '984路',
-        "bid": '10098401',
+        'name': '984路',
+        'bid': '10098401',
         'starting_station': '东平(老屋)总站',
         'terminal_station': '夏茅(白云湖公园)总站',
         'stations': [
@@ -47917,8 +47917,8 @@ buses = {
         ]
     },
     '529路': {
-        "name": '529路',
-        "bid": '10052901',
+        'name': '529路',
+        'bid': '10052901',
         'starting_station': '太和总站',
         'terminal_station': '广州火车站总站h',
         'stations': [
@@ -47954,8 +47954,8 @@ buses = {
         ]
     },
     '134路': {
-        "name": '134路',
-        "bid": '10013401',
+        'name': '134路',
+        'bid': '10013401',
         'starting_station': '同德围泽德花园总站',
         'terminal_station': '一德西总站',
         'stations': [
@@ -47979,8 +47979,8 @@ buses = {
         ]
     },
     '大学城环线2': {
-        "name": '大学城环线2',
-        "bid": '10038200',
+        'name': '大学城环线2',
+        'bid': '10038200',
         'starting_station': '外环西路(北亭广场)总站',
         'terminal_station': '外环西路(北亭广场)总站',
         'stations': [
@@ -48009,8 +48009,8 @@ buses = {
         ]
     },
     '高峰快线42': {
-        "name": '高峰快线42',
-        "bid": '10004261',
+        'name': '高峰快线42',
+        'bid': '10004261',
         'starting_station': '天河公交场总站',
         'terminal_station': '广州雅居乐站',
         'stations': [
@@ -48022,8 +48022,8 @@ buses = {
         ]
     },
     '南沙19路': {
-        "name": '南沙19路',
-        "bid": '10601901',
+        'name': '南沙19路',
+        'bid': '10601901',
         'starting_station': '南沙湾总站',
         'terminal_station': '南沙湾总站',
         'stations': [
@@ -48068,8 +48068,8 @@ buses = {
         ]
     },
     '278路': {
-        "name": '278路',
-        "bid": '10027801',
+        'name': '278路',
+        'bid': '10027801',
         'starting_station': '车陂总站①',
         'terminal_station': '汇侨新城总站②',
         'stations': [
@@ -48106,8 +48106,8 @@ buses = {
         ]
     },
     '468路': {
-        "name": '468路',
-        "bid": '10046800',
+        'name': '468路',
+        'bid': '10046800',
         'starting_station': '滨江东路总站',
         'terminal_station': '土华总站',
         'stations': [
@@ -48144,8 +48144,8 @@ buses = {
         ]
     },
     '番150路': {
-        "name": '番150路',
-        "bid": '10715000',
+        'name': '番150路',
+        'bid': '10715000',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '鱼窝头车站',
         'stations': [
@@ -48170,8 +48170,8 @@ buses = {
         ]
     },
     '787环线': {
-        "name": '787环线',
-        "bid": '10078700',
+        'name': '787环线',
+        'bid': '10078700',
         'starting_station': '芳村西塱总站①',
         'terminal_station': '芳村西塱总站①',
         'stations': [
@@ -48191,8 +48191,8 @@ buses = {
         ]
     },
     '964路': {
-        "name": '964路',
-        "bid": '10096400',
+        'name': '964路',
+        'bid': '10096400',
         'starting_station': '石岗码头总站',
         'terminal_station': '南洲北路总站',
         'stations': [
@@ -48213,8 +48213,8 @@ buses = {
         ]
     },
     '408A路': {
-        "name": '408A路',
-        "bid": '10040830',
+        'name': '408A路',
+        'bid': '10040830',
         'starting_station': '汇景新城东总站',
         'terminal_station': '汇景新城东',
         'stations': [
@@ -48231,8 +48231,8 @@ buses = {
         ]
     },
     '550路': {
-        "name": '550路',
-        "bid": '10055000',
+        'name': '550路',
+        'bid': '10055000',
         'starting_station': '广州火车站总站c',
         'terminal_station': '东圃珠村总站',
         'stations': [
@@ -48270,8 +48270,8 @@ buses = {
         ]
     },
     '123路': {
-        "name": '123路',
-        "bid": '10012301',
+        'name': '123路',
+        'bid': '10012301',
         'starting_station': '半岛花园总站',
         'terminal_station': '革新路(光大花园)总站',
         'stations': [
@@ -48299,8 +48299,8 @@ buses = {
         ]
     },
     'S05B路': {
-        "name": 'S05B路',
-        "bid": '20900520',
+        'name': 'S05B路',
+        'bid': '20900520',
         'starting_station': '新洲码头(总站)',
         'terminal_station': '深井码头(总站)',
         'stations': [
@@ -48309,8 +48309,8 @@ buses = {
         ]
     },
     '345路': {
-        "name": '345路',
-        "bid": '10034500',
+        'name': '345路',
+        'bid': '10034500',
         'starting_station': '天河客运站总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -48369,8 +48369,8 @@ buses = {
         ]
     },
     '南沙35路': {
-        "name": '南沙35路',
-        "bid": '10603501',
+        'name': '南沙35路',
+        'bid': '10603501',
         'starting_station': '大稳村水上绿道总站',
         'terminal_station': '东涌地铁站总站',
         'stations': [
@@ -48393,8 +48393,8 @@ buses = {
         ]
     },
     '夜77': {
-        "name": '夜77',
-        "bid": '10007710',
+        'name': '夜77',
+        'bid': '10007710',
         'starting_station': '石井潭村总站',
         'terminal_station': '广州火车东站总站',
         'stations': [
@@ -48426,8 +48426,8 @@ buses = {
         ]
     },
     '南沙7路': {
-        "name": '南沙7路',
-        "bid": '10600701',
+        'name': '南沙7路',
+        'bid': '10600701',
         'starting_station': '沙仔码头总站',
         'terminal_station': '麒麟中学总站',
         'stations': [
@@ -48446,8 +48446,8 @@ buses = {
         ]
     },
     '206路': {
-        "name": '206路',
-        "bid": '10020600',
+        'name': '206路',
+        'bid': '10020600',
         'starting_station': '新滘南(赤沙市场)总站',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -48481,8 +48481,8 @@ buses = {
         ]
     },
     '夜9': {
-        "name": '夜9',
-        "bid": '10000910',
+        'name': '夜9',
+        'bid': '10000910',
         'starting_station': '车陂总站①',
         'terminal_station': '黄石路总站',
         'stations': [
@@ -48529,8 +48529,8 @@ buses = {
         ]
     },
     '578路': {
-        "name": '578路',
-        "bid": '10057801',
+        'name': '578路',
+        'bid': '10057801',
         'starting_station': '萝岗香雪公园总站',
         'terminal_station': '天河智慧城核心区总站(高唐)',
         'stations': [
@@ -48573,8 +48573,8 @@ buses = {
         ]
     },
     '131A线': {
-        "name": '131A线',
-        "bid": '10013120',
+        'name': '131A线',
+        'bid': '10013120',
         'starting_station': '赤岗总站',
         'terminal_station': '赤岗总站',
         'stations': [
@@ -48614,8 +48614,8 @@ buses = {
         ]
     },
     '436路': {
-        "name": '436路',
-        "bid": '10043601',
+        'name': '436路',
+        'bid': '10043601',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -48636,8 +48636,8 @@ buses = {
         ]
     },
     '323路': {
-        "name": '323路',
-        "bid": '10032301',
+        'name': '323路',
+        'bid': '10032301',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '刘村总站',
         'stations': [
@@ -48658,8 +48658,8 @@ buses = {
         ]
     },
     '番108路': {
-        "name": '番108路',
-        "bid": '10710801',
+        'name': '番108路',
+        'bid': '10710801',
         'starting_station': '广州南站总站',
         'terminal_station': '大岗中巴总站',
         'stations': [
@@ -48740,8 +48740,8 @@ buses = {
         ]
     },
     '529路': {
-        "name": '529路',
-        "bid": '10052900',
+        'name': '529路',
+        'bid': '10052900',
         'starting_station': '广州火车站总站h',
         'terminal_station': '太和总站',
         'stations': [
@@ -48776,8 +48776,8 @@ buses = {
         ]
     },
     '337路': {
-        "name": '337路',
-        "bid": '10033701',
+        'name': '337路',
+        'bid': '10033701',
         'starting_station': '东鹏大道总站',
         'terminal_station': '萝岗香雪公园总站',
         'stations': [
@@ -48804,8 +48804,8 @@ buses = {
         ]
     },
     '741环线': {
-        "name": '741环线',
-        "bid": '10074100',
+        'name': '741环线',
+        'bid': '10074100',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -48832,8 +48832,8 @@ buses = {
         ]
     },
     '12路': {
-        "name": '12路',
-        "bid": '10001200',
+        'name': '12路',
+        'bid': '10001200',
         'starting_station': '二沙岛西总站',
         'terminal_station': '万科四季花城总站',
         'stations': [
@@ -48863,8 +48863,8 @@ buses = {
         ]
     },
     '986线': {
-        "name": '986线',
-        "bid": '10098601',
+        'name': '986线',
+        'bid': '10098601',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '南岭村总站',
         'stations': [
@@ -48892,8 +48892,8 @@ buses = {
         ]
     },
     '夜75': {
-        "name": '夜75',
-        "bid": '10007510',
+        'name': '夜75',
+        'bid': '10007510',
         'starting_station': '汇侨新城总站①',
         'terminal_station': '汇侨新城总站①',
         'stations': [
@@ -48922,8 +48922,8 @@ buses = {
         ]
     },
     '夜49': {
-        "name": '夜49',
-        "bid": '10004911',
+        'name': '夜49',
+        'bid': '10004911',
         'starting_station': '永和开发区总站',
         'terminal_station': '西区公交总站',
         'stations': [
@@ -48968,8 +48968,8 @@ buses = {
         ]
     },
     '24路': {
-        "name": '24路',
-        "bid": '10002401',
+        'name': '24路',
+        'bid': '10002401',
         'starting_station': '云台花园总站①',
         'terminal_station': '墩和路总站',
         'stations': [
@@ -49001,8 +49001,8 @@ buses = {
         ]
     },
     '夜5': {
-        "name": '夜5',
-        "bid": '10000511',
+        'name': '夜5',
+        'bid': '10000511',
         'starting_station': '黄沙总站②',
         'terminal_station': '天平架总站①a',
         'stations': [
@@ -49030,8 +49030,8 @@ buses = {
         ]
     },
     '259路': {
-        "name": '259路',
-        "bid": '10025900',
+        'name': '259路',
+        'bid': '10025900',
         'starting_station': '罗冲围总站1②',
         'terminal_station': '嘉禾长湴总站',
         'stations': [
@@ -49067,8 +49067,8 @@ buses = {
         ]
     },
     '127路': {
-        "name": '127路',
-        "bid": '10012700',
+        'name': '127路',
+        'bid': '10012700',
         'starting_station': '动物园总站1①b',
         'terminal_station': '均禾工业区(清湖村)总站',
         'stations': [
@@ -49110,8 +49110,8 @@ buses = {
         ]
     },
     '812路': {
-        "name": '812路',
-        "bid": '10081200',
+        'name': '812路',
+        'bid': '10081200',
         'starting_station': '东漖教师新村总站',
         'terminal_station': '江南大道南总站',
         'stations': [
@@ -49142,8 +49142,8 @@ buses = {
         ]
     },
     '948路': {
-        "name": '948路',
-        "bid": '10094800',
+        'name': '948路',
+        'bid': '10094800',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '禾丰横路总站',
         'stations': [
@@ -49178,8 +49178,8 @@ buses = {
         ]
     },
     '8路': {
-        "name": '8路',
-        "bid": '10000800',
+        'name': '8路',
+        'bid': '10000800',
         'starting_station': '中山八路总站',
         'terminal_station': '逸景翠园总站',
         'stations': [
@@ -49215,8 +49215,8 @@ buses = {
         ]
     },
     '番99路': {
-        "name": '番99路',
-        "bid": '10709901',
+        'name': '番99路',
+        'bid': '10709901',
         'starting_station': '广州南站总站',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -49260,8 +49260,8 @@ buses = {
         ]
     },
     '63路': {
-        "name": '63路',
-        "bid": '10006300',
+        'name': '63路',
+        'bid': '10006300',
         'starting_station': '锦城花园(东风东)总站①',
         'terminal_station': '石槎路(金碧新城)总站',
         'stations': [
@@ -49298,8 +49298,8 @@ buses = {
         ]
     },
     '656线': {
-        "name": '656线',
-        "bid": '10065601',
+        'name': '656线',
+        'bid': '10065601',
         'starting_station': '地铁嘉禾望岗总站',
         'terminal_station': '龙归地铁站总站',
         'stations': [
@@ -49319,8 +49319,8 @@ buses = {
         ]
     },
     'B24路': {
-        "name": 'B24路',
-        "bid": '10802401',
+        'name': 'B24路',
+        'bid': '10802401',
         'starting_station': '车陂总站①',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -49364,8 +49364,8 @@ buses = {
         ]
     },
     '964路': {
-        "name": '964路',
-        "bid": '10096401',
+        'name': '964路',
+        'bid': '10096401',
         'starting_station': '南洲北路总站',
         'terminal_station': '石岗码头总站',
         'stations': [
@@ -49388,8 +49388,8 @@ buses = {
         ]
     },
     '高峰快线16': {
-        "name": '高峰快线16',
-        "bid": '10001660',
+        'name': '高峰快线16',
+        'bid': '10001660',
         'starting_station': '罗冲围总站1①',
         'terminal_station': '石溪总站',
         'stations': [
@@ -49410,8 +49410,8 @@ buses = {
         ]
     },
     '761路': {
-        "name": '761路',
-        "bid": '10076100',
+        'name': '761路',
+        'bid': '10076100',
         'starting_station': '赤沙(广东商学院)总站',
         'terminal_station': '侨城花园总站',
         'stations': [
@@ -49433,8 +49433,8 @@ buses = {
         ]
     },
     '夜48路': {
-        "name": '夜48路',
-        "bid": '10004810',
+        'name': '夜48路',
+        'bid': '10004810',
         'starting_station': '大学城(中部枢纽)总站②',
         'terminal_station': '体育中心站1④',
         'stations': [
@@ -49453,8 +49453,8 @@ buses = {
         ]
     },
     '番63路': {
-        "name": '番63路',
-        "bid": '10706300',
+        'name': '番63路',
+        'bid': '10706300',
         'starting_station': '化龙车站总站',
         'terminal_station': '沙亭总站',
         'stations': [
@@ -49465,8 +49465,8 @@ buses = {
         ]
     },
     'S14路': {
-        "name": 'S14路',
-        "bid": '20901400',
+        'name': 'S14路',
+        'bid': '20901400',
         'starting_station': '石围塘码头(总站)',
         'terminal_station': '石围塘码头(总站)',
         'stations': [
@@ -49477,8 +49477,8 @@ buses = {
         ]
     },
     '102路': {
-        "name": '102路',
-        "bid": '10010200',
+        'name': '102路',
+        'bid': '10010200',
         'starting_station': '东山总站',
         'terminal_station': '文化公园总站①',
         'stations': [
@@ -49498,8 +49498,8 @@ buses = {
         ]
     },
     '番17路': {
-        "name": '番17路',
-        "bid": '10701701',
+        'name': '番17路',
+        'bid': '10701701',
         'starting_station': '洛溪南浦总站',
         'terminal_station': '南村汽车站总站',
         'stations': [
@@ -49540,8 +49540,8 @@ buses = {
         ]
     },
     '807路': {
-        "name": '807路',
-        "bid": '10080701',
+        'name': '807路',
+        'bid': '10080701',
         'starting_station': '嘉禾(长红双和工业区)总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -49579,8 +49579,8 @@ buses = {
         ]
     },
     '科学城环线2': {
-        "name": '科学城环线2',
-        "bid": '10000671',
+        'name': '科学城环线2',
+        'bid': '10000671',
         'starting_station': '科学城(天泰二路)总站',
         'terminal_station': '广汕路(万龙路)总站',
         'stations': [
@@ -49607,8 +49607,8 @@ buses = {
         ]
     },
     '高峰快线32': {
-        "name": '高峰快线32',
-        "bid": '10003261',
+        'name': '高峰快线32',
+        'bid': '10003261',
         'starting_station': '体育西路总站',
         'terminal_station': '玉树新村工业园总站',
         'stations': [
@@ -49643,8 +49643,8 @@ buses = {
         ]
     },
     '番76路': {
-        "name": '番76路',
-        "bid": '10707601',
+        'name': '番76路',
+        'bid': '10707601',
         'starting_station': '盛龙社区总站',
         'terminal_station': '化龙车站总站',
         'stations': [
@@ -49658,8 +49658,8 @@ buses = {
         ]
     },
     '南沙14路': {
-        "name": '南沙14路',
-        "bid": '10601400',
+        'name': '南沙14路',
+        'bid': '10601400',
         'starting_station': '前锋社区总站',
         'terminal_station': '龙珠新村总站',
         'stations': [
@@ -49675,8 +49675,8 @@ buses = {
         ]
     },
     '416路': {
-        "name": '416路',
-        "bid": '10041600',
+        'name': '416路',
+        'bid': '10041600',
         'starting_station': '坦尾总站',
         'terminal_station': '坦尾总站',
         'stations': [
@@ -49702,8 +49702,8 @@ buses = {
         ]
     },
     '305路': {
-        "name": '305路',
-        "bid": '10030501',
+        'name': '305路',
+        'bid': '10030501',
         'starting_station': '罗冲围总站1③',
         'terminal_station': '广州碧桂园总站',
         'stations': [
@@ -49737,8 +49737,8 @@ buses = {
         ]
     },
     '304路': {
-        "name": '304路',
-        "bid": '10030401',
+        'name': '304路',
+        'bid': '10030401',
         'starting_station': '棠下小区总站②',
         'terminal_station': '长隆旅游度假区总站',
         'stations': [
@@ -49770,8 +49770,8 @@ buses = {
         ]
     },
     '南沙12路': {
-        "name": '南沙12路',
-        "bid": '10601200',
+        'name': '南沙12路',
+        'bid': '10601200',
         'starting_station': '华汇广场站',
         'terminal_station': '新兴村总站',
         'stations': [
@@ -49806,8 +49806,8 @@ buses = {
         ]
     },
     '185路': {
-        "name": '185路',
-        "bid": '10018500',
+        'name': '185路',
+        'bid': '10018500',
         'starting_station': '广州火车东站总站⑧a',
         'terminal_station': '同德围泽德花园总站',
         'stations': [
@@ -49836,8 +49836,8 @@ buses = {
         ]
     },
     '番节假日专线1路': {
-        "name": '番节假日专线1路',
-        "bid": '10700170',
+        'name': '番节假日专线1路',
+        'bid': '10700170',
         'starting_station': '广州医科大学',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -49872,8 +49872,8 @@ buses = {
         ]
     },
     '966路': {
-        "name": '966路',
-        "bid": '10096600',
+        'name': '966路',
+        'bid': '10096600',
         'starting_station': '芳村码头总站',
         'terminal_station': '芳和花园总站',
         'stations': [
@@ -49892,8 +49892,8 @@ buses = {
         ]
     },
     '84A线': {
-        "name": '84A线',
-        "bid": '10008421',
+        'name': '84A线',
+        'bid': '10008421',
         'starting_station': '渔沙坦(旺岗村)总站',
         'terminal_station': '动物园总站',
         'stations': [
@@ -49934,8 +49934,8 @@ buses = {
         ]
     },
     '492路': {
-        "name": '492路',
-        "bid": '10049201',
+        'name': '492路',
+        'bid': '10049201',
         'starting_station': '渔沙坦(中山村)总站',
         'terminal_station': '龙洞牌坊总站',
         'stations': [
@@ -49955,8 +49955,8 @@ buses = {
         ]
     },
     '74路': {
-        "name": '74路',
-        "bid": '10007400',
+        'name': '74路',
+        'bid': '10007400',
         'starting_station': '芳村花园总站②',
         'terminal_station': '动物园总站1①b',
         'stations': [
@@ -49992,8 +49992,8 @@ buses = {
         ]
     },
     '981路': {
-        "name": '981路',
-        "bid": '10098101',
+        'name': '981路',
+        'bid': '10098101',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '齐富路总站',
         'stations': [
@@ -50012,8 +50012,8 @@ buses = {
         ]
     },
     '344路': {
-        "name": '344路',
-        "bid": '10034400',
+        'name': '344路',
+        'bid': '10034400',
         'starting_station': '科学城南部公交场总站',
         'terminal_station': '丰乐南路总站',
         'stations': [
@@ -50043,8 +50043,8 @@ buses = {
         ]
     },
     '花63路': {
-        "name": '花63路',
-        "bid": '10506300',
+        'name': '花63路',
+        'bid': '10506300',
         'starting_station': '花都客运站总站',
         'terminal_station': '芙蓉度假村总站',
         'stations': [
@@ -50079,8 +50079,8 @@ buses = {
         ]
     },
     '南沙9路': {
-        "name": '南沙9路',
-        "bid": '10600900',
+        'name': '南沙9路',
+        'bid': '10600900',
         'starting_station': '万顷沙总站',
         'terminal_station': '团结围总站',
         'stations': [
@@ -50103,8 +50103,8 @@ buses = {
         ]
     },
     '番188': {
-        "name": '番188',
-        "bid": '10718800',
+        'name': '番188',
+        'bid': '10718800',
         'starting_station': '星河湾总站',
         'terminal_station': '奥林匹克花园总站',
         'stations': [
@@ -50125,8 +50125,8 @@ buses = {
         ]
     },
     '884路': {
-        "name": '884路',
-        "bid": '10088400',
+        'name': '884路',
+        'bid': '10088400',
         'starting_station': '沙太路(市经贸学校)总站',
         'terminal_station': '广州火车东站总站⑦d',
         'stations': [
@@ -50153,8 +50153,8 @@ buses = {
         ]
     },
     '南沙52路': {
-        "name": '南沙52路',
-        "bid": '10605201',
+        'name': '南沙52路',
+        'bid': '10605201',
         'starting_station': '鱼窝头二中总站',
         'terminal_station': '东涌地铁站总站',
         'stations': [
@@ -50189,8 +50189,8 @@ buses = {
         ]
     },
     '942路': {
-        "name": '942路',
-        "bid": '10094200',
+        'name': '942路',
+        'bid': '10094200',
         'starting_station': '永和开发区(树吓村)总站',
         'terminal_station': '永和开发区(禾丰新村)总站',
         'stations': [
@@ -50206,8 +50206,8 @@ buses = {
         ]
     },
     '793路': {
-        "name": '793路',
-        "bid": '10079301',
+        'name': '793路',
+        'bid': '10079301',
         'starting_station': '人和墟(万家福广场)总站',
         'terminal_station': '寮采(世外桃源)总站',
         'stations': [
@@ -50238,8 +50238,8 @@ buses = {
         ]
     },
     '番9路': {
-        "name": '番9路',
-        "bid": '10700900',
+        'name': '番9路',
+        'bid': '10700900',
         'starting_station': '雅居乐城南源著总站',
         'terminal_station': '大夫山森林公园总站',
         'stations': [
@@ -50266,8 +50266,8 @@ buses = {
         ]
     },
     '旅游1线': {
-        "name": '旅游1线',
-        "bid": '10000130',
+        'name': '旅游1线',
+        'bid': '10000130',
         'starting_station': '中山八路总站①',
         'terminal_station': '云台花园总站③',
         'stations': [
@@ -50290,8 +50290,8 @@ buses = {
         ]
     },
     '470路': {
-        "name": '470路',
-        "bid": '10047000',
+        'name': '470路',
+        'bid': '10047000',
         'starting_station': '机场立交(广中医一附院)总站',
         'terminal_station': '机场立交(广中医一附院)总站',
         'stations': [
@@ -50307,8 +50307,8 @@ buses = {
         ]
     },
     '551路': {
-        "name": '551路',
-        "bid": '10055100',
+        'name': '551路',
+        'bid': '10055100',
         'starting_station': '广州火车东站总站③a',
         'terminal_station': '晓港湾瑞宝茶叶城总站',
         'stations': [
@@ -50338,8 +50338,8 @@ buses = {
         ]
     },
     '地铁10B路': {
-        "name": '地铁10B路',
-        "bid": '10701040',
+        'name': '地铁10B路',
+        'bid': '10701040',
         'starting_station': '地铁汉溪长隆站总站①',
         'terminal_station': '祈福新村总站',
         'stations': [
@@ -50351,8 +50351,8 @@ buses = {
         ]
     },
     '134路': {
-        "name": '134路',
-        "bid": '10013400',
+        'name': '134路',
+        'bid': '10013400',
         'starting_station': '一德西总站',
         'terminal_station': '同德围泽德花园总站',
         'stations': [
@@ -50381,8 +50381,8 @@ buses = {
         ]
     },
     '番29路': {
-        "name": '番29路',
-        "bid": '10702900',
+        'name': '番29路',
+        'bid': '10702900',
         'starting_station': '滴水岩森林公园总站',
         'terminal_station': '区公汽公司总站',
         'stations': [
@@ -50418,8 +50418,8 @@ buses = {
         ]
     },
     '509路': {
-        "name": '509路',
-        "bid": '10050901',
+        'name': '509路',
+        'bid': '10050901',
         'starting_station': '永泰客运站总站',
         'terminal_station': '江高南岗村总站',
         'stations': [
@@ -50465,8 +50465,8 @@ buses = {
         ]
     },
     '夜81': {
-        "name": '夜81',
-        "bid": '10008111',
+        'name': '夜81',
+        'bid': '10008111',
         'starting_station': '广汕路(万龙路)总站',
         'terminal_station': '车陂总站①',
         'stations': [
@@ -50498,8 +50498,8 @@ buses = {
         ]
     },
     '657线': {
-        "name": '657线',
-        "bid": '10065700',
+        'name': '657线',
+        'bid': '10065700',
         'starting_station': '金沙洲码头总站',
         'terminal_station': '西华村(西华寺)总站',
         'stations': [
@@ -50523,8 +50523,8 @@ buses = {
         ]
     },
     '夜38': {
-        "name": '夜38',
-        "bid": '10003811',
+        'name': '夜38',
+        'bid': '10003811',
         'starting_station': '天河智慧城核心区总站(高唐)',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -50565,8 +50565,8 @@ buses = {
         ]
     },
     '136路': {
-        "name": '136路',
-        "bid": '10013600',
+        'name': '136路',
+        'bid': '10013600',
         'starting_station': '云景花园西门总站',
         'terminal_station': '天河公交场总站③',
         'stations': [
@@ -50591,8 +50591,8 @@ buses = {
         ]
     },
     '87路': {
-        "name": '87路',
-        "bid": '10008700',
+        'name': '87路',
+        'bid': '10008700',
         'starting_station': '逸景翠园总站',
         'terminal_station': '机场路总站③',
         'stations': [
@@ -50625,8 +50625,8 @@ buses = {
         ]
     },
     '花68路': {
-        "name": '花68路',
-        "bid": '10506801',
+        'name': '花68路',
+        'bid': '10506801',
         'starting_station': '兴仁汽车总站',
         'terminal_station': '站前路公交总站',
         'stations': [
@@ -50676,8 +50676,8 @@ buses = {
         ]
     },
     '218路': {
-        "name": '218路',
-        "bid": '10021800',
+        'name': '218路',
+        'bid': '10021800',
         'starting_station': '杨桃公园(美林湖畔)总站',
         'terminal_station': '中科院化学所总站',
         'stations': [
@@ -50711,8 +50711,8 @@ buses = {
         ]
     },
     '7路': {
-        "name": '7路',
-        "bid": '10000700',
+        'name': '7路',
+        'bid': '10000700',
         'starting_station': '石槎路(金碧新城)总站',
         'terminal_station': '大沙头总站②',
         'stations': [
@@ -50747,8 +50747,8 @@ buses = {
         ]
     },
     '540路': {
-        "name": '540路',
-        "bid": '10054001',
+        'name': '540路',
+        'bid': '10054001',
         'starting_station': '黄石路总站',
         'terminal_station': '员村一横路总站①',
         'stations': [
@@ -50791,8 +50791,8 @@ buses = {
         ]
     },
     '394路': {
-        "name": '394路',
-        "bid": '10039400',
+        'name': '394路',
+        'bid': '10039400',
         'starting_station': '甘竹山公园总站',
         'terminal_station': '甘竹山公园总站',
         'stations': [
@@ -50818,8 +50818,8 @@ buses = {
         ]
     },
     '285路': {
-        "name": '285路',
-        "bid": '10028500',
+        'name': '285路',
+        'bid': '10028500',
         'starting_station': '云台花园总站④',
         'terminal_station': '花地大道南(鹅公村)总站',
         'stations': [
@@ -50852,8 +50852,8 @@ buses = {
         ]
     },
     '430路': {
-        "name": '430路',
-        "bid": '10043001',
+        'name': '430路',
+        'bid': '10043001',
         'starting_station': '深井码头总站',
         'terminal_station': '长洲码头总站',
         'stations': [
@@ -50872,8 +50872,8 @@ buses = {
         ]
     },
     '519路': {
-        "name": '519路',
-        "bid": '10051900',
+        'name': '519路',
+        'bid': '10051900',
         'starting_station': '白云路总站',
         'terminal_station': '石井(红星村)总站',
         'stations': [
@@ -50907,8 +50907,8 @@ buses = {
         ]
     },
     '407路': {
-        "name": '407路',
-        "bid": '10040700',
+        'name': '407路',
+        'bid': '10040700',
         'starting_station': '珠江新城总站①',
         'terminal_station': '珠江新城总站①',
         'stations': [
@@ -50934,8 +50934,8 @@ buses = {
         ]
     },
     '538路': {
-        "name": '538路',
-        "bid": '10053800',
+        'name': '538路',
+        'bid': '10053800',
         'starting_station': '南方大厦(文化公园)总站',
         'terminal_station': '汇侨新城总站①',
         'stations': [
@@ -50965,8 +50965,8 @@ buses = {
         ]
     },
     '194路': {
-        "name": '194路',
-        "bid": '10019401',
+        'name': '194路',
+        'bid': '10019401',
         'starting_station': '广医一院(靖海路)总站',
         'terminal_station': '华景新城总站②',
         'stations': [
@@ -51001,8 +51001,8 @@ buses = {
         ]
     },
     '828路': {
-        "name": '828路',
-        "bid": '10082801',
+        'name': '828路',
+        'bid': '10082801',
         'starting_station': '白鳝塘总站',
         'terminal_station': '太和镇总站',
         'stations': [
@@ -51025,8 +51025,8 @@ buses = {
         ]
     },
     '番151AB路': {
-        "name": '番151AB路',
-        "bid": '10715131',
+        'name': '番151AB路',
+        'bid': '10715131',
         'starting_station': '番禺汽车客运站新',
         'terminal_station': '番禺汽车客运站旧',
         'stations': [
@@ -51073,8 +51073,8 @@ buses = {
         ]
     },
     '夜10路': {
-        "name": '夜10路',
-        "bid": '10001011',
+        'name': '夜10路',
+        'bid': '10001011',
         'starting_station': '东山口总站',
         'terminal_station': '龙洞(广东金融学院)总站',
         'stations': [
@@ -51112,8 +51112,8 @@ buses = {
         ]
     },
     '368路': {
-        "name": '368路',
-        "bid": '10036800',
+        'name': '368路',
+        'bid': '10036800',
         'starting_station': '夏园站',
         'terminal_station': '中大新华学院(东莞校区)总站',
         'stations': [
@@ -51140,8 +51140,8 @@ buses = {
         ]
     },
     '807A路': {
-        "name": '807A路',
-        "bid": '10080720',
+        'name': '807A路',
+        'bid': '10080720',
         'starting_station': '广州火车站总站',
         'terminal_station': '南航新村总站',
         'stations': [
@@ -51159,8 +51159,8 @@ buses = {
         ]
     },
     '992环线': {
-        "name": '992环线',
-        "bid": '10099201',
+        'name': '992环线',
+        'bid': '10099201',
         'starting_station': '江泰路地铁站总站',
         'terminal_station': '江泰路地铁站总站',
         'stations': [
@@ -51179,8 +51179,8 @@ buses = {
         ]
     },
     '140路': {
-        "name": '140路',
-        "bid": '10014001',
+        'name': '140路',
+        'bid': '10014001',
         'starting_station': '元岗路(南兴花园)总站',
         'terminal_station': '员村总站',
         'stations': [
@@ -51208,8 +51208,8 @@ buses = {
         ]
     },
     '夜6路': {
-        "name": '夜6路',
-        "bid": '10000610',
+        'name': '夜6路',
+        'bid': '10000610',
         'starting_station': '中山八路总站',
         'terminal_station': '新滘东路(龙潭村)总站',
         'stations': [
@@ -51248,8 +51248,8 @@ buses = {
         ]
     },
     '923路': {
-        "name": '923路',
-        "bid": '10092301',
+        'name': '923路',
+        'bid': '10092301',
         'starting_station': '翠竹园总站',
         'terminal_station': '翠竹园总站',
         'stations': [
@@ -51268,8 +51268,8 @@ buses = {
         ]
     },
     '花18路': {
-        "name": '花18路',
-        "bid": '10501800',
+        'name': '花18路',
+        'bid': '10501800',
         'starting_station': '大陵新村总站',
         'terminal_station': '灜富国际总站',
         'stations': [
@@ -51300,8 +51300,8 @@ buses = {
         ]
     },
     '250路': {
-        "name": '250路',
-        "bid": '10025000',
+        'name': '250路',
+        'bid': '10025000',
         'starting_station': '石榴岗总站',
         'terminal_station': '中山八路总站④',
         'stations': [
@@ -51343,8 +51343,8 @@ buses = {
         ]
     },
     '530路': {
-        "name": '530路',
-        "bid": '10053001',
+        'name': '530路',
+        'bid': '10053001',
         'starting_station': '石岗路总站',
         'terminal_station': '沙涌南总站',
         'stations': [
@@ -51382,8 +51382,8 @@ buses = {
         ]
     },
     '407路': {
-        "name": '407路',
-        "bid": '10040701',
+        'name': '407路',
+        'bid': '10040701',
         'starting_station': '珠江新城总站①',
         'terminal_station': '珠江新城总站①',
         'stations': [
@@ -51409,8 +51409,8 @@ buses = {
         ]
     },
     '番23B线': {
-        "name": '番23B线',
-        "bid": '10702331',
+        'name': '番23B线',
+        'bid': '10702331',
         'starting_station': '金山工业园总站',
         'terminal_station': '旧水坑村总站',
         'stations': [
@@ -51445,8 +51445,8 @@ buses = {
         ]
     },
     '332路': {
-        "name": '332路',
-        "bid": '10033201',
+        'name': '332路',
+        'bid': '10033201',
         'starting_station': '大学城综合商业北区总站',
         'terminal_station': '长江路(广东省第二工人医院)总站',
         'stations': [
@@ -51464,8 +51464,8 @@ buses = {
         ]
     },
     '452路': {
-        "name": '452路',
-        "bid": '10045200',
+        'name': '452路',
+        'bid': '10045200',
         'starting_station': '科学城彩频路总站',
         'terminal_station': '联和(惠联路)总站',
         'stations': [
@@ -51485,8 +51485,8 @@ buses = {
         ]
     },
     '288路': {
-        "name": '288路',
-        "bid": '10028801',
+        'name': '288路',
+        'bid': '10028801',
         'starting_station': '西华路尾总站②',
         'terminal_station': '祈福新村总站',
         'stations': [
@@ -51532,8 +51532,8 @@ buses = {
         ]
     },
     '309路': {
-        "name": '309路',
-        "bid": '10030900',
+        'name': '309路',
+        'bid': '10030900',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -51590,8 +51590,8 @@ buses = {
         ]
     },
     '257路': {
-        "name": '257路',
-        "bid": '10025701',
+        'name': '257路',
+        'bid': '10025701',
         'starting_station': '天河客运站总站②',
         'terminal_station': '广州火车站总站p',
         'stations': [
@@ -51612,8 +51612,8 @@ buses = {
         ]
     },
     '706路': {
-        "name": '706路',
-        "bid": '10070600',
+        'name': '706路',
+        'bid': '10070600',
         'starting_station': '动物园总站',
         'terminal_station': '花都湖总站',
         'stations': [
@@ -51669,8 +51669,8 @@ buses = {
         ]
     },
     '花62路': {
-        "name": '花62路',
-        "bid": '10506201',
+        'name': '花62路',
+        'bid': '10506201',
         'starting_station': '狮岭汽车总站',
         'terminal_station': '花都客运站总站',
         'stations': [
@@ -51705,8 +51705,8 @@ buses = {
         ]
     },
     '高峰快线75': {
-        "name": '高峰快线75',
-        "bid": '10007561',
+        'name': '高峰快线75',
+        'bid': '10007561',
         'starting_station': '珠江广场总站',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -51733,8 +51733,8 @@ buses = {
         ]
     },
     '837路': {
-        "name": '837路',
-        "bid": '10083701',
+        'name': '837路',
+        'bid': '10083701',
         'starting_station': '江高小塘总站',
         'terminal_station': '太和总站',
         'stations': [
@@ -51777,8 +51777,8 @@ buses = {
         ]
     },
     '479路': {
-        "name": '479路',
-        "bid": '10047901',
+        'name': '479路',
+        'bid': '10047901',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '景泰直街总站',
         'stations': [
@@ -51795,8 +51795,8 @@ buses = {
         ]
     },
     '夜23': {
-        "name": '夜23',
-        "bid": '10002310',
+        'name': '夜23',
+        'bid': '10002310',
         'starting_station': '宝岗大道总站③',
         'terminal_station': '汇景北路总站',
         'stations': [
@@ -51825,8 +51825,8 @@ buses = {
         ]
     },
     '商务专线5': {
-        "name": '商务专线5',
-        "bid": '10013531',
+        'name': '商务专线5',
+        'bid': '10013531',
         'starting_station': '沙河横马路总站',
         'terminal_station': '大塘(坚真花园)总站',
         'stations': [
@@ -51840,8 +51840,8 @@ buses = {
         ]
     },
     '番57路': {
-        "name": '番57路',
-        "bid": '10705700',
+        'name': '番57路',
+        'bid': '10705700',
         'starting_station': '地铁厦滘站总站',
         'terminal_station': '锦绣半岛总站',
         'stations': [
@@ -51868,8 +51868,8 @@ buses = {
         ]
     },
     '地铁接驳7线': {
-        "name": '地铁接驳7线',
-        "bid": '10000741',
+        'name': '地铁接驳7线',
+        'bid': '10000741',
         'starting_station': '地铁大石站总站',
         'terminal_station': '地铁大石站总站',
         'stations': [
@@ -51887,8 +51887,8 @@ buses = {
         ]
     },
     '778路': {
-        "name": '778路',
-        "bid": '10077801',
+        'name': '778路',
+        'bid': '10077801',
         'starting_station': '石牌东路北总站',
         'terminal_station': '五羊新城总站',
         'stations': [
@@ -51906,8 +51906,8 @@ buses = {
         ]
     },
     '728路': {
-        "name": '728路',
-        "bid": '10072800',
+        'name': '728路',
+        'bid': '10072800',
         'starting_station': '龙归地铁站总站',
         'terminal_station': '良田村委总站',
         'stations': [
@@ -51933,8 +51933,8 @@ buses = {
         ]
     },
     '3路': {
-        "name": '3路',
-        "bid": '10000301',
+        'name': '3路',
+        'bid': '10000301',
         'starting_station': '如意坊总站',
         'terminal_station': '东山(龟岗)总站',
         'stations': [
@@ -51958,8 +51958,8 @@ buses = {
         ]
     },
     'B2A线': {
-        "name": 'B2A线',
-        "bid": '10800221',
+        'name': 'B2A线',
+        'bid': '10800221',
         'starting_station': '汇彩路总站',
         'terminal_station': '广州火车站总站f',
         'stations': [
@@ -51987,8 +51987,8 @@ buses = {
         ]
     },
     '10路': {
-        "name": '10路',
-        "bid": '10001001',
+        'name': '10路',
+        'bid': '10001001',
         'starting_station': '恒福路总站',
         'terminal_station': '昌岗路总站',
         'stations': [
@@ -52019,8 +52019,8 @@ buses = {
         ]
     },
     '夜16': {
-        "name": '夜16',
-        "bid": '10001611',
+        'name': '夜16',
+        'bid': '10001611',
         'starting_station': '城西花园总站',
         'terminal_station': '门口岗总站',
         'stations': [
@@ -52059,8 +52059,8 @@ buses = {
         ]
     },
     '假日专线5': {
-        "name": '假日专线5',
-        "bid": '10030571',
+        'name': '假日专线5',
+        'bid': '10030571',
         'starting_station': '体育中心总站',
         'terminal_station': '长洲岛总站',
         'stations': [
@@ -52080,8 +52080,8 @@ buses = {
         ]
     },
     '夜34': {
-        "name": '夜34',
-        "bid": '10003411',
+        'name': '夜34',
+        'bid': '10003411',
         'starting_station': '黄村训练基地总站',
         'terminal_station': '沥滘(珠江御景湾)总站',
         'stations': [
@@ -52123,8 +52123,8 @@ buses = {
         ]
     },
     '483路': {
-        "name": '483路',
-        "bid": '10048300',
+        'name': '483路',
+        'bid': '10048300',
         'starting_station': '淘金北路总站',
         'terminal_station': '淘金北路总站',
         'stations': [
@@ -52143,8 +52143,8 @@ buses = {
         ]
     },
     '番76路': {
-        "name": '番76路',
-        "bid": '10707600',
+        'name': '番76路',
+        'bid': '10707600',
         'starting_station': '化龙车站总站',
         'terminal_station': '盛龙社区总站',
         'stations': [
@@ -52158,8 +52158,8 @@ buses = {
         ]
     },
     '336路': {
-        "name": '336路',
-        "bid": '10033600',
+        'name': '336路',
+        'bid': '10033600',
         'starting_station': '广州科学城长安村总站',
         'terminal_station': '广州植树公园总站',
         'stations': [
@@ -52183,8 +52183,8 @@ buses = {
         ]
     },
     '南沙17路': {
-        "name": '南沙17路',
-        "bid": '10601700',
+        'name': '南沙17路',
+        'bid': '10601700',
         'starting_station': '横沥中学站',
         'terminal_station': '横沥农庄渡口总站',
         'stations': [
@@ -52200,8 +52200,8 @@ buses = {
         ]
     },
     'B3路': {
-        "name": 'B3路',
-        "bid": '10800301',
+        'name': 'B3路',
+        'bid': '10800301',
         'starting_station': '东圃客运站总站',
         'terminal_station': '罗冲围总站',
         'stations': [
@@ -52239,8 +52239,8 @@ buses = {
         ]
     },
     '490路': {
-        "name": '490路',
-        "bid": '10049001',
+        'name': '490路',
+        'bid': '10049001',
         'starting_station': '荷光路口总站',
         'terminal_station': '上社牌坊总站',
         'stations': [
@@ -52254,8 +52254,8 @@ buses = {
         ]
     },
     '番12路': {
-        "name": '番12路',
-        "bid": '10701201',
+        'name': '番12路',
+        'bid': '10701201',
         'starting_station': '宝墨园总站',
         'terminal_station': '新市桥汽车站总站',
         'stations': [
@@ -52296,8 +52296,8 @@ buses = {
         ]
     },
     '387路': {
-        "name": '387路',
-        "bid": '10038700',
+        'name': '387路',
+        'bid': '10038700',
         'starting_station': '大学城(广大)总站',
         'terminal_station': '大学城(穗石村)总站',
         'stations': [
@@ -52320,8 +52320,8 @@ buses = {
         ]
     },
     '花83路': {
-        "name": '花83路',
-        "bid": '10508301',
+        'name': '花83路',
+        'bid': '10508301',
         'starting_station': '狮岭龙头市场总站',
         'terminal_station': '两龙汽车总站',
         'stations': [
@@ -52350,8 +52350,8 @@ buses = {
         ]
     },
     '471路': {
-        "name": '471路',
-        "bid": '10047100',
+        'name': '471路',
+        'bid': '10047100',
         'starting_station': '草庄总站',
         'terminal_station': '石湖村祠堂总站',
         'stations': [
@@ -52369,8 +52369,8 @@ buses = {
         ]
     },
     'B29路': {
-        "name": 'B29路',
-        "bid": '10802900',
+        'name': 'B29路',
+        'bid': '10802900',
         'starting_station': '西基总站',
         'terminal_station': '奥林匹克体育中心总站',
         'stations': [
@@ -52401,8 +52401,8 @@ buses = {
         ]
     },
     '南沙1路': {
-        "name": '南沙1路',
-        "bid": '10600100',
+        'name': '南沙1路',
+        'bid': '10600100',
         'starting_station': '蕉门地铁总站',
         'terminal_station': '广州船坞总站',
         'stations': [
@@ -52435,8 +52435,8 @@ buses = {
         ]
     },
     '437路': {
-        "name": '437路',
-        "bid": '10043700',
+        'name': '437路',
+        'bid': '10043700',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '埔南路(翡翠绿洲)总站',
         'stations': [
@@ -52454,8 +52454,8 @@ buses = {
         ]
     },
     '882路': {
-        "name": '882路',
-        "bid": '10088200',
+        'name': '882路',
+        'bid': '10088200',
         'starting_station': '员村生活区(市六医院)总站',
         'terminal_station': '晓港湾总站②',
         'stations': [
@@ -52482,8 +52482,8 @@ buses = {
         ]
     },
     '220路': {
-        "name": '220路',
-        "bid": '10022001',
+        'name': '220路',
+        'bid': '10022001',
         'starting_station': '动物园总站1②b',
         'terminal_station': '南箕路总站',
         'stations': [
@@ -52516,8 +52516,8 @@ buses = {
         ]
     },
     '746线': {
-        "name": '746线',
-        "bid": '10074601',
+        'name': '746线',
+        'bid': '10074601',
         'starting_station': '白沙总站',
         'terminal_station': '金沙洲码头总站',
         'stations': [
@@ -52540,8 +52540,8 @@ buses = {
         ]
     },
     '521路': {
-        "name": '521路',
-        "bid": '10052100',
+        'name': '521路',
+        'bid': '10052100',
         'starting_station': '凰岗总站②',
         'terminal_station': '石溪总站',
         'stations': [
@@ -52573,8 +52573,8 @@ buses = {
         ]
     },
     '112路': {
-        "name": '112路',
-        "bid": '10011201',
+        'name': '112路',
+        'bid': '10011201',
         'starting_station': '天平架总站②b',
         'terminal_station': '南田路总站',
         'stations': [
@@ -52600,8 +52600,8 @@ buses = {
         ]
     },
     '409路': {
-        "name": '409路',
-        "bid": '10040901',
+        'name': '409路',
+        'bid': '10040901',
         'starting_station': '河水东大街口总站',
         'terminal_station': '沙太南路总站',
         'stations': [
@@ -52612,8 +52612,8 @@ buses = {
         ]
     },
     '高峰快线42A': {
-        "name": '高峰快线42A',
-        "bid": '10004220',
+        'name': '高峰快线42A',
+        'bid': '10004220',
         'starting_station': '星河湾大酒店总站',
         'terminal_station': '天河公交场总站',
         'stations': [
@@ -52626,8 +52626,8 @@ buses = {
         ]
     },
     '184路': {
-        "name": '184路',
-        "bid": '10018400',
+        'name': '184路',
+        'bid': '10018400',
         'starting_station': '大塘总站',
         'terminal_station': '横枝岗(广医肿瘤医院)总站',
         'stations': [
@@ -52657,8 +52657,8 @@ buses = {
         ]
     },
     '550路': {
-        "name": '550路',
-        "bid": '10055001',
+        'name': '550路',
+        'bid': '10055001',
         'starting_station': '东圃珠村总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -52698,8 +52698,8 @@ buses = {
         ]
     },
     '435路': {
-        "name": '435路',
-        "bid": '10043501',
+        'name': '435路',
+        'bid': '10043501',
         'starting_station': '鹿步(海警基地)总站',
         'terminal_station': '生活区总站',
         'stations': [
@@ -52723,8 +52723,8 @@ buses = {
         ]
     },
     '534路': {
-        "name": '534路',
-        "bid": '10053401',
+        'name': '534路',
+        'bid': '10053401',
         'starting_station': '萝岗街总站',
         'terminal_station': '天平架总站⑦a',
         'stations': [
@@ -52772,8 +52772,8 @@ buses = {
         ]
     },
     '番1路': {
-        "name": '番1路',
-        "bid": '10700100',
+        'name': '番1路',
+        'bid': '10700100',
         'starting_station': '祈福新村总站',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -52806,8 +52806,8 @@ buses = {
         ]
     },
     '番7路': {
-        "name": '番7路',
-        "bid": '10700701',
+        'name': '番7路',
+        'bid': '10700701',
         'starting_station': '沙湾总站',
         'terminal_station': '龙美村(迎新路)站',
         'stations': [
@@ -52849,8 +52849,8 @@ buses = {
         ]
     },
     '夜90': {
-        "name": '夜90',
-        "bid": '10009011',
+        'name': '夜90',
+        'bid': '10009011',
         'starting_station': '天河客运站总站⑤',
         'terminal_station': '凰岗总站①',
         'stations': [
@@ -52888,8 +52888,8 @@ buses = {
         ]
     },
     'B20路': {
-        "name": 'B20路',
-        "bid": '10802001',
+        'name': 'B20路',
+        'bid': '10802001',
         'starting_station': '吉山总站',
         'terminal_station': '广州火车东站总站①a',
         'stations': [
@@ -52918,8 +52918,8 @@ buses = {
         ]
     },
     '19路': {
-        "name": '19路',
-        "bid": '10001900',
+        'name': '19路',
+        'bid': '10001900',
         'starting_station': '芳村西塱总站③',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -52943,8 +52943,8 @@ buses = {
         ]
     },
     '772路': {
-        "name": '772路',
-        "bid": '10077200',
+        'name': '772路',
+        'bid': '10077200',
         'starting_station': '长福路(天河客运站)总站',
         'terminal_station': '车陂总站①',
         'stations': [
@@ -52969,8 +52969,8 @@ buses = {
         ]
     },
     '960路': {
-        "name": '960路',
-        "bid": '10096000',
+        'name': '960路',
+        'bid': '10096000',
         'starting_station': '南洲花园总站',
         'terminal_station': '新鱼桥头',
         'stations': [
@@ -52988,8 +52988,8 @@ buses = {
         ]
     },
     '高峰快线30': {
-        "name": '高峰快线30',
-        "bid": '10003060',
+        'name': '高峰快线30',
+        'bid': '10003060',
         'starting_station': '体育中心总站',
         'terminal_station': '万科四季花城总站',
         'stations': [
@@ -53015,8 +53015,8 @@ buses = {
         ]
     },
     '762路': {
-        "name": '762路',
-        "bid": '10076201',
+        'name': '762路',
+        'bid': '10076201',
         'starting_station': '海珠客运站总站',
         'terminal_station': '黄埔村总站',
         'stations': [
@@ -53039,8 +53039,8 @@ buses = {
         ]
     },
     '583路': {
-        "name": '583路',
-        "bid": '10058300',
+        'name': '583路',
+        'bid': '10058300',
         'starting_station': '员村一横路总站①',
         'terminal_station': '芳村西塱总站①',
         'stations': [
@@ -53080,8 +53080,8 @@ buses = {
         ]
     },
     '443路': {
-        "name": '443路',
-        "bid": '10044301',
+        'name': '443路',
+        'bid': '10044301',
         'starting_station': '福山村委总站',
         'terminal_station': '镇龙总站',
         'stations': [
@@ -53104,8 +53104,8 @@ buses = {
         ]
     },
     '高峰快线27': {
-        "name": '高峰快线27',
-        "bid": '10002760',
+        'name': '高峰快线27',
+        'bid': '10002760',
         'starting_station': '同德围泽德花园总站',
         'terminal_station': '大新路口',
         'stations': [
@@ -53124,8 +53124,8 @@ buses = {
         ]
     },
     'B12线': {
-        "name": 'B12线',
-        "bid": '10801200',
+        'name': 'B12线',
+        'bid': '10801200',
         'starting_station': '车陂总站④',
         'terminal_station': '天源路(华南植物园)总站',
         'stations': [
@@ -53160,8 +53160,8 @@ buses = {
         ]
     },
     '夜85': {
-        "name": '夜85',
-        "bid": '10008510',
+        'name': '夜85',
+        'bid': '10008510',
         'starting_station': '大朗夏边总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -53186,8 +53186,8 @@ buses = {
         ]
     },
     '751路': {
-        "name": '751路',
-        "bid": '10075101',
+        'name': '751路',
+        'bid': '10075101',
         'starting_station': '太和总站',
         'terminal_station': '柏塘工业区总站',
         'stations': [
@@ -53213,8 +53213,8 @@ buses = {
         ]
     },
     'B4路': {
-        "name": 'B4路',
-        "bid": '10800401',
+        'name': 'B4路',
+        'bid': '10800401',
         'starting_station': '天河智慧城核心区总站(高唐)',
         'terminal_station': '广仁路总站',
         'stations': [
@@ -53254,8 +53254,8 @@ buses = {
         ]
     },
     '地铁接驳7线': {
-        "name": '地铁接驳7线',
-        "bid": '10000740',
+        'name': '地铁接驳7线',
+        'bid': '10000740',
         'starting_station': '地铁大石站总站',
         'terminal_station': '地铁大石站总站',
         'stations': [
@@ -53273,8 +53273,8 @@ buses = {
         ]
     },
     '夜72路': {
-        "name": '夜72路',
-        "bid": '10007210',
+        'name': '夜72路',
+        'bid': '10007210',
         'starting_station': '广卫路总站',
         'terminal_station': '芳村西塱总站①',
         'stations': [
@@ -53302,8 +53302,8 @@ buses = {
         ]
     },
     '841路': {
-        "name": '841路',
-        "bid": '10084101',
+        'name': '841路',
+        'bid': '10084101',
         'starting_station': '石井(滘心村)总站',
         'terminal_station': '广州火车东站总站⑦d',
         'stations': [
@@ -53340,8 +53340,8 @@ buses = {
         ]
     },
     '137路': {
-        "name": '137路',
-        "bid": '10013700',
+        'name': '137路',
+        'bid': '10013700',
         'starting_station': '新洲总站②',
         'terminal_station': '动物园南门总站③',
         'stations': [
@@ -53369,8 +53369,8 @@ buses = {
         ]
     },
     '103路': {
-        "name": '103路',
-        "bid": '10010300',
+        'name': '103路',
+        'bid': '10010300',
         'starting_station': '文化公园总站①',
         'terminal_station': '机场路总站①',
         'stations': [
@@ -53390,8 +53390,8 @@ buses = {
         ]
     },
     '265路': {
-        "name": '265路',
-        "bid": '10026501',
+        'name': '265路',
+        'bid': '10026501',
         'starting_station': '环滘村总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -53425,8 +53425,8 @@ buses = {
         ]
     },
     '969路': {
-        "name": '969路',
-        "bid": '10096901',
+        'name': '969路',
+        'bid': '10096901',
         'starting_station': '中南花园总站',
         'terminal_station': '五眼桥涌尾坊总站',
         'stations': [
@@ -53445,8 +53445,8 @@ buses = {
         ]
     },
     '805永泰新村班车': {
-        "name": '805永泰新村班车',
-        "bid": '10080530',
+        'name': '805永泰新村班车',
+        'bid': '10080530',
         'starting_station': '广州火车站总站r',
         'terminal_station': '永泰新村总站',
         'stations': [
@@ -53469,8 +53469,8 @@ buses = {
         ]
     },
     '夜14路': {
-        "name": '夜14路',
-        "bid": '10001410',
+        'name': '夜14路',
+        'bid': '10001410',
         'starting_station': '广州火车站总站m',
         'terminal_station': '云景花园西门总站',
         'stations': [
@@ -53500,8 +53500,8 @@ buses = {
         ]
     },
     '834路': {
-        "name": '834路',
-        "bid": '10083400',
+        'name': '834路',
+        'bid': '10083400',
         'starting_station': '石井(庆丰纺织服装城)总站',
         'terminal_station': '夏茅客运站总站①',
         'stations': [
@@ -53536,8 +53536,8 @@ buses = {
         ]
     },
     '191路': {
-        "name": '191路',
-        "bid": '10019101',
+        'name': '191路',
+        'bid': '10019101',
         'starting_station': '福场路总站',
         'terminal_station': '华景新城总站③',
         'stations': [
@@ -53566,8 +53566,8 @@ buses = {
         ]
     },
     '575路': {
-        "name": '575路',
-        "bid": '10057500',
+        'name': '575路',
+        'bid': '10057500',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '西区公交总站',
         'stations': [
@@ -53618,8 +53618,8 @@ buses = {
         ]
     },
     '836路': {
-        "name": '836路',
-        "bid": '10083601',
+        'name': '836路',
+        'bid': '10083601',
         'starting_station': '海珠客运站总站',
         'terminal_station': '白云山制药厂总站',
         'stations': [
@@ -53654,8 +53654,8 @@ buses = {
         ]
     },
     '710路': {
-        "name": '710路',
-        "bid": '10071001',
+        'name': '710路',
+        'bid': '10071001',
         'starting_station': '花都推广汽车站总站',
         'terminal_station': '太和文化广场总站',
         'stations': [
@@ -53689,8 +53689,8 @@ buses = {
         ]
     },
     '旅游3线': {
-        "name": '旅游3线',
-        "bid": '10000330',
+        'name': '旅游3线',
+        'bid': '10000330',
         'starting_station': '中成路总站',
         'terminal_station': '琶洲石基村(黄埔古港)总站',
         'stations': [
@@ -53732,8 +53732,8 @@ buses = {
         ]
     },
     '夜22': {
-        "name": '夜22',
-        "bid": '10002210',
+        'name': '夜22',
+        'bid': '10002210',
         'starting_station': '安华装饰城总站',
         'terminal_station': '江南大道南总站',
         'stations': [
@@ -53770,8 +53770,8 @@ buses = {
         ]
     },
     '番19路': {
-        "name": '番19路',
-        "bid": '10701901',
+        'name': '番19路',
+        'bid': '10701901',
         'starting_station': '番禺汽车客运站',
         'terminal_station': '雅居乐城南源著总站',
         'stations': [
@@ -53809,8 +53809,8 @@ buses = {
         ]
     },
     '番51B路': {
-        "name": '番51B路',
-        "bid": '10705131',
+        'name': '番51B路',
+        'bid': '10705131',
         'starting_station': '化龙车站总站',
         'terminal_station': '番禺汽车客运站',
         'stations': [
@@ -53855,8 +53855,8 @@ buses = {
         ]
     },
     '774路': {
-        "name": '774路',
-        "bid": '10077400',
+        'name': '774路',
+        'bid': '10077400',
         'starting_station': '地铁车陂南站总站',
         'terminal_station': '天河智慧城核心区总站(高唐)',
         'stations': [
@@ -53882,8 +53882,8 @@ buses = {
         ]
     },
     '番130线': {
-        "name": '番130线',
-        "bid": '10713001',
+        'name': '番130线',
+        'bid': '10713001',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '榄核公交总站',
         'stations': [
@@ -53919,8 +53919,8 @@ buses = {
         ]
     },
     '223路': {
-        "name": '223路',
-        "bid": '10022300',
+        'name': '223路',
+        'bid': '10022300',
         'starting_station': '白云路总站',
         'terminal_station': '白云花园总站',
         'stations': [
@@ -53949,8 +53949,8 @@ buses = {
         ]
     },
     '963路': {
-        "name": '963路',
-        "bid": '10096300',
+        'name': '963路',
+        'bid': '10096300',
         'starting_station': '南箕路总站②',
         'terminal_station': '革新路(光大花园)总站',
         'stations': [
@@ -53971,8 +53971,8 @@ buses = {
         ]
     },
     '320线': {
-        "name": '320线',
-        "bid": '10032000',
+        'name': '320线',
+        'bid': '10032000',
         'starting_station': '天河智慧城核心区总站(高唐)',
         'terminal_station': '石化生活区南总站',
         'stations': [
@@ -54014,8 +54014,8 @@ buses = {
         ]
     },
     '862B路': {
-        "name": '862B路',
-        "bid": '10086231',
+        'name': '862B路',
+        'bid': '10086231',
         'starting_station': '沙太路北总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -54053,8 +54053,8 @@ buses = {
         ]
     },
     '364路': {
-        "name": '364路',
-        "bid": '10036401',
+        'name': '364路',
+        'bid': '10036401',
         'starting_station': '大观路北总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -54091,8 +54091,8 @@ buses = {
         ]
     },
     '121路': {
-        "name": '121路',
-        "bid": '10012101',
+        'name': '121路',
+        'bid': '10012101',
         'starting_station': '西塱社区总站',
         'terminal_station': '珠江帝景苑总站',
         'stations': [
@@ -54128,8 +54128,8 @@ buses = {
         ]
     },
     '夜40路': {
-        "name": '夜40路',
-        "bid": '10004010',
+        'name': '夜40路',
+        'bid': '10004010',
         'starting_station': '琶洲大桥北美林东门',
         'terminal_station': '广园新村总站②',
         'stations': [
@@ -54161,8 +54161,8 @@ buses = {
         ]
     },
     '高速专线2': {
-        "name": '高速专线2',
-        "bid": '10051060',
+        'name': '高速专线2',
+        'bid': '10051060',
         'starting_station': '机场路总站①',
         'terminal_station': '人和安置区总站',
         'stations': [
@@ -54181,8 +54181,8 @@ buses = {
         ]
     },
     '209路': {
-        "name": '209路',
-        "bid": '10020901',
+        'name': '209路',
+        'bid': '10020901',
         'starting_station': '广州火车东站总站⑤b',
         'terminal_station': '坦尾(柏悦湾)总站',
         'stations': [
@@ -54217,8 +54217,8 @@ buses = {
         ]
     },
     '789路': {
-        "name": '789路',
-        "bid": '10078900',
+        'name': '789路',
+        'bid': '10078900',
         'starting_station': '地铁沙贝总站',
         'terminal_station': '地铁沙贝总站',
         'stations': [
@@ -54248,8 +54248,8 @@ buses = {
         ]
     },
     '215路': {
-        "name": '215路',
-        "bid": '10021500',
+        'name': '215路',
+        'bid': '10021500',
         'starting_station': '东山(龟岗)总站',
         'terminal_station': '同德围(教师村)总站',
         'stations': [
@@ -54281,8 +54281,8 @@ buses = {
         ]
     },
     '967路': {
-        "name": '967路',
-        "bid": '10096701',
+        'name': '967路',
+        'bid': '10096701',
         'starting_station': '海联路总站',
         'terminal_station': '革新路(光大花园)总站',
         'stations': [
@@ -54303,8 +54303,8 @@ buses = {
         ]
     },
     '番69路': {
-        "name": '番69路',
-        "bid": '10706900',
+        'name': '番69路',
+        'bid': '10706900',
         'starting_station': '南村汽车站总站',
         'terminal_station': '樟边村总站',
         'stations': [
@@ -54327,8 +54327,8 @@ buses = {
         ]
     },
     '747路': {
-        "name": '747路',
-        "bid": '10074700',
+        'name': '747路',
+        'bid': '10074700',
         'starting_station': '沙太货运站总站',
         'terminal_station': '沙太货运站总站',
         'stations': [
@@ -54354,8 +54354,8 @@ buses = {
         ]
     },
     '番111路': {
-        "name": '番111路',
-        "bid": '10711100',
+        'name': '番111路',
+        'bid': '10711100',
         'starting_station': '番禺汽车客运站总站',
         'terminal_station': '广医四院南门站',
         'stations': [
@@ -54389,8 +54389,8 @@ buses = {
         ]
     },
     '980线': {
-        "name": '980线',
-        "bid": '10098001',
+        'name': '980线',
+        'bid': '10098001',
         'starting_station': '汇侨新城总站①',
         'terminal_station': '汇侨新城总站①',
         'stations': [
@@ -54420,8 +54420,8 @@ buses = {
         ]
     },
     'B29路': {
-        "name": 'B29路',
-        "bid": '10802901',
+        'name': 'B29路',
+        'bid': '10802901',
         'starting_station': '奥林匹克体育中心总站',
         'terminal_station': '西基总站',
         'stations': [
@@ -54450,8 +54450,8 @@ buses = {
         ]
     },
     '575路': {
-        "name": '575路',
-        "bid": '10057501',
+        'name': '575路',
+        'bid': '10057501',
         'starting_station': '西区公交总站',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -54501,8 +54501,8 @@ buses = {
         ]
     },
     '番182路': {
-        "name": '番182路',
-        "bid": '10718201',
+        'name': '番182路',
+        'bid': '10718201',
         'starting_station': '地铁会江总站',
         'terminal_station': '星河湾半岛',
         'stations': [
@@ -54533,8 +54533,8 @@ buses = {
         ]
     },
     '497路': {
-        "name": '497路',
-        "bid": '10049701',
+        'name': '497路',
+        'bid': '10049701',
         'starting_station': '黄村总站',
         'terminal_station': '渔沙坦(渔中路)总站',
         'stations': [
@@ -54572,8 +54572,8 @@ buses = {
         ]
     },
     '夜76路': {
-        "name": '夜76路',
-        "bid": '10007610',
+        'name': '夜76路',
+        'bid': '10007610',
         'starting_station': '罗冲围总站',
         'terminal_station': '太和民营科技园总站',
         'stations': [
@@ -54618,8 +54618,8 @@ buses = {
         ]
     },
     '384路': {
-        "name": '384路',
-        "bid": '10038401',
+        'name': '384路',
+        'bid': '10038401',
         'starting_station': '岭南印象园总站',
         'terminal_station': '大学城南亭村总站',
         'stations': [
@@ -54635,8 +54635,8 @@ buses = {
         ]
     },
     '番130线': {
-        "name": '番130线',
-        "bid": '10713000',
+        'name': '番130线',
+        'bid': '10713000',
         'starting_station': '榄核公交总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -54672,8 +54672,8 @@ buses = {
         ]
     },
     '400路': {
-        "name": '400路',
-        "bid": '10040000',
+        'name': '400路',
+        'bid': '10040000',
         'starting_station': '东莞庄总站',
         'terminal_station': '乐意居站',
         'stations': [
@@ -54690,8 +54690,8 @@ buses = {
         ]
     },
     '502路': {
-        "name": '502路',
-        "bid": '10050201',
+        'name': '502路',
+        'bid': '10050201',
         'starting_station': '沙太货运站总站',
         'terminal_station': '白云路总站',
         'stations': [
@@ -54726,8 +54726,8 @@ buses = {
         ]
     },
     '764': {
-        "name": '764',
-        "bid": '10076401',
+        'name': '764',
+        'bid': '10076401',
         'starting_station': '广氮花园总站',
         'terminal_station': '瀛洲生态公园总站',
         'stations': [
@@ -54756,8 +54756,8 @@ buses = {
         ]
     },
     '864路': {
-        "name": '864路',
-        "bid": '10086401',
+        'name': '864路',
+        'bid': '10086401',
         'starting_station': '白云山制药厂总站',
         'terminal_station': '海联路总站',
         'stations': [
@@ -54795,8 +54795,8 @@ buses = {
         ]
     },
     '979路': {
-        "name": '979路',
-        "bid": '10097901',
+        'name': '979路',
+        'bid': '10097901',
         'starting_station': '人和总站',
         'terminal_station': '马洞村总站',
         'stations': [
@@ -54837,8 +54837,8 @@ buses = {
         ]
     },
     '夜44路': {
-        "name": '夜44路',
-        "bid": '10004410',
+        'name': '夜44路',
+        'bid': '10004410',
         'starting_station': '海珠客运站总站',
         'terminal_station': '中山八路总站⑦',
         'stations': [
@@ -54869,8 +54869,8 @@ buses = {
         ]
     },
     '329线': {
-        "name": '329线',
-        "bid": '10032901',
+        'name': '329线',
+        'bid': '10032901',
         'starting_station': '地铁鱼珠站总站',
         'terminal_station': '丰乐南路总站',
         'stations': [
@@ -54893,8 +54893,8 @@ buses = {
         ]
     },
     '番108路': {
-        "name": '番108路',
-        "bid": '10710800',
+        'name': '番108路',
+        'bid': '10710800',
         'starting_station': '大岗中巴总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -54975,8 +54975,8 @@ buses = {
         ]
     },
     '291路': {
-        "name": '291路',
-        "bid": '10029101',
+        'name': '291路',
+        'bid': '10029101',
         'starting_station': '安华装饰城总站',
         'terminal_station': '安华装饰城总站',
         'stations': [
@@ -55025,8 +55025,8 @@ buses = {
         ]
     },
     '397路': {
-        "name": '397路',
-        "bid": '10039701',
+        'name': '397路',
+        'bid': '10039701',
         'starting_station': '丹水坑风景区总站',
         'terminal_station': '萝岗香雪公园总站',
         'stations': [
@@ -55056,8 +55056,8 @@ buses = {
         ]
     },
     '16路': {
-        "name": '16路',
-        "bid": '10001601',
+        'name': '16路',
+        'bid': '10001601',
         'starting_station': '凤凰岗总站',
         'terminal_station': '沙太路北总站',
         'stations': [
@@ -55096,8 +55096,8 @@ buses = {
         ]
     },
     '客运港专线': {
-        "name": '客运港专线',
-        "bid": '10603300',
+        'name': '客运港专线',
+        'bid': '10603300',
         'starting_station': '南沙客运港总站',
         'terminal_station': '南沙客运港总站',
         'stations': [
@@ -55105,8 +55105,8 @@ buses = {
         ]
     },
     '番10路': {
-        "name": '番10路',
-        "bid": '10701001',
+        'name': '番10路',
+        'bid': '10701001',
         'starting_station': '南村车站',
         'terminal_station': '区公汽公司总站',
         'stations': [
@@ -55150,8 +55150,8 @@ buses = {
         ]
     },
     '985路': {
-        "name": '985路',
-        "bid": '10098501',
+        'name': '985路',
+        'bid': '10098501',
         'starting_station': '人和安置区总站',
         'terminal_station': '太和总站',
         'stations': [
@@ -55181,8 +55181,8 @@ buses = {
         ]
     },
     '高峰快线72路': {
-        "name": '高峰快线72路',
-        "bid": '10007260',
+        'name': '高峰快线72路',
+        'bid': '10007260',
         'starting_station': '人和总站',
         'terminal_station': '花都北兴汽车总站',
         'stations': [
@@ -55213,8 +55213,8 @@ buses = {
         ]
     },
     '253路': {
-        "name": '253路',
-        "bid": '10025300',
+        'name': '253路',
+        'bid': '10025300',
         'starting_station': '瑞宝乡总站',
         'terminal_station': '罗冲围总站1②',
         'stations': [
@@ -55240,8 +55240,8 @@ buses = {
         ]
     },
     '827A路': {
-        "name": '827A路',
-        "bid": '10082720',
+        'name': '827A路',
+        'bid': '10082720',
         'starting_station': '九佛总站',
         'terminal_station': '太和(沙亭岗村)总站',
         'stations': [
@@ -55266,8 +55266,8 @@ buses = {
         ]
     },
     '410路': {
-        "name": '410路',
-        "bid": '10041000',
+        'name': '410路',
+        'bid': '10041000',
         'starting_station': '地铁菊树站总站',
         'terminal_station': '芳村西塱总站①',
         'stations': [
@@ -55289,8 +55289,8 @@ buses = {
         ]
     },
     '南沙8路': {
-        "name": '南沙8路',
-        "bid": '10600800',
+        'name': '南沙8路',
+        'bid': '10600800',
         'starting_station': '华润热电厂总站',
         'terminal_station': '华汇广场站',
         'stations': [
@@ -55318,8 +55318,8 @@ buses = {
         ]
     },
     '高峰快线76': {
-        "name": '高峰快线76',
-        "bid": '10007661',
+        'name': '高峰快线76',
+        'bid': '10007661',
         'starting_station': '大塘西总站',
         'terminal_station': '爱群大厦总站',
         'stations': [
@@ -55340,8 +55340,8 @@ buses = {
         ]
     },
     '738线': {
-        "name": '738线',
-        "bid": '10073801',
+        'name': '738线',
+        'bid': '10073801',
         'starting_station': '人和(东华村)总站',
         'terminal_station': '地铁人和站总站',
         'stations': [
@@ -55358,8 +55358,8 @@ buses = {
         ]
     },
     '44路': {
-        "name": '44路',
-        "bid": '10004401',
+        'name': '44路',
+        'bid': '10004401',
         'starting_station': '车陂总站②',
         'terminal_station': '珠江医院总站②',
         'stations': [
@@ -55398,8 +55398,8 @@ buses = {
         ]
     },
     '夜45': {
-        "name": '夜45',
-        "bid": '10004511',
+        'name': '夜45',
+        'bid': '10004511',
         'starting_station': '城西花园总站',
         'terminal_station': '大塘总站',
         'stations': [
@@ -55438,8 +55438,8 @@ buses = {
         ]
     },
     '712路': {
-        "name": '712路',
-        "bid": '10071201',
+        'name': '712路',
+        'bid': '10071201',
         'starting_station': '花都华南理工大学汽车学院站',
         'terminal_station': '柯子岭(河田路)总站',
         'stations': [
@@ -55462,8 +55462,8 @@ buses = {
         ]
     },
     '花81路': {
-        "name": '花81路',
-        "bid": '10508100',
+        'name': '花81路',
+        'bid': '10508100',
         'starting_station': '花都客运站总站',
         'terminal_station': '珊瑚总站',
         'stations': [
@@ -55521,8 +55521,8 @@ buses = {
         ]
     },
     '夜54': {
-        "name": '夜54',
-        "bid": '10005410',
+        'name': '夜54',
+        'bid': '10005410',
         'starting_station': '西村地铁站总站',
         'terminal_station': '白沙(中海金沙湾)总站',
         'stations': [
@@ -55542,8 +55542,8 @@ buses = {
         ]
     },
     '524路': {
-        "name": '524路',
-        "bid": '10052400',
+        'name': '524路',
+        'bid': '10052400',
         'starting_station': '市客运站总站',
         'terminal_station': '长红村总站',
         'stations': [
@@ -55583,8 +55583,8 @@ buses = {
         ]
     },
     '278路': {
-        "name": '278路',
-        "bid": '10027800',
+        'name': '278路',
+        'bid': '10027800',
         'starting_station': '汇侨新城总站②',
         'terminal_station': '车陂总站①',
         'stations': [
@@ -55624,8 +55624,8 @@ buses = {
         ]
     },
     '705路': {
-        "name": '705路',
-        "bid": '10070501',
+        'name': '705路',
+        'bid': '10070501',
         'starting_station': '站前路公交总站',
         'terminal_station': '中山八路总站',
         'stations': [
@@ -55664,8 +55664,8 @@ buses = {
         ]
     },
     '59路': {
-        "name": '59路',
-        "bid": '10005900',
+        'name': '59路',
+        'bid': '10005900',
         'starting_station': '白云路总站',
         'terminal_station': '沥滘总站',
         'stations': [
@@ -55697,8 +55697,8 @@ buses = {
         ]
     },
     '827路': {
-        "name": '827路',
-        "bid": '10082701',
+        'name': '827路',
+        'bid': '10082701',
         'starting_station': '九佛总站',
         'terminal_station': '太和(沙亭岗村)总站',
         'stations': [
@@ -55725,8 +55725,8 @@ buses = {
         ]
     },
     '193路': {
-        "name": '193路',
-        "bid": '10019300',
+        'name': '193路',
+        'bid': '10019300',
         'starting_station': '广卫路总站',
         'terminal_station': '汾水小区总站③',
         'stations': [
@@ -55751,8 +55751,8 @@ buses = {
         ]
     },
     '旅游观光1线': {
-        "name": '旅游观光1线',
-        "bid": '10000430',
+        'name': '旅游观光1线',
+        'bid': '10000430',
         'starting_station': '黄埔古村总站',
         'terminal_station': '珠江泳场总站①',
         'stations': [
@@ -55780,8 +55780,8 @@ buses = {
         ]
     },
     'S10路': {
-        "name": 'S10路',
-        "bid": '20901000',
+        'name': 'S10路',
+        'bid': '20901000',
         'starting_station': '鱼珠码头(总站)',
         'terminal_station': '长洲码头(总站)',
         'stations': [
@@ -55790,8 +55790,8 @@ buses = {
         ]
     },
     '番28路': {
-        "name": '番28路',
-        "bid": '10702800',
+        'name': '番28路',
+        'bid': '10702800',
         'starting_station': '北城公交总站',
         'terminal_station': '观龙岛公交总站',
         'stations': [
@@ -55821,8 +55821,8 @@ buses = {
         ]
     },
     '480路': {
-        "name": '480路',
-        "bid": '10048000',
+        'name': '480路',
+        'bid': '10048000',
         'starting_station': '北站总站',
         'terminal_station': '省妇幼站',
         'stations': [
@@ -55842,8 +55842,8 @@ buses = {
         ]
     },
     '195路': {
-        "name": '195路',
-        "bid": '10019501',
+        'name': '195路',
+        'bid': '10019501',
         'starting_station': '沥滘(珠江御景湾)总站',
         'terminal_station': '广州火车东站总站⑧b',
         'stations': [
@@ -55873,8 +55873,8 @@ buses = {
         ]
     },
     '番202': {
-        "name": '番202',
-        "bid": '10720200',
+        'name': '番202',
+        'bid': '10720200',
         'starting_station': '大学城(科学中心)总站①',
         'terminal_station': '大学城(体育中心)总站',
         'stations': [
@@ -55898,8 +55898,8 @@ buses = {
         ]
     },
     '433路': {
-        "name": '433路',
-        "bid": '10043301',
+        'name': '433路',
+        'bid': '10043301',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '姬棠商业街总站',
         'stations': [
@@ -55920,8 +55920,8 @@ buses = {
         ]
     },
     '784路': {
-        "name": '784路',
-        "bid": '10078401',
+        'name': '784路',
+        'bid': '10078401',
         'starting_station': '地铁梅花园站总站',
         'terminal_station': '地铁梅花园站总站',
         'stations': [
@@ -55937,8 +55937,8 @@ buses = {
         ]
     },
     '节假日专线11': {
-        "name": '节假日专线11',
-        "bid": '10001171',
+        'name': '节假日专线11',
+        'bid': '10001171',
         'starting_station': '广州火车东站总站③d',
         'terminal_station': '广州医科大学',
         'stations': [
@@ -55979,8 +55979,8 @@ buses = {
         ]
     },
     '447路': {
-        "name": '447路',
-        "bid": '10044700',
+        'name': '447路',
+        'bid': '10044700',
         'starting_station': '西区公交总站',
         'terminal_station': '笔村总站',
         'stations': [
@@ -56006,8 +56006,8 @@ buses = {
         ]
     },
     '番13路': {
-        "name": '番13路',
-        "bid": '10701300',
+        'name': '番13路',
+        'bid': '10701300',
         'starting_station': '好又多总站',
         'terminal_station': '洛溪南浦总站',
         'stations': [
@@ -56061,8 +56061,8 @@ buses = {
         ]
     },
     '454路': {
-        "name": '454路',
-        "bid": '10045400',
+        'name': '454路',
+        'bid': '10045400',
         'starting_station': '水南村(文体中心)总站',
         'terminal_station': '笔村总站',
         'stations': [
@@ -56085,8 +56085,8 @@ buses = {
         ]
     },
     '夜20路': {
-        "name": '夜20路',
-        "bid": '10002010',
+        'name': '夜20路',
+        'bid': '10002010',
         'starting_station': '广州南站总站',
         'terminal_station': '中山八路总站⑤',
         'stations': [
@@ -56122,8 +56122,8 @@ buses = {
         ]
     },
     '58A路': {
-        "name": '58A路',
-        "bid": '10005820',
+        'name': '58A路',
+        'bid': '10005820',
         'starting_station': '唐阁村总站',
         'terminal_station': '解放北路(应元路口)总站',
         'stations': [
@@ -56159,8 +56159,8 @@ buses = {
         ]
     },
     '776': {
-        "name": '776',
-        "bid": '10077600',
+        'name': '776',
+        'bid': '10077600',
         'starting_station': '广州东站汽车站总站',
         'terminal_station': '科学城路口总站',
         'stations': [
@@ -56189,8 +56189,8 @@ buses = {
         ]
     },
     '499路': {
-        "name": '499路',
-        "bid": '10049901',
+        'name': '499路',
+        'bid': '10049901',
         'starting_station': '珠江新城冼村路总站',
         'terminal_station': '珠江新城冼村路总站',
         'stations': [
@@ -56216,8 +56216,8 @@ buses = {
         ]
     },
     '511石龙班车': {
-        "name": '511石龙班车',
-        "bid": '10051131',
+        'name': '511石龙班车',
+        'bid': '10051131',
         'starting_station': '石龙总站',
         'terminal_station': '机场路总站①',
         'stations': [
@@ -56266,8 +56266,8 @@ buses = {
         ]
     },
     '地铁接驳8线': {
-        "name": '地铁接驳8线',
-        "bid": '10000840',
+        'name': '地铁接驳8线',
+        'bid': '10000840',
         'starting_station': '地铁大石站总站',
         'terminal_station': '七星岗公园(南村体育中心)总站',
         'stations': [
@@ -56299,8 +56299,8 @@ buses = {
         ]
     },
     'B10路': {
-        "name": 'B10路',
-        "bid": '10801001',
+        'name': 'B10路',
+        'bid': '10801001',
         'starting_station': '广州火车站总站a',
         'terminal_station': '岑村火炉山森林公园总站',
         'stations': [
@@ -56327,8 +56327,8 @@ buses = {
         ]
     },
     '991环线': {
-        "name": '991环线',
-        "bid": '10099101',
+        'name': '991环线',
+        'bid': '10099101',
         'starting_station': '沥滘大埗头总站',
         'terminal_station': '沥滘大埗头总站',
         'stations': [
@@ -56354,8 +56354,8 @@ buses = {
         ]
     },
     '高峰快线74': {
-        "name": '高峰快线74',
-        "bid": '10007461',
+        'name': '高峰快线74',
+        'bid': '10007461',
         'starting_station': '新滘中路(龙潭)站',
         'terminal_station': '武警医院站',
         'stations': [
@@ -56377,8 +56377,8 @@ buses = {
         ]
     },
     '433路': {
-        "name": '433路',
-        "bid": '10043300',
+        'name': '433路',
+        'bid': '10043300',
         'starting_station': '姬棠商业街总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -56397,8 +56397,8 @@ buses = {
         ]
     },
     '571B路': {
-        "name": '571B路',
-        "bid": '10057131',
+        'name': '571B路',
+        'bid': '10057131',
         'starting_station': '开发区(新港码头)总站',
         'terminal_station': '新塘(光华路口)总站',
         'stations': [
@@ -56433,8 +56433,8 @@ buses = {
         ]
     },
     '701路': {
-        "name": '701路',
-        "bid": '10070101',
+        'name': '701路',
+        'bid': '10070101',
         'starting_station': '花都雅居乐锦城花园总站',
         'terminal_station': '天平架总站④a',
         'stations': [
@@ -56489,8 +56489,8 @@ buses = {
         ]
     },
     '19路': {
-        "name": '19路',
-        "bid": '10001901',
+        'name': '19路',
+        'bid': '10001901',
         'starting_station': '中山八路总站①',
         'terminal_station': '芳村西塱总站③',
         'stations': [
@@ -56514,8 +56514,8 @@ buses = {
         ]
     },
     '261路': {
-        "name": '261路',
-        "bid": '10026100',
+        'name': '261路',
+        'bid': '10026100',
         'starting_station': '中山八路总站①',
         'terminal_station': '鱼珠总站',
         'stations': [
@@ -56559,8 +56559,8 @@ buses = {
         ]
     },
     '271路': {
-        "name": '271路',
-        "bid": '10027100',
+        'name': '271路',
+        'bid': '10027100',
         'starting_station': '流花车站总站①',
         'terminal_station': '石井(滘心村)总站',
         'stations': [
@@ -56601,8 +56601,8 @@ buses = {
         ]
     },
     '旅游2线': {
-        "name": '旅游2线',
-        "bid": '10000231',
+        'name': '旅游2线',
+        'bid': '10000231',
         'starting_station': '中山八路总站①',
         'terminal_station': '珠江帝景苑总站',
         'stations': [
@@ -56633,8 +56633,8 @@ buses = {
         ]
     },
     '808路': {
-        "name": '808路',
-        "bid": '10080801',
+        'name': '808路',
+        'bid': '10080801',
         'starting_station': '钟落潭文化广场总站',
         'terminal_station': '广州火车东站总站',
         'stations': [
@@ -56690,8 +56690,8 @@ buses = {
         ]
     },
     '254路': {
-        "name": '254路',
-        "bid": '10025400',
+        'name': '254路',
+        'bid': '10025400',
         'starting_station': '广州火车站总站a',
         'terminal_station': '石井红星村总站',
         'stations': [
@@ -56717,8 +56717,8 @@ buses = {
         ]
     },
     '番181路': {
-        "name": '番181路',
-        "bid": '10718100',
+        'name': '番181路',
+        'bid': '10718100',
         'starting_station': '地铁厦滘站总站',
         'terminal_station': '诜村总站',
         'stations': [
@@ -56738,8 +56738,8 @@ buses = {
         ]
     },
     '假日专线5': {
-        "name": '假日专线5',
-        "bid": '10030570',
+        'name': '假日专线5',
+        'bid': '10030570',
         'starting_station': '长洲岛总站',
         'terminal_station': '体育中心总站',
         'stations': [
@@ -56759,8 +56759,8 @@ buses = {
         ]
     },
     '番29路': {
-        "name": '番29路',
-        "bid": '10702901',
+        'name': '番29路',
+        'bid': '10702901',
         'starting_station': '区公汽公司总站',
         'terminal_station': '滴水岩森林公园总站',
         'stations': [
@@ -56795,8 +56795,8 @@ buses = {
         ]
     },
     '197路': {
-        "name": '197路',
-        "bid": '10019701',
+        'name': '197路',
+        'bid': '10019701',
         'starting_station': '昌岗路总站',
         'terminal_station': '汇景北路总站',
         'stations': [
@@ -56826,8 +56826,8 @@ buses = {
         ]
     },
     '35路': {
-        "name": '35路',
-        "bid": '10003500',
+        'name': '35路',
+        'bid': '10003500',
         'starting_station': '大学城(科学中心)站',
         'terminal_station': '文德路总站',
         'stations': [
@@ -56871,8 +56871,8 @@ buses = {
         ]
     },
     '夜88路': {
-        "name": '夜88路',
-        "bid": '10008810',
+        'name': '夜88路',
+        'bid': '10008810',
         'starting_station': '市桥北城中巴站总站',
         'terminal_station': '流花车站总站①',
         'stations': [
@@ -56910,8 +56910,8 @@ buses = {
         ]
     },
     '653路': {
-        "name": '653路',
-        "bid": '10065301',
+        'name': '653路',
+        'bid': '10065301',
         'starting_station': '地铁沙贝总站',
         'terminal_station': '地铁沙贝总站',
         'stations': [
@@ -56937,8 +56937,8 @@ buses = {
         ]
     },
     '489路': {
-        "name": '489路',
-        "bid": '10048901',
+        'name': '489路',
+        'bid': '10048901',
         'starting_station': '江南西路总站',
         'terminal_station': '革新路(光大花园)总站',
         'stations': [
@@ -56955,8 +56955,8 @@ buses = {
         ]
     },
     '747路': {
-        "name": '747路',
-        "bid": '10074701',
+        'name': '747路',
+        'bid': '10074701',
         'starting_station': '沙太货运站总站',
         'terminal_station': '沙太货运站总站',
         'stations': [
@@ -56982,8 +56982,8 @@ buses = {
         ]
     },
     '786路': {
-        "name": '786路',
-        "bid": '10078601',
+        'name': '786路',
+        'bid': '10078601',
         'starting_station': '江晓路口总站',
         'terminal_station': '墩和(大塘西)总站',
         'stations': [
@@ -57001,8 +57001,8 @@ buses = {
         ]
     },
     '901路': {
-        "name": '901路',
-        "bid": '10090101',
+        'name': '901路',
+        'bid': '10090101',
         'starting_station': '岑村松岗小区总站',
         'terminal_station': '岑村教练场总站',
         'stations': [
@@ -57015,8 +57015,8 @@ buses = {
         ]
     },
     '389路': {
-        "name": '389路',
-        "bid": '10038901',
+        'name': '389路',
+        'bid': '10038901',
         'starting_station': '黄埔体育中心总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -57033,8 +57033,8 @@ buses = {
         ]
     },
     '358路': {
-        "name": '358路',
-        "bid": '10035800',
+        'name': '358路',
+        'bid': '10035800',
         'starting_station': '埔南路(翡翠绿洲)总站',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -57063,8 +57063,8 @@ buses = {
         ]
     },
     '大学城1线': {
-        "name": '大学城1线',
-        "bid": '10000120',
+        'name': '大学城1线',
+        'bid': '10000120',
         'starting_station': '外语学院总站',
         'terminal_station': '大学城(广大)总站',
         'stations': [
@@ -57103,8 +57103,8 @@ buses = {
         ]
     },
     '702路': {
-        "name": '702路',
-        "bid": '10070200',
+        'name': '702路',
+        'bid': '10070200',
         'starting_station': '机场路总站⑨',
         'terminal_station': '花都永大新城总站',
         'stations': [
@@ -57123,8 +57123,8 @@ buses = {
         ]
     },
     '862路': {
-        "name": '862路',
-        "bid": '10086201',
+        'name': '862路',
+        'bid': '10086201',
         'starting_station': '南湖大河马总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -57151,8 +57151,8 @@ buses = {
         ]
     },
     'B31路': {
-        "name": 'B31路',
-        "bid": '10803100',
+        'name': 'B31路',
+        'bid': '10803100',
         'starting_station': '永和开发区总站',
         'terminal_station': '鱼珠总站',
         'stations': [
@@ -57199,8 +57199,8 @@ buses = {
         ]
     },
     '大学城环线2': {
-        "name": '大学城环线2',
-        "bid": '10038201',
+        'name': '大学城环线2',
+        'bid': '10038201',
         'starting_station': '外环西路(北亭广场)总站',
         'terminal_station': '外环西路(北亭广场)总站',
         'stations': [
@@ -57230,8 +57230,8 @@ buses = {
         ]
     },
     '夜29路': {
-        "name": '夜29路',
-        "bid": '10002910',
+        'name': '夜29路',
+        'bid': '10002910',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '江海大道中(赤岗)总站',
         'stations': [
@@ -57260,8 +57260,8 @@ buses = {
         ]
     },
     '256路': {
-        "name": '256路',
-        "bid": '10025600',
+        'name': '256路',
+        'bid': '10025600',
         'starting_station': '广州火车东站总站⑦c',
         'terminal_station': '珠岛花园总站',
         'stations': [
@@ -57290,8 +57290,8 @@ buses = {
         ]
     },
     '499路': {
-        "name": '499路',
-        "bid": '10049900',
+        'name': '499路',
+        'bid': '10049900',
         'starting_station': '珠江新城冼村路总站',
         'terminal_station': '珠江新城冼村路总站',
         'stations': [
@@ -57317,8 +57317,8 @@ buses = {
         ]
     },
     '66石湖班车': {
-        "name": '66石湖班车',
-        "bid": '10006631',
+        'name': '66石湖班车',
+        'bid': '10006631',
         'starting_station': '泮塘总站',
         'terminal_station': '石湖部队总站',
         'stations': [
@@ -57353,8 +57353,8 @@ buses = {
         ]
     },
     '323路': {
-        "name": '323路',
-        "bid": '10032300',
+        'name': '323路',
+        'bid': '10032300',
         'starting_station': '刘村总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -57376,8 +57376,8 @@ buses = {
         ]
     },
     '571A路': {
-        "name": '571A路',
-        "bid": '10057121',
+        'name': '571A路',
+        'bid': '10057121',
         'starting_station': '新塘(光华路口)总站',
         'terminal_station': '萝岗村委总站',
         'stations': [
@@ -57418,8 +57418,8 @@ buses = {
         ]
     },
     '高速专线2': {
-        "name": '高速专线2',
-        "bid": '10051061',
+        'name': '高速专线2',
+        'bid': '10051061',
         'starting_station': '人和安置区总站',
         'terminal_station': '机场路总站①',
         'stations': [
@@ -57442,8 +57442,8 @@ buses = {
         ]
     },
     '439路': {
-        "name": '439路',
-        "bid": '10043900',
+        'name': '439路',
+        'bid': '10043900',
         'starting_station': '南岗公交站场总站',
         'terminal_station': '沧头村总站',
         'stations': [
@@ -57464,8 +57464,8 @@ buses = {
         ]
     },
     '节假日专线11': {
-        "name": '节假日专线11',
-        "bid": '10001170',
+        'name': '节假日专线11',
+        'bid': '10001170',
         'starting_station': '广州医科大学',
         'terminal_station': '广州火车东站总站③d',
         'stations': [
@@ -57509,8 +57509,8 @@ buses = {
         ]
     },
     'B5路': {
-        "name": 'B5路',
-        "bid": '10800501',
+        'name': 'B5路',
+        'bid': '10800501',
         'starting_station': '黄埔港总站',
         'terminal_station': '宝岗大道总站①',
         'stations': [
@@ -57545,8 +57545,8 @@ buses = {
         ]
     },
     '244A路': {
-        "name": '244A路',
-        "bid": '10024420',
+        'name': '244A路',
+        'bid': '10024420',
         'starting_station': '江南大道南总站',
         'terminal_station': '汇侨新城总站①',
         'stations': [
@@ -57574,8 +57574,8 @@ buses = {
         ]
     },
     '921路': {
-        "name": '921路',
-        "bid": '10092101',
+        'name': '921路',
+        'bid': '10092101',
         'starting_station': '金信路(云山锦绣家园)总站',
         'terminal_station': '景泰直街总站',
         'stations': [
@@ -57589,8 +57589,8 @@ buses = {
         ]
     },
     '5路': {
-        "name": '5路',
-        "bid": '10000500',
+        'name': '5路',
+        'bid': '10000500',
         'starting_station': '海珠客运站总站',
         'terminal_station': '市客运站总站',
         'stations': [
@@ -57619,8 +57619,8 @@ buses = {
         ]
     },
     '475路': {
-        "name": '475路',
-        "bid": '10047500',
+        'name': '475路',
+        'bid': '10047500',
         'starting_station': '岗贝路总站',
         'terminal_station': '地铁三元里(C2出口)站',
         'stations': [
@@ -57637,8 +57637,8 @@ buses = {
         ]
     },
     '公交假日专线2': {
-        "name": '公交假日专线2',
-        "bid": '10050270',
+        'name': '公交假日专线2',
+        'bid': '10050270',
         'starting_station': '大夫山森林公园总站',
         'terminal_station': '流花车站总站①',
         'stations': [
@@ -57662,8 +57662,8 @@ buses = {
         ]
     },
     '340路': {
-        "name": '340路',
-        "bid": '10034001',
+        'name': '340路',
+        'bid': '10034001',
         'starting_station': '云埔一路(中一药业)总站',
         'terminal_station': '笔村总站',
         'stations': [
@@ -57693,8 +57693,8 @@ buses = {
         ]
     },
     '88路': {
-        "name": '88路',
-        "bid": '10008801',
+        'name': '88路',
+        'bid': '10008801',
         'starting_station': '西场总站',
         'terminal_station': '南天商业城总站',
         'stations': [
@@ -57728,8 +57728,8 @@ buses = {
         ]
     },
     '503路': {
-        "name": '503路',
-        "bid": '10050301',
+        'name': '503路',
+        'bid': '10050301',
         'starting_station': '天河客运站总站①',
         'terminal_station': '杨桃公园(美林湖畔)总站',
         'stations': [
@@ -57761,8 +57761,8 @@ buses = {
         ]
     },
     '5路': {
-        "name": '5路',
-        "bid": '10000501',
+        'name': '5路',
+        'bid': '10000501',
         'starting_station': '市客运站总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -57789,8 +57789,8 @@ buses = {
         ]
     },
     '843路': {
-        "name": '843路',
-        "bid": '10084301',
+        'name': '843路',
+        'bid': '10084301',
         'starting_station': '人和安置区总站',
         'terminal_station': '江高(广东技术师范学院)总站',
         'stations': [
@@ -57834,8 +57834,8 @@ buses = {
         ]
     },
     '高峰快线80': {
-        "name": '高峰快线80',
-        "bid": '10008061',
+        'name': '高峰快线80',
+        'bid': '10008061',
         'starting_station': '中科院化学所总站',
         'terminal_station': '罗冲围总站1①',
         'stations': [
@@ -57865,8 +57865,8 @@ buses = {
         ]
     },
     '439路': {
-        "name": '439路',
-        "bid": '10043901',
+        'name': '439路',
+        'bid': '10043901',
         'starting_station': '沧头村总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -57886,8 +57886,8 @@ buses = {
         ]
     },
     '番147路': {
-        "name": '番147路',
-        "bid": '10714701',
+        'name': '番147路',
+        'bid': '10714701',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -57908,8 +57908,8 @@ buses = {
         ]
     },
     '番20路': {
-        "name": '番20路',
-        "bid": '10702000',
+        'name': '番20路',
+        'bid': '10702000',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '蔡边村总站',
         'stations': [
@@ -57940,8 +57940,8 @@ buses = {
         ]
     },
     '番91路': {
-        "name": '番91路',
-        "bid": '10709101',
+        'name': '番91路',
+        'bid': '10709101',
         'starting_station': '洛溪新城总站',
         'terminal_station': '番禺中心医院总站',
         'stations': [
@@ -57985,8 +57985,8 @@ buses = {
         ]
     },
     '303A路': {
-        "name": '303A路',
-        "bid": '10030321',
+        'name': '303A路',
+        'bid': '10030321',
         'starting_station': '天河客运站总站①',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -58023,8 +58023,8 @@ buses = {
         ]
     },
     '番4路': {
-        "name": '番4路',
-        "bid": '10700401',
+        'name': '番4路',
+        'bid': '10700401',
         'starting_station': '康裕北苑总站',
         'terminal_station': '好又多总站',
         'stations': [
@@ -58051,8 +58051,8 @@ buses = {
         ]
     },
     '高峰快线42A': {
-        "name": '高峰快线42A',
-        "bid": '10004221',
+        'name': '高峰快线42A',
+        'bid': '10004221',
         'starting_station': '天河公交场总站',
         'terminal_station': '星河湾大酒店总站',
         'stations': [
@@ -58065,8 +58065,8 @@ buses = {
         ]
     },
     'B2路': {
-        "name": 'B2路',
-        "bid": '10800201',
+        'name': 'B2路',
+        'bid': '10800201',
         'starting_station': '东圃总站①',
         'terminal_station': '广州火车站总站f',
         'stations': [
@@ -58092,8 +58092,8 @@ buses = {
         ]
     },
     '地铁接驳4线': {
-        "name": '地铁接驳4线',
-        "bid": '10000440',
+        'name': '地铁接驳4线',
+        'bid': '10000440',
         'starting_station': '地铁南浦总站',
         'terminal_station': '星河湾半岛',
         'stations': [
@@ -58122,8 +58122,8 @@ buses = {
         ]
     },
     '977路': {
-        "name": '977路',
-        "bid": '10097701',
+        'name': '977路',
+        'bid': '10097701',
         'starting_station': '江高总站',
         'terminal_station': '石井(滘心村)总站',
         'stations': [
@@ -58142,8 +58142,8 @@ buses = {
         ]
     },
     '825路': {
-        "name": '825路',
-        "bid": '10082501',
+        'name': '825路',
+        'bid': '10082501',
         'starting_station': '雅瑶总站',
         'terminal_station': '江高总站',
         'stations': [
@@ -58162,8 +58162,8 @@ buses = {
         ]
     },
     '487路': {
-        "name": '487路',
-        "bid": '10048700',
+        'name': '487路',
+        'bid': '10048700',
         'starting_station': '东漖教师新村总站',
         'terminal_station': '芳村合兴苑站',
         'stations': [
@@ -58181,8 +58181,8 @@ buses = {
         ]
     },
     '夜18': {
-        "name": '夜18',
-        "bid": '10001811',
+        'name': '夜18',
+        'bid': '10001811',
         'starting_station': '员村生活区(市六医院)总站',
         'terminal_station': '广州火车站总站e',
         'stations': [
@@ -58213,8 +58213,8 @@ buses = {
         ]
     },
     '番80路': {
-        "name": '番80路',
-        "bid": '10708001',
+        'name': '番80路',
+        'bid': '10708001',
         'starting_station': '低涌村总站',
         'terminal_station': '石基总站',
         'stations': [
@@ -58233,8 +58233,8 @@ buses = {
         ]
     },
     '925路': {
-        "name": '925路',
-        "bid": '10092501',
+        'name': '925路',
+        'bid': '10092501',
         'starting_station': '祥岗总站',
         'terminal_station': '新市墟总站',
         'stations': [
@@ -58251,8 +58251,8 @@ buses = {
         ]
     },
     '181路': {
-        "name": '181路',
-        "bid": '10018100',
+        'name': '181路',
+        'bid': '10018100',
         'starting_station': '柯子岭(河田路)总站',
         'terminal_station': '芳村客运站总站②',
         'stations': [
@@ -58285,8 +58285,8 @@ buses = {
         ]
     },
     'S11路': {
-        "name": 'S11路',
-        "bid": '20901101',
+        'name': 'S11路',
+        'bid': '20901101',
         'starting_station': '海心沙码头(总站)',
         'terminal_station': '广州塔码头(总站)',
         'stations': [
@@ -58295,8 +58295,8 @@ buses = {
         ]
     },
     '566A路': {
-        "name": '566A路',
-        "bid": '10056620',
+        'name': '566A路',
+        'bid': '10056620',
         'starting_station': '夏园站',
         'terminal_station': '永和(崇和花园)总站',
         'stations': [
@@ -58327,8 +58327,8 @@ buses = {
         ]
     },
     '666路': {
-        "name": '666路',
-        "bid": '10066600',
+        'name': '666路',
+        'bid': '10066600',
         'starting_station': '黄边北路总站',
         'terminal_station': '黄边北路总站',
         'stations': [
@@ -58347,8 +58347,8 @@ buses = {
         ]
     },
     'B28路': {
-        "name": 'B28路',
-        "bid": '10802801',
+        'name': 'B28路',
+        'bid': '10802801',
         'starting_station': '鱼珠总站',
         'terminal_station': '保税区(酒博城)总站',
         'stations': [
@@ -58380,8 +58380,8 @@ buses = {
         ]
     },
     '南沙15路': {
-        "name": '南沙15路',
-        "bid": '10601501',
+        'name': '南沙15路',
+        'bid': '10601501',
         'starting_station': '麒麟中学总站',
         'terminal_station': '新海村总站',
         'stations': [
@@ -58401,8 +58401,8 @@ buses = {
         ]
     },
     '181路': {
-        "name": '181路',
-        "bid": '10018101',
+        'name': '181路',
+        'bid': '10018101',
         'starting_station': '芳村客运站总站②',
         'terminal_station': '柯子岭(河田路)总站',
         'stations': [
@@ -58438,8 +58438,8 @@ buses = {
         ]
     },
     '夜71路': {
-        "name": '夜71路',
-        "bid": '10007110',
+        'name': '夜71路',
+        'bid': '10007110',
         'starting_station': '动物园南门总站①',
         'terminal_station': '渔沙坦(渔中路)总站',
         'stations': [
@@ -58479,8 +58479,8 @@ buses = {
         ]
     },
     '大学城环线1': {
-        "name": '大学城环线1',
-        "bid": '10038101',
+        'name': '大学城环线1',
+        'bid': '10038101',
         'starting_station': '市国家档案馆(大学城)总站',
         'terminal_station': '市国家档案馆(大学城)总站',
         'stations': [
@@ -58507,8 +58507,8 @@ buses = {
         ]
     },
     '高峰快线79': {
-        "name": '高峰快线79',
-        "bid": '10007960',
+        'name': '高峰快线79',
+        'bid': '10007960',
         'starting_station': '平沙村(富力城)总站',
         'terminal_station': '动物园总站1①b',
         'stations': [
@@ -58534,8 +58534,8 @@ buses = {
         ]
     },
     '664路': {
-        "name": '664路',
-        "bid": '10066401',
+        'name': '664路',
+        'bid': '10066401',
         'starting_station': '白云公园总站',
         'terminal_station': '石马总站',
         'stations': [
@@ -58573,8 +58573,8 @@ buses = {
         ]
     },
     '708路': {
-        "name": '708路',
-        "bid": '10070801',
+        'name': '708路',
+        'bid': '10070801',
         'starting_station': '花都两龙总站',
         'terminal_station': '人和总站',
         'stations': [
@@ -58599,8 +58599,8 @@ buses = {
         ]
     },
     '夜86': {
-        "name": '夜86',
-        "bid": '10008611',
+        'name': '夜86',
+        'bid': '10008611',
         'starting_station': '太和总站',
         'terminal_station': '龙归地铁站总站',
         'stations': [
@@ -58623,8 +58623,8 @@ buses = {
         ]
     },
     '番189': {
-        "name": '番189',
-        "bid": '10718901',
+        'name': '番189',
+        'bid': '10718901',
         'starting_station': '地铁南浦总站',
         'terminal_station': '地铁南浦总站',
         'stations': [
@@ -58657,8 +58657,8 @@ buses = {
         ]
     },
     '735路': {
-        "name": '735路',
-        "bid": '10073500',
+        'name': '735路',
+        'bid': '10073500',
         'starting_station': '龙归地铁站总站',
         'terminal_station': '田心村总站',
         'stations': [
@@ -58673,8 +58673,8 @@ buses = {
         ]
     },
     '357路': {
-        "name": '357路',
-        "bid": '10035700',
+        'name': '357路',
+        'bid': '10035700',
         'starting_station': '护林路东总站',
         'terminal_station': '黄埔体育中心总站',
         'stations': [
@@ -58691,8 +58691,8 @@ buses = {
         ]
     },
     '345路': {
-        "name": '345路',
-        "bid": '10034501',
+        'name': '345路',
+        'bid': '10034501',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '天河客运站总站',
         'stations': [
@@ -58752,8 +58752,8 @@ buses = {
         ]
     },
     '495路': {
-        "name": '495路',
-        "bid": '10049500',
+        'name': '495路',
+        'bid': '10049500',
         'starting_station': '玉树新村总站',
         'terminal_station': '地铁车陂南站总站',
         'stations': [
@@ -58777,8 +58777,8 @@ buses = {
         ]
     },
     '夜77': {
-        "name": '夜77',
-        "bid": '10007711',
+        'name': '夜77',
+        'bid': '10007711',
         'starting_station': '广州火车东站总站',
         'terminal_station': '石井潭村总站',
         'stations': [
@@ -58812,8 +58812,8 @@ buses = {
         ]
     },
     '夜97路': {
-        "name": '夜97路',
-        "bid": '10009710',
+        'name': '夜97路',
+        'bid': '10009710',
         'starting_station': '车陂总站①',
         'terminal_station': '萝岗总站',
         'stations': [
@@ -58857,8 +58857,8 @@ buses = {
         ]
     },
     '501路': {
-        "name": '501路',
-        "bid": '10050100',
+        'name': '501路',
+        'bid': '10050100',
         'starting_station': '广州火车东站总站⑥b',
         'terminal_station': '九佛总站',
         'stations': [
@@ -58924,8 +58924,8 @@ buses = {
         ]
     },
     '336路': {
-        "name": '336路',
-        "bid": '10033601',
+        'name': '336路',
+        'bid': '10033601',
         'starting_station': '广州植树公园总站',
         'terminal_station': '广州科学城长安村总站',
         'stations': [
@@ -58949,8 +58949,8 @@ buses = {
         ]
     },
     '455路': {
-        "name": '455路',
-        "bid": '10045500',
+        'name': '455路',
+        'bid': '10045500',
         'starting_station': '永和开发区(树吓村)总站',
         'terminal_station': '环岭路总站',
         'stations': [
@@ -58967,8 +58967,8 @@ buses = {
         ]
     },
     'B1路': {
-        "name": 'B1路',
-        "bid": '10800100',
+        'name': 'B1路',
+        'bid': '10800100',
         'starting_station': '体育中心站B',
         'terminal_station': '夏园站B',
         'stations': [
@@ -59001,8 +59001,8 @@ buses = {
         ]
     },
     '994路': {
-        "name": '994路',
-        "bid": '10099401',
+        'name': '994路',
+        'bid': '10099401',
         'starting_station': '地铁坦尾总站',
         'terminal_station': '地铁坦尾总站',
         'stations': [
@@ -59024,8 +59024,8 @@ buses = {
         ]
     },
     '730路': {
-        "name": '730路',
-        "bid": '10073001',
+        'name': '730路',
+        'bid': '10073001',
         'starting_station': '上步总站',
         'terminal_station': '上步总站',
         'stations': [
@@ -59056,8 +59056,8 @@ buses = {
         ]
     },
     '256路': {
-        "name": '256路',
-        "bid": '10025601',
+        'name': '256路',
+        'bid': '10025601',
         'starting_station': '珠岛花园总站',
         'terminal_station': '广州火车东站总站⑦c',
         'stations': [
@@ -59087,8 +59087,8 @@ buses = {
         ]
     },
     '754路': {
-        "name": '754路',
-        "bid": '10075400',
+        'name': '754路',
+        'bid': '10075400',
         'starting_station': '犀牛角村总站',
         'terminal_station': '犀牛角村总站',
         'stations': [
@@ -59105,8 +59105,8 @@ buses = {
         ]
     },
     '765路': {
-        "name": '765路',
-        "bid": '10076501',
+        'name': '765路',
+        'bid': '10076501',
         'starting_station': '阅江路(珠江啤酒厂)总站',
         'terminal_station': '南天商业城总站',
         'stations': [
@@ -59126,8 +59126,8 @@ buses = {
         ]
     },
     '番149路': {
-        "name": '番149路',
-        "bid": '10714901',
+        'name': '番149路',
+        'bid': '10714901',
         'starting_station': '清流村总站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -59168,8 +59168,8 @@ buses = {
         ]
     },
     '75路': {
-        "name": '75路',
-        "bid": '10007500',
+        'name': '75路',
+        'bid': '10007500',
         'starting_station': '侨城花园总站',
         'terminal_station': '郭村总站',
         'stations': [
@@ -59199,8 +59199,8 @@ buses = {
         ]
     },
     '785路': {
-        "name": '785路',
-        "bid": '10078500',
+        'name': '785路',
+        'bid': '10078500',
         'starting_station': '天平架总站③a',
         'terminal_station': '地铁梅花园站总站',
         'stations': [
@@ -59214,8 +59214,8 @@ buses = {
         ]
     },
     '番93路': {
-        "name": '番93路',
-        "bid": '10709300',
+        'name': '番93路',
+        'bid': '10709300',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '亚运文化村总站',
         'stations': [
@@ -59266,8 +59266,8 @@ buses = {
         ]
     },
     '551路': {
-        "name": '551路',
-        "bid": '10055101',
+        'name': '551路',
+        'bid': '10055101',
         'starting_station': '晓港湾瑞宝茶叶城总站',
         'terminal_station': '广州火车东站总站③a',
         'stations': [
@@ -59297,8 +59297,8 @@ buses = {
         ]
     },
     '番150B路': {
-        "name": '番150B路',
-        "bid": '10715020',
+        'name': '番150B路',
+        'bid': '10715020',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '鱼窝头车站',
         'stations': [
@@ -59332,8 +59332,8 @@ buses = {
         ]
     },
     '791路': {
-        "name": '791路',
-        "bid": '10079101',
+        'name': '791路',
+        'bid': '10079101',
         'starting_station': '中成路总站',
         'terminal_station': '中成路总站',
         'stations': [
@@ -59359,8 +59359,8 @@ buses = {
         ]
     },
     '夜94路': {
-        "name": '夜94路',
-        "bid": '10009410',
+        'name': '夜94路',
+        'bid': '10009410',
         'starting_station': '广州火车站总站',
         'terminal_station': '人和安置区总站',
         'stations': [
@@ -59413,8 +59413,8 @@ buses = {
         ]
     },
     '569支线': {
-        "name": '569支线',
-        "bid": '10056920',
+        'name': '569支线',
+        'bid': '10056920',
         'starting_station': '萝岗香雪公园总站',
         'terminal_station': '峨山社总站',
         'stations': [
@@ -59448,8 +59448,8 @@ buses = {
         ]
     },
     '2路': {
-        "name": '2路',
-        "bid": '10000200',
+        'name': '2路',
+        'bid': '10000200',
         'starting_station': '泮塘总站',
         'terminal_station': '锦城花园(东风东)总站④',
         'stations': [
@@ -59475,8 +59475,8 @@ buses = {
         ]
     },
     '564A路': {
-        "name": '564A路',
-        "bid": '10056420',
+        'name': '564A路',
+        'bid': '10056420',
         'starting_station': '联和墟站',
         'terminal_station': '奥林匹克体育中心总站',
         'stations': [
@@ -59497,8 +59497,8 @@ buses = {
         ]
     },
     '南沙31路': {
-        "name": '南沙31路',
-        "bid": '10603101',
+        'name': '南沙31路',
+        'bid': '10603101',
         'starting_station': '蕉门地铁总站',
         'terminal_station': '蕉门地铁总站',
         'stations': [
@@ -59519,8 +59519,8 @@ buses = {
         ]
     },
     '253路': {
-        "name": '253路',
-        "bid": '10025301',
+        'name': '253路',
+        'bid': '10025301',
         'starting_station': '罗冲围总站1②',
         'terminal_station': '瑞宝乡总站',
         'stations': [
@@ -59548,8 +59548,8 @@ buses = {
         ]
     },
     '886路': {
-        "name": '886路',
-        "bid": '10088600',
+        'name': '886路',
+        'bid': '10088600',
         'starting_station': '集贤苑总站',
         'terminal_station': '珠江新城总站①',
         'stations': [
@@ -59600,8 +59600,8 @@ buses = {
         ]
     },
     '番22B线': {
-        "name": '番22B线',
-        "bid": '10702231',
+        'name': '番22B线',
+        'bid': '10702231',
         'starting_station': '旧水坑村总站',
         'terminal_station': '北海村总站',
         'stations': [
@@ -59632,8 +59632,8 @@ buses = {
         ]
     },
     '夜37路': {
-        "name": '夜37路',
-        "bid": '10003710',
+        'name': '夜37路',
+        'bid': '10003710',
         'starting_station': '中山八路总站⑦',
         'terminal_station': '江海大道中(赤岗)总站',
         'stations': [
@@ -59664,8 +59664,8 @@ buses = {
         ]
     },
     '30路': {
-        "name": '30路',
-        "bid": '10003000',
+        'name': '30路',
+        'bid': '10003000',
         'starting_station': '龙洞(广东金融学院)总站',
         'terminal_station': '广州火车站总站r',
         'stations': [
@@ -59706,8 +59706,8 @@ buses = {
         ]
     },
     '旅游1线': {
-        "name": '旅游1线',
-        "bid": '10000131',
+        'name': '旅游1线',
+        'bid': '10000131',
         'starting_station': '云台花园总站③',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -59729,8 +59729,8 @@ buses = {
         ]
     },
     '984路': {
-        "name": '984路',
-        "bid": '10098400',
+        'name': '984路',
+        'bid': '10098400',
         'starting_station': '夏茅(白云湖公园)总站',
         'terminal_station': '东平(老屋)总站',
         'stations': [
@@ -59759,8 +59759,8 @@ buses = {
         ]
     },
     '338路': {
-        "name": '338路',
-        "bid": '10033801',
+        'name': '338路',
+        'bid': '10033801',
         'starting_station': '黄埔港总站',
         'terminal_station': '萝岗中心区总站',
         'stations': [
@@ -59795,8 +59795,8 @@ buses = {
         ]
     },
     '443路': {
-        "name": '443路',
-        "bid": '10044300',
+        'name': '443路',
+        'bid': '10044300',
         'starting_station': '镇龙总站',
         'terminal_station': '福山村委总站',
         'stations': [
@@ -59819,8 +59819,8 @@ buses = {
         ]
     },
     '478路': {
-        "name": '478路',
-        "bid": '10047801',
+        'name': '478路',
+        'bid': '10047801',
         'starting_station': '白沙总站',
         'terminal_station': '富力环市西苑总站',
         'stations': [
@@ -59845,8 +59845,8 @@ buses = {
         ]
     },
     '夜83': {
-        "name": '夜83',
-        "bid": '10008310',
+        'name': '夜83',
+        'bid': '10008310',
         'starting_station': '人和墟(万家福广场)总站',
         'terminal_station': '竹料路口总站',
         'stations': [
@@ -59873,8 +59873,8 @@ buses = {
         ]
     },
     '325线': {
-        "name": '325线',
-        "bid": '10032500',
+        'name': '325线',
+        'bid': '10032500',
         'starting_station': '广汕路(万龙路)总站',
         'terminal_station': '奥林匹克体育中心总站',
         'stations': [
@@ -59904,8 +59904,8 @@ buses = {
         ]
     },
     '828路': {
-        "name": '828路',
-        "bid": '10082800',
+        'name': '828路',
+        'bid': '10082800',
         'starting_station': '太和镇总站',
         'terminal_station': '白鳝塘总站',
         'stations': [
@@ -59928,8 +59928,8 @@ buses = {
         ]
     },
     '270路': {
-        "name": '270路',
-        "bid": '10027001',
+        'name': '270路',
+        'bid': '10027001',
         'starting_station': '中山八路总站①',
         'terminal_station': '土华总站',
         'stations': [
@@ -59971,8 +59971,8 @@ buses = {
         ]
     },
     '夜59路': {
-        "name": '夜59路',
-        "bid": '10005910',
+        'name': '夜59路',
+        'bid': '10005910',
         'starting_station': '中山八路总站⑥',
         'terminal_station': '同康路总站',
         'stations': [
@@ -59995,8 +59995,8 @@ buses = {
         ]
     },
     '759路': {
-        "name": '759路',
-        "bid": '10075900',
+        'name': '759路',
+        'bid': '10075900',
         'starting_station': '地铁江夏站总站',
         'terminal_station': '黄鹤路(广州市残疾人体育运动中心)总站',
         'stations': [
@@ -60010,8 +60010,8 @@ buses = {
         ]
     },
     '413路': {
-        "name": '413路',
-        "bid": '10041301',
+        'name': '413路',
+        'bid': '10041301',
         'starting_station': '陈家祠(中山七路)总站',
         'terminal_station': '中山八路总站①',
         'stations': [
@@ -60025,8 +60025,8 @@ buses = {
         ]
     },
     '129路': {
-        "name": '129路',
-        "bid": '10012901',
+        'name': '129路',
+        'bid': '10012901',
         'starting_station': '锦城花园(东风东)总站④',
         'terminal_station': '南国奥林匹克花园总站',
         'stations': [
@@ -60063,8 +60063,8 @@ buses = {
         ]
     },
     'S06B路': {
-        "name": 'S06B路',
-        "bid": '20900621',
+        'name': 'S06B路',
+        'bid': '20900621',
         'starting_station': '永兴街码头(总站)',
         'terminal_station': '芳村码头(总站)',
         'stations': [
@@ -60073,8 +60073,8 @@ buses = {
         ]
     },
     '291B短线': {
-        "name": '291B短线',
-        "bid": '10029121',
+        'name': '291B短线',
+        'bid': '10029121',
         'starting_station': '潭村北大街总站',
         'terminal_station': '潭村北大街站',
         'stations': [
@@ -60113,8 +60113,8 @@ buses = {
         ]
     },
     '972路': {
-        "name": '972路',
-        "bid": '10097201',
+        'name': '972路',
+        'bid': '10097201',
         'starting_station': '太和镇总站',
         'terminal_station': '龙归地铁站总站',
         'stations': [
@@ -60139,8 +60139,8 @@ buses = {
         ]
     },
     '52路': {
-        "name": '52路',
-        "bid": '10005201',
+        'name': '52路',
+        'bid': '10005201',
         'starting_station': '广州火车站总站k',
         'terminal_station': '东沙工业园总站',
         'stations': [
@@ -60172,8 +60172,8 @@ buses = {
         ]
     },
     '夜62路': {
-        "name": '夜62路',
-        "bid": '10006211',
+        'name': '夜62路',
+        'bid': '10006211',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '永兴庄总站',
         'stations': [
@@ -60197,8 +60197,8 @@ buses = {
         ]
     },
     '番145路': {
-        "name": '番145路',
-        "bid": '10714500',
+        'name': '番145路',
+        'bid': '10714500',
         'starting_station': '番禺市桥汽车站总站',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -60246,8 +60246,8 @@ buses = {
         ]
     },
     '82路': {
-        "name": '82路',
-        "bid": '10008200',
+        'name': '82路',
+        'bid': '10008200',
         'starting_station': '中山八路总站',
         'terminal_station': '海珠客运站总站',
         'stations': [
@@ -60278,8 +60278,8 @@ buses = {
         ]
     },
     '夜26路': {
-        "name": '夜26路',
-        "bid": '10002610',
+        'name': '夜26路',
+        'bid': '10002610',
         'starting_station': '石井(庆丰纺织服装城)总站',
         'terminal_station': '芳村客运站总站①',
         'stations': [
@@ -60324,8 +60324,8 @@ buses = {
         ]
     },
     '16路': {
-        "name": '16路',
-        "bid": '10001600',
+        'name': '16路',
+        'bid': '10001600',
         'starting_station': '沙太路北总站',
         'terminal_station': '凤凰岗总站',
         'stations': [
@@ -60359,8 +60359,8 @@ buses = {
         ]
     },
     '796线': {
-        "name": '796线',
-        "bid": '10079600',
+        'name': '796线',
+        'bid': '10079600',
         'starting_station': '石马总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -60389,8 +60389,8 @@ buses = {
         ]
     },
     '430路': {
-        "name": '430路',
-        "bid": '10043000',
+        'name': '430路',
+        'bid': '10043000',
         'starting_station': '长洲码头总站',
         'terminal_station': '深井码头总站',
         'stations': [
@@ -60409,8 +60409,8 @@ buses = {
         ]
     },
     '351路': {
-        "name": '351路',
-        "bid": '10035100',
+        'name': '351路',
+        'bid': '10035100',
         'starting_station': '九龙镇政府总站',
         'terminal_station': '上佰坑总站',
         'stations': [
@@ -60424,8 +60424,8 @@ buses = {
         ]
     },
     '114路': {
-        "name": '114路',
-        "bid": '10011400',
+        'name': '114路',
+        'bid': '10011400',
         'starting_station': '南田路总站',
         'terminal_station': '罗冲围总站1④',
         'stations': [
@@ -60446,8 +60446,8 @@ buses = {
         ]
     },
     '321路': {
-        "name": '321路',
-        "bid": '10032101',
+        'name': '321路',
+        'bid': '10032101',
         'starting_station': '科学城(天泰二路)总站',
         'terminal_station': '南岗公交站场总站',
         'stations': [
@@ -60479,8 +60479,8 @@ buses = {
         ]
     },
     '810': {
-        "name": '810',
-        "bid": '10081001',
+        'name': '810',
+        'bid': '10081001',
         'starting_station': '白云高尔夫花园总站',
         'terminal_station': '广州火车东站总站',
         'stations': [
@@ -60515,8 +60515,8 @@ buses = {
         ]
     },
     '413路': {
-        "name": '413路',
-        "bid": '10041300',
+        'name': '413路',
+        'bid': '10041300',
         'starting_station': '中山八路总站①',
         'terminal_station': '陈家祠(中山七路)总站',
         'stations': [
@@ -60530,8 +60530,8 @@ buses = {
         ]
     },
     '55路': {
-        "name": '55路',
-        "bid": '10005501',
+        'name': '55路',
+        'bid': '10005501',
         'starting_station': '桥东小区总站',
         'terminal_station': '金沙洲总站',
         'stations': [
@@ -60559,8 +60559,8 @@ buses = {
         ]
     },
     '666路': {
-        "name": '666路',
-        "bid": '10066601',
+        'name': '666路',
+        'bid': '10066601',
         'starting_station': '黄边北路总站',
         'terminal_station': '黄边北路总站',
         'stations': [
@@ -60579,8 +60579,8 @@ buses = {
         ]
     },
     '792路': {
-        "name": '792路',
-        "bid": '10079201',
+        'name': '792路',
+        'bid': '10079201',
         'starting_station': '新庄总站',
         'terminal_station': '新庄总站',
         'stations': [
@@ -60604,8 +60604,8 @@ buses = {
         ]
     },
     '花70路': {
-        "name": '花70路',
-        "bid": '10507001',
+        'name': '花70路',
+        'bid': '10507001',
         'starting_station': '花都万科天景花园总站',
         'terminal_station': '人和商业中心总站',
         'stations': [
@@ -60640,8 +60640,8 @@ buses = {
         ]
     },
     '番30路': {
-        "name": '番30路',
-        "bid": '10703000',
+        'name': '番30路',
+        'bid': '10703000',
         'starting_station': '奥园广场总站',
         'terminal_station': '余荫山房总站',
         'stations': [
@@ -60691,8 +60691,8 @@ buses = {
         ]
     },
     '南沙20路': {
-        "name": '南沙20路',
-        "bid": '10602000',
+        'name': '南沙20路',
+        'bid': '10602000',
         'starting_station': '广州外国语学校总站',
         'terminal_station': '上湾小区总站',
         'stations': [
@@ -60713,8 +60713,8 @@ buses = {
         ]
     },
     '番9路': {
-        "name": '番9路',
-        "bid": '10700901',
+        'name': '番9路',
+        'bid': '10700901',
         'starting_station': '大夫山森林公园总站',
         'terminal_station': '雅居乐城南源著总站',
         'stations': [
@@ -60740,8 +60740,8 @@ buses = {
         ]
     },
     '196路': {
-        "name": '196路',
-        "bid": '10019601',
+        'name': '196路',
+        'bid': '10019601',
         'starting_station': '同德围(横滘村)总站',
         'terminal_station': '中山八路总站③',
         'stations': [
@@ -60764,8 +60764,8 @@ buses = {
         ]
     },
     '南沙14路': {
-        "name": '南沙14路',
-        "bid": '10601401',
+        'name': '南沙14路',
+        'bid': '10601401',
         'starting_station': '龙珠新村总站',
         'terminal_station': '前锋社区总站',
         'stations': [
@@ -60781,8 +60781,8 @@ buses = {
         ]
     },
     '273路': {
-        "name": '273路',
-        "bid": '10027301',
+        'name': '273路',
+        'bid': '10027301',
         'starting_station': '晓港湾总站①',
         'terminal_station': '柯子岭(河田路)总站',
         'stations': [
@@ -60813,8 +60813,8 @@ buses = {
         ]
     },
     '311路': {
-        "name": '311路',
-        "bid": '10031100',
+        'name': '311路',
+        'bid': '10031100',
         'starting_station': '锦绣半岛总站',
         'terminal_station': '天河公交场总站',
         'stations': [
@@ -60838,8 +60838,8 @@ buses = {
         ]
     },
     '189路': {
-        "name": '189路',
-        "bid": '10018901',
+        'name': '189路',
+        'bid': '10018901',
         'starting_station': '华保花园(军医学院)总站',
         'terminal_station': '机场路总站⑨',
         'stations': [
@@ -60871,8 +60871,8 @@ buses = {
         ]
     },
     '番27路': {
-        "name": '番27路',
-        "bid": '10702700',
+        'name': '番27路',
+        'bid': '10702700',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '旧水坑村总站',
         'stations': [
@@ -60911,8 +60911,8 @@ buses = {
         ]
     },
     '76A路': {
-        "name": '76A路',
-        "bid": '10007621',
+        'name': '76A路',
+        'bid': '10007621',
         'starting_station': '龙归永兴村总站',
         'terminal_station': '农讲所站',
         'stations': [
@@ -60946,8 +60946,8 @@ buses = {
         ]
     },
     'B12线': {
-        "name": 'B12线',
-        "bid": '10801201',
+        'name': 'B12线',
+        'bid': '10801201',
         'starting_station': '天源路(华南植物园)总站',
         'terminal_station': '车陂总站④',
         'stations': [
@@ -60985,8 +60985,8 @@ buses = {
         ]
     },
     '南沙38路': {
-        "name": '南沙38路',
-        "bid": '10603800',
+        'name': '南沙38路',
+        'bid': '10603800',
         'starting_station': '东涌湖总站',
         'terminal_station': '华汇广场总站',
         'stations': [
@@ -61021,8 +61021,8 @@ buses = {
         ]
     },
     '967路': {
-        "name": '967路',
-        "bid": '10096700',
+        'name': '967路',
+        'bid': '10096700',
         'starting_station': '革新路(光大花园)总站',
         'terminal_station': '海联路总站',
         'stations': [
@@ -61047,8 +61047,8 @@ buses = {
         ]
     },
     '番77路': {
-        "name": '番77路',
-        "bid": '10707701',
+        'name': '番77路',
+        'bid': '10707701',
         'starting_station': '新造地铁站总站',
         'terminal_station': '国际商品展贸城总站',
         'stations': [
@@ -61071,8 +61071,8 @@ buses = {
         ]
     },
     '244B路': {
-        "name": '244B路',
-        "bid": '10024430',
+        'name': '244B路',
+        'bid': '10024430',
         'starting_station': '江南大道南总站',
         'terminal_station': '安华装饰城总站',
         'stations': [
@@ -61104,8 +61104,8 @@ buses = {
         ]
     },
     '366路': {
-        "name": '366路',
-        "bid": '10036601',
+        'name': '366路',
+        'bid': '10036601',
         'starting_station': '鱼珠码头总站①',
         'terminal_station': '玉树新村总站',
         'stations': [
@@ -61138,8 +61138,8 @@ buses = {
         ]
     },
     '高峰快线26路': {
-        "name": '高峰快线26路',
-        "bid": '10002660',
+        'name': '高峰快线26路',
+        'bid': '10002660',
         'starting_station': '广州火车东站总站⑨a',
         'terminal_station': '同德围(阳光花园)总站',
         'stations': [
@@ -61168,8 +61168,8 @@ buses = {
         ]
     },
     '夜98': {
-        "name": '夜98',
-        "bid": '10009810',
+        'name': '夜98',
+        'bid': '10009810',
         'starting_station': '石井潭村总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -61199,8 +61199,8 @@ buses = {
         ]
     },
     '351路': {
-        "name": '351路',
-        "bid": '10035101',
+        'name': '351路',
+        'bid': '10035101',
         'starting_station': '上佰坑总站',
         'terminal_station': '九龙镇政府总站',
         'stations': [
@@ -61214,8 +61214,8 @@ buses = {
         ]
     },
     '番150路': {
-        "name": '番150路',
-        "bid": '10715001',
+        'name': '番150路',
+        'bid': '10715001',
         'starting_station': '鱼窝头车站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -61250,8 +61250,8 @@ buses = {
         ]
     },
     '南沙31路': {
-        "name": '南沙31路',
-        "bid": '10603100',
+        'name': '南沙31路',
+        'bid': '10603100',
         'starting_station': '蕉门地铁总站',
         'terminal_station': '蕉门地铁总站',
         'stations': [
@@ -61273,8 +61273,8 @@ buses = {
         ]
     },
     '大学城3线': {
-        "name": '大学城3线',
-        "bid": '10000321',
+        'name': '大学城3线',
+        'bid': '10000321',
         'starting_station': '大学城(中部枢纽)总站①',
         'terminal_station': '广东药学院总站',
         'stations': [
@@ -61319,8 +61319,8 @@ buses = {
         ]
     },
     '南沙38路': {
-        "name": '南沙38路',
-        "bid": '10603801',
+        'name': '南沙38路',
+        'bid': '10603801',
         'starting_station': '华汇广场总站',
         'terminal_station': '东涌湖总站',
         'stations': [
@@ -61355,8 +61355,8 @@ buses = {
         ]
     },
     '797路': {
-        "name": '797路',
-        "bid": '10079700',
+        'name': '797路',
+        'bid': '10079700',
         'starting_station': '国际划船中心总站',
         'terminal_station': '龙归地铁站总站',
         'stations': [
@@ -61385,8 +61385,8 @@ buses = {
         ]
     },
     '749线': {
-        "name": '749线',
-        "bid": '10074900',
+        'name': '749线',
+        'bid': '10074900',
         'starting_station': '潭村(石槎路口)总站',
         'terminal_station': '槎潭路总站',
         'stations': [
@@ -61400,8 +61400,8 @@ buses = {
         ]
     },
     '429路': {
-        "name": '429路',
-        "bid": '10042900',
+        'name': '429路',
+        'bid': '10042900',
         'starting_station': '西村地铁站总站',
         'terminal_station': '白沙(中海金沙湾)总站',
         'stations': [
@@ -61423,8 +61423,8 @@ buses = {
         ]
     },
     '南沙4路': {
-        "name": '南沙4路',
-        "bid": '10600401',
+        'name': '南沙4路',
+        'bid': '10600401',
         'starting_station': '天后宫东门总站',
         'terminal_station': '蕉门地铁总站',
         'stations': [
@@ -61455,8 +61455,8 @@ buses = {
         ]
     },
     '番19路': {
-        "name": '番19路',
-        "bid": '10701900',
+        'name': '番19路',
+        'bid': '10701900',
         'starting_station': '雅居乐城南源著总站',
         'terminal_station': '番禺汽车客运站',
         'stations': [
@@ -61495,8 +61495,8 @@ buses = {
         ]
     },
     '广260路': {
-        "name": '广260路',
-        "bid": '10026001',
+        'name': '广260路',
+        'bid': '10026001',
         'starting_station': '穗盐路(雍景豪园)总站',
         'terminal_station': '站南路总站',
         'stations': [
@@ -61527,8 +61527,8 @@ buses = {
         ]
     },
     '58A路': {
-        "name": '58A路',
-        "bid": '10005821',
+        'name': '58A路',
+        'bid': '10005821',
         'starting_station': '解放北路(应元路口)总站',
         'terminal_station': '唐阁村总站',
         'stations': [
@@ -61565,8 +61565,8 @@ buses = {
         ]
     },
     '538路': {
-        "name": '538路',
-        "bid": '10053801',
+        'name': '538路',
+        'bid': '10053801',
         'starting_station': '汇侨新城总站①',
         'terminal_station': '南方大厦(文化公园)总站',
         'stations': [
@@ -61596,8 +61596,8 @@ buses = {
         ]
     },
     '45路': {
-        "name": '45路',
-        "bid": '10004500',
+        'name': '45路',
+        'bid': '10004500',
         'starting_station': '小洲总站',
         'terminal_station': '广州火车东站总站⑤a',
         'stations': [
@@ -61625,8 +61625,8 @@ buses = {
         ]
     },
     '739线': {
-        "name": '739线',
-        "bid": '10073901',
+        'name': '739线',
+        'bid': '10073901',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '清湖村(苏元庄)总站',
         'stations': [
@@ -61649,8 +61649,8 @@ buses = {
         ]
     },
     '798路': {
-        "name": '798路',
-        "bid": '10079801',
+        'name': '798路',
+        'bid': '10079801',
         'starting_station': '黄边北路总站',
         'terminal_station': '黄边北路总站',
         'stations': [
@@ -61681,8 +61681,8 @@ buses = {
         ]
     },
     '夜3路': {
-        "name": '夜3路',
-        "bid": '10000311',
+        'name': '夜3路',
+        'bid': '10000311',
         'starting_station': '石溪总站',
         'terminal_station': '凰岗总站①',
         'stations': [
@@ -61714,8 +61714,8 @@ buses = {
         ]
     },
     '481路': {
-        "name": '481路',
-        "bid": '10048101',
+        'name': '481路',
+        'bid': '10048101',
         'starting_station': '广州大学(桂花岗校区)总站',
         'terminal_station': '广园客运站',
         'stations': [
@@ -61727,8 +61727,8 @@ buses = {
         ]
     },
     '南沙53路': {
-        "name": '南沙53路',
-        "bid": '10605300',
+        'name': '南沙53路',
+        'bid': '10605300',
         'starting_station': '虎门渡口总站',
         'terminal_station': '南沙儿童公园总站',
         'stations': [
@@ -61759,8 +61759,8 @@ buses = {
         ]
     },
     '745线': {
-        "name": '745线',
-        "bid": '10074500',
+        'name': '745线',
+        'bid': '10074500',
         'starting_station': '彩滨北路(恒大御景半岛)总站',
         'terminal_station': '彩滨北路(恒大御景半岛)总站',
         'stations': [
@@ -61779,8 +61779,8 @@ buses = {
         ]
     },
     '359路': {
-        "name": '359路',
-        "bid": '10035900',
+        'name': '359路',
+        'bid': '10035900',
         'starting_station': '天泰二路',
         'terminal_station': '天泰二路总站',
         'stations': [
@@ -61813,8 +61813,8 @@ buses = {
         ]
     },
     '309A路': {
-        "name": '309A路',
-        "bid": '10030921',
+        'name': '309A路',
+        'bid': '10030921',
         'starting_station': '滘口客运站总站⑨',
         'terminal_station': '广州南站总站',
         'stations': [
@@ -61847,8 +61847,8 @@ buses = {
         ]
     },
     '252路': {
-        "name": '252路',
-        "bid": '10025201',
+        'name': '252路',
+        'bid': '10025201',
         'starting_station': '外环西路(北亭广场)总站',
         'terminal_station': '天河客运站总站①',
         'stations': [
@@ -61888,8 +61888,8 @@ buses = {
         ]
     },
     '244B路': {
-        "name": '244B路',
-        "bid": '10024431',
+        'name': '244B路',
+        'bid': '10024431',
         'starting_station': '安华装饰城总站',
         'terminal_station': '江南大道南总站',
         'stations': [
@@ -61924,8 +61924,8 @@ buses = {
         ]
     },
     '978路': {
-        "name": '978路',
-        "bid": '10097801',
+        'name': '978路',
+        'bid': '10097801',
         'starting_station': '嘉禾地铁站总站',
         'terminal_station': '平沙(农贸市场)总站',
         'stations': [
@@ -61952,8 +61952,8 @@ buses = {
         ]
     },
     '208路': {
-        "name": '208路',
-        "bid": '10020800',
+        'name': '208路',
+        'bid': '10020800',
         'starting_station': '中山八路总站①',
         'terminal_station': '大塘西总站',
         'stations': [
@@ -61981,8 +61981,8 @@ buses = {
         ]
     },
     '夜89路': {
-        "name": '夜89路',
-        "bid": '10008911',
+        'name': '夜89路',
+        'bid': '10008911',
         'starting_station': '宝岗大道总站①',
         'terminal_station': '华景新城总站③',
         'stations': [
@@ -62014,8 +62014,8 @@ buses = {
         ]
     },
     '344路': {
-        "name": '344路',
-        "bid": '10034401',
+        'name': '344路',
+        'bid': '10034401',
         'starting_station': '丰乐南路总站',
         'terminal_station': '科学城南部公交场总站',
         'stations': [
@@ -62044,8 +62044,8 @@ buses = {
         ]
     },
     '南沙12路': {
-        "name": '南沙12路',
-        "bid": '10601201',
+        'name': '南沙12路',
+        'bid': '10601201',
         'starting_station': '新兴村总站',
         'terminal_station': '华汇广场站',
         'stations': [
@@ -62079,8 +62079,8 @@ buses = {
         ]
     },
     '南沙27路': {
-        "name": '南沙27路',
-        "bid": '10602700',
+        'name': '南沙27路',
+        'bid': '10602700',
         'starting_station': '蕉门地铁总站',
         'terminal_station': '物流基地二期总站',
         'stations': [
@@ -62104,8 +62104,8 @@ buses = {
         ]
     },
     'B21路': {
-        "name": 'B21路',
-        "bid": '10802101',
+        'name': 'B21路',
+        'bid': '10802101',
         'starting_station': '棠下小区总站①',
         'terminal_station': '革新路总站',
         'stations': [
@@ -62140,8 +62140,8 @@ buses = {
         ]
     },
     '823路': {
-        "name": '823路',
-        "bid": '10082300',
+        'name': '823路',
+        'bid': '10082300',
         'starting_station': '逸景翠园总站',
         'terminal_station': '流花车站总站①',
         'stations': [
@@ -62172,8 +62172,8 @@ buses = {
         ]
     },
     '30路': {
-        "name": '30路',
-        "bid": '10003001',
+        'name': '30路',
+        'bid': '10003001',
         'starting_station': '广州火车站总站r',
         'terminal_station': '龙洞(广东金融学院)总站',
         'stations': [
@@ -62212,8 +62212,8 @@ buses = {
         ]
     },
     '452路': {
-        "name": '452路',
-        "bid": '10045201',
+        'name': '452路',
+        'bid': '10045201',
         'starting_station': '联和(惠联路)总站',
         'terminal_station': '科学城彩频路总站',
         'stations': [
@@ -62233,8 +62233,8 @@ buses = {
         ]
     },
     '番148短线': {
-        "name": '番148短线',
-        "bid": '10714841',
+        'name': '番148短线',
+        'bid': '10714841',
         'starting_station': '地铁海傍站总站',
         'terminal_station': '亚运城山海湾总站',
         'stations': [
@@ -62248,8 +62248,8 @@ buses = {
         ]
     },
     '107路': {
-        "name": '107路',
-        "bid": '10010700',
+        'name': '107路',
+        'bid': '10010700',
         'starting_station': '花城广场西总站',
         'terminal_station': '中山八路总站⑦',
         'stations': [
@@ -62277,8 +62277,8 @@ buses = {
         ]
     },
     '旅游3线': {
-        "name": '旅游3线',
-        "bid": '10000331',
+        'name': '旅游3线',
+        'bid': '10000331',
         'starting_station': '琶洲石基村(黄埔古港)总站',
         'terminal_station': '中成路总站',
         'stations': [
@@ -62317,8 +62317,8 @@ buses = {
         ]
     },
     '夜7': {
-        "name": '夜7',
-        "bid": '10000711',
+        'name': '夜7',
+        'bid': '10000711',
         'starting_station': '海珠客运站总站',
         'terminal_station': '广州火车站总站k',
         'stations': [
@@ -62352,8 +62352,8 @@ buses = {
         ]
     },
     '421路': {
-        "name": '421路',
-        "bid": '10042100',
+        'name': '421路',
+        'bid': '10042100',
         'starting_station': '白云文化广场总站',
         'terminal_station': '南航新村总站',
         'stations': [
@@ -62379,8 +62379,8 @@ buses = {
         ]
     },
     '243路': {
-        "name": '243路',
-        "bid": '10024301',
+        'name': '243路',
+        'bid': '10024301',
         'starting_station': '革新路(光大花园)总站',
         'terminal_station': '员村(美林花园)总站',
         'stations': [
@@ -62419,8 +62419,8 @@ buses = {
         ]
     },
     '765路': {
-        "name": '765路',
-        "bid": '10076500',
+        'name': '765路',
+        'bid': '10076500',
         'starting_station': '南天商业城总站',
         'terminal_station': '阅江路(珠江啤酒厂)总站',
         'stations': [
@@ -62442,8 +62442,8 @@ buses = {
         ]
     },
     '番21路': {
-        "name": '番21路',
-        "bid": '10702100',
+        'name': '番21路',
+        'bid': '10702100',
         'starting_station': '番禺中心医院总站',
         'terminal_station': '蔡三村总站',
         'stations': [
@@ -62468,8 +62468,8 @@ buses = {
         ]
     },
     '194路': {
-        "name": '194路',
-        "bid": '10019400',
+        'name': '194路',
+        'bid': '10019400',
         'starting_station': '华景新城总站②',
         'terminal_station': '广医一院(靖海路)总站',
         'stations': [
@@ -62503,8 +62503,8 @@ buses = {
         ]
     },
     '233路': {
-        "name": '233路',
-        "bid": '10023301',
+        'name': '233路',
+        'bid': '10023301',
         'starting_station': '广州火车东站总站④b',
         'terminal_station': '滘口客运站总站⑨',
         'stations': [
@@ -62532,8 +62532,8 @@ buses = {
         ]
     },
     '970路': {
-        "name": '970路',
-        "bid": '10097000',
+        'name': '970路',
+        'bid': '10097000',
         'starting_station': '大朗夏边总站',
         'terminal_station': '嘉禾地铁站总站',
         'stations': [
@@ -62558,8 +62558,8 @@ buses = {
         ]
     },
     '843路': {
-        "name": '843路',
-        "bid": '10084300',
+        'name': '843路',
+        'bid': '10084300',
         'starting_station': '江高(广东技术师范学院)总站',
         'terminal_station': '人和安置区总站',
         'stations': [
@@ -62606,8 +62606,8 @@ buses = {
         ]
     },
     '795路': {
-        "name": '795路',
-        "bid": '10079500',
+        'name': '795路',
+        'bid': '10079500',
         'starting_station': '地铁飞翔公园站总站',
         'terminal_station': '地铁飞翔公园站总站',
         'stations': [
@@ -62636,8 +62636,8 @@ buses = {
         ]
     },
     '商务专线4': {
-        "name": '商务专线4',
-        "bid": '10040430',
+        'name': '商务专线4',
+        'bid': '10040430',
         'starting_station': '中山八路总站',
         'terminal_station': '平洲玉器街总站',
         'stations': [
@@ -62658,8 +62658,8 @@ buses = {
         ]
     },
     '高峰快线30': {
-        "name": '高峰快线30',
-        "bid": '10003061',
+        'name': '高峰快线30',
+        'bid': '10003061',
         'starting_station': '万科四季花城总站',
         'terminal_station': '体育中心站1②',
         'stations': [
@@ -62683,8 +62683,8 @@ buses = {
         ]
     },
     '744环线': {
-        "name": '744环线',
-        "bid": '10074400',
+        'name': '744环线',
+        'bid': '10074400',
         'starting_station': '地铁永泰站总站',
         'terminal_station': '地铁永泰站总站',
         'stations': [
@@ -62703,8 +62703,8 @@ buses = {
         ]
     },
     '地铁接驳5线': {
-        "name": '地铁接驳5线',
-        "bid": '10000540',
+        'name': '地铁接驳5线',
+        'bid': '10000540',
         'starting_station': '地铁南浦总站',
         'terminal_station': '地铁厦滘站总站',
         'stations': [
@@ -62721,8 +62721,8 @@ buses = {
         ]
     },
     '番13路': {
-        "name": '番13路',
-        "bid": '10701301',
+        'name': '番13路',
+        'bid': '10701301',
         'starting_station': '洛溪南浦总站',
         'terminal_station': '好又多总站',
         'stations': [
@@ -62775,8 +62775,8 @@ buses = {
         ]
     },
     '481路': {
-        "name": '481路',
-        "bid": '10048100',
+        'name': '481路',
+        'bid': '10048100',
         'starting_station': '广园客运站',
         'terminal_station': '广州大学(桂花岗校区)总站',
         'stations': [
@@ -62789,8 +62789,8 @@ buses = {
         ]
     },
     '518路': {
-        "name": '518路',
-        "bid": '10051801',
+        'name': '518路',
+        'bid': '10051801',
         'starting_station': '棠下小区总站①',
         'terminal_station': '站前路(西郊大厦)总站',
         'stations': [
@@ -62824,8 +62824,8 @@ buses = {
         ]
     },
     '573快线': {
-        "name": '573快线',
-        "bid": '10057361',
+        'name': '573快线',
+        'bid': '10057361',
         'starting_station': '开创大道(万科城)总站',
         'terminal_station': '西区公交总站',
         'stations': [
@@ -62864,8 +62864,8 @@ buses = {
         ]
     },
     '番22B线': {
-        "name": '番22B线',
-        "bid": '10702230',
+        'name': '番22B线',
+        'bid': '10702230',
         'starting_station': '北海村总站',
         'terminal_station': '旧水坑村总站',
         'stations': [
@@ -62896,8 +62896,8 @@ buses = {
         ]
     },
     'B7路': {
-        "name": 'B7路',
-        "bid": '10800701',
+        'name': 'B7路',
+        'bid': '10800701',
         'starting_station': '海珠客运站总站',
         'terminal_station': '东圃客运站总站',
         'stations': [
@@ -62931,8 +62931,8 @@ buses = {
         ]
     },
     '番59路': {
-        "name": '番59路',
-        "bid": '10705901',
+        'name': '番59路',
+        'bid': '10705901',
         'starting_station': '南村汽车站总站',
         'terminal_station': '化龙车站总站',
         'stations': [
@@ -62963,8 +62963,8 @@ buses = {
         ]
     },
     '884路': {
-        "name": '884路',
-        "bid": '10088401',
+        'name': '884路',
+        'bid': '10088401',
         'starting_station': '广州火车东站总站⑦d',
         'terminal_station': '沙太路(市经贸学校)总站',
         'stations': [
@@ -62991,8 +62991,8 @@ buses = {
         ]
     },
     '南沙13路': {
-        "name": '南沙13路',
-        "bid": '10601301',
+        'name': '南沙13路',
+        'bid': '10601301',
         'starting_station': '水牛头渡口总站',
         'terminal_station': '虎门渡口总站',
         'stations': [
@@ -63018,8 +63018,8 @@ buses = {
         ]
     },
     '827A路': {
-        "name": '827A路',
-        "bid": '10082721',
+        'name': '827A路',
+        'bid': '10082721',
         'starting_station': '太和(沙亭岗村)总站',
         'terminal_station': '九佛总站',
         'stations': [
@@ -63044,8 +63044,8 @@ buses = {
         ]
     },
     '花62路': {
-        "name": '花62路',
-        "bid": '10506200',
+        'name': '花62路',
+        'bid': '10506200',
         'starting_station': '花都客运站总站',
         'terminal_station': '狮岭汽车总站',
         'stations': [
@@ -63080,8 +63080,8 @@ buses = {
         ]
     },
     '517路': {
-        "name": '517路',
-        "bid": '10051701',
+        'name': '517路',
+        'bid': '10051701',
         'starting_station': '黄埔客运站总站',
         'terminal_station': '广仁路总站',
         'stations': [
@@ -63122,8 +63122,8 @@ buses = {
         ]
     },
     '105路': {
-        "name": '105路',
-        "bid": '10010500',
+        'name': '105路',
+        'bid': '10010500',
         'starting_station': '文化公园总站①',
         'terminal_station': '棠安路总站',
         'stations': [
@@ -63153,8 +63153,8 @@ buses = {
         ]
     },
     '夜80路': {
-        "name": '夜80路',
-        "bid": '10008010',
+        'name': '夜80路',
+        'bid': '10008010',
         'starting_station': '西村地铁站总站',
         'terminal_station': '石马公交场总站',
         'stations': [
@@ -63189,8 +63189,8 @@ buses = {
         ]
     },
     '商务专线1': {
-        "name": '商务专线1',
-        "bid": '10170000',
+        'name': '商务专线1',
+        'bid': '10170000',
         'starting_station': '十三行(兴隆北路)总站',
         'terminal_station': '十三行(兴隆北路)总站',
         'stations': [
@@ -63203,8 +63203,8 @@ buses = {
         ]
     },
     '564路': {
-        "name": '564路',
-        "bid": '10056400',
+        'name': '564路',
+        'bid': '10056400',
         'starting_station': '黄埔村总站',
         'terminal_station': '天河客运站总站④',
         'stations': [
@@ -63254,8 +63254,8 @@ buses = {
         ]
     },
     '402路': {
-        "name": '402路',
-        "bid": '10040201',
+        'name': '402路',
+        'bid': '10040201',
         'starting_station': '地铁三溪站总站',
         'terminal_station': '东圃大马路站',
         'stations': [
@@ -63271,8 +63271,8 @@ buses = {
         ]
     },
     '579路': {
-        "name": '579路',
-        "bid": '10057900',
+        'name': '579路',
+        'bid': '10057900',
         'starting_station': '刘村总站',
         'terminal_station': '康南路北总站',
         'stations': [
@@ -63296,8 +63296,8 @@ buses = {
         ]
     },
     '花85路': {
-        "name": '花85路',
-        "bid": '10508500',
+        'name': '花85路',
+        'bid': '10508500',
         'starting_station': '广州北站总站',
         'terminal_station': '北兴天湖峰境总站',
         'stations': [
@@ -63349,8 +63349,8 @@ buses = {
         ]
     },
     '夜91路': {
-        "name": '夜91路',
-        "bid": '10009111',
+        'name': '夜91路',
+        'bid': '10009111',
         'starting_station': '西华村(西华寺)总站',
         'terminal_station': '金沙洲码头总站',
         'stations': [
@@ -63374,8 +63374,8 @@ buses = {
         ]
     },
     '449延长线': {
-        "name": '449延长线',
-        "bid": '10044920',
+        'name': '449延长线',
+        'bid': '10044920',
         'starting_station': '岭头总站',
         'terminal_station': '天麓湖郊野公园总站',
         'stations': [
@@ -63402,8 +63402,8 @@ buses = {
         ]
     },
     '78路': {
-        "name": '78路',
-        "bid": '10007801',
+        'name': '78路',
+        'bid': '10007801',
         'starting_station': '东山广场总站',
         'terminal_station': '岑村教练场总站',
         'stations': [
@@ -63435,8 +63435,8 @@ buses = {
         ]
     },
     '210路': {
-        "name": '210路',
-        "bid": '10021001',
+        'name': '210路',
+        'bid': '10021001',
         'starting_station': '南岗(国际玩具礼品城)总站',
         'terminal_station': '广州火车站总站',
         'stations': [
@@ -63470,8 +63470,8 @@ buses = {
         ]
     },
     '804路': {
-        "name": '804路',
-        "bid": '10080401',
+        'name': '804路',
+        'bid': '10080401',
         'starting_station': '嘉禾(长红双和工业区)总站',
         'terminal_station': '广州火车东站总站①b',
         'stations': [
@@ -63516,8 +63516,8 @@ buses = {
         ]
     },
     '510路': {
-        "name": '510路',
-        "bid": '10051000',
+        'name': '510路',
+        'bid': '10051000',
         'starting_station': '机场路总站(10)',
         'terminal_station': '人和总站',
         'stations': [
@@ -63554,8 +63554,8 @@ buses = {
         ]
     },
     '367路': {
-        "name": '367路',
-        "bid": '10036700',
+        'name': '367路',
+        'bid': '10036700',
         'starting_station': '火村东总站',
         'terminal_station': '永和大道(中海誉城)总站',
         'stations': [
@@ -63586,8 +63586,8 @@ buses = {
         ]
     },
     '番110路': {
-        "name": '番110路',
-        "bid": '10711001',
+        'name': '番110路',
+        'bid': '10711001',
         'starting_station': '广州南站总站',
         'terminal_station': '番禺市桥汽车站总站',
         'stations': [
@@ -63596,8 +63596,8 @@ buses = {
         ]
     },
     '夜11路': {
-        "name": '夜11路',
-        "bid": '10001110',
+        'name': '夜11路',
+        'bid': '10001110',
         'starting_station': '芳村西塱总站④',
         'terminal_station': '广州火车站总站l',
         'stations': [
@@ -63630,8 +63630,8 @@ buses = {
         ]
     },
     '327路': {
-        "name": '327路',
-        "bid": '10032701',
+        'name': '327路',
+        'bid': '10032701',
         'starting_station': '萝岗总站',
         'terminal_station': '岭头总站',
         'stations': [
@@ -63666,8 +63666,8 @@ buses = {
         ]
     },
     '番85路': {
-        "name": '番85路',
-        "bid": '10708501',
+        'name': '番85路',
+        'bid': '10708501',
         'starting_station': '广州医科大学',
         'terminal_station': '新造地铁站总站',
         'stations': [
@@ -63679,8 +63679,8 @@ buses = {
         ]
     },
     '番111路': {
-        "name": '番111路',
-        "bid": '10711101',
+        'name': '番111路',
+        'bid': '10711101',
         'starting_station': '广医四院南门站',
         'terminal_station': '番禺汽车客运站总站',
         'stations': [
@@ -63714,8 +63714,8 @@ buses = {
         ]
     },
     '64路': {
-        "name": '64路',
-        "bid": '10006401',
+        'name': '64路',
+        'bid': '10006401',
         'starting_station': '东沙工业园总站',
         'terminal_station': '广卫路总站',
         'stations': [
@@ -63743,8 +63743,8 @@ buses = {
         ]
     },
     '夜49': {
-        "name": '夜49',
-        "bid": '10004910',
+        'name': '夜49',
+        'bid': '10004910',
         'starting_station': '西区公交总站',
         'terminal_station': '永和开发区总站',
         'stations': [
@@ -63788,8 +63788,8 @@ buses = {
         ]
     },
     '403路': {
-        "name": '403路',
-        "bid": '10040300',
+        'name': '403路',
+        'bid': '10040300',
         'starting_station': '大淋岗总站',
         'terminal_station': '奥林匹克体育中心总站',
         'stations': [
@@ -63806,8 +63806,8 @@ buses = {
         ]
     },
     '504路': {
-        "name": '504路',
-        "bid": '10050400',
+        'name': '504路',
+        'bid': '10050400',
         'starting_station': '员村一横路总站①',
         'terminal_station': '太和(沙亭岗村)总站',
         'stations': [
@@ -63860,8 +63860,8 @@ buses = {
         ]
     },
     '186路': {
-        "name": '186路',
-        "bid": '10018601',
+        'name': '186路',
+        'bid': '10018601',
         'starting_station': '珠江医院总站①',
         'terminal_station': '广园新村总站③',
         'stations': [
@@ -63894,8 +63894,8 @@ buses = {
         ]
     },
     '773路': {
-        "name": '773路',
-        "bid": '10077301',
+        'name': '773路',
+        'bid': '10077301',
         'starting_station': '地铁车陂南站总站',
         'terminal_station': '岑村南街总站',
         'stations': [
@@ -63923,8 +63923,8 @@ buses = {
         ]
     },
     '777路': {
-        "name": '777路',
-        "bid": '10077700',
+        'name': '777路',
+        'bid': '10077700',
         'starting_station': '天河城总站',
         'terminal_station': '珠江新城总站①',
         'stations': [
@@ -63944,8 +63944,8 @@ buses = {
         ]
     },
     '276路': {
-        "name": '276路',
-        "bid": '10027601',
+        'name': '276路',
+        'bid': '10027601',
         'starting_station': '万科四季花城总站',
         'terminal_station': '南洲北路(好信广场)总站',
         'stations': [
@@ -63981,8 +63981,8 @@ buses = {
         ]
     },
     '183路': {
-        "name": '183路',
-        "bid": '10018300',
+        'name': '183路',
+        'bid': '10018300',
         'starting_station': '广州火车东站总站⑨b',
         'terminal_station': '大基头(木偶艺术剧院)总站',
         'stations': [
@@ -64012,8 +64012,8 @@ buses = {
         ]
     },
     '440路': {
-        "name": '440路',
-        "bid": '10044000',
+        'name': '440路',
+        'bid': '10044000',
         'starting_station': '西基总站',
         'terminal_station': '金碧路总站',
         'stations': [
@@ -64040,8 +64040,8 @@ buses = {
         ]
     },
     '25路': {
-        "name": '25路',
-        "bid": '10002501',
+        'name': '25路',
+        'bid': '10002501',
         'starting_station': '大坦沙(市1中)总站',
         'terminal_station': '昌岗路总站',
         'stations': [
@@ -64067,8 +64067,8 @@ buses = {
         ]
     },
     '652线': {
-        "name": '652线',
-        "bid": '10065201',
+        'name': '652线',
+        'bid': '10065201',
         'starting_station': '江高(广东技术师范学院)总站',
         'terminal_station': '南岭村总站',
         'stations': [
@@ -64103,8 +64103,8 @@ buses = {
         ]
     },
     '番77路': {
-        "name": '番77路',
-        "bid": '10707700',
+        'name': '番77路',
+        'bid': '10707700',
         'starting_station': '国际商品展贸城总站',
         'terminal_station': '新造地铁站总站',
         'stations': [
@@ -64127,8 +64127,8 @@ buses = {
         ]
     },
     '夜68路': {
-        "name": '夜68路',
-        "bid": '10006811',
+        'name': '夜68路',
+        'bid': '10006811',
         'starting_station': '广汕路(万龙路)总站',
         'terminal_station': '天河公交场总站',
         'stations': [
@@ -64162,8 +64162,8 @@ buses = {
         ]
     },
     'S06B路': {
-        "name": 'S06B路',
-        "bid": '20900620',
+        'name': 'S06B路',
+        'bid': '20900620',
         'starting_station': '芳村码头(总站)',
         'terminal_station': '永兴街码头(总站)',
         'stations': [
@@ -64172,8 +64172,8 @@ buses = {
         ]
     },
     '140路': {
-        "name": '140路',
-        "bid": '10014000',
+        'name': '140路',
+        'bid': '10014000',
         'starting_station': '员村总站',
         'terminal_station': '元岗路(南兴花园)总站',
         'stations': [
@@ -64201,8 +64201,8 @@ buses = {
         ]
     },
     '191路': {
-        "name": '191路',
-        "bid": '10019100',
+        'name': '191路',
+        'bid': '10019100',
         'starting_station': '华景新城总站③',
         'terminal_station': '福场路总站',
         'stations': [
@@ -64232,8 +64232,8 @@ buses = {
         ]
     },
     '番109路': {
-        "name": '番109路',
-        "bid": '10710900',
+        'name': '番109路',
+        'bid': '10710900',
         'starting_station': '地铁汉溪长隆站总站①',
         'terminal_station': '屏一村总站',
         'stations': [
@@ -64256,8 +64256,8 @@ buses = {
         ]
     },
     '夜31路': {
-        "name": '夜31路',
-        "bid": '10003110',
+        'name': '夜31路',
+        'bid': '10003110',
         'starting_station': '珠岛花园总站',
         'terminal_station': '海印桥总站②',
         'stations': [
@@ -64286,8 +64286,8 @@ buses = {
         ]
     },
     '番30路': {
-        "name": '番30路',
-        "bid": '10703001',
+        'name': '番30路',
+        'bid': '10703001',
         'starting_station': '余荫山房总站',
         'terminal_station': '奥园广场总站',
         'stations': [
@@ -64334,8 +64334,8 @@ buses = {
         ]
     },
     '南沙11路': {
-        "name": '南沙11路',
-        "bid": '10601101',
+        'name': '南沙11路',
+        'bid': '10601101',
         'starting_station': '十九涌水产市场总站',
         'terminal_station': '永乐农庄总站',
         'stations': [
@@ -64348,8 +64348,8 @@ buses = {
         ]
     },
     '736路': {
-        "name": '736路',
-        "bid": '10073600',
+        'name': '736路',
+        'bid': '10073600',
         'starting_station': '石湖总站',
         'terminal_station': '龙归地铁站总站',
         'stations': [
@@ -64369,8 +64369,8 @@ buses = {
         ]
     },
     '498路': {
-        "name": '498路',
-        "bid": '10049800',
+        'name': '498路',
+        'bid': '10049800',
         'starting_station': '地铁梅花园站总站',
         'terminal_station': '汇景北路总站',
         'stations': [
@@ -64392,8 +64392,8 @@ buses = {
         ]
     },
     '665路': {
-        "name": '665路',
-        "bid": '10066501',
+        'name': '665路',
+        'bid': '10066501',
         'starting_station': '黄园路(黄石花园)总站',
         'terminal_station': '黄园路(黄石花园)总站',
         'stations': [
@@ -64411,8 +64411,8 @@ buses = {
         ]
     },
     '780路': {
-        "name": '780路',
-        "bid": '10078000',
+        'name': '780路',
+        'bid': '10078000',
         'starting_station': '西塱社区总站',
         'terminal_station': '南洲北路总站',
         'stations': [
@@ -64437,8 +64437,8 @@ buses = {
         ]
     },
     '789路': {
-        "name": '789路',
-        "bid": '10078901',
+        'name': '789路',
+        'bid': '10078901',
         'starting_station': '地铁沙贝总站',
         'terminal_station': '地铁沙贝总站',
         'stations': [
@@ -64465,8 +64465,8 @@ buses = {
         ]
     },
     '番3路': {
-        "name": '番3路',
-        "bid": '10700301',
+        'name': '番3路',
+        'bid': '10700301',
         'starting_station': '石基总站',
         'terminal_station': '华侨城总站',
         'stations': [
@@ -64499,8 +64499,8 @@ buses = {
         ]
     },
     '快线28': {
-        "name": '快线28',
-        "bid": '10002861',
+        'name': '快线28',
+        'bid': '10002861',
         'starting_station': '保税区(酒博城)总站',
         'terminal_station': '广州火车东站总站③c',
         'stations': [
@@ -64532,8 +64532,8 @@ buses = {
         ]
     },
     '花85路': {
-        "name": '花85路',
-        "bid": '10508501',
+        'name': '花85路',
+        'bid': '10508501',
         'starting_station': '北兴天湖峰境总站',
         'terminal_station': '广州北站总站',
         'stations': [
@@ -64585,8 +64585,8 @@ buses = {
         ]
     },
     '72路': {
-        "name": '72路',
-        "bid": '10007200',
+        'name': '72路',
+        'bid': '10007200',
         'starting_station': '动物园总站1①b',
         'terminal_station': '天健广场总站',
         'stations': [
@@ -64608,8 +64608,8 @@ buses = {
         ]
     },
     '320线': {
-        "name": '320线',
-        "bid": '10032001',
+        'name': '320线',
+        'bid': '10032001',
         'starting_station': '石化生活区南总站',
         'terminal_station': '天河智慧城核心区总站(高唐)',
         'stations': [
@@ -64649,8 +64649,8 @@ buses = {
         ]
     },
     '358路': {
-        "name": '358路',
-        "bid": '10035801',
+        'name': '358路',
+        'bid': '10035801',
         'starting_station': '萝岗中心区总站',
         'terminal_station': '埔南路(翡翠绿洲)总站',
         'stations': [
@@ -64680,8 +64680,8 @@ buses = {
         ]
     },
     '番70路': {
-        "name": '番70路',
-        "bid": '10707001',
+        'name': '番70路',
+        'bid': '10707001',
         'starting_station': '万博中心总站',
         'terminal_station': '南村汽车站总站',
         'stations': [
@@ -64701,8 +64701,8 @@ buses = {
         ]
     },
     '番2B路': {
-        "name": '番2B路',
-        "bid": '10700230',
+        'name': '番2B路',
+        'bid': '10700230',
         'starting_station': '北城公交总站',
         'terminal_station': '樟边村总站',
         'stations': [
@@ -64722,8 +64722,8 @@ buses = {
         ]
     },
     '425路': {
-        "name": '425路',
-        "bid": '10042500',
+        'name': '425路',
+        'bid': '10042500',
         'starting_station': '黄边北路总站',
         'terminal_station': '石井(铁路学校)总站',
         'stations': [
@@ -64757,8 +64757,8 @@ buses = {
         ]
     },
     '396路': {
-        "name": '396路',
-        "bid": '10039600',
+        'name': '396路',
+        'bid': '10039600',
         'starting_station': '岭头总站',
         'terminal_station': '科学城彩频路总站',
         'stations': [
@@ -64788,8 +64788,8 @@ buses = {
         ]
     },
     '257路': {
-        "name": '257路',
-        "bid": '10025700',
+        'name': '257路',
+        'bid': '10025700',
         'starting_station': '广州火车站总站p',
         'terminal_station': '天河客运站总站②',
         'stations': [
@@ -64810,8 +64810,8 @@ buses = {
         ]
     },
     '夜47路': {
-        "name": '夜47路',
-        "bid": '10004711',
+        'name': '夜47路',
+        'bid': '10004711',
         'starting_station': '同和总站',
         'terminal_station': '沐陂路(彩釉砖厂)总站',
         'stations': [
@@ -64843,8 +64843,8 @@ buses = {
         ]
     },
     '90路': {
-        "name": '90路',
-        "bid": '10009000',
+        'name': '90路',
+        'bid': '10009000',
         'starting_station': '五羊新城总站',
         'terminal_station': '星河湾半岛',
         'stations': [
@@ -64868,8 +64868,8 @@ buses = {
         ]
     },
     '264A路': {
-        "name": '264A路',
-        "bid": '10026420',
+        'name': '264A路',
+        'bid': '10026420',
         'starting_station': '仑头总站',
         'terminal_station': '珠影总站',
         'stations': [
@@ -64890,8 +64890,8 @@ buses = {
         ]
     },
     '390路': {
-        "name": '390路',
-        "bid": '10039001',
+        'name': '390路',
+        'bid': '10039001',
         'starting_station': '科学城南部公交场总站',
         'terminal_station': '华坑生态村总站',
         'stations': [
@@ -64925,8 +64925,8 @@ buses = {
         ]
     },
     'B15路': {
-        "name": 'B15路',
-        "bid": '10801500',
+        'name': 'B15路',
+        'bid': '10801500',
         'starting_station': '锦城花园(东风东)总站①',
         'terminal_station': '吉山总站',
         'stations': [
@@ -64956,8 +64956,8 @@ buses = {
         ]
     },
     '17路': {
-        "name": '17路',
-        "bid": '10001701',
+        'name': '17路',
+        'bid': '10001701',
         'starting_station': '石井(广东科贸学院)总站',
         'terminal_station': '德星路(上下九步行街)总站',
         'stations': [
@@ -64993,8 +64993,8 @@ buses = {
         ]
     },
     '497路': {
-        "name": '497路',
-        "bid": '10049700',
+        'name': '497路',
+        'bid': '10049700',
         'starting_station': '渔沙坦(渔中路)总站',
         'terminal_station': '黄村总站',
         'stations': [
