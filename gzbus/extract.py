@@ -13,7 +13,7 @@ from pyquery import PyQuery as pq
 from .utils import clean_text as _
 
 
-ROUTINE_NAME_PATTERN = re.compile('(.*)\(')
+ROUTINE_NAME_PATTERN = re.compile('(.*?)\(')
 CURRENT_ROUTINE_PATTERN = re.compile('.*下一趟开往\[(.*)\]的.*\[(\d*)\]站.*')
 
 
@@ -47,7 +47,7 @@ def extract_current_routine(page, stations):
 
     waiting_station = _(page('.now .stateName').val())
     idx = stations_to_this_dir.index(waiting_station)
-    bus_station = stations_to_this_dir[idx - distance]
+    bus_station = stations_to_this_dir[idx - distance + 1]
 
     return {
         'destinate_station': terminal_station,
