@@ -2,23 +2,25 @@
 
 from setuptools import setup, find_packages
 
-import gzbus
+
+__version__ = '0.1.1'
+__author__ = 'hbc'
+__email__ = 'bcxxxxxx@gmail.com'
 
 
-README = open('README.md').read()
-CHANGES = open('CHANGES.md').read()
+README = 'Guangzhou bus routine realtime tracking.'
 
 
 setup(
     name='gzbus',
-    version=gzbus.__version__,
+    version=__version__,
 
-    author=gzbus.__author__,
-    author_email=gzbus.__email__,
+    author=__author__,
+    author_email=__email__,
     url='https://github.com/bcho/gzbus',
 
     description='Guangzhou bus routine realtime tracking.',
-    long_description='\n'.join((README, CHANGES)),
+    long_description='Guangzhou bus routine realtime tracking',
     license='MIT',
 
     packages=find_packages(exclude=['tests']),
